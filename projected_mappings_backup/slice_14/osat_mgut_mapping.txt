@@ -1,0 +1,736 @@
+A2X747	Phytozome_Mg:Migut.I00683 Phytozome_Mg:Migut.I00679
+A2Y626	Phytozome_Mg:Migut.N01866 Phytozome_Mg:Migut.N01865 Phytozome_Mg:Migut.N01864 Phytozome_Mg:Migut.N01863
+A2Y8A8	Phytozome_Mg:Migut.E01675 Phytozome_Mg:Migut.E01051
+A2ZW27	Phytozome_Mg:Migut.F01859
+A2ZWY7	Phytozome_Mg:Migut.A00123 Phytozome_Mg:Migut.A00238
+A3AAR2	Phytozome_Mg:Migut.C00979
+A3AC56	Phytozome_Mg:Migut.J01432
+A3AQC6	Phytozome_Mg:Migut.F01717
+A3AZW5	Phytozome_Mg:Migut.J00731
+A3B7R7	Phytozome_Mg:Migut.D00816 Phytozome_Mg:Migut.N00724
+A3B9A0	Phytozome_Mg:Migut.J00900
+B7E8M5	Phytozome_Mg:Migut.B01743
+B7EA04	Phytozome_Mg:Migut.M01998
+B7EJ81	Phytozome_Mg:Migut.D01611
+B7F4K3	Phytozome_Mg:Migut.J00988
+B7F8T0	Phytozome_Mg:Migut.C01187
+B7F956	Phytozome_Mg:Migut.K01191 Phytozome_Mg:Migut.K01193 Phytozome_Mg:Migut.O00176 Phytozome_Mg:Migut.M00573 Phytozome_Mg:Migut.O00177 Phytozome_Mg:Migut.D01710 Phytozome_Mg:Migut.O00175 Phytozome_Mg:Migut.O00174 Phytozome_Mg:Migut.D02013 Phytozome_Mg:Migut.D02012 Phytozome_Mg:Migut.D02015 Phytozome_Mg:Migut.D02014 Phytozome_Mg:Migut.O00173 Phytozome_Mg:Migut.D02020 Phytozome_Mg:Migut.O00178
+B7F9K3	Phytozome_Mg:Migut.J00988
+B7FA34	Phytozome_Mg:Migut.I00307 Phytozome_Mg:Migut.D01552
+B7FA90	Phytozome_Mg:Migut.K00231
+B7FAE9	Phytozome_Mg:Migut.E01452
+B7FAP2	Phytozome_Mg:Migut.M01763 Phytozome_Mg:Migut.G00803 Phytozome_Mg:Migut.G00802 Phytozome_Mg:Migut.G00805 Phytozome_Mg:Migut.G00804 Phytozome_Mg:Migut.N00429
+B8AHI9	Phytozome_Mg:Migut.N00707
+B8AZ97	Phytozome_Mg:Migut.D00838
+B8B8K7	Phytozome_Mg:Migut.I01131 Phytozome_Mg:Migut.D00911
+B8BB38	Phytozome_Mg:Migut.D01122
+B8BF84	Phytozome_Mg:Migut.E00494
+B9EXM2	Phytozome_Mg:Migut.N03234
+B9EZJ8	Phytozome_Mg:Migut.A00240
+B9F2Q1	Phytozome_Mg:Migut.N02573
+B9FML1	Phytozome_Mg:Migut.N00020 Phytozome_Mg:Migut.G00021
+B9FRT6	Phytozome_Mg:Migut.K00129
+B9FYX6	Phytozome_Mg:Migut.M01865
+B9G3A7	Phytozome_Mg:Migut.E00153 Phytozome_Mg:Migut.L01427
+C7J5F5	Phytozome_Mg:Migut.J00449 Phytozome_Mg:Migut.L01718
+C7J5T9	Phytozome_Mg:Migut.J00449 Phytozome_Mg:Migut.L01718
+H6TFZ4	Phytozome_Mg:Migut.D02053
+I1QJ08	Phytozome_Mg:Migut.K00333
+I1QQP8	Phytozome_Mg:Migut.I00003
+I3QK18	Phytozome_Mg:Migut.A01144
+O04226	Phytozome_Mg:Migut.F00741 Phytozome_Mg:Migut.F01286
+O04882	Phytozome_Mg:Migut.H01742
+O22105	Phytozome_Mg:Migut.N01273 Phytozome_Mg:Migut.B00185
+O22567	Phytozome_Mg:Migut.G00229
+O24174	Phytozome_Mg:Migut.D01906
+O24210	Phytozome_Mg:Migut.D00523 Phytozome_Mg:Migut.I00044
+O64422	Phytozome_Mg:Migut.J00245
+O64437	Phytozome_Mg:Migut.H02384
+O82427	Phytozome_Mg:Migut.B00053 Phytozome_Mg:Migut.N01335
+P0C0X5	Phytozome_Mg:Migut.J01639
+P0C132	Phytozome_Mg:Migut.D00373 Phytozome_Mg:Migut.N01915
+P0C587	Phytozome_Mg:Migut.N02831 Phytozome_Mg:Migut.B00512
+P0C5A4	Phytozome_Mg:Migut.I00802
+P0C5B2	Phytozome_Mg:Migut.B01668
+P14654	Phytozome_Mg:Migut.H02226 Phytozome_Mg:Migut.K00920
+P14655	Phytozome_Mg:Migut.N00140
+P14656	Phytozome_Mg:Migut.D01194
+P15280	Phytozome_Mg:Migut.M00521
+P16081	Phytozome_Mg:Migut.C01185
+P17784	Phytozome_Mg:Migut.L01757
+P18566	Phytozome_Mg:Migut.I00348 Phytozome_Mg:Migut.D01473 Phytozome_Mg:Migut.D01471
+P30298	Phytozome_Mg:Migut.J00882
+P31924	Phytozome_Mg:Migut.J00882
+P37833	Phytozome_Mg:Migut.E01514
+P42862	Phytozome_Mg:Migut.C00716
+P42863	Phytozome_Mg:Migut.C00716
+P48642	Phytozome_Mg:Migut.G00658 Phytozome_Mg:Migut.N00369
+P93438	Phytozome_Mg:Migut.B00863
+Q01KF3	Phytozome_Mg:Migut.J01255
+Q05JG2	Phytozome_Mg:Migut.E01376 Phytozome_Mg:Migut.A00521
+Q0D3B6	Phytozome_Mg:Migut.J00402 Phytozome_Mg:Migut.L01650
+Q0D7I3	Phytozome_Mg:Migut.J00613 Phytozome_Mg:Migut.B00222
+Q0D7J0	Phytozome_Mg:Migut.N00902
+Q0D7J3	Phytozome_Mg:Migut.N00902
+Q0D7W4	Phytozome_Mg:Migut.B01073
+Q0D8I9	Phytozome_Mg:Migut.J00540
+Q0D980	Phytozome_Mg:Migut.H01815
+Q0DA35	Phytozome_Mg:Migut.M00413
+Q0DAA4	Phytozome_Mg:Migut.M02001
+Q0DBD3	Phytozome_Mg:Migut.L01369 Phytozome_Mg:Migut.E00127
+Q0DBF4	Phytozome_Mg:Migut.C00648
+Q0DBN4	Phytozome_Mg:Migut.H02142
+Q0DCE9	Phytozome_Mg:Migut.G00315
+Q0DDS1	Phytozome_Mg:Migut.L01127
+Q0DEC8	Phytozome_Mg:Migut.F00206
+Q0DG35	Phytozome_Mg:Migut.F00228
+Q0DGG8	Phytozome_Mg:Migut.K00586 Phytozome_Mg:Migut.J00592
+Q0DJJ9	Phytozome_Mg:Migut.M01387
+Q0DKE8	Phytozome_Mg:Migut.D01989 Phytozome_Mg:Migut.O00136
+Q0DKP3	Phytozome_Mg:Migut.D00151 Phytozome_Mg:Migut.N01403
+Q0DKY4	Phytozome_Mg:Migut.B00863
+Q0DS76	Phytozome_Mg:Migut.H02557
+Q0DSM1	Phytozome_Mg:Migut.G00163 Phytozome_Mg:Migut.N00089
+Q0DV32	Phytozome_Mg:Migut.D02264
+Q0DWF2	Phytozome_Mg:Migut.G00572
+Q0DY86	Phytozome_Mg:Migut.L01374
+Q0DYK7	Phytozome_Mg:Migut.N01362
+Q0DZE0	Phytozome_Mg:Migut.L01685 Phytozome_Mg:Migut.J00542
+Q0E2P1	Phytozome_Mg:Migut.I01006 Phytozome_Mg:Migut.D00977
+Q0E3F2	Phytozome_Mg:Migut.J01462
+Q0E3J1	Phytozome_Mg:Migut.M02001
+Q0E4F0	Phytozome_Mg:Migut.B00187 Phytozome_Mg:Migut.B00186
+Q0E4N2	Phytozome_Mg:Migut.F00911
+Q0INY7	Phytozome_Mg:Migut.I00348 Phytozome_Mg:Migut.D01473 Phytozome_Mg:Migut.D01471
+Q0INZ4	Phytozome_Mg:Migut.H02035 Phytozome_Mg:Migut.M00682
+Q0IPE5	Phytozome_Mg:Migut.H01658
+Q0IQQ5	Phytozome_Mg:Migut.J00100
+Q0IRE6	Phytozome_Mg:Migut.F01584
+Q0ISY7	Phytozome_Mg:Migut.N00902
+Q0ITU1	Phytozome_Mg:Migut.L01574
+Q0IZS0	Phytozome_Mg:Migut.L00987
+Q0IZX5	Phytozome_Mg:Migut.N03187 Phytozome_Mg:Migut.C00903
+Q0J0L4	Phytozome_Mg:Migut.F00074
+Q0J0M8	Phytozome_Mg:Migut.N02990 Phytozome_Mg:Migut.N01365 Phytozome_Mg:Migut.C00353
+Q0J185	Phytozome_Mg:Migut.C00577
+Q0J1C1	Phytozome_Mg:Migut.H01595 Phytozome_Mg:Migut.M01363
+Q0J1E1	Phytozome_Mg:Migut.N02273
+Q0J7U6	Phytozome_Mg:Migut.E01334 Phytozome_Mg:Migut.A00578
+Q0J951	Phytozome_Mg:Migut.K01158
+Q0J9K2	Phytozome_Mg:Migut.I00744
+Q0J9Z0	Phytozome_Mg:Migut.M01321
+Q0JA82	Phytozome_Mg:Migut.M01506
+Q0JA83	Phytozome_Mg:Migut.M01506
+Q0JAI1	Phytozome_Mg:Migut.I00669
+Q0JB49	Phytozome_Mg:Migut.E01102
+Q0JB91	Phytozome_Mg:Migut.F01192
+Q0JB99	Phytozome_Mg:Migut.F00528 Phytozome_Mg:Migut.O00367
+Q0JC10	Phytozome_Mg:Migut.H00558 Phytozome_Mg:Migut.L01128
+Q0JCU7	Phytozome_Mg:Migut.H00431
+Q0JCZ4	Phytozome_Mg:Migut.B00723
+Q0JDD2	Phytozome_Mg:Migut.L01784 Phytozome_Mg:Migut.J01029
+Q0JDF7	Phytozome_Mg:Migut.N02513
+Q0JDT1	Phytozome_Mg:Migut.F02066
+Q0JEK1	Phytozome_Mg:Migut.N00657 Phytozome_Mg:Migut.D02471
+Q0JEP5	Phytozome_Mg:Migut.F01958
+Q0JEZ8	Phytozome_Mg:Migut.M01506
+Q0JF25	Phytozome_Mg:Migut.N00163 Phytozome_Mg:Migut.N00164 Phytozome_Mg:Migut.N00167
+Q0JF26	Phytozome_Mg:Migut.N00163 Phytozome_Mg:Migut.N00164 Phytozome_Mg:Migut.N00167
+Q0JF30	Phytozome_Mg:Migut.N00253 Phytozome_Mg:Migut.G00454
+Q0JGK4	Phytozome_Mg:Migut.G00726
+Q0JJI1	Phytozome_Mg:Migut.H00120
+Q0JK57	Phytozome_Mg:Migut.I00307 Phytozome_Mg:Migut.D01552
+Q0JKD0	Phytozome_Mg:Migut.F00228
+Q0JKI9	Phytozome_Mg:Migut.M01096
+Q0JKY8	Phytozome_Mg:Migut.H00113 Phytozome_Mg:Migut.E00162 Phytozome_Mg:Migut.L01417
+Q0JPT4	Phytozome_Mg:Migut.M00997
+Q0JRG4	Phytozome_Mg:Migut.F00029
+Q109F2	Phytozome_Mg:Migut.H02485 Phytozome_Mg:Migut.L00034
+Q109K4	Phytozome_Mg:Migut.I00194 Phytozome_Mg:Migut.M01210
+Q10A30	Phytozome_Mg:Migut.L01757
+Q10A97	Phytozome_Mg:Migut.D00420 Phytozome_Mg:Migut.G00543 Phytozome_Mg:Migut.N00264
+Q10BT5	Phytozome_Mg:Migut.N01654 Phytozome_Mg:Migut.B01410
+Q10BX9	Phytozome_Mg:Migut.L00869
+Q10CE4	Phytozome_Mg:Migut.M00661
+Q10CH5	Phytozome_Mg:Migut.M00105
+Q10CQ1	Phytozome_Mg:Migut.E00037
+Q10CS9	Phytozome_Mg:Migut.M01940
+Q10D68	Phytozome_Mg:Migut.H00289
+Q10D87	Phytozome_Mg:Migut.N00697 Phytozome_Mg:Migut.D00782
+Q10DK7	Phytozome_Mg:Migut.H00318 Phytozome_Mg:Migut.L00433
+Q10DU0	Phytozome_Mg:Migut.N00986 Phytozome_Mg:Migut.B00907
+Q10DZ5	Phytozome_Mg:Migut.L01735 Phytozome_Mg:Migut.J00482
+Q10E50	Phytozome_Mg:Migut.L01908
+Q10EG4	Phytozome_Mg:Migut.J00540
+Q10FE9	Phytozome_Mg:Migut.H02299
+Q10G56	Phytozome_Mg:Migut.M00893
+Q10HZ6	Phytozome_Mg:Migut.N00163 Phytozome_Mg:Migut.N00164 Phytozome_Mg:Migut.N00167
+Q10J20	Phytozome_Mg:Migut.H00375 Phytozome_Mg:Migut.H00378
+Q10L56	Phytozome_Mg:Migut.N02156
+Q10LP5	Phytozome_Mg:Migut.D00135
+Q10LR4	Phytozome_Mg:Migut.J00072
+Q10LR5	Phytozome_Mg:Migut.D00123
+Q10MB0	Phytozome_Mg:Migut.E00169 Phytozome_Mg:Migut.L01457
+Q10MG9	Phytozome_Mg:Migut.N00041
+Q10MK5	Phytozome_Mg:Migut.N01596
+Q10MQ2	Phytozome_Mg:Migut.B00498
+Q10MW3	Phytozome_Mg:Migut.J00132
+Q10MX9	Phytozome_Mg:Migut.F00692 Phytozome_Mg:Migut.F01392
+Q10N17	Phytozome_Mg:Migut.D02175
+Q10N34	Phytozome_Mg:Migut.J00402 Phytozome_Mg:Migut.L01650
+Q10NY1	Phytozome_Mg:Migut.F01774 Phytozome_Mg:Migut.F01773
+Q10NY2	Phytozome_Mg:Migut.I00737
+Q10P02	Phytozome_Mg:Migut.B00582
+Q10P71	Phytozome_Mg:Migut.N01303 Phytozome_Mg:Migut.B00100
+Q10PY7	Phytozome_Mg:Migut.B01295
+Q10QA5	Phytozome_Mg:Migut.O00825 Phytozome_Mg:Migut.N02779
+Q10QN3	Phytozome_Mg:Migut.B00584 Phytozome_Mg:Migut.B01155
+Q10QR9	Phytozome_Mg:Migut.O00512 Phytozome_Mg:Migut.C00604
+Q10RP2	Phytozome_Mg:Migut.F01970
+Q10S55	Phytozome_Mg:Migut.N00833 Phytozome_Mg:Migut.B00789
+Q10S72	Phytozome_Mg:Migut.C00928
+Q10SD6	Phytozome_Mg:Migut.H00094 Phytozome_Mg:Migut.O00115
+Q10SL7	Phytozome_Mg:Migut.F00375
+Q10SM6	Phytozome_Mg:Migut.B01743
+Q10SP1	Phytozome_Mg:Migut.N01531
+Q10SU1	Phytozome_Mg:Migut.F01300
+Q25AR2	Phytozome_Mg:Migut.N00183
+Q2KNB4	Phytozome_Mg:Migut.D00635
+Q2QLJ0	Phytozome_Mg:Migut.B01292
+Q2QLY5	Phytozome_Mg:Migut.L01866 Phytozome_Mg:Migut.J00765
+Q2QLY6	Phytozome_Mg:Migut.F01051
+Q2QM47	Phytozome_Mg:Migut.D02384 Phytozome_Mg:Migut.N02438
+Q2QMD4	Phytozome_Mg:Migut.H01671
+Q2QME6	Phytozome_Mg:Migut.D00332
+Q2QMK8	Phytozome_Mg:Migut.H00866
+Q2QN06	Phytozome_Mg:Migut.N02772 Phytozome_Mg:Migut.C00493
+Q2QN88	Phytozome_Mg:Migut.L01183
+Q2QNF7	Phytozome_Mg:Migut.L01624 Phytozome_Mg:Migut.J00372
+Q2QNS6	Phytozome_Mg:Migut.D00114
+Q2QPI2	Phytozome_Mg:Migut.F01584
+Q2QQJ5	Phytozome_Mg:Migut.M01506
+Q2QQX6	Phytozome_Mg:Migut.D01190 Phytozome_Mg:Migut.I00613
+Q2QRX6	Phytozome_Mg:Migut.N00482
+Q2QS13	Phytozome_Mg:Migut.H00642 Phytozome_Mg:Migut.K01285
+Q2QS14	Phytozome_Mg:Migut.H00642 Phytozome_Mg:Migut.K01285
+Q2QT32	Phytozome_Mg:Migut.N00420 Phytozome_Mg:Migut.G00772
+Q2QTJ1	Phytozome_Mg:Migut.I00348 Phytozome_Mg:Migut.D01473 Phytozome_Mg:Migut.D01471
+Q2QTQ1	Phytozome_Mg:Migut.I00341
+Q2QUG4	Phytozome_Mg:Migut.N01698
+Q2QVC1	Phytozome_Mg:Migut.D00060 Phytozome_Mg:Migut.N00934
+Q2QWK9	Phytozome_Mg:Migut.B00813
+Q2QWV7	Phytozome_Mg:Migut.C01187
+Q2QX58	Phytozome_Mg:Migut.C01124
+Q2QXL0	Phytozome_Mg:Migut.L02052
+Q2QXY1	Phytozome_Mg:Migut.J01682
+Q2QXY9	Phytozome_Mg:Migut.G01068
+Q2QXZ1	Phytozome_Mg:Migut.J01667
+Q2QY63	Phytozome_Mg:Migut.B01266
+Q2QYB7	Phytozome_Mg:Migut.N02415
+Q2QZ14	Phytozome_Mg:Migut.D00873
+Q2R1G8	Phytozome_Mg:Migut.L00107
+Q2R1L4	Phytozome_Mg:Migut.H00220 Phytozome_Mg:Migut.L00324
+Q2R2Q2	Phytozome_Mg:Migut.M00158
+Q2R2W1	Phytozome_Mg:Migut.E00487
+Q2R339	Phytozome_Mg:Migut.O00475 Phytozome_Mg:Migut.N01657
+Q2R3A1	Phytozome_Mg:Migut.G00627 Phytozome_Mg:Migut.G00629 Phytozome_Mg:Migut.G00628
+Q2R3F5	Phytozome_Mg:Migut.D01190 Phytozome_Mg:Migut.I00613
+Q2R3K3	Phytozome_Mg:Migut.D01228
+Q2R481	Phytozome_Mg:Migut.N00482
+Q2R8T7	Phytozome_Mg:Migut.K01411
+Q2RAP0	Phytozome_Mg:Migut.J01682
+Q2RAP4	Phytozome_Mg:Migut.F00677
+Q2RAP8	Phytozome_Mg:Migut.G01068
+Q2RAP9	Phytozome_Mg:Migut.J01667
+Q2RAY0	Phytozome_Mg:Migut.B01266
+Q2RB02	Phytozome_Mg:Migut.N00093 Phytozome_Mg:Migut.N00198 Phytozome_Mg:Migut.N00121 Phytozome_Mg:Migut.N00062 Phytozome_Mg:Migut.N00063 Phytozome_Mg:Migut.N00109
+Q2RB23	Phytozome_Mg:Migut.N02415
+Q2RBP2	Phytozome_Mg:Migut.F00688
+Q336M7	Phytozome_Mg:Migut.A00583
+Q336N7	Phytozome_Mg:Migut.A01172
+Q336P5	Phytozome_Mg:Migut.E00934
+Q336R6	Phytozome_Mg:Migut.B01502 Phytozome_Mg:Migut.N01722
+Q336U3	Phytozome_Mg:Migut.K00871 Phytozome_Mg:Migut.H00556
+Q336V3	Phytozome_Mg:Migut.J00470
+Q337F0	Phytozome_Mg:Migut.B01710
+Q337F3	Phytozome_Mg:Migut.F01300
+Q338J0	Phytozome_Mg:Migut.M01868 Phytozome_Mg:Migut.M01894
+Q338Z4	Phytozome_Mg:Migut.I00061
+Q339V1	Phytozome_Mg:Migut.N01997
+Q33AE4	Phytozome_Mg:Migut.F01162
+Q40710	Phytozome_Mg:Migut.E00169 Phytozome_Mg:Migut.L01457
+Q42971	Phytozome_Mg:Migut.J00994
+Q42982	Phytozome_Mg:Migut.F00095 Phytozome_Mg:Migut.F00944
+Q43007	Phytozome_Mg:Migut.I00777 Phytozome_Mg:Migut.D01066
+Q43009	Phytozome_Mg:Migut.J00882
+Q43011	Phytozome_Mg:Migut.N00774
+Q53JI9	Phytozome_Mg:Migut.C01396
+Q53L28	Phytozome_Mg:Migut.G00852 Phytozome_Mg:Migut.N03047
+Q53MS9	Phytozome_Mg:Migut.A00695
+Q53Q70	Phytozome_Mg:Migut.L02052
+Q53QJ0	Phytozome_Mg:Migut.N02308
+Q53RH0	Phytozome_Mg:Migut.M00655
+Q5CCK1	Phytozome_Mg:Migut.F00677
+Q5CCK3	Phytozome_Mg:Migut.H00997
+Q5JK39	Phytozome_Mg:Migut.D01228
+Q5JLS4	Phytozome_Mg:Migut.N00236 Phytozome_Mg:Migut.G00424 Phytozome_Mg:Migut.O00723
+Q5JMA1	Phytozome_Mg:Migut.M00941
+Q5JMA6	Phytozome_Mg:Migut.J00593
+Q5JMB6	Phytozome_Mg:Migut.M01931
+Q5JMC7	Phytozome_Mg:Migut.H02447
+Q5JMM6	Phytozome_Mg:Migut.M00767
+Q5JMX5	Phytozome_Mg:Migut.F00824
+Q5JMX9	Phytozome_Mg:Migut.M00557
+Q5JN19	Phytozome_Mg:Migut.K01296 Phytozome_Mg:Migut.H00667
+Q5JN63	Phytozome_Mg:Migut.M01014
+Q5JNB0	Phytozome_Mg:Migut.N03058
+Q5MBR3	Phytozome_Mg:Migut.M00656 Phytozome_Mg:Migut.H02072
+Q5MBR5	Phytozome_Mg:Migut.M00656 Phytozome_Mg:Migut.H02072
+Q5N725	Phytozome_Mg:Migut.L01757
+Q5N7L0	Phytozome_Mg:Migut.L01058 Phytozome_Mg:Migut.E00350
+Q5N7Z8	Phytozome_Mg:Migut.K01191 Phytozome_Mg:Migut.K01193 Phytozome_Mg:Migut.O00176 Phytozome_Mg:Migut.M00573 Phytozome_Mg:Migut.O00177 Phytozome_Mg:Migut.D01710 Phytozome_Mg:Migut.O00175 Phytozome_Mg:Migut.O00174 Phytozome_Mg:Migut.D02013 Phytozome_Mg:Migut.D02012 Phytozome_Mg:Migut.D02015 Phytozome_Mg:Migut.D02014 Phytozome_Mg:Migut.O00173 Phytozome_Mg:Migut.D02020 Phytozome_Mg:Migut.O00178
+Q5N892	Phytozome_Mg:Migut.J00188 Phytozome_Mg:Migut.O00906 Phytozome_Mg:Migut.J00185
+Q5N8G1	Phytozome_Mg:Migut.B00706
+Q5N9N2	Phytozome_Mg:Migut.F00751 Phytozome_Mg:Migut.F01274
+Q5N9Z8	Phytozome_Mg:Migut.L00103 Phytozome_Mg:Migut.H02387
+Q5NA81	Phytozome_Mg:Migut.M00153
+Q5NAY4	Phytozome_Mg:Migut.B01142
+Q5NB25	Phytozome_Mg:Migut.H00298 Phytozome_Mg:Migut.L00447
+Q5NBQ1	Phytozome_Mg:Migut.D01934
+Q5NTH3	Phytozome_Mg:Migut.H02438
+Q5NTH4	Phytozome_Mg:Migut.H02438
+Q5QN02	Phytozome_Mg:Migut.F01579
+Q5SMQ9	Phytozome_Mg:Migut.D01545
+Q5SMY2	Phytozome_Mg:Migut.A00127
+Q5SND7	Phytozome_Mg:Migut.K00534
+Q5U9F2	Phytozome_Mg:Migut.C00979
+Q5VMP0	Phytozome_Mg:Migut.M00265
+Q5VN31	Phytozome_Mg:Migut.H01807
+Q5VNW0	Phytozome_Mg:Migut.B01621
+Q5VP70	Phytozome_Mg:Migut.L00994 Phytozome_Mg:Migut.E00429
+Q5VPH2	Phytozome_Mg:Migut.H01145
+Q5VQG4	Phytozome_Mg:Migut.H00086 Phytozome_Mg:Migut.K01390
+Q5VQG8	Phytozome_Mg:Migut.D01989 Phytozome_Mg:Migut.O00136
+Q5VRM7	Phytozome_Mg:Migut.B01461 Phytozome_Mg:Migut.N01701
+Q5VSB8	Phytozome_Mg:Migut.A00305
+Q5W670	Phytozome_Mg:Migut.I00893
+Q5W6F1	Phytozome_Mg:Migut.D00816 Phytozome_Mg:Migut.N00724
+Q5W6F9	Phytozome_Mg:Migut.J00443 Phytozome_Mg:Migut.K00579
+Q5W6H5	Phytozome_Mg:Migut.J00141
+Q5W6W7	Phytozome_Mg:Migut.H01281
+Q5WMV3	Phytozome_Mg:Migut.F01222
+Q5XLJ2	Phytozome_Mg:Migut.O00475 Phytozome_Mg:Migut.N01657
+Q5Z5B7	Phytozome_Mg:Migut.K00976
+Q5Z5R4	Phytozome_Mg:Migut.C00648
+Q5Z5R7	Phytozome_Mg:Migut.C00648
+Q5Z678	Phytozome_Mg:Migut.C01122 Phytozome_Mg:Migut.N03278
+Q5Z6D3	Phytozome_Mg:Migut.G00315
+Q5Z6E5	Phytozome_Mg:Migut.G00645
+Q5Z749	Phytozome_Mg:Migut.I00931
+Q5Z807	Phytozome_Mg:Migut.L01609
+Q5Z856	Phytozome_Mg:Migut.F01772
+Q5Z8K3	Phytozome_Mg:Migut.J01502 Phytozome_Mg:Migut.K00230
+Q5Z8S0	Phytozome_Mg:Migut.A00141
+Q5Z8T3	Phytozome_Mg:Migut.J01074 Phytozome_Mg:Migut.J01073 Phytozome_Mg:Migut.I00968 Phytozome_Mg:Migut.K00564
+Q5Z8V9	Phytozome_Mg:Migut.C01121
+Q5Z8Y4	Phytozome_Mg:Migut.C01079
+Q5Z8Z7	Phytozome_Mg:Migut.I01006 Phytozome_Mg:Migut.D00977
+Q5ZCV1	Phytozome_Mg:Migut.L00292
+Q5ZED1	Phytozome_Mg:Migut.F01507
+Q5ZEL4	Phytozome_Mg:Migut.J00147
+Q60EX6	Phytozome_Mg:Migut.N02123
+Q64MA9	Phytozome_Mg:Migut.A00913
+Q651F0	Phytozome_Mg:Migut.C00533
+Q652A8	Phytozome_Mg:Migut.E01129
+Q652S1	Phytozome_Mg:Migut.I00270
+Q653D9	Phytozome_Mg:Migut.L01853
+Q653F4	Phytozome_Mg:Migut.L00178 Phytozome_Mg:Migut.H00405
+Q653H7	Phytozome_Mg:Migut.J00534
+Q653T6	Phytozome_Mg:Migut.G00061
+Q653U3	Phytozome_Mg:Migut.M01862
+Q655T1	Phytozome_Mg:Migut.H01669
+Q655W2	Phytozome_Mg:Migut.M01518 Phytozome_Mg:Migut.H01664
+Q655Y9	Phytozome_Mg:Migut.N01099
+Q656F1	Phytozome_Mg:Migut.K00275
+Q657X7	Phytozome_Mg:Migut.E01655 Phytozome_Mg:Migut.E00839 Phytozome_Mg:Migut.A01128
+Q65X14	Phytozome_Mg:Migut.M00981
+Q65XK0	Phytozome_Mg:Migut.F01859
+Q65XM9	Phytozome_Mg:Migut.H01742
+Q67J16	Phytozome_Mg:Migut.B00335
+Q67UL3	Phytozome_Mg:Migut.D01545
+Q67UX0	Phytozome_Mg:Migut.J01502 Phytozome_Mg:Migut.K00230
+Q67VM1	Phytozome_Mg:Migut.H00553
+Q67VR7	Phytozome_Mg:Migut.E01023
+Q67W29	Phytozome_Mg:Migut.M00539 Phytozome_Mg:Migut.M01184
+Q67W82	Phytozome_Mg:Migut.I00644 Phytozome_Mg:Migut.D01162
+Q67WR2	Phytozome_Mg:Migut.J01400
+Q688L9	Phytozome_Mg:Migut.J00443 Phytozome_Mg:Migut.K00579
+Q688Q8	Phytozome_Mg:Migut.D01092
+Q688Q9	Phytozome_Mg:Migut.A00769
+Q688Y2	Phytozome_Mg:Migut.M00813
+Q689G6	Phytozome_Mg:Migut.F00987 Phytozome_Mg:Migut.F00152
+Q689G9	Phytozome_Mg:Migut.D01764 Phytozome_Mg:Migut.I00209
+Q69IM7	Phytozome_Mg:Migut.G00958
+Q69J27	Phytozome_Mg:Migut.L00727 Phytozome_Mg:Migut.E00156
+Q69K00	Phytozome_Mg:Migut.B00166
+Q69KM5	Phytozome_Mg:Migut.K00286 Phytozome_Mg:Migut.J01406
+Q69L93	Phytozome_Mg:Migut.D00873
+Q69LG7	Phytozome_Mg:Migut.C01380
+Q69MC9	Phytozome_Mg:Migut.B00559
+Q69MH0	Phytozome_Mg:Migut.H00212
+Q69NY7	Phytozome_Mg:Migut.M00900
+Q69P51	Phytozome_Mg:Migut.J01374
+Q69QD7	Phytozome_Mg:Migut.J01173
+Q69RJ0	Phytozome_Mg:Migut.J01662
+Q69T90	Phytozome_Mg:Migut.B00004
+Q69TF4	Phytozome_Mg:Migut.N00872 Phytozome_Mg:Migut.C01237
+Q69TT1	Phytozome_Mg:Migut.E00441
+Q69TV4	Phytozome_Mg:Migut.I00203
+Q69TV6	Phytozome_Mg:Migut.I00203
+Q69TW5	Phytozome_Mg:Migut.B00355
+Q69U93	Phytozome_Mg:Migut.N03069
+Q69UU3	Phytozome_Mg:Migut.L01482
+Q69V57	Phytozome_Mg:Migut.M01618
+Q69XD3	Phytozome_Mg:Migut.M01763 Phytozome_Mg:Migut.G00803 Phytozome_Mg:Migut.G00802 Phytozome_Mg:Migut.G00805 Phytozome_Mg:Migut.G00804 Phytozome_Mg:Migut.N00429
+Q69XS7	Phytozome_Mg:Migut.C00750
+Q6AT26	Phytozome_Mg:Migut.E01791
+Q6AT41	Phytozome_Mg:Migut.K00515
+Q6AT43	Phytozome_Mg:Migut.H00317
+Q6ATR2	Phytozome_Mg:Migut.D00273 Phytozome_Mg:Migut.N00150
+Q6AUB0	Phytozome_Mg:Migut.F01872
+Q6AV34	Phytozome_Mg:Migut.B00304
+Q6AVG6	Phytozome_Mg:Migut.B00274 Phytozome_Mg:Migut.B00272
+Q6AVM5	Phytozome_Mg:Migut.K00199 Phytozome_Mg:Migut.J01594
+Q6AVT2	Phytozome_Mg:Migut.G00309
+Q6BDZ9	Phytozome_Mg:Migut.M01506
+Q6EN48	Phytozome_Mg:Migut.F00231
+Q6EP31	Phytozome_Mg:Migut.L00971
+Q6EP77	Phytozome_Mg:Migut.F00382 Phytozome_Mg:Migut.A00920 Phytozome_Mg:Migut.F01148 Phytozome_Mg:Migut.F01149 Phytozome_Mg:Migut.F01147 Phytozome_Mg:Migut.F01151 Phytozome_Mg:Migut.F01150
+Q6EPN6	Phytozome_Mg:Migut.A00721
+Q6EPY7	Phytozome_Mg:Migut.L01784 Phytozome_Mg:Migut.J01029
+Q6EQW2	Phytozome_Mg:Migut.H02033
+Q6ERL4	Phytozome_Mg:Migut.H00312
+Q6ERR3	Phytozome_Mg:Migut.D01122
+Q6ES51	Phytozome_Mg:Migut.D02043 Phytozome_Mg:Migut.O00230
+Q6ESJ0	Phytozome_Mg:Migut.E01102
+Q6ESZ9	Phytozome_Mg:Migut.C01009
+Q6ET36	Phytozome_Mg:Migut.N02050 Phytozome_Mg:Migut.N02048 Phytozome_Mg:Migut.D00306 Phytozome_Mg:Migut.N02049
+Q6ET88	Phytozome_Mg:Migut.N01338
+Q6ETD3	Phytozome_Mg:Migut.E01674 Phytozome_Mg:Migut.E01049 Phytozome_Mg:Migut.F00467
+Q6ETN3	Phytozome_Mg:Migut.I00644 Phytozome_Mg:Migut.D01162
+Q6ETX4	Phytozome_Mg:Migut.F00691
+Q6EUP4	Phytozome_Mg:Migut.L00306
+Q6EUS6	Phytozome_Mg:Migut.H02142
+Q6F361	Phytozome_Mg:Migut.H01978
+Q6F4N6	Phytozome_Mg:Migut.H00558 Phytozome_Mg:Migut.L01128
+Q6H4V1	Phytozome_Mg:Migut.M00071
+Q6H543	Phytozome_Mg:Migut.D00989
+Q6H5C7	Phytozome_Mg:Migut.H00220 Phytozome_Mg:Migut.L00324
+Q6H5Z4	Phytozome_Mg:Migut.A00141
+Q6H6C7	Phytozome_Mg:Migut.H01669
+Q6H6D2	Phytozome_Mg:Migut.H01689 Phytozome_Mg:Migut.M01552
+Q6H6G1	Phytozome_Mg:Migut.F01615 Phytozome_Mg:Migut.H01099
+Q6H6I1	Phytozome_Mg:Migut.A01125
+Q6H6P8	Phytozome_Mg:Migut.J00975
+Q6H703	Phytozome_Mg:Migut.M01518 Phytozome_Mg:Migut.H01664
+Q6H7Q6	Phytozome_Mg:Migut.D00556 Phytozome_Mg:Migut.D00557 Phytozome_Mg:Migut.D00554 Phytozome_Mg:Migut.D00555 Phytozome_Mg:Migut.D00552 Phytozome_Mg:Migut.D00553
+Q6H819	Phytozome_Mg:Migut.A00337
+Q6H849	Phytozome_Mg:Migut.D02426
+Q6I581	Phytozome_Mg:Migut.B01840 Phytozome_Mg:Migut.N01563
+Q6K2E8	Phytozome_Mg:Migut.I00533 Phytozome_Mg:Migut.D01268
+Q6K3T2	Phytozome_Mg:Migut.H01364 Phytozome_Mg:Migut.M00913
+Q6K3Z3	Phytozome_Mg:Migut.M00052 Phytozome_Mg:Migut.M01447
+Q6K548	Phytozome_Mg:Migut.I00129 Phytozome_Mg:Migut.I00130
+Q6K5G8	Phytozome_Mg:Migut.I00488
+Q6K6Q0	Phytozome_Mg:Migut.L01685 Phytozome_Mg:Migut.J00542
+Q6K6Q1	Phytozome_Mg:Migut.L01685 Phytozome_Mg:Migut.J00542
+Q6K7V6	Phytozome_Mg:Migut.A00220
+Q6K8E7	Phytozome_Mg:Migut.B00582
+Q6K8J4	Phytozome_Mg:Migut.N02606
+Q6K969	Phytozome_Mg:Migut.N00847
+Q6K973	Phytozome_Mg:Migut.D02053
+Q6K9B8	Phytozome_Mg:Migut.H00558 Phytozome_Mg:Migut.L01128
+Q6K9M5	Phytozome_Mg:Migut.K00286 Phytozome_Mg:Migut.J01406
+Q6K9N6	Phytozome_Mg:Migut.N02218 Phytozome_Mg:Migut.D00454
+Q6KAJ2	Phytozome_Mg:Migut.A00003
+Q6L479	Phytozome_Mg:Migut.N00069
+Q6L4G2	Phytozome_Mg:Migut.L01058 Phytozome_Mg:Migut.E00350
+Q6L4H5	Phytozome_Mg:Migut.I01056
+Q6L4L4	Phytozome_Mg:Migut.D02194 Phytozome_Mg:Migut.N02613
+Q6L4R0	Phytozome_Mg:Migut.I01018
+Q6L4R7	Phytozome_Mg:Migut.A00106
+Q6L545	Phytozome_Mg:Migut.D00244 Phytozome_Mg:Migut.N02128
+Q6Q9I2	Phytozome_Mg:Migut.E00037
+Q6YPG5	Phytozome_Mg:Migut.F00481
+Q6YS33	Phytozome_Mg:Migut.K01483
+Q6YSA1	Phytozome_Mg:Migut.D01203
+Q6YT73	Phytozome_Mg:Migut.M00661
+Q6YTI6	Phytozome_Mg:Migut.C01199 Phytozome_Mg:Migut.N03324
+Q6YU51	Phytozome_Mg:Migut.H02280
+Q6YUS0	Phytozome_Mg:Migut.B00003
+Q6YUU2	Phytozome_Mg:Migut.J01681
+Q6YV23	Phytozome_Mg:Migut.H01123
+Q6YVI0	Phytozome_Mg:Migut.M00916
+Q6YVY0	Phytozome_Mg:Migut.B00723
+Q6YWE1	Phytozome_Mg:Migut.D00273 Phytozome_Mg:Migut.N00150
+Q6YXI1	Phytozome_Mg:Migut.N02863
+Q6YXW6	Phytozome_Mg:Migut.J00731
+Q6YYB9	Phytozome_Mg:Migut.M01790 Phytozome_Mg:Migut.H01846
+Q6YYZ2	Phytozome_Mg:Migut.A00583
+Q6YZ76	Phytozome_Mg:Migut.J00449 Phytozome_Mg:Migut.L01718
+Q6YZE2	Phytozome_Mg:Migut.E00706
+Q6YZH8	Phytozome_Mg:Migut.N00344
+Q6YZX6	Phytozome_Mg:Migut.M01755
+Q6Z0T7	Phytozome_Mg:Migut.L01853
+Q6Z2L5	Phytozome_Mg:Migut.B01468
+Q6Z2T6	Phytozome_Mg:Migut.I00184
+Q6Z312	Phytozome_Mg:Migut.B00355
+Q6Z351	Phytozome_Mg:Migut.D00723 Phytozome_Mg:Migut.D00722
+Q6Z368	Phytozome_Mg:Migut.N01273 Phytozome_Mg:Migut.B00185
+Q6Z3A3	Phytozome_Mg:Migut.A00769
+Q6Z3F9	Phytozome_Mg:Migut.B00021
+Q6Z3X5	Phytozome_Mg:Migut.N01857 Phytozome_Mg:Migut.B01245
+Q6Z3Y3	Phytozome_Mg:Migut.D02175
+Q6Z433	Phytozome_Mg:Migut.I01184
+Q6Z4E7	Phytozome_Mg:Migut.J00488
+Q6Z4I1	Phytozome_Mg:Migut.B00208
+Q6Z5M3	Phytozome_Mg:Migut.L00420 Phytozome_Mg:Migut.H00337
+Q6Z684	Phytozome_Mg:Migut.F00716 Phytozome_Mg:Migut.F01467 Phytozome_Mg:Migut.F00713 Phytozome_Mg:Migut.F00719
+Q6Z702	Phytozome_Mg:Migut.G00571
+Q6Z744	Phytozome_Mg:Migut.D01219
+Q6Z795	Phytozome_Mg:Migut.K00447 Phytozome_Mg:Migut.E01799 Phytozome_Mg:Migut.A00045
+Q6Z7Q3	Phytozome_Mg:Migut.I00203
+Q6Z836	Phytozome_Mg:Migut.H00116
+Q6Z8F4	Phytozome_Mg:Migut.E01330
+Q6Z8Z7	Phytozome_Mg:Migut.M00434
+Q6Z965	Phytozome_Mg:Migut.J00934
+Q6Z9A3	Phytozome_Mg:Migut.F00743
+Q6Z9E6	Phytozome_Mg:Migut.A00337
+Q6ZAH2	Phytozome_Mg:Migut.I00018
+Q6ZBH5	Phytozome_Mg:Migut.A00913
+Q6ZC33	Phytozome_Mg:Migut.C01185
+Q6ZC70	Phytozome_Mg:Migut.H00794
+Q6ZCF0	Phytozome_Mg:Migut.M00096
+Q6ZD10	Phytozome_Mg:Migut.C01380
+Q6ZD89	Phytozome_Mg:Migut.F00144
+Q6ZDQ1	Phytozome_Mg:Migut.E00912 Phytozome_Mg:Migut.E00798
+Q6ZDY8	Phytozome_Mg:Migut.L00517
+Q6ZEZ2	Phytozome_Mg:Migut.N03150
+Q6ZFT5	Phytozome_Mg:Migut.M00498
+Q6ZG77	Phytozome_Mg:Migut.N01253
+Q6ZG91	Phytozome_Mg:Migut.E00194
+Q6ZGS9	Phytozome_Mg:Migut.E00931
+Q6ZGW6	Phytozome_Mg:Migut.D00543 Phytozome_Mg:Migut.J01830
+Q6ZHA3	Phytozome_Mg:Migut.H02179
+Q6ZHH7	Phytozome_Mg:Migut.C01185
+Q6ZHS4	Phytozome_Mg:Migut.B00391
+Q6ZHZ1	Phytozome_Mg:Migut.J01204
+Q6ZI55	Phytozome_Mg:Migut.N01351
+Q6ZIA3	Phytozome_Mg:Migut.F00074
+Q6ZIK0	Phytozome_Mg:Migut.J00551
+Q6ZIX2	Phytozome_Mg:Migut.B01280
+Q6ZJ97	Phytozome_Mg:Migut.M01998
+Q6ZJU3	Phytozome_Mg:Migut.E00464
+Q6ZK11	Phytozome_Mg:Migut.M01387
+Q6ZKC0	Phytozome_Mg:Migut.L00306
+Q6ZKV8	Phytozome_Mg:Migut.J01457
+Q6ZL61	Phytozome_Mg:Migut.D00368
+Q6ZL94	Phytozome_Mg:Migut.F00794
+Q6ZLD3	Phytozome_Mg:Migut.D00349
+Q6ZLJ9	Phytozome_Mg:Migut.J01768 Phytozome_Mg:Migut.K00079
+Q75GB1	Phytozome_Mg:Migut.H00298 Phytozome_Mg:Migut.L00447
+Q75GK0	Phytozome_Mg:Migut.D00373 Phytozome_Mg:Migut.N01915
+Q75H77	Phytozome_Mg:Migut.B00305
+Q75HP7	Phytozome_Mg:Migut.B00818 Phytozome_Mg:Migut.N01048
+Q75HQ7	Phytozome_Mg:Migut.L01685 Phytozome_Mg:Migut.J00542
+Q75HZ9	Phytozome_Mg:Migut.H02035 Phytozome_Mg:Migut.M00682
+Q75II5	Phytozome_Mg:Migut.H02009 Phytozome_Mg:Migut.M00712
+Q75KD7	Phytozome_Mg:Migut.E00308
+Q75KT7	Phytozome_Mg:Migut.M01931
+Q75L84	Phytozome_Mg:Migut.J00420 Phytozome_Mg:Migut.L01662
+Q75LL5	Phytozome_Mg:Migut.D02373
+Q75LR2	Phytozome_Mg:Migut.N01080
+Q75M18	Phytozome_Mg:Migut.N00867 Phytozome_Mg:Migut.B00709
+Q75V57	Phytozome_Mg:Migut.B00305
+Q75W16	Phytozome_Mg:Migut.N01080
+Q764B9	Phytozome_Mg:Migut.E00508
+Q7EYE4	Phytozome_Mg:Migut.M00091
+Q7EYM8	Phytozome_Mg:Migut.L01418
+Q7EZZ0	Phytozome_Mg:Migut.J01706 Phytozome_Mg:Migut.K00119
+Q7F0B2	Phytozome_Mg:Migut.N00902
+Q7F0Q2	Phytozome_Mg:Migut.H02258
+Q7F190	Phytozome_Mg:Migut.N01711
+Q7F8K7	Phytozome_Mg:Migut.E00478
+Q7FAE1	Phytozome_Mg:Migut.J00671
+Q7FAH2	Phytozome_Mg:Migut.I00488
+Q7G1V6	Phytozome_Mg:Migut.E00543 Phytozome_Mg:Migut.E00554 Phytozome_Mg:Migut.E00551 Phytozome_Mg:Migut.E00545
+Q7G2F7	Phytozome_Mg:Migut.M01189
+Q7G2H3	Phytozome_Mg:Migut.B00304
+Q7G4P2	Phytozome_Mg:Migut.B00582
+Q7G602	Phytozome_Mg:Migut.D01697
+Q7G7J6	Phytozome_Mg:Migut.H02266 Phytozome_Mg:Migut.K00894
+Q7X634	Phytozome_Mg:Migut.F00802
+Q7X7H9	Phytozome_Mg:Migut.H02438
+Q7X7N2	Phytozome_Mg:Migut.B01616
+Q7X7X0	Phytozome_Mg:Migut.L01174
+Q7X8A1	Phytozome_Mg:Migut.E00683
+Q7X8V3	Phytozome_Mg:Migut.L01685 Phytozome_Mg:Migut.J00542
+Q7XAP2	Phytozome_Mg:Migut.F00231
+Q7XBY6	Phytozome_Mg:Migut.E00927
+Q7XCK3	Phytozome_Mg:Migut.L00853 Phytozome_Mg:Migut.L00661
+Q7XE48	Phytozome_Mg:Migut.H00928
+Q7XH05	Phytozome_Mg:Migut.D00723 Phytozome_Mg:Migut.D00722
+Q7XHZ2	Phytozome_Mg:Migut.F01983
+Q7XI34	Phytozome_Mg:Migut.N00902
+Q7XI35	Phytozome_Mg:Migut.N00902
+Q7XI67	Phytozome_Mg:Migut.J00081
+Q7XI92	Phytozome_Mg:Migut.H00196
+Q7XI96	Phytozome_Mg:Migut.H00192
+Q7XK23	Phytozome_Mg:Migut.N01351
+Q7XKQ8	Phytozome_Mg:Migut.I00533 Phytozome_Mg:Migut.D01268
+Q7XM21	Phytozome_Mg:Migut.N03161 Phytozome_Mg:Migut.C00836
+Q7XNX6	Phytozome_Mg:Migut.D02053
+Q7XPW5	Phytozome_Mg:Migut.N01427
+Q7XQ85	Phytozome_Mg:Migut.B01795 Phytozome_Mg:Migut.A00723
+Q7XR02	Phytozome_Mg:Migut.N00665
+Q7XR60	Phytozome_Mg:Migut.N01162
+Q7XR61	Phytozome_Mg:Migut.N01162
+Q7XRT0	Phytozome_Mg:Migut.F01436
+Q7XTE8	Phytozome_Mg:Migut.L00306
+Q7XTK3	Phytozome_Mg:Migut.F01717
+Q7XTX7	Phytozome_Mg:Migut.O00406 Phytozome_Mg:Migut.E01016
+Q7XU28	Phytozome_Mg:Migut.F01615 Phytozome_Mg:Migut.H01099
+Q7XU29	Phytozome_Mg:Migut.B01565
+Q7XUA8	Phytozome_Mg:Migut.F00137
+Q7XUH5	Phytozome_Mg:Migut.H02258
+Q7XUK6	Phytozome_Mg:Migut.G00913
+Q7XVK0	Phytozome_Mg:Migut.N00642 Phytozome_Mg:Migut.D02517
+Q7XVM2	Phytozome_Mg:Migut.D02131 Phytozome_Mg:Migut.J00796
+Q7XVM8	Phytozome_Mg:Migut.F00020 Phytozome_Mg:Migut.K01481
+Q7XX31	Phytozome_Mg:Migut.C01187
+Q7XX32	Phytozome_Mg:Migut.C01187
+Q7XXL2	Phytozome_Mg:Migut.K01282
+Q7XZH5	Phytozome_Mg:Migut.N01824
+Q7Y0C8	Phytozome_Mg:Migut.C00664 Phytozome_Mg:Migut.N02681
+Q7Y152	Phytozome_Mg:Migut.N00033
+Q7Y1H9	Phytozome_Mg:Migut.D00368
+Q84LK3	Phytozome_Mg:Migut.D01906
+Q84M43	Phytozome_Mg:Migut.N01600
+Q84ME6	Phytozome_Mg:Migut.M00942
+Q84MN8	Phytozome_Mg:Migut.G00410
+Q84Q89	Phytozome_Mg:Migut.G01346
+Q84QA7	Phytozome_Mg:Migut.F01428 Phytozome_Mg:Migut.F00706
+Q84R94	Phytozome_Mg:Migut.L01582
+Q84RX6	Phytozome_Mg:Migut.O00597 Phytozome_Mg:Migut.N01933
+Q84VC7	Phytozome_Mg:Migut.M00941
+Q84ZN6	Phytozome_Mg:Migut.N01600
+Q84ZY2	Phytozome_Mg:Migut.B01620
+Q851L5	Phytozome_Mg:Migut.J00668
+Q851L6	Phytozome_Mg:Migut.J00668
+Q851Z6	Phytozome_Mg:Migut.K01483
+Q852C2	Phytozome_Mg:Migut.N00902
+Q852M1	Phytozome_Mg:Migut.D00723 Phytozome_Mg:Migut.D00722
+Q852M2	Phytozome_Mg:Migut.D00723 Phytozome_Mg:Migut.D00722
+Q8GRU7	Phytozome_Mg:Migut.C00423
+Q8GT01	Phytozome_Mg:Migut.K00123
+Q8GTK1	Phytozome_Mg:Migut.J00449 Phytozome_Mg:Migut.L01718
+Q8GVZ0	Phytozome_Mg:Migut.F01872
+Q8H016	Phytozome_Mg:Migut.I01086
+Q8H038	Phytozome_Mg:Migut.D00481
+Q8H048	Phytozome_Mg:Migut.B01671
+Q8H051	Phytozome_Mg:Migut.A00913
+Q8H075	Phytozome_Mg:Migut.D00419
+Q8H093	Phytozome_Mg:Migut.B01671
+Q8H273	Phytozome_Mg:Migut.F00382 Phytozome_Mg:Migut.A00920 Phytozome_Mg:Migut.F01148 Phytozome_Mg:Migut.F01149 Phytozome_Mg:Migut.F01147 Phytozome_Mg:Migut.F01151 Phytozome_Mg:Migut.F01150
+Q8H2J9	Phytozome_Mg:Migut.F00577
+Q8H395	Phytozome_Mg:Migut.L01582
+Q8H3A4	Phytozome_Mg:Migut.J00913
+Q8H3C9	Phytozome_Mg:Migut.J00668
+Q8H3L0	Phytozome_Mg:Migut.H00212
+Q8H3Q7	Phytozome_Mg:Migut.K00260 Phytozome_Mg:Migut.J01448
+Q8H530	Phytozome_Mg:Migut.B00548
+Q8H539	Phytozome_Mg:Migut.F01648 Phytozome_Mg:Migut.F01647 Phytozome_Mg:Migut.F01646
+Q8H7T7	Phytozome_Mg:Migut.H00317
+Q8H825	Phytozome_Mg:Migut.E00338
+Q8H8U0	Phytozome_Mg:Migut.F02010 Phytozome_Mg:Migut.F01785
+Q8H930	Phytozome_Mg:Migut.M01942
+Q8LHD1	Phytozome_Mg:Migut.N00430
+Q8LI89	Phytozome_Mg:Migut.E00651
+Q8LJJ2	Phytozome_Mg:Migut.I01056
+Q8LM92	Phytozome_Mg:Migut.D01697
+Q8LMW8	Phytozome_Mg:Migut.N01119
+Q8LNU2	Phytozome_Mg:Migut.E00398
+Q8LQ34	Phytozome_Mg:Migut.J00229
+Q8RU95	Phytozome_Mg:Migut.D01239 Phytozome_Mg:Migut.I00520
+Q8RV34	Phytozome_Mg:Migut.L01599
+Q8RYY6	Phytozome_Mg:Migut.B00818 Phytozome_Mg:Migut.N01048
+Q8S2E5	Phytozome_Mg:Migut.E00195
+Q8S2G0	Phytozome_Mg:Migut.D00703
+Q8S5M6	Phytozome_Mg:Migut.B00906
+Q8S5T1	Phytozome_Mg:Migut.D00376
+Q8S919	Phytozome_Mg:Migut.F00249 Phytozome_Mg:Migut.F01057
+Q8S983	Phytozome_Mg:Migut.N03147 Phytozome_Mg:Migut.C00816
+Q8S985	Phytozome_Mg:Migut.M01096
+Q8S9S4	Phytozome_Mg:Migut.K00570
+Q8S9Z2	Phytozome_Mg:Migut.N02525 Phytozome_Mg:Migut.D02323
+Q8VWH2	Phytozome_Mg:Migut.F01843
+Q8W0B6	Phytozome_Mg:Migut.K01191 Phytozome_Mg:Migut.K01193 Phytozome_Mg:Migut.O00176 Phytozome_Mg:Migut.M00573 Phytozome_Mg:Migut.O00177 Phytozome_Mg:Migut.D01710 Phytozome_Mg:Migut.O00175 Phytozome_Mg:Migut.O00174 Phytozome_Mg:Migut.D02013 Phytozome_Mg:Migut.D02012 Phytozome_Mg:Migut.D02015 Phytozome_Mg:Migut.D02014 Phytozome_Mg:Migut.O00173 Phytozome_Mg:Migut.D02020 Phytozome_Mg:Migut.O00178
+Q8W0E4	Phytozome_Mg:Migut.K00586 Phytozome_Mg:Migut.J00592
+Q8W1L6	Phytozome_Mg:Migut.K00503 Phytozome_Mg:Migut.J01144
+Q8W250	Phytozome_Mg:Migut.I00014 Phytozome_Mg:Migut.I00013
+Q8W3J0	Phytozome_Mg:Migut.J00940
+Q8W3L9	Phytozome_Mg:Migut.N02421 Phytozome_Mg:Migut.D00719
+Q8W3M0	Phytozome_Mg:Migut.N02421 Phytozome_Mg:Migut.D00719
+Q93VC3	Phytozome_Mg:Migut.E01023
+Q93VD5	Phytozome_Mg:Migut.A00205
+Q93WI9	Phytozome_Mg:Migut.F01843
+Q93X08	Phytozome_Mg:Migut.K00740
+Q93XI4	Phytozome_Mg:Migut.N02484
+Q93Y73	Phytozome_Mg:Migut.E00492
+Q941W8	Phytozome_Mg:Migut.F00631 Phytozome_Mg:Migut.J00112
+Q94E75	Phytozome_Mg:Migut.J00731
+Q94GF1	Phytozome_Mg:Migut.N00808
+Q94HG3	Phytozome_Mg:Migut.C00584
+Q94HG6	Phytozome_Mg:Migut.C00593
+Q94IW5	Phytozome_Mg:Migut.I01018
+Q94J90	Phytozome_Mg:Migut.D00673
+Q94JA2	Phytozome_Mg:Migut.H01978
+Q94JJ0	Phytozome_Mg:Migut.L01014 Phytozome_Mg:Migut.E00387
+Q94LU9	Phytozome_Mg:Migut.E01089
+Q94LV4	Phytozome_Mg:Migut.H00317
+Q9ASD3	Phytozome_Mg:Migut.E01563
+Q9ASP4	Phytozome_Mg:Migut.N00020 Phytozome_Mg:Migut.G00021
+Q9AUQ4	Phytozome_Mg:Migut.E00456
+Q9AUV6	Phytozome_Mg:Migut.H00642 Phytozome_Mg:Migut.K01285
+Q9AV47	Phytozome_Mg:Migut.J00534
+Q9AV71	Phytozome_Mg:Migut.D00465
+Q9AWL7	Phytozome_Mg:Migut.N02951 Phytozome_Mg:Migut.C00380
+Q9AWZ8	Phytozome_Mg:Migut.B01799
+Q9FTR6	Phytozome_Mg:Migut.H00220 Phytozome_Mg:Migut.L00324
+Q9FTZ2	Phytozome_Mg:Migut.N00675
+Q9FU67	Phytozome_Mg:Migut.J00466
+Q9FU68	Phytozome_Mg:Migut.J00466
+Q9FU69	Phytozome_Mg:Migut.J00466
+Q9FWC1	Phytozome_Mg:Migut.I01165
+Q9FWK4	Phytozome_Mg:Migut.G00494
+Q9FWQ2	Phytozome_Mg:Migut.A00807 Phytozome_Mg:Migut.E01673
+Q9FXQ3	Phytozome_Mg:Migut.N01362
+Q9LD61	Phytozome_Mg:Migut.H01801
+Q9LDB7	Phytozome_Mg:Migut.E01811 Phytozome_Mg:Migut.A00021
+Q9LGU6	Phytozome_Mg:Migut.B00863
+Q9LHZ0	Phytozome_Mg:Migut.I00211
+Q9LHZ7	Phytozome_Mg:Migut.E00738
+Q9LIZ8	Phytozome_Mg:Migut.B00906
+Q9LWJ2	Phytozome_Mg:Migut.K00129
+Q9S7D3	Phytozome_Mg:Migut.H00043 Phytozome_Mg:Migut.K01430
+Q9SDG5	Phytozome_Mg:Migut.L01686
+Q9SMB1	Phytozome_Mg:Migut.L01398 Phytozome_Mg:Migut.E00155
+Q9SNN0	Phytozome_Mg:Migut.B00171
+Q9XEA6	Phytozome_Mg:Migut.G00340
+Q9XFE5	Phytozome_Mg:Migut.M00091
+Q9XG80	Phytozome_Mg:Migut.J00441
+Q9XHL5	Phytozome_Mg:Migut.N02990 Phytozome_Mg:Migut.N01365 Phytozome_Mg:Migut.C00353
+Q9XJ03	Phytozome_Mg:Migut.L00727 Phytozome_Mg:Migut.E00156
+Q9XJ60	Phytozome_Mg:Migut.E01177
+Q9ZTP5	Phytozome_Mg:Migut.I00206
+UPI00000AA151	Phytozome_Mg:Migut.E01811 Phytozome_Mg:Migut.A00021

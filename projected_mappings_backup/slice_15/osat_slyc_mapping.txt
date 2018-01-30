@@ -1,0 +1,1001 @@
+A2X747	Ensembl:Solyc03g117600.2
+A2Y626	Ensembl:Solyc10g078220.1 Ensembl:Solyc01g009370.1 Ensembl:Solyc10g078230.1
+A2Y8A8	Ensembl:Solyc09g055930.2 Ensembl:Solyc03g083900.2 Ensembl:Solyc08g079090.2
+A2ZW27	Ensembl:Solyc12g010840.1 Ensembl:Solyc07g053280.2
+A2ZWY7	Ensembl:Solyc08g062950.2
+A3AAR2	Ensembl:Solyc09g009780.2
+A3AC56	Ensembl:Solyc07g006500.2
+A3AQC6	Ensembl:Solyc10g086170.1
+A3B9A0	Ensembl:Solyc07g042260.2
+A3BZ14	Ensembl:Solyc07g006500.2
+A3C6G9	Ensembl:Solyc08g007040.2 Ensembl:Solyc06g061070.2
+A9CM06	Ensembl:Solyc12g088000.1 Ensembl:Solyc10g007110.2 Ensembl:Solyc12g096240.1 Ensembl:Solyc07g053720.2
+B1B534	Ensembl:Solyc09g065670.2
+B7E8M5	Ensembl:Solyc01g094500.2
+B7EA04	Ensembl:Solyc02g068530.2
+B7EJ81	Ensembl:Solyc03g114720.2
+B7EM10	Ensembl:Solyc04g082830.2 Ensembl:Solyc12g095750.1
+B7ERE7	Ensembl:Solyc04g008500.2
+B7F4K3	Ensembl:Solyc09g009040.2
+B7F7B9	Ensembl:Solyc07g007790.2 Ensembl:Solyc08g042000.2
+B7F8P7	Ensembl:Solyc09g066360.1 Ensembl:Solyc03g005520.1 Ensembl:Solyc11g006050.1 Ensembl:Solyc09g089930.1 Ensembl:Solyc04g014530.1
+B7F956	Ensembl:Solyc03g111940.2 Ensembl:Solyc03g111930.2 Ensembl:Solyc03g112040.1 Ensembl:Solyc03g111920.1 Ensembl:Solyc03g111950.2 Ensembl:Solyc03g112030.1 Ensembl:Solyc03g111990.2 Ensembl:Solyc03g111970.2 Ensembl:Solyc03g112010.2 Ensembl:Solyc03g111880.2
+B7F9K3	Ensembl:Solyc09g009040.2
+B7FA24	Ensembl:Solyc10g078280.2
+B7FA90	Ensembl:Solyc07g017770.2
+B7FA99	Ensembl:Solyc12g088000.1 Ensembl:Solyc10g007110.2 Ensembl:Solyc12g096240.1 Ensembl:Solyc07g053720.2
+B7FAE9	Ensembl:Solyc08g006720.2
+B7FAP2	Ensembl:Solyc12g098590.1 Ensembl:Solyc12g098600.1 Ensembl:Solyc05g053820.2 Ensembl:Solyc07g008230.1 Ensembl:Solyc09g092480.1 Ensembl:Solyc09g092500.1 Ensembl:Solyc01g066100.1 Ensembl:Solyc12g098580.1
+B8ACC6	Ensembl:Solyc08g007310.2 Ensembl:Solyc08g078450.2
+B8AG62	Ensembl:Solyc11g007020.1 Ensembl:Solyc04g009650.2
+B8AHI9	Ensembl:Solyc12g009810.1
+B8AY22	Ensembl:Solyc05g056150.2
+B8AZ97	Ensembl:Solyc10g076250.1
+B8B8K7	Ensembl:Solyc03g123610.2 Ensembl:Solyc03g123600.2 Ensembl:Solyc06g063090.2
+B8BB38	Ensembl:Solyc06g068440.2 Ensembl:Solyc03g116910.2
+B8BF84	Ensembl:Solyc01g005210.2
+B9EUK4	Ensembl:Solyc08g082630.2 Ensembl:Solyc08g008380.2 Ensembl:Solyc01g096070.2
+B9EZJ8	Ensembl:Solyc08g068160.1
+B9F3B6	Ensembl:Solyc09g090700.1
+B9FDB8	Ensembl:Solyc02g078400.2
+B9FLB9	Ensembl:Solyc06g071000.2
+B9FRT6	Ensembl:Solyc10g079720.1
+B9FYX6	Ensembl:Solyc02g070400.2
+B9FZ46	Ensembl:Solyc09g055930.2 Ensembl:Solyc03g083900.2 Ensembl:Solyc08g079090.2
+B9G3A7	Ensembl:Solyc04g025940.2 Ensembl:Solyc05g005750.2
+B9G4Z8	Ensembl:Solyc03g032080.2 Ensembl:Solyc02g082450.2
+B9G6J6	Ensembl:Solyc09g055930.2 Ensembl:Solyc03g083900.2 Ensembl:Solyc08g079090.2
+C7IWB6	Ensembl:Solyc12g032930.1 Ensembl:Solyc03g019680.2 Ensembl:Solyc06g072050.2
+C7IWK8	Ensembl:Solyc01g008730.2 Ensembl:Solyc11g064950.1 Ensembl:Solyc10g080770.1
+C7IXG8	Ensembl:Solyc07g066610.2
+C7IY93	Ensembl:Solyc02g068740.2
+C7J5F5	Ensembl:Solyc06g075060.1 Ensembl:Solyc11g069640.1 Ensembl:Solyc06g075070.2 Ensembl:Solyc06g075050.1
+C7J5T9	Ensembl:Solyc06g075060.1 Ensembl:Solyc11g069640.1 Ensembl:Solyc06g075070.2 Ensembl:Solyc06g075050.1
+D5A7I6	Ensembl:Solyc10g080880.1 Ensembl:Solyc10g078370.1
+D5A7J1	Ensembl:Solyc05g008060.2 Ensembl:Solyc04g007690.2
+H6TFZ4	Ensembl:Solyc02g081300.2 Ensembl:Solyc03g098290.2
+I1QJ08	Ensembl:Solyc07g005510.2
+I1QQP8	Ensembl:Solyc03g112910.2
+I3QK18	Ensembl:Solyc08g078320.2
+O04226	Ensembl:Solyc08g043170.2 Ensembl:Solyc06g019170.2
+O04882	Ensembl:Solyc10g005810.2 Ensembl:Solyc12g015860.1 Ensembl:Solyc10g005840.2
+O22105	Ensembl:Solyc01g110290.2 Ensembl:Solyc10g079040.1 Ensembl:Solyc10g079060.1 Ensembl:Solyc10g054130.1
+O22567	Ensembl:Solyc01g067890.2
+O24174	Ensembl:Solyc06g071290.2 Ensembl:Solyc03g113800.2
+O24210	Ensembl:Solyc09g061680.2
+O64422	Ensembl:Solyc10g086720.1 Ensembl:Solyc09g011810.2 Ensembl:Solyc10g086730.1
+O64437	Ensembl:Solyc04g050860.1 Ensembl:Solyc04g054740.2 Ensembl:Solyc04g050820.1 Ensembl:Solyc05g051850.2
+O82117	Ensembl:Solyc02g089540.2 Ensembl:Solyc02g089520.1
+O82427	Ensembl:Solyc10g055680.1 Ensembl:Solyc01g111830.2 Ensembl:Solyc05g008680.1
+P0C132	Ensembl:Solyc09g083290.2 Ensembl:Solyc01g097290.2 Ensembl:Solyc06g008590.2 Ensembl:Solyc06g053830.2
+P0C587	Ensembl:Solyc01g106390.2
+P0C5A4	Ensembl:Solyc03g116390.2
+P0C5B2	Ensembl:Solyc08g080100.2 Ensembl:Solyc12g056460.1
+P14655	Ensembl:Solyc01g080280.2
+P14656	Ensembl:Solyc05g051250.2 Ensembl:Solyc11g011380.1 Ensembl:Solyc12g041870.1
+P14717	Ensembl:Solyc09g007920.2 Ensembl:Solyc05g056170.2 Ensembl:Solyc03g042560.1 Ensembl:Solyc10g086180.1 Ensembl:Solyc09g007900.2 Ensembl:Solyc09g007890.1 Ensembl:Solyc03g071860.2 Ensembl:Solyc09g007910.2
+P15280	Ensembl:Solyc12g011120.1 Ensembl:Solyc07g056140.2
+P16081	Ensembl:Solyc11g013810.1
+P17784	Ensembl:Solyc09g009260.2 Ensembl:Solyc10g083570.1
+P17814	Ensembl:Solyc07g008360.1 Ensembl:Solyc06g068650.2 Ensembl:Solyc12g042460.1 Ensembl:Solyc03g117870.2
+P18566	Ensembl:Solyc02g063150.2 Ensembl:Solyc02g085950.2 Ensembl:Solyc03g034220.2
+P30298	Ensembl:Solyc07g042550.2 Ensembl:Solyc07g042520.2 Ensembl:Solyc12g009300.1
+P31924	Ensembl:Solyc07g042550.2 Ensembl:Solyc07g042520.2 Ensembl:Solyc12g009300.1
+P37833	Ensembl:Solyc08g068330.2 Ensembl:Solyc07g032740.2
+P38419	Ensembl:Solyc01g006540.2 Ensembl:Solyc01g006560.2 Ensembl:Solyc12g011040.1
+P48642	Ensembl:Solyc09g091840.2
+Q01KF3	Ensembl:Solyc12g038970.1
+Q01M39	Ensembl:Solyc01g105350.1 Ensembl:Solyc01g105360.2 Ensembl:Solyc04g074380.2 Ensembl:Solyc12g057060.1 Ensembl:Solyc04g074360.1 Ensembl:Solyc04g074350.2 Ensembl:Solyc12g057070.1 Ensembl:Solyc04g074330.2 Ensembl:Solyc04g074340.2 Ensembl:Solyc04g074390.2 Ensembl:Solyc12g057080.1
+Q05JG2	Ensembl:Solyc08g075320.2 Ensembl:Solyc08g005610.2
+Q06967	Ensembl:Solyc02g063070.2 Ensembl:Solyc03g034180.2
+Q0D3D2	Ensembl:Solyc10g076510.1 Ensembl:Solyc09g005110.2 Ensembl:Solyc06g082130.2
+Q0D3F2	Ensembl:Solyc01g100490.2
+Q0D3H8	Ensembl:Solyc10g081350.1 Ensembl:Solyc10g076920.1
+Q0D3T5	Ensembl:Solyc09g074560.2
+Q0D4G3	Ensembl:Solyc04g072180.1
+Q0D4Z4	Ensembl:Solyc11g044330.1
+Q0D5H9	Ensembl:Solyc07g063620.2
+Q0D7E4	Ensembl:Solyc11g018530.1
+Q0D7W4	Ensembl:Solyc01g097810.2
+Q0D8I9	Ensembl:Solyc09g007870.2
+Q0D8J6	Ensembl:Solyc07g056570.1 Ensembl:Solyc08g016720.1
+Q0DAA4	Ensembl:Solyc02g068490.2
+Q0DAE1	Ensembl:Solyc07g006900.1
+Q0DAJ3	Ensembl:Solyc03g116890.2 Ensembl:Solyc08g067340.2 Ensembl:Solyc06g068460.2 Ensembl:Solyc08g067360.2
+Q0DAZ7	Ensembl:Solyc08g065220.2
+Q0DBD3	Ensembl:Solyc05g006590.2 Ensembl:Solyc01g011340.2
+Q0DBF4	Ensembl:Solyc04g083160.1
+Q0DBN4	Ensembl:Solyc07g055210.2
+Q0DCE9	Ensembl:Solyc03g005160.2 Ensembl:Solyc09g075940.2 Ensembl:Solyc09g075930.1
+Q0DDD2	Ensembl:Solyc03g118740.2
+Q0DEC8	Ensembl:Solyc03g083090.2
+Q0DG18	Ensembl:Solyc02g078210.2
+Q0DGG8	Ensembl:Solyc12g008780.1
+Q0DGS1	Ensembl:Solyc02g077560.2
+Q0DHF6	Ensembl:Solyc10g076510.1 Ensembl:Solyc09g005110.2 Ensembl:Solyc06g082130.2
+Q0DHT1	Ensembl:Solyc11g068370.1 Ensembl:Solyc06g074320.2
+Q0DJJ9	Ensembl:Solyc11g012100.1
+Q0DJT2	Ensembl:Solyc08g066850.2 Ensembl:Solyc12g007310.1
+Q0DKE8	Ensembl:Solyc06g071640.2 Ensembl:Solyc05g031600.1 Ensembl:Solyc01g017610.1 Ensembl:Solyc03g112460.2
+Q0DKM0	Ensembl:Solyc09g075440.2
+Q0DKP3	Ensembl:Solyc06g008810.2 Ensembl:Solyc09g074520.2 Ensembl:Solyc06g008780.1
+Q0DS96	Ensembl:Solyc06g073730.1 Ensembl:Solyc01g009170.2 Ensembl:Solyc01g096810.2 Ensembl:Solyc06g073720.1
+Q0DUI1	Ensembl:Solyc07g065340.1 Ensembl:Solyc10g006040.1
+Q0DV32	Ensembl:Solyc11g069050.1
+Q0DWC7	Ensembl:Solyc05g055070.2 Ensembl:Solyc06g053710.2 Ensembl:Solyc09g089610.2 Ensembl:Solyc11g006180.1
+Q0DWF2	Ensembl:Solyc09g064530.2 Ensembl:Solyc09g090910.1 Ensembl:Solyc12g096980.1
+Q0DWH1	Ensembl:Solyc09g064370.2
+Q0DWY7	Ensembl:Solyc07g006700.1
+Q0DXM9	Ensembl:Solyc03g118740.2
+Q0DY86	Ensembl:Solyc04g009350.2
+Q0DZE0	Ensembl:Solyc09g007920.2 Ensembl:Solyc05g056170.2 Ensembl:Solyc03g042560.1 Ensembl:Solyc10g086180.1 Ensembl:Solyc09g007900.2 Ensembl:Solyc09g007890.1 Ensembl:Solyc03g071860.2 Ensembl:Solyc09g007910.2
+Q0E079	Ensembl:Solyc01g105560.2 Ensembl:Solyc11g010300.1
+Q0E088	Ensembl:Solyc08g005720.2 Ensembl:Solyc07g066670.2
+Q0E0S0	Ensembl:Solyc10g085570.1 Ensembl:Solyc09g009090.2 Ensembl:Solyc10g083610.1
+Q0E2P1	Ensembl:Solyc12g044800.1 Ensembl:Solyc06g062530.2 Ensembl:Solyc03g121410.2
+Q0E2Y8	Ensembl:Solyc08g061130.2
+Q0E3F2	Ensembl:Solyc07g006780.2
+Q0E3J1	Ensembl:Solyc02g068490.2
+Q0E3L4	Ensembl:Solyc07g045050.2 Ensembl:Solyc05g041200.2
+Q0E4F0	Ensembl:Solyc01g110280.2
+Q0E4N2	Ensembl:Solyc11g007020.1 Ensembl:Solyc04g009650.2
+Q0ILP7	Ensembl:Solyc04g077040.2 Ensembl:Solyc04g077030.2
+Q0ILR7	Ensembl:Solyc02g070050.2
+Q0IM00	Ensembl:Solyc07g043580.2
+Q0INY7	Ensembl:Solyc02g063150.2 Ensembl:Solyc02g085950.2 Ensembl:Solyc03g034220.2
+Q0INZ4	Ensembl:Solyc07g061990.2
+Q0IPE5	Ensembl:Solyc11g072690.1
+Q0IPF7	Ensembl:Solyc01g007330.2
+Q0IQ89	Ensembl:Solyc11g065240.1
+Q0IQA5	Ensembl:Solyc10g080880.1 Ensembl:Solyc10g078370.1
+Q0IQQ5	Ensembl:Solyc10g085340.1
+Q0IRE6	Ensembl:Solyc01g098610.2
+Q0ISY7	Ensembl:Solyc10g084890.1 Ensembl:Solyc10g085280.1 Ensembl:Solyc03g078810.2 Ensembl:Solyc06g076550.2 Ensembl:Solyc10g085240.1 Ensembl:Solyc10g085230.1
+Q0ITU1	Ensembl:Solyc08g022210.2
+Q0ITW7	Ensembl:Solyc06g059740.2 Ensembl:Solyc04g064710.2
+Q0IU28	Ensembl:Solyc02g032850.2
+Q0IZJ9	Ensembl:Solyc11g066890.1 Ensembl:Solyc06g074530.1
+Q0IZR4	Ensembl:Solyc02g082450.2
+Q0IZS0	Ensembl:Solyc05g008180.2
+Q0IZX5	Ensembl:Solyc02g061850.2 Ensembl:Solyc04g082000.2 Ensembl:Solyc02g083340.2
+Q0J0L4	Ensembl:Solyc06g065580.2
+Q0J0M8	Ensembl:Solyc03g032010.2 Ensembl:Solyc02g038740.2 Ensembl:Solyc02g082260.2 Ensembl:Solyc03g032020.2
+Q0J0N3	Ensembl:Solyc05g053790.1 Ensembl:Solyc09g092330.1
+Q0J0P1	Ensembl:Solyc01g014480.2 Ensembl:Solyc01g006650.1
+Q0J185	Ensembl:Solyc01g108210.2 Ensembl:Solyc04g078900.2
+Q0J1C1	Ensembl:Solyc02g081190.2 Ensembl:Solyc07g049530.2 Ensembl:Solyc07g049550.2 Ensembl:Solyc02g036350.2 Ensembl:Solyc12g005940.1
+Q0J1E1	Ensembl:Solyc01g006280.2
+Q0J268	Ensembl:Solyc12g039070.1
+Q0J2L7	Ensembl:Solyc03g096670.2 Ensembl:Solyc06g076400.2 Ensembl:Solyc05g052980.2
+Q0J2S0	Ensembl:Solyc12g036390.1 Ensembl:Solyc03g119250.2
+Q0J484	Ensembl:Solyc04g056620.1 Ensembl:Solyc01g068410.2
+Q0J7P4	Ensembl:Solyc04g054150.1
+Q0J7U6	Ensembl:Solyc08g076030.2
+Q0J7W9	Ensembl:Solyc10g005080.2
+Q0J8A4	Ensembl:Solyc05g005820.2
+Q0J8X6	Ensembl:Solyc05g048770.2
+Q0J951	Ensembl:Solyc03g031970.2 Ensembl:Solyc02g037530.2
+Q0J9F2	Ensembl:Solyc10g005810.2 Ensembl:Solyc12g015860.1 Ensembl:Solyc10g005840.2
+Q0J9K2	Ensembl:Solyc03g117490.2
+Q0J9Z0	Ensembl:Solyc02g080570.2
+Q0JA81	Ensembl:Solyc07g066670.2
+Q0JA82	Ensembl:Solyc08g005640.2 Ensembl:Solyc08g005720.2 Ensembl:Solyc07g066670.2
+Q0JAI1	Ensembl:Solyc03g118160.1
+Q0JB49	Ensembl:Solyc08g080940.2
+Q0JB91	Ensembl:Solyc03g093440.2
+Q0JBA9	Ensembl:Solyc01g089960.2 Ensembl:Solyc04g051540.2
+Q0JBF1	Ensembl:Solyc03g083910.2 Ensembl:Solyc08g079080.2
+Q0JBZ8	Ensembl:Solyc03g117600.2
+Q0JC10	Ensembl:Solyc01g010050.2 Ensembl:Solyc02g089610.1 Ensembl:Solyc05g010420.1
+Q0JCU7	Ensembl:Solyc02g090890.2
+Q0JCZ4	Ensembl:Solyc01g103050.2
+Q0JDD2	Ensembl:Solyc09g009830.2
+Q0JDF7	Ensembl:Solyc11g066890.1 Ensembl:Solyc06g074530.1
+Q0JDN5	Ensembl:Solyc05g054640.2 Ensembl:Solyc04g011350.2
+Q0JDT1	Ensembl:Solyc04g050930.2
+Q0JE53	Ensembl:Solyc01g105350.1 Ensembl:Solyc01g105360.2 Ensembl:Solyc04g074380.2 Ensembl:Solyc12g057060.1 Ensembl:Solyc04g074360.1 Ensembl:Solyc04g074350.2 Ensembl:Solyc12g057070.1 Ensembl:Solyc04g074330.2 Ensembl:Solyc04g074340.2 Ensembl:Solyc04g074390.2 Ensembl:Solyc12g057080.1
+Q0JEK1	Ensembl:Solyc03g044660.2 Ensembl:Solyc10g083110.1
+Q0JEX4	Ensembl:Solyc07g007760.2 Ensembl:Solyc07g007710.2 Ensembl:Solyc07g007730.2 Ensembl:Solyc04g008470.2 Ensembl:Solyc07g007750.2
+Q0JEZ8	Ensembl:Solyc08g005720.2 Ensembl:Solyc07g066670.2
+Q0JF02	Ensembl:Solyc08g005710.2 Ensembl:Solyc06g084240.1
+Q0JF25	Ensembl:Solyc04g005370.2 Ensembl:Solyc04g025410.1 Ensembl:Solyc12g005170.1 Ensembl:Solyc04g005360.1 Ensembl:Solyc08g083450.1
+Q0JF26	Ensembl:Solyc04g005370.2 Ensembl:Solyc04g025410.1 Ensembl:Solyc12g005170.1 Ensembl:Solyc04g005360.1 Ensembl:Solyc08g083450.1
+Q0JF30	Ensembl:Solyc05g055070.2 Ensembl:Solyc06g053710.2 Ensembl:Solyc09g089610.2 Ensembl:Solyc11g006180.1
+Q0JGK4	Ensembl:Solyc09g092130.2
+Q0JHN3	Ensembl:Solyc05g052620.2
+Q0JI87	Ensembl:Solyc10g074790.1
+Q0JIJ8	Ensembl:Solyc07g055980.2 Ensembl:Solyc12g011020.1
+Q0JIR6	Ensembl:Solyc01g109370.2 Ensembl:Solyc04g079880.2
+Q0JIR8	Ensembl:Solyc03g006630.2 Ensembl:Solyc02g079030.2
+Q0JJ01	Ensembl:Solyc02g069310.2 Ensembl:Solyc07g044980.2
+Q0JJI1	Ensembl:Solyc02g086870.2
+Q0JJV0	Ensembl:Solyc02g087660.2
+Q0JKG7	Ensembl:Solyc03g120500.2 Ensembl:Solyc12g007230.1
+Q0JKI9	Ensembl:Solyc02g077560.2
+Q0JKX2	Ensembl:Solyc05g008060.2 Ensembl:Solyc04g007690.2
+Q0JKY8	Ensembl:Solyc05g005490.2 Ensembl:Solyc02g067750.2 Ensembl:Solyc02g086820.2
+Q0JNV2	Ensembl:Solyc05g054060.2 Ensembl:Solyc11g011960.1
+Q0JP90	Ensembl:Solyc01g096050.2 Ensembl:Solyc05g050560.1
+Q0JPS3	Ensembl:Solyc02g072300.2 Ensembl:Solyc03g006070.2 Ensembl:Solyc07g055200.2 Ensembl:Solyc10g037910.1 Ensembl:Solyc06g082640.2
+Q0JPT4	Ensembl:Solyc02g071990.2 Ensembl:Solyc03g005990.2
+Q0JQ41	Ensembl:Solyc02g069750.1 Ensembl:Solyc04g072020.2
+Q0JQF9	Ensembl:Solyc02g050210.1
+Q0JR06	Ensembl:Solyc05g009230.1
+Q0JR55	Ensembl:Solyc05g008580.2 Ensembl:Solyc04g007520.2
+Q0JRG4	Ensembl:Solyc02g094420.2
+Q109K4	Ensembl:Solyc02g079100.2
+Q10A30	Ensembl:Solyc09g009260.2 Ensembl:Solyc10g083570.1
+Q10A97	Ensembl:Solyc09g066360.1 Ensembl:Solyc05g051180.1 Ensembl:Solyc11g011750.1 Ensembl:Solyc03g005520.1 Ensembl:Solyc11g011740.1 Ensembl:Solyc05g051200.1 Ensembl:Solyc09g089930.1 Ensembl:Solyc11g006050.1 Ensembl:Solyc04g014530.1
+Q10B63	Ensembl:Solyc01g066480.2
+Q10BA5	Ensembl:Solyc10g085060.1 Ensembl:Solyc09g013130.2
+Q10BT5	Ensembl:Solyc01g073650.2 Ensembl:Solyc01g034020.2 Ensembl:Solyc01g005950.2
+Q10BX9	Ensembl:Solyc04g008990.2
+Q10CE4	Ensembl:Solyc07g056540.2
+Q10CQ1	Ensembl:Solyc05g056620.1 Ensembl:Solyc03g114830.2 Ensembl:Solyc06g069430.2 Ensembl:Solyc02g089210.2 Ensembl:Solyc02g065730.1
+Q10CS9	Ensembl:Solyc02g069620.2
+Q10CU7	Ensembl:Solyc10g079500.1
+Q10D34	Ensembl:Solyc09g083290.2 Ensembl:Solyc01g097290.2 Ensembl:Solyc06g008590.2 Ensembl:Solyc06g053830.2
+Q10D68	Ensembl:Solyc04g076790.2 Ensembl:Solyc02g091560.2
+Q10D87	Ensembl:Solyc09g018750.2
+Q10DK7	Ensembl:Solyc04g077410.2 Ensembl:Solyc03g043890.2 Ensembl:Solyc02g063540.1 Ensembl:Solyc02g091990.2
+Q10DU0	Ensembl:Solyc10g044670.1
+Q10DZ5	Ensembl:Solyc10g083540.1 Ensembl:Solyc10g083760.1
+Q10E50	Ensembl:Solyc07g014730.2
+Q10EG4	Ensembl:Solyc09g007870.2
+Q10FE9	Ensembl:Solyc02g083260.2
+Q10G56	Ensembl:Solyc08g048450.2
+Q10H87	Ensembl:Solyc03g114790.2 Ensembl:Solyc06g069400.2
+Q10HZ6	Ensembl:Solyc04g005370.2 Ensembl:Solyc04g025410.1 Ensembl:Solyc12g005170.1 Ensembl:Solyc04g005360.1 Ensembl:Solyc08g083450.1
+Q10J20	Ensembl:Solyc02g064760.1 Ensembl:Solyc02g092760.2 Ensembl:Solyc02g092770.2 Ensembl:Solyc02g064770.2
+Q10J32	Ensembl:Solyc03g113920.2
+Q10JI3	Ensembl:Solyc02g088910.2
+Q10L50	Ensembl:Solyc01g080150.2
+Q10L51	Ensembl:Solyc01g107830.2 Ensembl:Solyc01g107820.2 Ensembl:Solyc01g107810.2 Ensembl:Solyc01g107780.2
+Q10L56	Ensembl:Solyc09g064850.2
+Q10LP5	Ensembl:Solyc09g098590.2
+Q10LR4	Ensembl:Solyc10g076250.1
+Q10MB0	Ensembl:Solyc02g084980.2 Ensembl:Solyc01g100830.1 Ensembl:Solyc02g062590.2 Ensembl:Solyc01g079170.2
+Q10MG9	Ensembl:Solyc01g059870.2 Ensembl:Solyc05g053410.2
+Q10MI9	Ensembl:Solyc01g100490.2
+Q10MQ2	Ensembl:Solyc06g073280.2
+Q10MS2	Ensembl:Solyc10g085310.1 Ensembl:Solyc10g076410.1 Ensembl:Solyc09g015380.1 Ensembl:Solyc03g095780.1 Ensembl:Solyc06g050500.2
+Q10MW3	Ensembl:Solyc10g076510.1 Ensembl:Solyc09g005110.2 Ensembl:Solyc06g082130.2
+Q10MX9	Ensembl:Solyc06g051400.2
+Q10N17	Ensembl:Solyc11g072520.1
+Q10NY1	Ensembl:Solyc04g009620.2 Ensembl:Solyc04g049350.2
+Q10NY2	Ensembl:Solyc08g029050.2 Ensembl:Solyc03g117360.2
+Q10P01	Ensembl:Solyc11g019950.1 Ensembl:Solyc08g066020.1
+Q10P67	Ensembl:Solyc01g098380.2
+Q10PE7	Ensembl:Solyc04g008440.1
+Q10PL0	Ensembl:Solyc04g077240.2 Ensembl:Solyc12g088220.1 Ensembl:Solyc07g021630.2
+Q10PY7	Ensembl:Solyc01g087150.2
+Q10QA5	Ensembl:Solyc04g077860.2
+Q10QH1	Ensembl:Solyc07g065340.1 Ensembl:Solyc10g006040.1
+Q10QN3	Ensembl:Solyc01g105460.2
+Q10QR9	Ensembl:Solyc04g079320.2
+Q10QT9	Ensembl:Solyc03g123610.2 Ensembl:Solyc03g123600.2 Ensembl:Solyc06g063090.2
+Q10RP2	Ensembl:Solyc08g068280.1 Ensembl:Solyc10g084640.1 Ensembl:Solyc08g006730.1
+Q10S55	Ensembl:Solyc01g103750.2
+Q10S58	Ensembl:Solyc02g082850.2
+Q10S67	Ensembl:Solyc04g082260.2
+Q10S72	Ensembl:Solyc12g094520.1
+Q10SD6	Ensembl:Solyc12g035190.1 Ensembl:Solyc06g071550.2
+Q10SL7	Ensembl:Solyc03g026210.2
+Q10SM6	Ensembl:Solyc01g094500.2
+Q10SM9	Ensembl:Solyc03g026210.2
+Q10SP1	Ensembl:Solyc05g050530.2
+Q10SU1	Ensembl:Solyc05g052920.2
+Q10T43	Ensembl:Solyc06g060780.2
+Q25AR2	Ensembl:Solyc09g076020.2
+Q2KNB4	Ensembl:Solyc11g065220.1
+Q2KNB5	Ensembl:Solyc11g065220.1
+Q2MJA7	Ensembl:Solyc03g083550.1 Ensembl:Solyc08g079440.1
+Q2MJA8	Ensembl:Solyc05g053790.1 Ensembl:Solyc09g092330.1
+Q2QLJ0	Ensembl:Solyc01g087250.2 Ensembl:Solyc01g087260.2
+Q2QLY5	Ensembl:Solyc01g009180.2 Ensembl:Solyc10g081510.1
+Q2QM47	Ensembl:Solyc11g071920.1 Ensembl:Solyc06g073960.2 Ensembl:Solyc01g009280.2
+Q2QM83	Ensembl:Solyc02g070400.2
+Q2QMD4	Ensembl:Solyc07g066580.2 Ensembl:Solyc02g078990.2
+Q2QME6	Ensembl:Solyc09g065520.2 Ensembl:Solyc09g082460.2
+Q2QMK8	Ensembl:Solyc02g091340.2
+Q2QN06	Ensembl:Solyc04g077980.1 Ensembl:Solyc12g088390.1
+Q2QNN5	Ensembl:Solyc01g006540.2 Ensembl:Solyc01g006560.2 Ensembl:Solyc12g011040.1
+Q2QNS6	Ensembl:Solyc09g075550.2
+Q2QPH4	Ensembl:Solyc06g084390.2
+Q2QPR0	Ensembl:Solyc09g007920.2 Ensembl:Solyc05g056170.2 Ensembl:Solyc03g042560.1 Ensembl:Solyc10g086180.1 Ensembl:Solyc09g007900.2 Ensembl:Solyc09g007890.1 Ensembl:Solyc03g071860.2 Ensembl:Solyc09g007910.2
+Q2QQJ5	Ensembl:Solyc08g005720.2 Ensembl:Solyc07g066670.2
+Q2QQX6	Ensembl:Solyc12g042070.1 Ensembl:Solyc03g118290.2
+Q2QRX6	Ensembl:Solyc01g109830.2
+Q2QS13	Ensembl:Solyc06g069550.1 Ensembl:Solyc03g115380.1
+Q2QS14	Ensembl:Solyc06g069550.1 Ensembl:Solyc03g115380.1
+Q2QTJ1	Ensembl:Solyc02g063150.2 Ensembl:Solyc02g085950.2 Ensembl:Solyc03g034220.2
+Q2QTL0	Ensembl:Solyc03g112060.2
+Q2QTQ1	Ensembl:Solyc05g055000.2
+Q2QUG4	Ensembl:Solyc01g094090.2 Ensembl:Solyc01g080930.2 Ensembl:Solyc01g108800.2
+Q2QUI0	Ensembl:Solyc01g098610.2
+Q2QVC1	Ensembl:Solyc05g012270.2
+Q2QWK9	Ensembl:Solyc01g103950.2
+Q2QX49	Ensembl:Solyc12g032950.1
+Q2QX58	Ensembl:Solyc11g018580.1
+Q2QXB1	Ensembl:Solyc01g104760.2
+Q2QXL0	Ensembl:Solyc11g068370.1 Ensembl:Solyc06g074320.2
+Q2QXP0	Ensembl:Solyc05g013020.1 Ensembl:Solyc03g115740.1
+Q2QXY1	Ensembl:Solyc10g079470.2
+Q2QXY9	Ensembl:Solyc08g014240.2 Ensembl:Solyc06g053400.2 Ensembl:Solyc08g014130.2 Ensembl:Solyc08g014230.2
+Q2QY63	Ensembl:Solyc01g087870.2
+Q2QYB7	Ensembl:Solyc11g072010.1
+Q2QYW4	Ensembl:Solyc06g007140.2 Ensembl:Solyc06g007130.2
+Q2QZ14	Ensembl:Solyc06g076410.2 Ensembl:Solyc06g005750.2
+Q2R0P3	Ensembl:Solyc10g079110.1 Ensembl:Solyc03g063880.2 Ensembl:Solyc11g065890.1
+Q2R1D5	Ensembl:Solyc04g074230.2
+Q2R1G8	Ensembl:Solyc04g054890.2
+Q2R1L4	Ensembl:Solyc06g060100.2 Ensembl:Solyc02g063220.2 Ensembl:Solyc02g086090.2
+Q2R2W1	Ensembl:Solyc01g005300.2
+Q2R2W2	Ensembl:Solyc02g063070.2 Ensembl:Solyc03g034180.2
+Q2R2W3	Ensembl:Solyc07g014730.2
+Q2R2W8	Ensembl:Solyc02g092210.1 Ensembl:Solyc03g043920.2
+Q2R339	Ensembl:Solyc01g073740.2
+Q2R3A1	Ensembl:Solyc05g053550.2 Ensembl:Solyc09g091510.2
+Q2R3F5	Ensembl:Solyc12g042070.1 Ensembl:Solyc03g118290.2
+Q2R3K3	Ensembl:Solyc03g098220.2 Ensembl:Solyc06g072320.2 Ensembl:Solyc06g030590.1
+Q2R432	Ensembl:Solyc02g094270.1 Ensembl:Solyc05g015850.2
+Q2R481	Ensembl:Solyc01g109830.2
+Q2R4Y8	Ensembl:Solyc05g032820.1
+Q2R8T7	Ensembl:Solyc02g093440.2
+Q2RA11	Ensembl:Solyc12g032950.1
+Q2RAM8	Ensembl:Solyc12g098600.1 Ensembl:Solyc09g092500.1 Ensembl:Solyc05g053820.2 Ensembl:Solyc12g098590.1 Ensembl:Solyc09g092480.1
+Q2RAP0	Ensembl:Solyc10g079470.2
+Q2RAP4	Ensembl:Solyc06g051750.2
+Q2RAP8	Ensembl:Solyc08g014240.2 Ensembl:Solyc06g053400.2 Ensembl:Solyc08g014130.2 Ensembl:Solyc08g014230.2
+Q2RAW4	Ensembl:Solyc01g096720.2 Ensembl:Solyc01g058360.1 Ensembl:Solyc01g096740.2 Ensembl:Solyc10g076940.1 Ensembl:Solyc01g096730.2
+Q2RAW8	Ensembl:Solyc01g096720.2 Ensembl:Solyc01g096740.2 Ensembl:Solyc10g076940.1 Ensembl:Solyc01g096730.2
+Q2RB23	Ensembl:Solyc11g072010.1
+Q2RBP1	Ensembl:Solyc06g007140.2 Ensembl:Solyc06g007130.2
+Q2RBP2	Ensembl:Solyc09g055230.2 Ensembl:Solyc06g051460.2
+Q2V0P1	Ensembl:Solyc06g064840.2 Ensembl:Solyc11g028020.1
+Q336M7	Ensembl:Solyc08g076300.2
+Q336N7	Ensembl:Solyc08g076410.2
+Q336P5	Ensembl:Solyc08g005050.2 Ensembl:Solyc08g076930.1
+Q336R6	Ensembl:Solyc10g061930.1 Ensembl:Solyc10g061940.1
+Q336U3	Ensembl:Solyc02g089630.2 Ensembl:Solyc02g089620.2
+Q336V3	Ensembl:Solyc10g083790.1
+Q336X9	Ensembl:Solyc01g094960.2 Ensembl:Solyc05g049970.2 Ensembl:Solyc08g081490.2
+Q337F0	Ensembl:Solyc01g094200.2
+Q337F3	Ensembl:Solyc05g052920.2
+Q337H3	Ensembl:Solyc07g005580.2
+Q338J0	Ensembl:Solyc03g045020.2
+Q338N8	Ensembl:Solyc03g123610.2 Ensembl:Solyc03g123600.2 Ensembl:Solyc06g063090.2
+Q338Z4	Ensembl:Solyc03g113780.2 Ensembl:Solyc03g113770.2
+Q339V1	Ensembl:Solyc01g098840.2
+Q33AE4	Ensembl:Solyc03g006870.2
+Q33CD8	Ensembl:Solyc01g080150.2
+Q33CD9	Ensembl:Solyc01g080150.2
+Q40704	Ensembl:Solyc06g064840.2 Ensembl:Solyc11g028020.1
+Q40710	Ensembl:Solyc02g084980.2 Ensembl:Solyc01g100830.1 Ensembl:Solyc02g062590.2 Ensembl:Solyc01g079170.2
+Q42982	Ensembl:Solyc03g097030.2
+Q43007	Ensembl:Solyc08g066790.2 Ensembl:Solyc08g066800.2
+Q43009	Ensembl:Solyc07g042550.2 Ensembl:Solyc07g042520.2 Ensembl:Solyc12g009300.1
+Q43011	Ensembl:Solyc04g055200.2
+Q52RG7	Ensembl:Solyc05g015860.2
+Q53L28	Ensembl:Solyc12g019310.1 Ensembl:Solyc12g019300.1 Ensembl:Solyc11g008780.1
+Q53M09	Ensembl:Solyc01g102660.2
+Q53MS9	Ensembl:Solyc06g073460.2
+Q53Q70	Ensembl:Solyc11g068370.1 Ensembl:Solyc06g074320.2
+Q53RH0	Ensembl:Solyc09g075440.2
+Q5CCK1	Ensembl:Solyc06g051750.2
+Q5CCK3	Ensembl:Solyc02g085360.2
+Q5JK17	Ensembl:Solyc06g068870.2 Ensembl:Solyc03g118310.2
+Q5JK18	Ensembl:Solyc01g005240.2
+Q5JK20	Ensembl:Solyc12g042070.1 Ensembl:Solyc03g118290.2
+Q5JK39	Ensembl:Solyc03g098220.2 Ensembl:Solyc06g072320.2 Ensembl:Solyc06g030590.1
+Q5JLS4	Ensembl:Solyc07g064960.1 Ensembl:Solyc03g005410.2 Ensembl:Solyc09g083330.2
+Q5JMA1	Ensembl:Solyc02g071040.2
+Q5JMA6	Ensembl:Solyc12g008790.1
+Q5JMB6	Ensembl:Solyc02g069750.1 Ensembl:Solyc04g072020.2
+Q5JME6	Ensembl:Solyc02g067930.2
+Q5JMM1	Ensembl:Solyc02g077560.2
+Q5JMT5	Ensembl:Solyc12g032950.1
+Q5JMX5	Ensembl:Solyc07g049740.2
+Q5JMX9	Ensembl:Solyc07g044730.2 Ensembl:Solyc06g054520.1 Ensembl:Solyc07g044710.1 Ensembl:Solyc12g011160.1 Ensembl:Solyc07g044720.1 Ensembl:Solyc07g043680.2
+Q5JN19	Ensembl:Solyc02g088460.2
+Q5JN42	Ensembl:Solyc01g104880.2
+Q5JN63	Ensembl:Solyc02g072240.2
+Q5JNB0	Ensembl:Solyc08g014340.2
+Q5KQI0	Ensembl:Solyc10g074790.1
+Q5KS47	Ensembl:Solyc04g072570.2
+Q5MBR3	Ensembl:Solyc07g056570.1 Ensembl:Solyc08g016720.1
+Q5MBR5	Ensembl:Solyc07g056570.1 Ensembl:Solyc08g016720.1
+Q5N725	Ensembl:Solyc09g009260.2 Ensembl:Solyc10g083570.1
+Q5N7C7	Ensembl:Solyc11g068370.1 Ensembl:Solyc06g074320.2
+Q5N7L0	Ensembl:Solyc04g007240.1 Ensembl:Solyc05g009410.1
+Q5N7Z8	Ensembl:Solyc03g111940.2 Ensembl:Solyc03g111930.2 Ensembl:Solyc03g112040.1 Ensembl:Solyc03g111920.1 Ensembl:Solyc03g111950.2 Ensembl:Solyc03g112030.1 Ensembl:Solyc03g111990.2 Ensembl:Solyc03g111970.2 Ensembl:Solyc03g112010.2 Ensembl:Solyc03g111880.2
+Q5N8F6	Ensembl:Solyc06g083980.1
+Q5N8G1	Ensembl:Solyc01g102820.2
+Q5N8H9	Ensembl:Solyc08g062950.2
+Q5N9A1	Ensembl:Solyc10g005290.2
+Q5N9N2	Ensembl:Solyc03g096670.2 Ensembl:Solyc06g076400.2 Ensembl:Solyc05g052980.2
+Q5N9Z8	Ensembl:Solyc04g054710.2
+Q5NA12	Ensembl:Solyc05g054660.1 Ensembl:Solyc05g054650.1
+Q5NA81	Ensembl:Solyc07g053570.2
+Q5NAY4	Ensembl:Solyc02g071890.2
+Q5NB25	Ensembl:Solyc03g120500.2 Ensembl:Solyc12g007230.1
+Q5NBQ1	Ensembl:Solyc10g005930.1
+Q5NBT9	Ensembl:Solyc01g100050.2
+Q5NTH3	Ensembl:Solyc04g051860.2
+Q5NTH4	Ensembl:Solyc04g051860.2
+Q5QLG3	Ensembl:Solyc03g120430.2
+Q5QN02	Ensembl:Solyc11g006340.1
+Q5QNB8	Ensembl:Solyc12g010860.1 Ensembl:Solyc07g053260.2
+Q5SND7	Ensembl:Solyc05g018130.2
+Q5U9F2	Ensembl:Solyc09g009780.2
+Q5VMP0	Ensembl:Solyc07g055120.2 Ensembl:Solyc12g010900.1
+Q5VMP2	Ensembl:Solyc10g079830.1
+Q5VN31	Ensembl:Solyc07g064830.2
+Q5VNP5	Ensembl:Solyc01g109720.2
+Q5VNW0	Ensembl:Solyc01g091190.2 Ensembl:Solyc05g050980.2
+Q5VPH2	Ensembl:Solyc02g084210.1 Ensembl:Solyc03g118270.1
+Q5VQG8	Ensembl:Solyc06g071640.2 Ensembl:Solyc05g031600.1 Ensembl:Solyc03g112460.2
+Q5VRB9	Ensembl:Solyc06g065630.2
+Q5VRH4	Ensembl:Solyc12g014100.1
+Q5VRM7	Ensembl:Solyc01g080900.2 Ensembl:Solyc08g007050.1 Ensembl:Solyc12g006460.1
+Q5VRR2	Ensembl:Solyc04g078640.1
+Q5W670	Ensembl:Solyc03g121060.2
+Q5W6F9	Ensembl:Solyc12g008740.1 Ensembl:Solyc07g026900.1
+Q5W6H5	Ensembl:Solyc09g014760.2
+Q5W6W7	Ensembl:Solyc12g009040.1 Ensembl:Solyc07g045290.2
+Q5XLJ2	Ensembl:Solyc01g073740.2
+Q5Z5B7	Ensembl:Solyc02g081330.2 Ensembl:Solyc03g031860.2
+Q5Z5R4	Ensembl:Solyc04g083160.1
+Q5Z678	Ensembl:Solyc10g079640.1
+Q5Z6D3	Ensembl:Solyc03g005160.2 Ensembl:Solyc09g075940.2 Ensembl:Solyc09g075930.1
+Q5Z6E5	Ensembl:Solyc05g053560.2
+Q5Z749	Ensembl:Solyc03g120500.2 Ensembl:Solyc12g007230.1
+Q5Z7R3	Ensembl:Solyc12g088000.1 Ensembl:Solyc10g007110.2 Ensembl:Solyc12g096240.1 Ensembl:Solyc07g053720.2
+Q5Z807	Ensembl:Solyc12g009390.1
+Q5Z8K3	Ensembl:Solyc07g017750.2
+Q5Z8S0	Ensembl:Solyc08g065410.1 Ensembl:Solyc12g095970.1
+Q5Z8V9	Ensembl:Solyc08g069030.2
+Q5Z8Y4	Ensembl:Solyc04g058070.2
+Q5ZCV1	Ensembl:Solyc01g067750.2
+Q5ZED1	Ensembl:Solyc05g054490.2
+Q5ZEL4	Ensembl:Solyc10g076600.1 Ensembl:Solyc10g085200.1
+Q60EH4	Ensembl:Solyc05g052620.2
+Q60EI7	Ensembl:Solyc01g109370.2 Ensembl:Solyc04g079880.2
+Q60EX6	Ensembl:Solyc09g074320.2
+Q64MA9	Ensembl:Solyc08g007790.2 Ensembl:Solyc08g080170.2 Ensembl:Solyc12g056450.1
+Q650W1	Ensembl:Solyc11g066890.1 Ensembl:Solyc06g074530.1
+Q651F0	Ensembl:Solyc02g083590.2
+Q652A8	Ensembl:Solyc08g080570.2
+Q652S1	Ensembl:Solyc03g118640.2
+Q653D9	Ensembl:Solyc10g079830.1
+Q653T6	Ensembl:Solyc08g023470.2
+Q653U3	Ensembl:Solyc07g043620.2
+Q655T1	Ensembl:Solyc07g066600.2
+Q655T6	Ensembl:Solyc02g068740.2
+Q655W2	Ensembl:Solyc10g005510.2
+Q655Y9	Ensembl:Solyc01g106010.2
+Q656F1	Ensembl:Solyc07g006330.1
+Q657X7	Ensembl:Solyc08g007310.2 Ensembl:Solyc08g078450.2
+Q65XC6	Ensembl:Solyc08g068160.1
+Q65XK0	Ensembl:Solyc12g010840.1 Ensembl:Solyc07g053280.2
+Q65XL7	Ensembl:Solyc08g081990.2 Ensembl:Solyc10g011690.2
+Q65XM9	Ensembl:Solyc10g005810.2 Ensembl:Solyc12g015860.1 Ensembl:Solyc10g005840.2
+Q65XR9	Ensembl:Solyc08g066790.2 Ensembl:Solyc08g066800.2
+Q67IU5	Ensembl:Solyc07g017950.2
+Q67TQ5	Ensembl:Solyc11g044560.1 Ensembl:Solyc01g108080.2 Ensembl:Solyc04g078840.2 Ensembl:Solyc10g050210.1
+Q67TS1	Ensembl:Solyc08g077080.1 Ensembl:Solyc01g107820.2 Ensembl:Solyc01g107810.2 Ensembl:Solyc01g107830.2 Ensembl:Solyc01g107780.2 Ensembl:Solyc12g088710.1
+Q67TS4	Ensembl:Solyc08g077080.1 Ensembl:Solyc01g107820.2 Ensembl:Solyc01g107810.2 Ensembl:Solyc01g107830.2 Ensembl:Solyc01g107780.2 Ensembl:Solyc12g088710.1
+Q67UX0	Ensembl:Solyc07g017750.2
+Q67UZ8	Ensembl:Solyc12g096440.1 Ensembl:Solyc11g013490.1 Ensembl:Solyc08g069060.2
+Q67VM1	Ensembl:Solyc12g096190.1
+Q67VR7	Ensembl:Solyc08g080040.2
+Q67W29	Ensembl:Solyc01g098380.2
+Q67W82	Ensembl:Solyc07g008360.1 Ensembl:Solyc06g068650.2 Ensembl:Solyc12g042460.1 Ensembl:Solyc03g117870.2
+Q67WK8	Ensembl:Solyc01g010860.2 Ensembl:Solyc05g007460.2
+Q67WR2	Ensembl:Solyc07g006070.1
+Q688L9	Ensembl:Solyc12g008740.1 Ensembl:Solyc07g026900.1
+Q688Q8	Ensembl:Solyc08g080370.2
+Q688Q9	Ensembl:Solyc08g081010.2
+Q688T8	Ensembl:Solyc07g019440.2 Ensembl:Solyc01g109790.2
+Q688Y2	Ensembl:Solyc10g006980.2
+Q689G6	Ensembl:Solyc03g081240.2
+Q689G9	Ensembl:Solyc06g069690.2 Ensembl:Solyc03g115770.2
+Q69IM7	Ensembl:Solyc06g073390.2
+Q69K00	Ensembl:Solyc01g111120.2 Ensembl:Solyc10g054870.1
+Q69KM5	Ensembl:Solyc12g010540.1 Ensembl:Solyc07g006220.1
+Q69KW1	Ensembl:Solyc03g005160.2 Ensembl:Solyc09g075940.2 Ensembl:Solyc09g075930.1
+Q69L93	Ensembl:Solyc06g076410.2 Ensembl:Solyc06g005750.2
+Q69LG7	Ensembl:Solyc11g040390.1 Ensembl:Solyc06g064550.2
+Q69MC9	Ensembl:Solyc09g010970.2
+Q69P51	Ensembl:Solyc07g005840.2
+Q69P84	Ensembl:Solyc03g122310.2
+Q69P94	Ensembl:Solyc07g042170.2
+Q69QD7	Ensembl:Solyc08g066820.2
+Q69RG7	Ensembl:Solyc03g111170.2
+Q69RJ0	Ensembl:Solyc03g063560.2
+Q69T90	Ensembl:Solyc10g074590.1
+Q69T99	Ensembl:Solyc12g011120.1 Ensembl:Solyc07g056140.2
+Q69TF4	Ensembl:Solyc12g056270.1 Ensembl:Solyc08g080920.2
+Q69TH6	Ensembl:Solyc04g039920.1
+Q69TT1	Ensembl:Solyc05g026490.2
+Q69TW5	Ensembl:Solyc11g044560.1 Ensembl:Solyc01g108080.2 Ensembl:Solyc04g078840.2 Ensembl:Solyc10g050210.1
+Q69U01	Ensembl:Solyc12g039070.1 Ensembl:Solyc03g114530.2 Ensembl:Solyc03g114540.1 Ensembl:Solyc03g114560.2
+Q69U93	Ensembl:Solyc06g073470.2
+Q69UF5	Ensembl:Solyc12g098590.1 Ensembl:Solyc12g098600.1 Ensembl:Solyc05g053820.2 Ensembl:Solyc07g008230.1 Ensembl:Solyc09g092480.1 Ensembl:Solyc09g092500.1 Ensembl:Solyc01g066100.1 Ensembl:Solyc12g098580.1
+Q69UU3	Ensembl:Solyc05g013380.2 Ensembl:Solyc01g007940.2
+Q69UX2	Ensembl:Solyc01g010860.2 Ensembl:Solyc05g007460.2
+Q69XD3	Ensembl:Solyc12g098590.1 Ensembl:Solyc12g098600.1 Ensembl:Solyc05g053820.2 Ensembl:Solyc07g008230.1 Ensembl:Solyc09g092480.1 Ensembl:Solyc09g092500.1 Ensembl:Solyc01g066100.1 Ensembl:Solyc12g098580.1
+Q69XJ0	Ensembl:Solyc08g060920.2 Ensembl:Solyc12g009480.1
+Q6ASW7	Ensembl:Solyc06g010000.2 Ensembl:Solyc11g069160.1
+Q6AT26	Ensembl:Solyc08g061100.2
+Q6AT32	Ensembl:Solyc08g068430.2 Ensembl:Solyc11g071230.1
+Q6AT33	Ensembl:Solyc03g120500.2 Ensembl:Solyc12g007230.1
+Q6AT43	Ensembl:Solyc02g091970.2 Ensembl:Solyc03g043880.2
+Q6ATR2	Ensembl:Solyc01g080150.2
+Q6AUB0	Ensembl:Solyc05g055760.2 Ensembl:Solyc04g056390.2
+Q6AUJ8	Ensembl:Solyc10g076510.1 Ensembl:Solyc09g005110.2 Ensembl:Solyc06g082130.2
+Q6AUV1	Ensembl:Solyc11g065930.1 Ensembl:Solyc11g065920.1
+Q6AV34	Ensembl:Solyc01g108660.2
+Q6AVG6	Ensembl:Solyc01g109300.2
+Q6AVM5	Ensembl:Solyc10g081350.1 Ensembl:Solyc10g076920.1
+Q6AVT2	Ensembl:Solyc01g079790.2
+Q6EP31	Ensembl:Solyc01g111560.2
+Q6EP59	Ensembl:Solyc01g105350.1 Ensembl:Solyc01g105360.2 Ensembl:Solyc04g074380.2 Ensembl:Solyc12g057060.1 Ensembl:Solyc04g074360.1 Ensembl:Solyc04g074350.2 Ensembl:Solyc12g057070.1 Ensembl:Solyc04g074330.2 Ensembl:Solyc04g074340.2 Ensembl:Solyc04g074390.2 Ensembl:Solyc12g057080.1
+Q6EP66	Ensembl:Solyc04g015150.2
+Q6EP77	Ensembl:Solyc08g007830.1 Ensembl:Solyc03g026270.1 Ensembl:Solyc12g056430.1 Ensembl:Solyc08g007820.1 Ensembl:Solyc03g124110.1 Ensembl:Solyc03g026280.2
+Q6EPN6	Ensembl:Solyc08g081570.2
+Q6EPR6	Ensembl:Solyc07g065020.2
+Q6EPY7	Ensembl:Solyc09g009830.2
+Q6EPZ2	Ensembl:Solyc03g116890.2 Ensembl:Solyc06g068460.2
+Q6EQW2	Ensembl:Solyc07g062030.2
+Q6ERL4	Ensembl:Solyc02g091900.2
+Q6ERR3	Ensembl:Solyc06g068440.2 Ensembl:Solyc03g116910.2
+Q6ESJ0	Ensembl:Solyc08g080940.2
+Q6ESZ9	Ensembl:Solyc04g071140.2
+Q6ET36	Ensembl:Solyc08g005710.2 Ensembl:Solyc06g084240.1
+Q6ET88	Ensembl:Solyc09g008920.2
+Q6ETD3	Ensembl:Solyc03g083910.2 Ensembl:Solyc08g079080.2
+Q6ETN1	Ensembl:Solyc02g079040.2 Ensembl:Solyc10g009210.2
+Q6ETN3	Ensembl:Solyc07g008360.1 Ensembl:Solyc06g068650.2 Ensembl:Solyc12g042460.1 Ensembl:Solyc03g117870.2
+Q6ETX4	Ensembl:Solyc06g051410.2 Ensembl:Solyc02g076760.2
+Q6EUF1	Ensembl:Solyc02g071990.2 Ensembl:Solyc03g005990.2
+Q6EUNO	Ensembl:Solyc03g114600.2 Ensembl:Solyc05g010280.2 Ensembl:Solyc03g113050.1
+Q6EUP4	Ensembl:Solyc02g063070.2 Ensembl:Solyc03g034180.2
+Q6EUS6	Ensembl:Solyc07g055210.2
+Q6F361	Ensembl:Solyc07g062650.2 Ensembl:Solyc12g014180.1
+Q6H415	Ensembl:Solyc06g071280.2
+Q6H4G3	Ensembl:Solyc04g055030.1 Ensembl:Solyc04g055020.1
+Q6H513	Ensembl:Solyc02g068430.2
+Q6H5U3	Ensembl:Solyc10g009030.2
+Q6H5Z4	Ensembl:Solyc08g065410.1 Ensembl:Solyc12g095970.1
+Q6H6C7	Ensembl:Solyc07g066600.2
+Q6H6D2	Ensembl:Solyc07g066470.2
+Q6H6G1	Ensembl:Solyc11g005620.1
+Q6H6I1	Ensembl:Solyc06g060790.1
+Q6H703	Ensembl:Solyc10g005510.2
+Q6H713	Ensembl:Solyc02g068740.2
+Q6H765	Ensembl:Solyc05g013020.1 Ensembl:Solyc03g115740.1
+Q6H7M1	Ensembl:Solyc04g014730.2 Ensembl:Solyc11g012160.1
+Q6H7Q6	Ensembl:Solyc01g006540.2 Ensembl:Solyc01g006560.2 Ensembl:Solyc12g011040.1
+Q6H819	Ensembl:Solyc11g017240.1
+Q6H849	Ensembl:Solyc11g068730.1
+Q6H851	Ensembl:Solyc11g068730.1
+Q6I581	Ensembl:Solyc05g050280.2 Ensembl:Solyc10g009600.1 Ensembl:Solyc10g011660.2 Ensembl:Solyc10g011650.2 Ensembl:Solyc10g009640.1 Ensembl:Solyc01g095580.2 Ensembl:Solyc10g009620.1 Ensembl:Solyc10g009610.1 Ensembl:Solyc06g048710.1
+Q6I5C3	Ensembl:Solyc03g007310.2 Ensembl:Solyc08g082180.2 Ensembl:Solyc01g095700.2 Ensembl:Solyc12g055990.1
+Q6IEQ7	Ensembl:Solyc06g066370.2 Ensembl:Solyc09g014990.2
+Q6IVC3	Ensembl:Solyc01g008730.2 Ensembl:Solyc10g080780.1 Ensembl:Solyc11g064950.1 Ensembl:Solyc10g080770.1
+Q6K1S6	Ensembl:Solyc06g053610.2 Ensembl:Solyc03g005570.2 Ensembl:Solyc06g083900.2 Ensembl:Solyc05g055030.1 Ensembl:Solyc09g090130.2
+Q6K1X7	Ensembl:Solyc12g019310.1 Ensembl:Solyc11g008780.1
+Q6K2E1	Ensembl:Solyc12g055930.1 Ensembl:Solyc08g082440.2
+Q6K2E8	Ensembl:Solyc03g044330.1 Ensembl:Solyc07g061940.2 Ensembl:Solyc06g059880.2
+Q6K306	Ensembl:Solyc03g111850.2
+Q6K3T2	Ensembl:Solyc08g016500.2 Ensembl:Solyc02g070530.2
+Q6K3Z3	Ensembl:Solyc07g045350.2 Ensembl:Solyc05g017760.2
+Q6K4Q5	Ensembl:Solyc07g006710.1
+Q6K4V9	Ensembl:Solyc01g009310.2 Ensembl:Solyc06g074090.2
+Q6K548	Ensembl:Solyc03g113210.2
+Q6K5G8	Ensembl:Solyc05g005820.2
+Q6K5U4	Ensembl:Solyc12g088000.1 Ensembl:Solyc10g007110.2 Ensembl:Solyc12g096240.1 Ensembl:Solyc07g053720.2
+Q6K6Q0	Ensembl:Solyc09g007920.2 Ensembl:Solyc05g056170.2 Ensembl:Solyc03g042560.1 Ensembl:Solyc10g086180.1 Ensembl:Solyc09g007900.2 Ensembl:Solyc09g007890.1 Ensembl:Solyc03g071860.2 Ensembl:Solyc09g007910.2
+Q6K6Q1	Ensembl:Solyc09g007920.2 Ensembl:Solyc05g056170.2 Ensembl:Solyc03g042560.1 Ensembl:Solyc10g086180.1 Ensembl:Solyc09g007900.2 Ensembl:Solyc09g007890.1 Ensembl:Solyc03g071860.2 Ensembl:Solyc09g007910.2
+Q6K755	Ensembl:Solyc01g105350.1 Ensembl:Solyc01g105360.2 Ensembl:Solyc04g074380.2 Ensembl:Solyc12g057060.1 Ensembl:Solyc04g074360.1 Ensembl:Solyc04g074350.2 Ensembl:Solyc12g057070.1 Ensembl:Solyc04g074330.2 Ensembl:Solyc04g074340.2 Ensembl:Solyc04g074390.2 Ensembl:Solyc12g057080.1
+Q6K7P2	Ensembl:Solyc01g008230.2 Ensembl:Solyc04g009180.1
+Q6K7V6	Ensembl:Solyc08g068570.2
+Q6K8E2	Ensembl:Solyc04g074980.2
+Q6K8E7	Ensembl:Solyc11g019950.1 Ensembl:Solyc08g066020.1
+Q6K8J4	Ensembl:Solyc11g069380.1
+Q6K969	Ensembl:Solyc04g008760.1
+Q6K973	Ensembl:Solyc02g081300.2 Ensembl:Solyc03g098290.2
+Q6K9B8	Ensembl:Solyc01g010050.2 Ensembl:Solyc02g089610.1 Ensembl:Solyc05g010420.1
+Q6K9M5	Ensembl:Solyc12g010540.1 Ensembl:Solyc07g006220.1
+Q6K9N6	Ensembl:Solyc06g083790.2
+Q6K9X3	Ensembl:Solyc10g085830.1
+Q6KAJ2	Ensembl:Solyc08g041870.2
+Q6L4G2	Ensembl:Solyc04g007240.1 Ensembl:Solyc05g009410.1
+Q6L4H5	Ensembl:Solyc03g121910.1 Ensembl:Solyc06g062840.2
+Q6L4L4	Ensembl:Solyc06g010000.2 Ensembl:Solyc11g069160.1
+Q6L4R0	Ensembl:Solyc03g121510.2
+Q6L4R7	Ensembl:Solyc12g096020.1 Ensembl:Solyc08g062650.2
+Q6L506	Ensembl:Solyc11g073160.1
+Q6L540	Ensembl:Solyc03g044120.1
+Q6L545	Ensembl:Solyc06g008870.2 Ensembl:Solyc01g098390.2 Ensembl:Solyc09g074270.2
+Q6L8G1	Ensembl:Solyc02g069210.2 Ensembl:Solyc02g069190.2 Ensembl:Solyc02g069200.1
+Q6MWK9	Ensembl:Solyc09g066350.1 Ensembl:Solyc09g089920.1 Ensembl:Solyc03g005510.1
+Q6Q9I2	Ensembl:Solyc05g056620.1 Ensembl:Solyc03g114830.2 Ensembl:Solyc06g069430.2 Ensembl:Solyc02g089210.2 Ensembl:Solyc02g065730.1
+Q6QHD1	Ensembl:Solyc03g116890.2 Ensembl:Solyc08g067340.2 Ensembl:Solyc06g068460.2 Ensembl:Solyc08g067360.2
+Q6VMN7	Ensembl:Solyc11g044840.1
+Q6YPG5	Ensembl:Solyc03g093240.2
+Q6YS33	Ensembl:Solyc01g005240.2
+Q6YS36	Ensembl:Solyc03g118280.1
+Q6YSA1	Ensembl:Solyc03g098070.2 Ensembl:Solyc06g072360.2 Ensembl:Solyc05g054030.2 Ensembl:Solyc01g005060.2
+Q6YSF8	Ensembl:Solyc01g106640.2 Ensembl:Solyc09g007020.1 Ensembl:Solyc01g106610.2 Ensembl:Solyc01g106620.2 Ensembl:Solyc01g106600.2 Ensembl:Solyc09g007010.1
+Q6YT73	Ensembl:Solyc07g056540.2
+Q6YTI6	Ensembl:Solyc12g096440.1 Ensembl:Solyc11g013490.1 Ensembl:Solyc08g069060.2
+Q6YTT3	Ensembl:Solyc04g074480.2 Ensembl:Solyc11g009080.1
+Q6YU51	Ensembl:Solyc11g010850.1
+Q6YU90	Ensembl:Solyc01g111630.2
+Q6YUS0	Ensembl:Solyc01g112290.2
+Q6YUS3	Ensembl:Solyc08g062780.1
+Q6YUU2	Ensembl:Solyc10g079480.1 Ensembl:Solyc04g040190.1 Ensembl:Solyc06g074240.1
+Q6YV04	Ensembl:Solyc09g091440.2
+Q6YV23	Ensembl:Solyc03g115630.2
+Q6YVI0	Ensembl:Solyc04g080610.2 Ensembl:Solyc12g089210.1
+Q6YVT1	Ensembl:Solyc01g014480.2 Ensembl:Solyc01g006650.1
+Q6YVY0	Ensembl:Solyc01g103050.2
+Q6YVY6	Ensembl:Solyc02g088910.2
+Q6YWE1	Ensembl:Solyc01g080150.2
+Q6YWS8	Ensembl:Solyc03g114600.2 Ensembl:Solyc05g010280.2 Ensembl:Solyc03g113050.1
+Q6YWY7	Ensembl:Solyc01g010860.2 Ensembl:Solyc05g007460.2
+Q6YXC2	Ensembl:Solyc12g057040.1 Ensembl:Solyc04g074180.2
+Q6YXI1	Ensembl:Solyc04g076090.2
+Q6YXW6	Ensembl:Solyc01g006740.2 Ensembl:Solyc10g081660.1
+Q6YYY7	Ensembl:Solyc04g080940.2
+Q6YYZ2	Ensembl:Solyc08g076300.2
+Q6YZ18	Ensembl:Solyc07g054860.1 Ensembl:Solyc07g054280.1
+Q6YZ76	Ensembl:Solyc06g075060.1 Ensembl:Solyc11g069640.1 Ensembl:Solyc06g075070.2 Ensembl:Solyc06g075050.1
+Q6YZE2	Ensembl:Solyc04g009200.2
+Q6YZH8	Ensembl:Solyc12g043020.1 Ensembl:Solyc05g053540.2
+Q6YZX7	Ensembl:Solyc02g091240.1
+Q6Z0T7	Ensembl:Solyc10g079830.1
+Q6Z156	Ensembl:Solyc05g055940.2 Ensembl:Solyc06g008200.2 Ensembl:Solyc09g072830.2
+Q6Z2L5	Ensembl:Solyc10g024410.1
+Q6Z2T6	Ensembl:Solyc03g115980.1
+Q6Z2T9	Ensembl:Solyc11g007600.1
+Q6Z312	Ensembl:Solyc11g044560.1 Ensembl:Solyc01g108080.2 Ensembl:Solyc04g078840.2 Ensembl:Solyc10g050210.1
+Q6Z351	Ensembl:Solyc01g088180.1
+Q6Z368	Ensembl:Solyc01g110290.2 Ensembl:Solyc10g079040.1 Ensembl:Solyc10g079060.1 Ensembl:Solyc10g054130.1
+Q6Z398	Ensembl:Solyc04g081400.2
+Q6Z3A4	Ensembl:Solyc08g080370.2
+Q6Z3F1	Ensembl:Solyc04g008500.2
+Q6Z3F9	Ensembl:Solyc01g112060.2
+Q6Z3X5	Ensembl:Solyc05g054640.2 Ensembl:Solyc04g011350.2
+Q6Z3Y3	Ensembl:Solyc11g072520.1
+Q6Z414	Ensembl:Solyc10g008700.1 Ensembl:Solyc07g054840.2
+Q6Z434	Ensembl:Solyc06g063290.2
+Q6Z4E7	Ensembl:Solyc10g083750.1 Ensembl:Solyc05g016320.1 Ensembl:Solyc09g008720.1 Ensembl:Solyc10g085730.1 Ensembl:Solyc07g045120.1
+Q6Z4F3	Ensembl:Solyc11g007780.1
+Q6Z4U1	Ensembl:Solyc12g039070.1 Ensembl:Solyc03g114530.2 Ensembl:Solyc03g114540.1 Ensembl:Solyc03g114560.2
+Q6Z5B5	Ensembl:Solyc12g039070.1 Ensembl:Solyc03g114530.2 Ensembl:Solyc03g114540.1 Ensembl:Solyc03g114560.2
+Q6Z5M3	Ensembl:Solyc02g092210.1 Ensembl:Solyc03g043920.2
+Q6Z684	Ensembl:Solyc01g105350.1 Ensembl:Solyc01g105360.2 Ensembl:Solyc04g074380.2 Ensembl:Solyc12g057060.1 Ensembl:Solyc04g074360.1 Ensembl:Solyc04g074350.2 Ensembl:Solyc12g057070.1 Ensembl:Solyc04g074330.2 Ensembl:Solyc04g074340.2 Ensembl:Solyc04g074390.2 Ensembl:Solyc12g057080.1
+Q6Z6K9	Ensembl:Solyc01g109150.2 Ensembl:Solyc10g007960.1 Ensembl:Solyc01g109160.2 Ensembl:Solyc01g109140.2
+Q6Z6L1	Ensembl:Solyc01g109150.2 Ensembl:Solyc10g007960.1 Ensembl:Solyc01g109160.2 Ensembl:Solyc01g109140.2
+Q6Z6S7	Ensembl:Solyc02g077320.2
+Q6Z702	Ensembl:Solyc03g005730.2 Ensembl:Solyc09g090900.2
+Q6Z744	Ensembl:Solyc03g097910.2
+Q6Z795	Ensembl:Solyc06g049010.1 Ensembl:Solyc12g009560.1 Ensembl:Solyc08g060810.2 Ensembl:Solyc07g008250.2
+Q6Z7F5	Ensembl:Solyc01g102660.2
+Q6Z7I3	Ensembl:Solyc03g118930.2
+Q6Z836	Ensembl:Solyc01g056580.2 Ensembl:Solyc12g014530.1
+Q6Z8F4	Ensembl:Solyc08g076220.2
+Q6Z8S2	Ensembl:Solyc12g039070.1 Ensembl:Solyc03g114530.2 Ensembl:Solyc03g114540.1 Ensembl:Solyc03g114560.2
+Q6Z8Z7	Ensembl:Solyc07g049690.2
+Q6Z965	Ensembl:Solyc07g007870.2
+Q6Z9A3	Ensembl:Solyc09g011220.2
+Q6Z9E6	Ensembl:Solyc11g017240.1
+Q6ZAC1	Ensembl:Solyc07g008360.1 Ensembl:Solyc06g068650.2 Ensembl:Solyc12g042460.1 Ensembl:Solyc03g117870.2
+Q6ZAH2	Ensembl:Solyc03g114300.2
+Q6ZB59	Ensembl:Solyc03g112410.1 Ensembl:Solyc06g071680.2
+Q6ZB94	Ensembl:Solyc04g076090.2
+Q6ZBE1	Ensembl:Solyc01g105350.1 Ensembl:Solyc01g105360.2 Ensembl:Solyc04g074380.2 Ensembl:Solyc12g057060.1 Ensembl:Solyc04g074360.1 Ensembl:Solyc04g074350.2 Ensembl:Solyc12g057070.1 Ensembl:Solyc04g074330.2 Ensembl:Solyc04g074340.2 Ensembl:Solyc04g074390.2 Ensembl:Solyc12g057080.1
+Q6ZBH5	Ensembl:Solyc08g007790.2 Ensembl:Solyc08g080170.2 Ensembl:Solyc12g056450.1
+Q6ZC33	Ensembl:Solyc11g013810.1
+Q6ZCF0	Ensembl:Solyc08g014610.2 Ensembl:Solyc12g006450.1 Ensembl:Solyc07g043310.2 Ensembl:Solyc12g006470.1
+Q6ZD10	Ensembl:Solyc11g040390.1 Ensembl:Solyc06g064550.2
+Q6ZD89	Ensembl:Solyc03g080180.2
+Q6ZDJ7	Ensembl:Solyc12g055930.1 Ensembl:Solyc08g082440.2
+Q6ZDQ1	Ensembl:Solyc08g077270.2
+Q6ZDY8	Ensembl:Solyc02g085350.2
+Q6ZEZ2	Ensembl:Solyc01g097460.2
+Q6ZFI6	Ensembl:Solyc12g099930.1
+Q6ZFT5	Ensembl:Solyc10g007760.2 Ensembl:Solyc07g056330.2
+Q6ZG77	Ensembl:Solyc01g109850.2
+Q6ZG91	Ensembl:Solyc04g025540.2
+Q6ZGS9	Ensembl:Solyc08g076970.2 Ensembl:Solyc08g076980.2 Ensembl:Solyc08g076990.2
+Q6ZGW6	Ensembl:Solyc04g040130.1 Ensembl:Solyc12g049030.1 Ensembl:Solyc01g006430.2 Ensembl:Solyc12g044950.1 Ensembl:Solyc12g100230.1 Ensembl:Solyc12g100250.1 Ensembl:Solyc04g040120.1 Ensembl:Solyc03g058430.1
+Q6ZHA3	Ensembl:Solyc03g033420.2 Ensembl:Solyc02g083580.2 Ensembl:Solyc02g062020.2
+Q6ZHB2	Ensembl:Solyc08g077460.2 Ensembl:Solyc08g007120.2 Ensembl:Solyc06g061020.2
+Q6ZHH4	Ensembl:Solyc12g005950.1 Ensembl:Solyc11g011980.1
+Q6ZHH7	Ensembl:Solyc11g013810.1
+Q6ZHJ6	Ensembl:Solyc06g054330.2 Ensembl:Solyc06g054340.1
+Q6ZHS4	Ensembl:Solyc01g107590.2
+Q6ZHZ1	Ensembl:Solyc07g007790.2 Ensembl:Solyc08g042000.2
+Q6ZI55	Ensembl:Solyc10g074500.1 Ensembl:Solyc02g082860.2
+Q6ZIA3	Ensembl:Solyc06g065580.2
+Q6ZIK0	Ensembl:Solyc08g076360.2
+Q6ZIX2	Ensembl:Solyc01g087560.2 Ensembl:Solyc10g080150.1
+Q6ZJ97	Ensembl:Solyc02g068530.2
+Q6ZJK7	Ensembl:Solyc07g054860.1 Ensembl:Solyc07g054280.1
+Q6ZK11	Ensembl:Solyc11g012100.1
+Q6ZKC0	Ensembl:Solyc02g063070.2 Ensembl:Solyc03g034180.2
+Q6ZKV8	Ensembl:Solyc07g006810.2
+Q6ZL61	Ensembl:Solyc01g098550.2
+Q6ZL94	Ensembl:Solyc02g005350.2 Ensembl:Solyc01g007910.2
+Q6ZLD3	Ensembl:Solyc03g005230.2 Ensembl:Solyc09g065730.2
+Q6ZLJ9	Ensembl:Solyc03g058970.2
+Q75GB1	Ensembl:Solyc03g120500.2 Ensembl:Solyc12g007230.1
+Q75GK0	Ensembl:Solyc09g083290.2 Ensembl:Solyc01g097290.2 Ensembl:Solyc06g008590.2 Ensembl:Solyc06g053830.2
+Q75H77	Ensembl:Solyc02g090390.2 Ensembl:Solyc01g108280.2
+Q75HA6	Ensembl:Solyc02g069310.2 Ensembl:Solyc07g044980.2
+Q75HB1	Ensembl:Solyc02g069210.2 Ensembl:Solyc02g069190.2 Ensembl:Solyc02g069200.1
+Q75HP7	Ensembl:Solyc01g104000.2
+Q75HQ7	Ensembl:Solyc09g007920.2 Ensembl:Solyc05g056170.2 Ensembl:Solyc03g042560.1 Ensembl:Solyc10g086180.1 Ensembl:Solyc09g007900.2 Ensembl:Solyc09g007890.1 Ensembl:Solyc03g071860.2 Ensembl:Solyc09g007910.2
+Q75HZ9	Ensembl:Solyc07g061990.2
+Q75I93	Ensembl:Solyc03g119080.2 Ensembl:Solyc12g040640.1
+Q75II5	Ensembl:Solyc07g062280.2 Ensembl:Solyc10g007410.2 Ensembl:Solyc07g062270.2
+Q75KD7	Ensembl:Solyc02g085730.2
+Q75KT7	Ensembl:Solyc02g069750.1 Ensembl:Solyc04g072020.2
+Q75L84	Ensembl:Solyc09g007420.2
+Q75LC7	Ensembl:Solyc05g014340.2 Ensembl:Solyc02g067980.2 Ensembl:Solyc02g093800.2
+Q75LL5	Ensembl:Solyc11g071800.1 Ensembl:Solyc06g073910.2
+Q75LR2	Ensembl:Solyc04g074480.2 Ensembl:Solyc11g009080.1
+Q75M18	Ensembl:Solyc01g102940.2
+Q75V57	Ensembl:Solyc02g090390.2 Ensembl:Solyc01g108280.2
+Q75W16	Ensembl:Solyc04g074480.2 Ensembl:Solyc11g009080.1
+Q764B9	Ensembl:Solyc12g010180.1
+Q7EXZ2	Ensembl:Solyc10g078700.1
+Q7EZW6	Ensembl:Solyc10g074620.1 Ensembl:Solyc01g067520.2
+Q7EZZ0	Ensembl:Solyc04g016520.2
+Q7F0B2	Ensembl:Solyc10g084890.1 Ensembl:Solyc10g085280.1 Ensembl:Solyc03g078810.2 Ensembl:Solyc06g076550.2 Ensembl:Solyc10g085240.1 Ensembl:Solyc10g085230.1
+Q7F0Q2	Ensembl:Solyc01g110460.2
+Q7F190	Ensembl:Solyc08g013860.2
+Q7F1X5	Ensembl:Solyc03g111170.2
+Q7F2P0	Ensembl:Solyc01g106640.2 Ensembl:Solyc09g007020.1 Ensembl:Solyc01g106610.2 Ensembl:Solyc01g106620.2 Ensembl:Solyc01g106600.2 Ensembl:Solyc09g007010.1
+Q7FAE1	Ensembl:Solyc10g083170.1 Ensembl:Solyc12g056600.2 Ensembl:Solyc12g056700.1 Ensembl:Solyc01g005500.2 Ensembl:Solyc12g056710.1 Ensembl:Solyc12g056610.1
+Q7FAH2	Ensembl:Solyc05g005820.2
+Q7G065	Ensembl:Solyc07g019440.2 Ensembl:Solyc01g109790.2
+Q7G2F7	Ensembl:Solyc02g078520.2
+Q7G2H3	Ensembl:Solyc01g108660.2
+Q7G4P2	Ensembl:Solyc11g019950.1 Ensembl:Solyc08g066020.1
+Q7G602	Ensembl:Solyc03g115220.2
+Q7G6M2	Ensembl:Solyc03g044120.1
+Q7X634	Ensembl:Solyc04g009960.2
+Q7X720	Ensembl:Solyc09g007920.2 Ensembl:Solyc05g056170.2 Ensembl:Solyc03g042560.1 Ensembl:Solyc10g086180.1 Ensembl:Solyc09g007900.2 Ensembl:Solyc09g007890.1 Ensembl:Solyc03g071860.2 Ensembl:Solyc09g007910.2
+Q7X742	Ensembl:Solyc04g005660.2 Ensembl:Solyc02g067380.2 Ensembl:Solyc02g087860.2 Ensembl:Solyc06g070910.2 Ensembl:Solyc05g007210.2
+Q7X7N2	Ensembl:Solyc01g091170.2 Ensembl:Solyc01g091160.2
+Q7X7X0	Ensembl:Solyc05g012090.2
+Q7X8A1	Ensembl:Solyc02g020940.2 Ensembl:Solyc04g009030.2
+Q7X8V3	Ensembl:Solyc09g007920.2 Ensembl:Solyc05g056170.2 Ensembl:Solyc03g042560.1 Ensembl:Solyc10g086180.1 Ensembl:Solyc09g007900.2 Ensembl:Solyc09g007890.1 Ensembl:Solyc03g071860.2 Ensembl:Solyc09g007910.2
+Q7X993	Ensembl:Solyc01g008730.2 Ensembl:Solyc10g080780.1 Ensembl:Solyc11g064950.1 Ensembl:Solyc10g080770.1
+Q7XAP2	Ensembl:Solyc03g007240.2
+Q7XBY6	Ensembl:Solyc08g076960.1 Ensembl:Solyc06g061180.1
+Q7XC20	Ensembl:Solyc08g077460.2 Ensembl:Solyc08g007120.2 Ensembl:Solyc06g061020.2
+Q7XCK3	Ensembl:Solyc02g082900.2
+Q7XDE0	Ensembl:Solyc05g054980.2 Ensembl:Solyc04g010070.2
+Q7XE48	Ensembl:Solyc02g088000.2
+Q7XEH2	Ensembl:Solyc09g065520.2 Ensembl:Solyc09g082460.2
+Q7XHL3	Ensembl:Solyc09g064430.2
+Q7XHZ2	Ensembl:Solyc04g005030.2
+Q7XI34	Ensembl:Solyc03g078810.2 Ensembl:Solyc10g085280.1 Ensembl:Solyc06g076550.2 Ensembl:Solyc10g085240.1 Ensembl:Solyc10g085230.1
+Q7XI35	Ensembl:Solyc10g084890.1 Ensembl:Solyc10g085280.1 Ensembl:Solyc03g078810.2 Ensembl:Solyc06g076550.2 Ensembl:Solyc10g085240.1 Ensembl:Solyc10g085230.1
+Q7XI67	Ensembl:Solyc10g085390.1
+Q7XI92	Ensembl:Solyc02g085700.1 Ensembl:Solyc02g085720.1 Ensembl:Solyc02g085710.2 Ensembl:Solyc04g079960.1
+Q7XI96	Ensembl:Solyc04g079980.2 Ensembl:Solyc12g089040.1 Ensembl:Solyc02g063010.2
+Q7XK23	Ensembl:Solyc10g074500.1 Ensembl:Solyc02g082860.2
+Q7XKH9	Ensembl:Solyc12g057070.1 Ensembl:Solyc04g074390.2 Ensembl:Solyc01g105360.2 Ensembl:Solyc12g057080.1 Ensembl:Solyc12g057060.1
+Q7XKI0	Ensembl:Solyc01g105350.1 Ensembl:Solyc01g105360.2 Ensembl:Solyc04g074380.2 Ensembl:Solyc12g057060.1 Ensembl:Solyc04g074360.1 Ensembl:Solyc04g074350.2 Ensembl:Solyc12g057070.1 Ensembl:Solyc04g074330.2 Ensembl:Solyc04g074340.2 Ensembl:Solyc04g074390.2 Ensembl:Solyc12g057080.1
+Q7XKQ8	Ensembl:Solyc03g044330.1 Ensembl:Solyc07g061940.2 Ensembl:Solyc06g059880.2
+Q7XM21	Ensembl:Solyc02g083860.2
+Q7XMP7	Ensembl:Solyc04g078460.2
+Q7XN11	Ensembl:Solyc08g014610.2 Ensembl:Solyc12g006450.1 Ensembl:Solyc07g043310.2 Ensembl:Solyc12g006470.1
+Q7XNX6	Ensembl:Solyc02g081300.2 Ensembl:Solyc03g098290.2
+Q7XPB5	Ensembl:Solyc03g044660.2 Ensembl:Solyc10g083110.1
+Q7XPR2	Ensembl:Solyc02g080810.2
+Q7XPR5	Ensembl:Solyc02g091970.2 Ensembl:Solyc03g043880.2
+Q7XPW5	Ensembl:Solyc05g048760.2 Ensembl:Solyc05g046340.1 Ensembl:Solyc08g008670.2
+Q7XQ85	Ensembl:Solyc12g056180.1 Ensembl:Solyc08g081550.2 Ensembl:Solyc08g008100.2 Ensembl:Solyc08g081540.2 Ensembl:Solyc01g095080.2 Ensembl:Solyc05g050010.2
+Q7XR60	Ensembl:Solyc01g107550.2
+Q7XR61	Ensembl:Solyc01g107550.2
+Q7XRA1	Ensembl:Solyc01g110440.2 Ensembl:Solyc10g054440.1
+Q7XRT0	Ensembl:Solyc05g052600.2
+Q7XRX3	Ensembl:Solyc10g079380.1
+Q7XTB2	Ensembl:Solyc04g076920.2
+Q7XTE8	Ensembl:Solyc02g063070.2 Ensembl:Solyc03g034180.2
+Q7XTH0	Ensembl:Solyc01g105350.1 Ensembl:Solyc01g105360.2 Ensembl:Solyc04g074380.2 Ensembl:Solyc12g057060.1 Ensembl:Solyc04g074360.1 Ensembl:Solyc04g074350.2 Ensembl:Solyc12g057070.1 Ensembl:Solyc04g074330.2 Ensembl:Solyc04g074340.2 Ensembl:Solyc04g074390.2 Ensembl:Solyc12g057080.1
+Q7XTK3	Ensembl:Solyc10g086170.1
+Q7XTU2	Ensembl:Solyc11g069320.1
+Q7XTX7	Ensembl:Solyc08g079770.2
+Q7XU28	Ensembl:Solyc11g005620.1
+Q7XU29	Ensembl:Solyc01g090660.2
+Q7XUA8	Ensembl:Solyc06g073060.2
+Q7XUH5	Ensembl:Solyc01g110460.2
+Q7XUI7	Ensembl:Solyc04g008500.2
+Q7XUK6	Ensembl:Solyc08g015660.2 Ensembl:Solyc12g096590.1
+Q7XUS2	Ensembl:Solyc12g010180.1
+Q7XV13	Ensembl:Solyc03g122340.2
+Q7XV42	Ensembl:Solyc01g105350.1 Ensembl:Solyc01g105360.2 Ensembl:Solyc04g074380.2 Ensembl:Solyc12g057060.1 Ensembl:Solyc04g074360.1 Ensembl:Solyc04g074350.2 Ensembl:Solyc12g057070.1 Ensembl:Solyc04g074330.2 Ensembl:Solyc04g074340.2 Ensembl:Solyc04g074390.2 Ensembl:Solyc12g057080.1
+Q7XVM2	Ensembl:Solyc07g064800.2 Ensembl:Solyc12g005080.1
+Q7XVP0	Ensembl:Solyc05g008370.1
+Q7XWP9	Ensembl:Solyc10g018300.1 Ensembl:Solyc05g050970.2
+Q7XXL2	Ensembl:Solyc02g088710.2
+Q7XXQ9	Ensembl:Solyc01g080940.2
+Q7XYS3	Ensembl:Solyc01g109150.2 Ensembl:Solyc10g007960.1 Ensembl:Solyc01g109160.2 Ensembl:Solyc01g109140.2
+Q7XZH5	Ensembl:Solyc04g071940.2 Ensembl:Solyc04g071960.2
+Q7Y0B9	Ensembl:Solyc02g090390.2 Ensembl:Solyc01g108280.2
+Q7Y0C8	Ensembl:Solyc04g079730.1 Ensembl:Solyc11g069800.1
+Q7Y0Y6	Ensembl:Solyc09g091440.2
+Q7Y0Y8	Ensembl:Solyc09g091440.2
+Q7Y152	Ensembl:Solyc01g058390.2
+Q7Y1H9	Ensembl:Solyc01g098550.2
+Q7Y1I9	Ensembl:Solyc01g098550.2
+Q7Y1J1	Ensembl:Solyc01g098550.2
+Q84J55	Ensembl:Solyc04g074510.2 Ensembl:Solyc11g010200.1 Ensembl:Solyc12g057110.2 Ensembl:Solyc04g012120.2
+Q84J76	Ensembl:Solyc01g106640.2 Ensembl:Solyc09g007020.1 Ensembl:Solyc01g106610.2 Ensembl:Solyc01g106620.2 Ensembl:Solyc01g106600.2 Ensembl:Solyc09g007010.1
+Q84JH5	Ensembl:Solyc09g011220.2
+Q84JI0	Ensembl:Solyc03g096670.2 Ensembl:Solyc06g076400.2 Ensembl:Solyc05g052980.2
+Q84M43	Ensembl:Solyc01g087210.2
+Q84MN8	Ensembl:Solyc03g005250.2 Ensembl:Solyc03g005260.2 Ensembl:Solyc09g082860.2
+Q84NP3	Ensembl:Solyc06g051400.2
+Q84Q89	Ensembl:Solyc03g053130.2
+Q84QA7	Ensembl:Solyc05g052620.2
+Q84QC0	Ensembl:Solyc01g108230.2
+Q84R94	Ensembl:Solyc07g042170.2 Ensembl:Solyc12g009220.1
+Q84RS4	Ensembl:Solyc10g061930.1 Ensembl:Solyc10g061940.1
+Q84T92	Ensembl:Solyc05g010320.2 Ensembl:Solyc05g010310.2
+Q84VC7	Ensembl:Solyc02g071040.2
+Q84YK8	Ensembl:Solyc01g006540.2 Ensembl:Solyc01g006560.2 Ensembl:Solyc12g011040.1
+Q84ZN6	Ensembl:Solyc01g087210.2
+Q84ZY2	Ensembl:Solyc10g018300.1 Ensembl:Solyc05g050970.2
+Q851L5	Ensembl:Solyc06g054410.2
+Q851Z6	Ensembl:Solyc01g005240.2
+Q852C2	Ensembl:Solyc03g078810.2 Ensembl:Solyc06g076550.2
+Q852P4	Ensembl:Solyc09g090100.2
+Q852Q1	Ensembl:Solyc03g115700.2
+Q8GRU7	Ensembl:Solyc04g077040.2 Ensembl:Solyc04g077030.2
+Q8GSD9	Ensembl:Solyc06g034200.1 Ensembl:Solyc09g066410.1 Ensembl:Solyc09g090080.1 Ensembl:Solyc03g005530.1 Ensembl:Solyc09g073010.1 Ensembl:Solyc09g090070.1 Ensembl:Solyc03g005560.1
+Q8GT01	Ensembl:Solyc02g068640.2
+Q8GTK1	Ensembl:Solyc06g075060.1 Ensembl:Solyc11g069640.1 Ensembl:Solyc06g075070.2 Ensembl:Solyc06g075050.1
+Q8GVJ4	Ensembl:Solyc04g040130.1 Ensembl:Solyc12g049030.1 Ensembl:Solyc01g006430.2 Ensembl:Solyc12g044950.1 Ensembl:Solyc12g100230.1 Ensembl:Solyc12g100250.1 Ensembl:Solyc04g040120.1 Ensembl:Solyc03g058430.1
+Q8GVN6	Ensembl:Solyc08g082340.2
+Q8GVZ0	Ensembl:Solyc05g055760.2 Ensembl:Solyc04g056390.2
+Q8H016	Ensembl:Solyc03g122340.2
+Q8H038	Ensembl:Solyc09g064470.2
+Q8H048	Ensembl:Solyc01g091910.2 Ensembl:Solyc10g017650.1
+Q8H051	Ensembl:Solyc08g007790.2 Ensembl:Solyc08g080170.2 Ensembl:Solyc12g056450.1
+Q8H075	Ensembl:Solyc09g066350.1 Ensembl:Solyc09g089920.1 Ensembl:Solyc03g005510.1
+Q8H093	Ensembl:Solyc01g091910.2 Ensembl:Solyc10g017650.1
+Q8H0B2	Ensembl:Solyc12g006410.1 Ensembl:Solyc02g069580.2 Ensembl:Solyc07g043550.2 Ensembl:Solyc02g030230.2
+Q8H273	Ensembl:Solyc08g007830.1 Ensembl:Solyc03g026270.1 Ensembl:Solyc12g056430.1 Ensembl:Solyc08g007820.1 Ensembl:Solyc03g124110.1 Ensembl:Solyc03g026280.2
+Q8H395	Ensembl:Solyc07g042170.2 Ensembl:Solyc12g009220.1
+Q8H3A4	Ensembl:Solyc05g025810.2
+Q8H3C8	Ensembl:Solyc06g054410.2
+Q8H3C9	Ensembl:Solyc06g054410.2
+Q8H3I4	Ensembl:Solyc03g122140.2 Ensembl:Solyc03g122170.2 Ensembl:Solyc03g122130.2
+Q8H3Q7	Ensembl:Solyc07g006650.2
+Q8H4L3	Ensembl:Solyc05g053550.2 Ensembl:Solyc09g091510.2
+Q8H530	Ensembl:Solyc10g047630.1
+Q8H539	Ensembl:Solyc11g006300.1 Ensembl:Solyc11g006270.1 Ensembl:Solyc11g006290.1
+Q8H6G8	Ensembl:Solyc06g034200.1 Ensembl:Solyc09g066410.1 Ensembl:Solyc09g090080.1 Ensembl:Solyc03g005530.1 Ensembl:Solyc09g073010.1 Ensembl:Solyc09g090070.1 Ensembl:Solyc03g005560.1
+Q8H7S6	Ensembl:Solyc01g005210.2
+Q8H7T7	Ensembl:Solyc02g091970.2 Ensembl:Solyc03g043880.2
+Q8H8U0	Ensembl:Solyc04g009580.2 Ensembl:Solyc04g049550.2
+Q8H930	Ensembl:Solyc12g006410.1 Ensembl:Solyc02g069580.2 Ensembl:Solyc07g043550.2 Ensembl:Solyc02g030230.2
+Q8LGW5	Ensembl:Solyc10g024370.1 Ensembl:Solyc01g103910.1
+Q8LGZ9	Ensembl:Solyc04g008670.1
+Q8LHD1	Ensembl:Solyc09g010560.1
+Q8LI89	Ensembl:Solyc08g082830.2
+Q8LIY8	Ensembl:Solyc08g066650.2
+Q8LJJ2	Ensembl:Solyc03g121910.1 Ensembl:Solyc06g062840.2
+Q8LM92	Ensembl:Solyc03g115220.2
+Q8LMW8	Ensembl:Solyc01g106640.2 Ensembl:Solyc09g007020.1 Ensembl:Solyc01g106610.2 Ensembl:Solyc01g106620.2 Ensembl:Solyc01g106600.2 Ensembl:Solyc09g007010.1
+Q8LNU2	Ensembl:Solyc05g008430.2 Ensembl:Solyc04g007560.2
+Q8LQ34	Ensembl:Solyc10g086500.1
+Q8LR33	Ensembl:Solyc05g005180.2
+Q8LR75	Ensembl:Solyc06g005490.2
+Q8LRA0	Ensembl:Solyc10g078280.2
+Q8RU95	Ensembl:Solyc03g111170.2
+Q8RV34	Ensembl:Solyc07g017540.2
+Q8RYL0	Ensembl:Solyc03g098220.2 Ensembl:Solyc06g072320.2 Ensembl:Solyc06g030590.1
+Q8RYL1	Ensembl:Solyc03g098220.2 Ensembl:Solyc06g072320.2 Ensembl:Solyc06g030590.1
+Q8RZV7	Ensembl:Solyc09g098420.1
+Q8RZZ3	Ensembl:Solyc06g072140.2 Ensembl:Solyc03g019900.2
+Q8S0G4	Ensembl:Solyc01g088150.2 Ensembl:Solyc04g016330.2
+Q8S2E5	Ensembl:Solyc04g039620.2
+Q8S2G0	Ensembl:Solyc01g009010.2
+Q8S3R0	Ensembl:Solyc01g109720.2
+Q8S5M6	Ensembl:Solyc01g102410.2
+Q8S5N2	Ensembl:Solyc04g050860.1 Ensembl:Solyc04g054740.2 Ensembl:Solyc04g050820.1 Ensembl:Solyc05g051850.2
+Q8S5T1	Ensembl:Solyc09g065900.2
+Q8S601	Ensembl:Solyc07g064960.1 Ensembl:Solyc03g005410.2 Ensembl:Solyc09g083330.2
+Q8S6F2	Ensembl:Solyc01g007330.2
+Q8S7T9	Ensembl:Solyc03g051960.2
+Q8S920	Ensembl:Solyc12g056100.1
+Q8S983	Ensembl:Solyc04g081240.2
+Q8S985	Ensembl:Solyc02g077560.2
+Q8S9S4	Ensembl:Solyc12g008690.1
+Q8S9Z2	Ensembl:Solyc11g066720.1 Ensembl:Solyc01g009420.2 Ensembl:Solyc06g074670.2
+Q8W1L6	Ensembl:Solyc08g068390.2
+Q8W250	Ensembl:Solyc03g114340.2
+Q8W3F9	Ensembl:Solyc08g076320.2 Ensembl:Solyc03g097050.2 Ensembl:Solyc08g005280.1
+Q8W3G2	Ensembl:Solyc08g076470.2
+Q8W3J0	Ensembl:Solyc05g054590.2 Ensembl:Solyc11g066150.1 Ensembl:Solyc04g011400.2
+Q8W3L9	Ensembl:Solyc06g073730.1 Ensembl:Solyc01g009170.2 Ensembl:Solyc01g096810.2 Ensembl:Solyc06g073720.1
+Q8W3M0	Ensembl:Solyc06g073730.1 Ensembl:Solyc01g009170.2 Ensembl:Solyc01g096810.2 Ensembl:Solyc06g073720.1
+Q93VC3	Ensembl:Solyc08g080040.2
+Q93VD5	Ensembl:Solyc08g066650.2
+Q93X08	Ensembl:Solyc05g054060.2 Ensembl:Solyc01g081520.2 Ensembl:Solyc11g011960.1
+Q93XI4	Ensembl:Solyc11g068540.1
+Q93Y73	Ensembl:Solyc01g005250.2
+Q941T9	Ensembl:Solyc09g011220.2
+Q941W8	Ensembl:Solyc10g085310.1 Ensembl:Solyc10g076410.1 Ensembl:Solyc09g015380.1 Ensembl:Solyc03g095780.1 Ensembl:Solyc06g050500.2
+Q943R3	Ensembl:Solyc12g036390.1 Ensembl:Solyc03g119250.2
+Q945X3	Ensembl:Solyc01g102660.2
+Q948T6	Ensembl:Solyc02g080630.2
+Q94CU3	Ensembl:Solyc11g006550.1
+Q94E75	Ensembl:Solyc01g006740.2 Ensembl:Solyc10g081660.1
+Q94EE9	Ensembl:Solyc03g044120.1
+Q94GF1	Ensembl:Solyc06g005980.2 Ensembl:Solyc06g006100.2
+Q94HG3	Ensembl:Solyc04g078990.2 Ensembl:Solyc04g078980.2
+Q94HG6	Ensembl:Solyc12g088880.1
+Q94IW5	Ensembl:Solyc03g121510.2
+Q94J08	Ensembl:Solyc07g055280.2
+Q94J90	Ensembl:Solyc11g064920.1
+Q94JA2	Ensembl:Solyc07g062650.2 Ensembl:Solyc12g014180.1
+Q94JJ0	Ensembl:Solyc05g008600.2
+Q94LU9	Ensembl:Solyc08g081170.2
+Q94LV4	Ensembl:Solyc02g091970.2 Ensembl:Solyc03g043880.2
+Q9AQU4	Ensembl:Solyc03g098240.2
+Q9ASD3	Ensembl:Solyc01g104340.1 Ensembl:Solyc08g065320.2
+Q9ASK5	Ensembl:Solyc07g045350.2 Ensembl:Solyc05g017760.2
+Q9ASP4	Ensembl:Solyc05g053300.2 Ensembl:Solyc12g099100.1
+Q9AUQ4	Ensembl:Solyc04g045340.2
+Q9AUV6	Ensembl:Solyc06g069550.1 Ensembl:Solyc03g115380.1
+Q9AV71	Ensembl:Solyc09g072820.2
+Q9AWL7	Ensembl:Solyc04g071990.2 Ensembl:Solyc12g056650.1
+Q9AY73	Ensembl:Solyc02g070050.2
+Q9FDX8	Ensembl:Solyc07g006630.2
+Q9FDY4	Ensembl:Solyc07g040690.2
+Q9FE35	Ensembl:Solyc02g071130.2
+Q9FRX7	Ensembl:Solyc02g086970.2 Ensembl:Solyc03g114150.2 Ensembl:Solyc08g068190.2 Ensembl:Solyc05g005700.2
+Q9FTR6	Ensembl:Solyc06g060100.2 Ensembl:Solyc02g063220.2 Ensembl:Solyc02g086090.2
+Q9FTZ2	Ensembl:Solyc06g082980.2
+Q9FU17	Ensembl:Solyc12g008740.1 Ensembl:Solyc07g026900.1
+Q9FU67	Ensembl:Solyc09g008510.1 Ensembl:Solyc06g072870.1 Ensembl:Solyc10g085870.1 Ensembl:Solyc10g083860.1 Ensembl:Solyc10g085860.1 Ensembl:Solyc06g072880.1 Ensembl:Solyc12g042600.1
+Q9FU68	Ensembl:Solyc09g008510.1 Ensembl:Solyc06g072870.1 Ensembl:Solyc10g085870.1 Ensembl:Solyc10g083860.1 Ensembl:Solyc10g085860.1 Ensembl:Solyc06g072880.1 Ensembl:Solyc12g042600.1
+Q9FU69	Ensembl:Solyc09g008510.1 Ensembl:Solyc06g072870.1 Ensembl:Solyc10g085870.1 Ensembl:Solyc10g083860.1 Ensembl:Solyc10g085860.1 Ensembl:Solyc06g072880.1 Ensembl:Solyc12g042600.1
+Q9FUE1	Ensembl:Solyc01g102660.2
+Q9FWC1	Ensembl:Solyc08g082860.2
+Q9FWK4	Ensembl:Solyc09g090430.2
+Q9FWQ2	Ensembl:Solyc08g079060.2 Ensembl:Solyc06g060600.1
+Q9LD61	Ensembl:Solyc11g006350.1
+Q9LDB7	Ensembl:Solyc08g029170.2
+Q9LGL5	Ensembl:Solyc10g076510.1 Ensembl:Solyc09g005110.2 Ensembl:Solyc06g082130.2
+Q9LHZ0	Ensembl:Solyc01g111060.2
+Q9LHZ7	Ensembl:Solyc08g076320.2 Ensembl:Solyc03g097050.2 Ensembl:Solyc08g005280.1
+Q9LIZ8	Ensembl:Solyc01g102410.2
+Q9LRI6	Ensembl:Solyc02g086970.2 Ensembl:Solyc03g114150.2 Ensembl:Solyc08g068190.2 Ensembl:Solyc05g005700.2
+Q9LWU9	Ensembl:Solyc08g080400.1
+Q9LWV3	Ensembl:Solyc08g007830.1 Ensembl:Solyc03g026270.1 Ensembl:Solyc12g056430.1 Ensembl:Solyc08g007820.1 Ensembl:Solyc03g124110.1 Ensembl:Solyc03g026280.2
+Q9S7D3	Ensembl:Solyc02g093680.2 Ensembl:Solyc02g092730.2
+Q9SDG5	Ensembl:Solyc08g077920.2 Ensembl:Solyc08g077930.2
+Q9SE42	Ensembl:Solyc05g007260.2
+Q9SMB1	Ensembl:Solyc04g026030.2 Ensembl:Solyc06g053520.2 Ensembl:Solyc08g014310.2 Ensembl:Solyc05g005710.2 Ensembl:Solyc06g053510.2
+Q9SNK3	Ensembl:Solyc04g082630.2 Ensembl:Solyc12g094640.1
+Q9SNN0	Ensembl:Solyc01g110440.2 Ensembl:Solyc10g054440.1
+Q9XEA6	Ensembl:Solyc09g082060.2
+Q9XEA8	Ensembl:Solyc09g082060.2
+Q9XHL5	Ensembl:Solyc03g032010.2 Ensembl:Solyc02g038740.2 Ensembl:Solyc02g082260.2 Ensembl:Solyc03g032020.2
+Q9XJ29	Ensembl:Solyc06g005980.2 Ensembl:Solyc06g006100.2
+Q9ZTP5	Ensembl:Solyc03g115820.2
+UPI00000AA151	Ensembl:Solyc08g029170.2
+UPI0001C7A9C3	Ensembl:Solyc10g085570.1 Ensembl:Solyc09g009090.2 Ensembl:Solyc10g083610.1

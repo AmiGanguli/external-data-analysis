@@ -1,0 +1,740 @@
+A0A0P0VEU3	Phytozome_Eg:Eucgr.B02538.1
+A0A0P0WKK9	Phytozome_Eg:Eucgr.G03169.1
+A0A0P0XBM6	Phytozome_Eg:Eucgr.I00009.1
+A2X747	Phytozome_Eg:Eucgr.F03973.1 Phytozome_Eg:Eucgr.F03974.1 Phytozome_Eg:Eucgr.F03972.1 Phytozome_Eg:Eucgr.F03978.1 Phytozome_Eg:Eucgr.J03126.1
+A2Y626	Phytozome_Eg:Eucgr.A02190.1 Phytozome_Eg:Eucgr.G03199.1 Phytozome_Eg:Eucgr.A02185.1 Phytozome_Eg:Eucgr.A02188.1
+A2Y8A8	Phytozome_Eg:Eucgr.K00156.1 Phytozome_Eg:Eucgr.E00461.1
+A2ZRY8	Phytozome_Eg:Eucgr.H04141.1
+A2ZW27	Phytozome_Eg:Eucgr.K01105.1
+A2ZWY7	Phytozome_Eg:Eucgr.C00665.1
+A3AAR2	Phytozome_Eg:Eucgr.K02040.1
+A3AC56	Phytozome_Eg:Eucgr.C00201.1
+A3AQC6	Phytozome_Eg:Eucgr.L03224.1 Phytozome_Eg:Eucgr.B01996.1 Phytozome_Eg:Eucgr.B01994.1
+A3AZW5	Phytozome_Eg:Eucgr.A02547.1
+A3BIR7	Phytozome_Eg:Eucgr.B03253.1 Phytozome_Eg:Eucgr.B03248.1
+B7E8M5	Phytozome_Eg:Eucgr.D02284.1 Phytozome_Eg:Eucgr.D00187.1
+B7EA04	Phytozome_Eg:Eucgr.E04308.1
+B7EJ81	Phytozome_Eg:Eucgr.B00645.1
+B7ERE7	Phytozome_Eg:Eucgr.B02626.1
+B7F4K3	Phytozome_Eg:Eucgr.A01551.1 Phytozome_Eg:Eucgr.E00489.1
+B7F8T0	Phytozome_Eg:Eucgr.A02509.1
+B7F956	Phytozome_Eg:Eucgr.L00981.1 Phytozome_Eg:Eucgr.B01015.1 Phytozome_Eg:Eucgr.B00199.1 Phytozome_Eg:Eucgr.B00204.1
+B7F9K3	Phytozome_Eg:Eucgr.A01551.1 Phytozome_Eg:Eucgr.E00489.1
+B7FA34	Phytozome_Eg:Eucgr.B00946.1
+B7FA90	Phytozome_Eg:Eucgr.C02385.1
+B7FAE9	Phytozome_Eg:Eucgr.C02602.1
+B7FAP2	Phytozome_Eg:Eucgr.L01047.1 Phytozome_Eg:Eucgr.H00503.1 Phytozome_Eg:Eucgr.L01046.1 Phytozome_Eg:Eucgr.H02643.1 Phytozome_Eg:Eucgr.L00635.1 Phytozome_Eg:Eucgr.H00001.1 Phytozome_Eg:Eucgr.H00004.1 Phytozome_Eg:Eucgr.L00634.1 Phytozome_Eg:Eucgr.L00631.1 Phytozome_Eg:Eucgr.H02644.1 Phytozome_Eg:Eucgr.H02640.1 Phytozome_Eg:Eucgr.H02642.1 Phytozome_Eg:Eucgr.H02641.1 Phytozome_Eg:Eucgr.D01218.1 Phytozome_Eg:Eucgr.L00636.1 Phytozome_Eg:Eucgr.L00632.1
+B8ACC6	Phytozome_Eg:Eucgr.D02098.1
+B8AHI9	Phytozome_Eg:Eucgr.H04472.1
+B8AZ97	Phytozome_Eg:Eucgr.K01268.1
+B8B8K7	Phytozome_Eg:Eucgr.I02163.1
+B8BB38	Phytozome_Eg:Eucgr.J03114.1
+B8BF84	Phytozome_Eg:Eucgr.B02686.1
+B9EXM2	Phytozome_Eg:Eucgr.F04457.1
+B9EZJ8	Phytozome_Eg:Eucgr.C02888.1
+B9FML1	Phytozome_Eg:Eucgr.H04086.1
+B9FRT6	Phytozome_Eg:Eucgr.A02261.1
+B9FYX6	Phytozome_Eg:Eucgr.E02455.1
+B9G3A7	Phytozome_Eg:Eucgr.B03950.1 Phytozome_Eg:Eucgr.B00354.1
+C7J5F5	Phytozome_Eg:Eucgr.B02522.1 Phytozome_Eg:Eucgr.B02520.1
+C7J5T9	Phytozome_Eg:Eucgr.B02522.1 Phytozome_Eg:Eucgr.B02520.1
+H6TFZ4	Phytozome_Eg:Eucgr.J01640.1
+I1QJ08	Phytozome_Eg:Eucgr.L01575.1 Phytozome_Eg:Eucgr.C02572.1
+I1QQP8	Phytozome_Eg:Eucgr.K02840.1
+I3QK18	Phytozome_Eg:Eucgr.E00402.1
+O04226	Phytozome_Eg:Eucgr.G02990.1
+O04882	Phytozome_Eg:Eucgr.E03836.1
+O22105	Phytozome_Eg:Eucgr.G01720.1
+O22567	Phytozome_Eg:Eucgr.H03664.1
+O24174	Phytozome_Eg:Eucgr.B00336.1
+O24210	Phytozome_Eg:Eucgr.H00804.1
+O64422	Phytozome_Eg:Eucgr.B02755.1
+O64437	Phytozome_Eg:Eucgr.H04815.1
+P0C132	Phytozome_Eg:Eucgr.H04335.1
+P0C587	Phytozome_Eg:Eucgr.F02174.1 Phytozome_Eg:Eucgr.F00461.1
+P0C5A4	Phytozome_Eg:Eucgr.J03043.1 Phytozome_Eg:Eucgr.L02621.1
+P0C5B2	Phytozome_Eg:Eucgr.A02846.1 Phytozome_Eg:Eucgr.E00516.1 Phytozome_Eg:Eucgr.D01939.1
+P14655	Phytozome_Eg:Eucgr.B01163.1 Phytozome_Eg:Eucgr.L02175.1
+P14656	Phytozome_Eg:Eucgr.F02872.1
+P15280	Phytozome_Eg:Eucgr.K01372.1
+P16081	Phytozome_Eg:Eucgr.F03744.1
+P17784	Phytozome_Eg:Eucgr.K02073.1 Phytozome_Eg:Eucgr.A01538.1
+P18566	Phytozome_Eg:Eucgr.B03013.1 Phytozome_Eg:Eucgr.J01502.1 Phytozome_Eg:Eucgr.K02223.1
+P30298	Phytozome_Eg:Eucgr.C03201.1 Phytozome_Eg:Eucgr.C00769.1 Phytozome_Eg:Eucgr.C03199.1
+P31924	Phytozome_Eg:Eucgr.C03201.1 Phytozome_Eg:Eucgr.C00769.1 Phytozome_Eg:Eucgr.C03199.1
+P37833	Phytozome_Eg:Eucgr.C02894.1 Phytozome_Eg:Eucgr.C01585.1
+P38419	Phytozome_Eg:Eucgr.J00820.1 Phytozome_Eg:Eucgr.J00832.1 Phytozome_Eg:Eucgr.J00824.1 Phytozome_Eg:Eucgr.J00825.1 Phytozome_Eg:Eucgr.L01891.1 Phytozome_Eg:Eucgr.J00819.1
+P42862	Phytozome_Eg:Eucgr.F01561.1
+P42863	Phytozome_Eg:Eucgr.F01561.1
+P48642	Phytozome_Eg:Eucgr.H02852.1
+P93438	Phytozome_Eg:Eucgr.A01021.1
+Q01KF3	Phytozome_Eg:Eucgr.B00659.1
+Q05JG2	Phytozome_Eg:Eucgr.E01149.1
+Q06967	Phytozome_Eg:Eucgr.F02482.1
+Q0D3B6	Phytozome_Eg:Eucgr.G02787.1
+Q0D7I3	Phytozome_Eg:Eucgr.K00547.1
+Q0D7J0	Phytozome_Eg:Eucgr.G03014.1 Phytozome_Eg:Eucgr.J00970.1 Phytozome_Eg:Eucgr.G03010.1 Phytozome_Eg:Eucgr.J00972.1 Phytozome_Eg:Eucgr.G03009.1 Phytozome_Eg:Eucgr.G03013.1 Phytozome_Eg:Eucgr.A00424.1 Phytozome_Eg:Eucgr.G03006.1
+Q0D7J3	Phytozome_Eg:Eucgr.G03014.1 Phytozome_Eg:Eucgr.J00970.1 Phytozome_Eg:Eucgr.G03010.1 Phytozome_Eg:Eucgr.J00972.1 Phytozome_Eg:Eucgr.G03009.1 Phytozome_Eg:Eucgr.G03013.1 Phytozome_Eg:Eucgr.A00424.1 Phytozome_Eg:Eucgr.G03006.1
+Q0D7W4	Phytozome_Eg:Eucgr.H04384.1 Phytozome_Eg:Eucgr.L02103.1
+Q0D8I9	Phytozome_Eg:Eucgr.K01247.1
+Q0D980	Phytozome_Eg:Eucgr.F03478.1
+Q0DA35	Phytozome_Eg:Eucgr.A01713.1
+Q0DAA4	Phytozome_Eg:Eucgr.D00027.1
+Q0DBD3	Phytozome_Eg:Eucgr.B03386.1 Phytozome_Eg:Eucgr.B02577.1
+Q0DBF4	Phytozome_Eg:Eucgr.F02398.1 Phytozome_Eg:Eucgr.F02396.1
+Q0DBN4	Phytozome_Eg:Eucgr.A01927.1
+Q0DCE9	Phytozome_Eg:Eucgr.H03521.1
+Q0DDS1	Phytozome_Eg:Eucgr.G02395.1
+Q0DEC8	Phytozome_Eg:Eucgr.K00387.1
+Q0DG35	Phytozome_Eg:Eucgr.A01471.1
+Q0DGG8	Phytozome_Eg:Eucgr.C00914.1
+Q0DJJ9	Phytozome_Eg:Eucgr.A00642.1
+Q0DKE8	Phytozome_Eg:Eucgr.B00238.1
+Q0DKY4	Phytozome_Eg:Eucgr.H04112.1
+Q0DS76	Phytozome_Eg:Eucgr.K02348.1
+Q0DSM1	Phytozome_Eg:Eucgr.B01313.1
+Q0DV32	Phytozome_Eg:Eucgr.B03942.1 Phytozome_Eg:Eucgr.B03943.1
+Q0DWF2	Phytozome_Eg:Eucgr.H02914.1
+Q0DXA9	Phytozome_Eg:Eucgr.B03204.1
+Q0DY86	Phytozome_Eg:Eucgr.G01597.1 Phytozome_Eg:Eucgr.L00028.1
+Q0DYK7	Phytozome_Eg:Eucgr.H04992.1 Phytozome_Eg:Eucgr.I01536.1
+Q0DZE0	Phytozome_Eg:Eucgr.G02852.1 Phytozome_Eg:Eucgr.G02849.1 Phytozome_Eg:Eucgr.G02848.1 Phytozome_Eg:Eucgr.J01079.1 Phytozome_Eg:Eucgr.J00907.1 Phytozome_Eg:Eucgr.G02851.1 Phytozome_Eg:Eucgr.G02850.1
+Q0E2P1	Phytozome_Eg:Eucgr.F03107.1
+Q0E2P9	Phytozome_Eg:Eucgr.C00665.1
+Q0E3F2	Phytozome_Eg:Eucgr.C00188.1
+Q0E3J1	Phytozome_Eg:Eucgr.D00027.1
+Q0E3L4	Phytozome_Eg:Eucgr.A02022.1 Phytozome_Eg:Eucgr.A02023.1 Phytozome_Eg:Eucgr.A02024.1
+Q0E4F0	Phytozome_Eg:Eucgr.G01719.1
+Q0E4N2	Phytozome_Eg:Eucgr.J00991.1 Phytozome_Eg:Eucgr.G02693.1
+Q0INY7	Phytozome_Eg:Eucgr.B03013.1 Phytozome_Eg:Eucgr.J01502.1 Phytozome_Eg:Eucgr.K02223.1
+Q0INZ4	Phytozome_Eg:Eucgr.F03219.1
+Q0IPE5	Phytozome_Eg:Eucgr.K01360.1
+Q0IQQ5	Phytozome_Eg:Eucgr.A00615.1
+Q0IRE6	Phytozome_Eg:Eucgr.H04452.1
+Q0IS70	Phytozome_Eg:Eucgr.A01845.1 Phytozome_Eg:Eucgr.A01840.1 Phytozome_Eg:Eucgr.A01853.1 Phytozome_Eg:Eucgr.A01848.1
+Q0ITU1	Phytozome_Eg:Eucgr.C00793.1
+Q0IZS0	Phytozome_Eg:Eucgr.G02191.1
+Q0IZX5	Phytozome_Eg:Eucgr.F03706.1
+Q0J0L4	Phytozome_Eg:Eucgr.J02325.1
+Q0J0M8	Phytozome_Eg:Eucgr.H05009.1 Phytozome_Eg:Eucgr.I01544.1 Phytozome_Eg:Eucgr.H05007.1 Phytozome_Eg:Eucgr.F03606.1 Phytozome_Eg:Eucgr.F01818.1
+Q0J0N3	Phytozome_Eg:Eucgr.H02683.1
+Q0J0N7	Phytozome_Eg:Eucgr.K02118.1 Phytozome_Eg:Eucgr.K02123.1 Phytozome_Eg:Eucgr.K02120.1 Phytozome_Eg:Eucgr.K02125.1 Phytozome_Eg:Eucgr.K02119.1 Phytozome_Eg:Eucgr.K02121.1
+Q0J0P9	Phytozome_Eg:Eucgr.K02118.1 Phytozome_Eg:Eucgr.K02123.1 Phytozome_Eg:Eucgr.K02120.1 Phytozome_Eg:Eucgr.K02125.1 Phytozome_Eg:Eucgr.K02119.1 Phytozome_Eg:Eucgr.K02121.1
+Q0J185	Phytozome_Eg:Eucgr.F00225.1
+Q0J1C1	Phytozome_Eg:Eucgr.K00750.1 Phytozome_Eg:Eucgr.K00740.1 Phytozome_Eg:Eucgr.K00747.1 Phytozome_Eg:Eucgr.K00741.1 Phytozome_Eg:Eucgr.D01368.1 Phytozome_Eg:Eucgr.K00749.1 Phytozome_Eg:Eucgr.K00742.1 Phytozome_Eg:Eucgr.K00743.1 Phytozome_Eg:Eucgr.K00746.1 Phytozome_Eg:Eucgr.E03977.1 Phytozome_Eg:Eucgr.K00739.1
+Q0J1E1	Phytozome_Eg:Eucgr.B02610.1
+Q0J5Y4	Phytozome_Eg:Eucgr.H03234.1
+Q0J7U6	Phytozome_Eg:Eucgr.K00093.1
+Q0J9K2	Phytozome_Eg:Eucgr.J03080.1 Phytozome_Eg:Eucgr.F03908.1
+Q0J9Z0	Phytozome_Eg:Eucgr.D01324.1
+Q0JA82	Phytozome_Eg:Eucgr.F03855.1
+Q0JA83	Phytozome_Eg:Eucgr.F03855.1
+Q0JAI1	Phytozome_Eg:Eucgr.K02192.1
+Q0JB49	Phytozome_Eg:Eucgr.E00579.1
+Q0JB91	Phytozome_Eg:Eucgr.A02913.1
+Q0JB99	Phytozome_Eg:Eucgr.A02924.1
+Q0JC10	Phytozome_Eg:Eucgr.C00232.1
+Q0JCU7	Phytozome_Eg:Eucgr.I00922.1 Phytozome_Eg:Eucgr.I00923.1
+Q0JCZ4	Phytozome_Eg:Eucgr.G00076.1
+Q0JDD2	Phytozome_Eg:Eucgr.K02031.1
+Q0JDF7	Phytozome_Eg:Eucgr.J00428.1
+Q0JDT1	Phytozome_Eg:Eucgr.B02180.1
+Q0JEK1	Phytozome_Eg:Eucgr.D02445.1
+Q0JEP5	Phytozome_Eg:Eucgr.G02866.1
+Q0JEZ8	Phytozome_Eg:Eucgr.F03855.1
+Q0JF25	Phytozome_Eg:Eucgr.E03811.1 Phytozome_Eg:Eucgr.H04914.1 Phytozome_Eg:Eucgr.I00267.1 Phytozome_Eg:Eucgr.I00268.1 Phytozome_Eg:Eucgr.I00270.1 Phytozome_Eg:Eucgr.E03537.1 Phytozome_Eg:Eucgr.H04912.1 Phytozome_Eg:Eucgr.H04897.1 Phytozome_Eg:Eucgr.H04913.1 Phytozome_Eg:Eucgr.E03692.1 Phytozome_Eg:Eucgr.H04899.1
+Q0JF26	Phytozome_Eg:Eucgr.E03811.1 Phytozome_Eg:Eucgr.H04914.1 Phytozome_Eg:Eucgr.I00267.1 Phytozome_Eg:Eucgr.I00268.1 Phytozome_Eg:Eucgr.I00270.1 Phytozome_Eg:Eucgr.E03537.1 Phytozome_Eg:Eucgr.H04912.1 Phytozome_Eg:Eucgr.H04897.1 Phytozome_Eg:Eucgr.H04913.1 Phytozome_Eg:Eucgr.E03692.1 Phytozome_Eg:Eucgr.H04899.1
+Q0JF30	Phytozome_Eg:Eucgr.H03145.1 Phytozome_Eg:Eucgr.H04259.1
+Q0JGK4	Phytozome_Eg:Eucgr.H00041.1
+Q0JJI1	Phytozome_Eg:Eucgr.I01812.1
+Q0JK57	Phytozome_Eg:Eucgr.B00946.1
+Q0JKD0	Phytozome_Eg:Eucgr.A01471.1
+Q0JKI9	Phytozome_Eg:Eucgr.D00588.1
+Q0JKY8	Phytozome_Eg:Eucgr.I01790.1 Phytozome_Eg:Eucgr.B03320.1
+Q0JPT4	Phytozome_Eg:Eucgr.D00428.1 Phytozome_Eg:Eucgr.F03236.1
+Q0JRG4	Phytozome_Eg:Eucgr.I01618.1
+Q109F2	Phytozome_Eg:Eucgr.J02393.1 Phytozome_Eg:Eucgr.I02371.1
+Q109K4	Phytozome_Eg:Eucgr.G00852.1 Phytozome_Eg:Eucgr.G00853.1
+Q10A30	Phytozome_Eg:Eucgr.K02073.1 Phytozome_Eg:Eucgr.A01538.1
+Q10A97	Phytozome_Eg:Eucgr.H03088.1
+Q10BT5	Phytozome_Eg:Eucgr.B03620.1
+Q10BX9	Phytozome_Eg:Eucgr.G02586.1
+Q10CE4	Phytozome_Eg:Eucgr.E02420.1 Phytozome_Eg:Eucgr.D00288.1
+Q10CH5	Phytozome_Eg:Eucgr.A02043.1
+Q10CQ1	Phytozome_Eg:Eucgr.K02547.1 Phytozome_Eg:Eucgr.I02059.1 Phytozome_Eg:Eucgr.B00634.1
+Q10CS9	Phytozome_Eg:Eucgr.D01028.1
+Q10D68	Phytozome_Eg:Eucgr.I00580.1
+Q10D87	Phytozome_Eg:Eucgr.L01179.1
+Q10DK7	Phytozome_Eg:Eucgr.H02344.1
+Q10DU0	Phytozome_Eg:Eucgr.B01356.1
+Q10DZ5	Phytozome_Eg:Eucgr.A01588.1
+Q10E50	Phytozome_Eg:Eucgr.C00541.1 Phytozome_Eg:Eucgr.L01776.1 Phytozome_Eg:Eucgr.C00579.1 Phytozome_Eg:Eucgr.C00515.1
+Q10EG4	Phytozome_Eg:Eucgr.K01247.1
+Q10F04	Phytozome_Eg:Eucgr.E01312.1
+Q10FE9	Phytozome_Eg:Eucgr.H00040.1
+Q10G56	Phytozome_Eg:Eucgr.D00287.1
+Q10HZ6	Phytozome_Eg:Eucgr.E03811.1 Phytozome_Eg:Eucgr.H04914.1 Phytozome_Eg:Eucgr.I00267.1 Phytozome_Eg:Eucgr.I00268.1 Phytozome_Eg:Eucgr.I00270.1 Phytozome_Eg:Eucgr.E03537.1 Phytozome_Eg:Eucgr.H04912.1 Phytozome_Eg:Eucgr.H04897.1 Phytozome_Eg:Eucgr.H04913.1 Phytozome_Eg:Eucgr.E03692.1 Phytozome_Eg:Eucgr.H04899.1
+Q10J32	Phytozome_Eg:Eucgr.K02876.1 Phytozome_Eg:Eucgr.B00342.1
+Q10JI3	Phytozome_Eg:Eucgr.G02444.1
+Q10L56	Phytozome_Eg:Eucgr.K03389.1
+Q10LP5	Phytozome_Eg:Eucgr.H01094.1
+Q10LR4	Phytozome_Eg:Eucgr.K01268.1
+Q10LR5	Phytozome_Eg:Eucgr.H01083.1 Phytozome_Eg:Eucgr.H01081.1
+Q10MB0	Phytozome_Eg:Eucgr.L03185.1 Phytozome_Eg:Eucgr.L00241.1 Phytozome_Eg:Eucgr.K03563.1 Phytozome_Eg:Eucgr.L00245.1 Phytozome_Eg:Eucgr.L00251.1 Phytozome_Eg:Eucgr.L00248.1 Phytozome_Eg:Eucgr.H00906.1 Phytozome_Eg:Eucgr.L00243.1 Phytozome_Eg:Eucgr.B01791.1 Phytozome_Eg:Eucgr.L00234.1 Phytozome_Eg:Eucgr.B01793.1 Phytozome_Eg:Eucgr.L00249.1 Phytozome_Eg:Eucgr.L00240.1
+Q10MG9	Phytozome_Eg:Eucgr.A00380.1
+Q10MK5	Phytozome_Eg:Eucgr.F02151.1
+Q10MQ2	Phytozome_Eg:Eucgr.G01124.1
+Q10MW3	Phytozome_Eg:Eucgr.A00546.1 Phytozome_Eg:Eucgr.A00549.1 Phytozome_Eg:Eucgr.A00547.1
+Q10MX9	Phytozome_Eg:Eucgr.J00200.1
+Q10N17	Phytozome_Eg:Eucgr.E04043.1 Phytozome_Eg:Eucgr.A01119.1
+Q10N34	Phytozome_Eg:Eucgr.G02787.1
+Q10NY1	Phytozome_Eg:Eucgr.G02824.1
+Q10NY2	Phytozome_Eg:Eucgr.F03923.1
+Q10P01	Phytozome_Eg:Eucgr.D00310.1
+Q10P71	Phytozome_Eg:Eucgr.F03758.1
+Q10PY7	Phytozome_Eg:Eucgr.J00768.1
+Q10QA5	Phytozome_Eg:Eucgr.F00478.1
+Q10QN3	Phytozome_Eg:Eucgr.G00932.1
+Q10QR9	Phytozome_Eg:Eucgr.F02370.1
+Q10S55	Phytozome_Eg:Eucgr.G00352.1
+Q10S58	Phytozome_Eg:Eucgr.J02527.1
+Q10S72	Phytozome_Eg:Eucgr.F03543.1
+Q10SD6	Phytozome_Eg:Eucgr.B00293.1
+Q10SL7	Phytozome_Eg:Eucgr.A02812.1
+Q10SM6	Phytozome_Eg:Eucgr.D02284.1 Phytozome_Eg:Eucgr.D00187.1
+Q10SP1	Phytozome_Eg:Eucgr.D02387.1
+Q10SU1	Phytozome_Eg:Eucgr.J02122.1
+Q25AR2	Phytozome_Eg:Eucgr.H03482.1
+Q2KNB4	Phytozome_Eg:Eucgr.J00734.1
+Q2MJA8	Phytozome_Eg:Eucgr.H02683.1
+Q2QLJ0	Phytozome_Eg:Eucgr.G03362.1 Phytozome_Eg:Eucgr.G03374.1
+Q2QLY5	Phytozome_Eg:Eucgr.J00612.1 Phytozome_Eg:Eucgr.K01508.1 Phytozome_Eg:Eucgr.A02126.1
+Q2QLY6	Phytozome_Eg:Eucgr.K00329.1
+Q2QM47	Phytozome_Eg:Eucgr.B03812.1
+Q2QMD4	Phytozome_Eg:Eucgr.F04458.1
+Q2QME6	Phytozome_Eg:Eucgr.H03427.1
+Q2QMK8	Phytozome_Eg:Eucgr.F02818.1
+Q2QN06	Phytozome_Eg:Eucgr.F02262.1
+Q2QN88	Phytozome_Eg:Eucgr.G02442.1
+Q2QNF7	Phytozome_Eg:Eucgr.K03171.1
+Q2QNM9	Phytozome_Eg:Eucgr.J00823.1
+Q2QPI2	Phytozome_Eg:Eucgr.H04452.1
+Q2QQJ5	Phytozome_Eg:Eucgr.F03855.1
+Q2QQX6	Phytozome_Eg:Eucgr.K02197.1
+Q2QS13	Phytozome_Eg:Eucgr.J01372.1
+Q2QS14	Phytozome_Eg:Eucgr.J01372.1
+Q2QT32	Phytozome_Eg:Eucgr.H02679.1
+Q2QTJ1	Phytozome_Eg:Eucgr.B03013.1 Phytozome_Eg:Eucgr.J01502.1 Phytozome_Eg:Eucgr.K02223.1
+Q2QTQ1	Phytozome_Eg:Eucgr.B03759.1
+Q2QUG4	Phytozome_Eg:Eucgr.E01732.1 Phytozome_Eg:Eucgr.E01729.1 Phytozome_Eg:Eucgr.E01739.1 Phytozome_Eg:Eucgr.E01740.1
+Q2QVC1	Phytozome_Eg:Eucgr.K02738.1
+Q2QWK9	Phytozome_Eg:Eucgr.G00559.1
+Q2QWV7	Phytozome_Eg:Eucgr.A02509.1
+Q2QX58	Phytozome_Eg:Eucgr.F04354.1
+Q2QXL0	Phytozome_Eg:Eucgr.B03855.1 Phytozome_Eg:Eucgr.J00491.1
+Q2QXY1	Phytozome_Eg:Eucgr.A02267.1
+Q2QXY9	Phytozome_Eg:Eucgr.A00249.1 Phytozome_Eg:Eucgr.A00052.1 Phytozome_Eg:Eucgr.A00248.1
+Q2QY63	Phytozome_Eg:Eucgr.H01630.1 Phytozome_Eg:Eucgr.H01402.1
+Q2QYB7	Phytozome_Eg:Eucgr.J00623.1
+Q2QZ14	Phytozome_Eg:Eucgr.J02002.1
+Q2R1G8	Phytozome_Eg:Eucgr.H04812.1
+Q2R1L4	Phytozome_Eg:Eucgr.F02498.1
+Q2R2W1	Phytozome_Eg:Eucgr.G02098.1
+Q2R339	Phytozome_Eg:Eucgr.G03412.1
+Q2R3A1	Phytozome_Eg:Eucgr.I01579.1
+Q2R3F5	Phytozome_Eg:Eucgr.K02197.1
+Q2R3K3	Phytozome_Eg:Eucgr.K02201.1
+Q2R481	Phytozome_Eg:Eucgr.A01332.1 Phytozome_Eg:Eucgr.G01624.1
+Q2R8T7	Phytozome_Eg:Eucgr.I01731.1
+Q2RAP0	Phytozome_Eg:Eucgr.A02267.1
+Q2RAP4	Phytozome_Eg:Eucgr.J00224.1 Phytozome_Eg:Eucgr.G03059.1
+Q2RAP8	Phytozome_Eg:Eucgr.A00249.1 Phytozome_Eg:Eucgr.A00052.1 Phytozome_Eg:Eucgr.A00248.1
+Q2RAY0	Phytozome_Eg:Eucgr.H01630.1 Phytozome_Eg:Eucgr.H01402.1
+Q2RB02	Phytozome_Eg:Eucgr.B03982.1
+Q2RB23	Phytozome_Eg:Eucgr.J00623.1
+Q2RBP2	Phytozome_Eg:Eucgr.J00203.1
+Q336M7	Phytozome_Eg:Eucgr.D02624.1
+Q336N7	Phytozome_Eg:Eucgr.E00233.1
+Q336P5	Phytozome_Eg:Eucgr.E00277.1
+Q336R6	Phytozome_Eg:Eucgr.E01661.1
+Q336U3	Phytozome_Eg:Eucgr.J01449.1
+Q336V3	Phytozome_Eg:Eucgr.A01599.1
+Q337F0	Phytozome_Eg:Eucgr.D02251.1
+Q337F3	Phytozome_Eg:Eucgr.J02122.1
+Q338J0	Phytozome_Eg:Eucgr.E01787.1 Phytozome_Eg:Eucgr.E01788.1 Phytozome_Eg:Eucgr.E02458.1 Phytozome_Eg:Eucgr.E02456.1
+Q338Z4	Phytozome_Eg:Eucgr.F02123.1
+Q339V1	Phytozome_Eg:Eucgr.B01993.1
+Q33AE4	Phytozome_Eg:Eucgr.K00185.1
+Q40710	Phytozome_Eg:Eucgr.L03185.1 Phytozome_Eg:Eucgr.L00241.1 Phytozome_Eg:Eucgr.K03563.1 Phytozome_Eg:Eucgr.L00245.1 Phytozome_Eg:Eucgr.L00251.1 Phytozome_Eg:Eucgr.L00248.1 Phytozome_Eg:Eucgr.H00906.1 Phytozome_Eg:Eucgr.L00243.1 Phytozome_Eg:Eucgr.B01791.1 Phytozome_Eg:Eucgr.L00234.1 Phytozome_Eg:Eucgr.B01793.1 Phytozome_Eg:Eucgr.L00249.1 Phytozome_Eg:Eucgr.L00240.1
+Q42982	Phytozome_Eg:Eucgr.K00087.1
+Q43007	Phytozome_Eg:Eucgr.F03862.1
+Q43009	Phytozome_Eg:Eucgr.C03201.1 Phytozome_Eg:Eucgr.C00769.1 Phytozome_Eg:Eucgr.C03199.1
+Q43011	Phytozome_Eg:Eucgr.I00431.1
+Q53JI9	Phytozome_Eg:Eucgr.F02931.1
+Q53MS9	Phytozome_Eg:Eucgr.A00055.1 Phytozome_Eg:Eucgr.A00257.1
+Q53MU8	Phytozome_Eg:Eucgr.B00307.1
+Q53Q70	Phytozome_Eg:Eucgr.B03855.1 Phytozome_Eg:Eucgr.J00491.1
+Q53QJ0	Phytozome_Eg:Eucgr.K02737.1
+Q53RH0	Phytozome_Eg:Eucgr.K03513.1
+Q5CCK1	Phytozome_Eg:Eucgr.J00224.1 Phytozome_Eg:Eucgr.G03059.1
+Q5CCK3	Phytozome_Eg:Eucgr.I02453.1
+Q5JK20	Phytozome_Eg:Eucgr.B03551.1
+Q5JK39	Phytozome_Eg:Eucgr.K02201.1
+Q5JLS4	Phytozome_Eg:Eucgr.H02887.1 Phytozome_Eg:Eucgr.D01393.1
+Q5JMA1	Phytozome_Eg:Eucgr.D00323.1
+Q5JMA6	Phytozome_Eg:Eucgr.C00910.1
+Q5JMB6	Phytozome_Eg:Eucgr.G00961.1 Phytozome_Eg:Eucgr.G03204.1
+Q5JMC7	Phytozome_Eg:Eucgr.I00312.1
+Q5JMM6	Phytozome_Eg:Eucgr.F01180.1
+Q5JMX5	Phytozome_Eg:Eucgr.K00731.1
+Q5JMX9	Phytozome_Eg:Eucgr.K01223.1
+Q5JN19	Phytozome_Eg:Eucgr.I01994.1
+Q5JN63	Phytozome_Eg:Eucgr.D00476.1
+Q5JNB0	Phytozome_Eg:Eucgr.L00009.1
+Q5MBR3	Phytozome_Eg:Eucgr.F01409.1
+Q5MBR5	Phytozome_Eg:Eucgr.F01409.1
+Q5N725	Phytozome_Eg:Eucgr.K02073.1 Phytozome_Eg:Eucgr.A01538.1
+Q5N7L0	Phytozome_Eg:Eucgr.C02671.1 Phytozome_Eg:Eucgr.C02674.1 Phytozome_Eg:Eucgr.C02688.1 Phytozome_Eg:Eucgr.C02687.1 Phytozome_Eg:Eucgr.C02668.1 Phytozome_Eg:Eucgr.C02690.1 Phytozome_Eg:Eucgr.G02313.1 Phytozome_Eg:Eucgr.C02679.1 Phytozome_Eg:Eucgr.C02681.1 Phytozome_Eg:Eucgr.C02680.1
+Q5N7Z8	Phytozome_Eg:Eucgr.L00981.1 Phytozome_Eg:Eucgr.B01015.1 Phytozome_Eg:Eucgr.B00199.1 Phytozome_Eg:Eucgr.B00204.1
+Q5N892	Phytozome_Eg:Eucgr.A00514.1 Phytozome_Eg:Eucgr.K02992.1
+Q5N8G1	Phytozome_Eg:Eucgr.I02806.1
+Q5N9N2	Phytozome_Eg:Eucgr.G02960.1 Phytozome_Eg:Eucgr.J02003.1
+Q5N9Z8	Phytozome_Eg:Eucgr.I00395.1
+Q5NA81	Phytozome_Eg:Eucgr.K01062.1
+Q5NAY4	Phytozome_Eg:Eucgr.D00111.1
+Q5NB25	Phytozome_Eg:Eucgr.H02407.1 Phytozome_Eg:Eucgr.F03050.1 Phytozome_Eg:Eucgr.F02172.1
+Q5NBQ1	Phytozome_Eg:Eucgr.F01985.1
+Q5NBT9	Phytozome_Eg:Eucgr.H03269.1 Phytozome_Eg:Eucgr.B02075.1
+Q5NTH3	Phytozome_Eg:Eucgr.I00321.1
+Q5NTH4	Phytozome_Eg:Eucgr.I00321.1
+Q5QN02	Phytozome_Eg:Eucgr.J00270.1
+Q5SMQ9	Phytozome_Eg:Eucgr.K02271.1
+Q5SMY2	Phytozome_Eg:Eucgr.J02851.1
+Q5SND7	Phytozome_Eg:Eucgr.C01002.1
+Q5U9F2	Phytozome_Eg:Eucgr.K02040.1
+Q5VMP0	Phytozome_Eg:Eucgr.K01130.1
+Q5VMP2	Phytozome_Eg:Eucgr.G00614.1
+Q5VN31	Phytozome_Eg:Eucgr.F03487.1
+Q5VNP5	Phytozome_Eg:Eucgr.H01277.1
+Q5VNW0	Phytozome_Eg:Eucgr.D02465.1
+Q5VP70	Phytozome_Eg:Eucgr.G02187.1 Phytozome_Eg:Eucgr.B02902.1
+Q5VPH2	Phytozome_Eg:Eucgr.J02407.1
+Q5VQG4	Phytozome_Eg:Eucgr.J02233.1 Phytozome_Eg:Eucgr.K02813.1 Phytozome_Eg:Eucgr.I01757.1
+Q5VQG8	Phytozome_Eg:Eucgr.B00238.1
+Q5VRB9	Phytozome_Eg:Eucgr.C02837.1 Phytozome_Eg:Eucgr.C01808.1
+Q5VRM7	Phytozome_Eg:Eucgr.D01134.1
+Q5VSB8	Phytozome_Eg:Eucgr.C01793.1
+Q5W670	Phytozome_Eg:Eucgr.J02934.1 Phytozome_Eg:Eucgr.F03080.1
+Q5W6F1	Phytozome_Eg:Eucgr.J01844.1
+Q5W6H5	Phytozome_Eg:Eucgr.A00535.1
+Q5W6W7	Phytozome_Eg:Eucgr.K01396.1
+Q5XLJ2	Phytozome_Eg:Eucgr.G03412.1
+Q5Z5B7	Phytozome_Eg:Eucgr.F02913.1 Phytozome_Eg:Eucgr.F02914.1
+Q5Z5R4	Phytozome_Eg:Eucgr.F02398.1 Phytozome_Eg:Eucgr.F02396.1
+Q5Z5R7	Phytozome_Eg:Eucgr.F02398.1 Phytozome_Eg:Eucgr.F02396.1
+Q5Z6D3	Phytozome_Eg:Eucgr.H03521.1
+Q5Z807	Phytozome_Eg:Eucgr.C00055.1
+Q5Z856	Phytozome_Eg:Eucgr.G02823.1
+Q5Z8K3	Phytozome_Eg:Eucgr.C00144.1
+Q5Z8T3	Phytozome_Eg:Eucgr.F03092.1 Phytozome_Eg:Eucgr.G02560.1
+Q5Z8V9	Phytozome_Eg:Eucgr.F03796.1
+Q5Z8Y4	Phytozome_Eg:Eucgr.F03856.1
+Q5Z8Z7	Phytozome_Eg:Eucgr.F03107.1
+Q5ZED1	Phytozome_Eg:Eucgr.G02931.1
+Q5ZEL4	Phytozome_Eg:Eucgr.A00529.1
+Q60EX6	Phytozome_Eg:Eucgr.H01613.1
+Q60EY1	Phytozome_Eg:Eucgr.K03411.1 Phytozome_Eg:Eucgr.K03410.1
+Q64MA9	Phytozome_Eg:Eucgr.D01931.1
+Q651F0	Phytozome_Eg:Eucgr.J02467.1
+Q652A8	Phytozome_Eg:Eucgr.D01906.1
+Q652S1	Phytozome_Eg:Eucgr.B00991.1
+Q653D9	Phytozome_Eg:Eucgr.G00614.1
+Q653F4	Phytozome_Eg:Eucgr.I00880.1
+Q653H7	Phytozome_Eg:Eucgr.J00923.1
+Q653T6	Phytozome_Eg:Eucgr.E02451.1
+Q653U3	Phytozome_Eg:Eucgr.D00264.1 Phytozome_Eg:Eucgr.A02065.1
+Q655T1	Phytozome_Eg:Eucgr.F04463.1
+Q655W2	Phytozome_Eg:Eucgr.F04466.1
+Q655Y9	Phytozome_Eg:Eucgr.I02616.1
+Q656F1	Phytozome_Eg:Eucgr.C00228.1
+Q65X14	Phytozome_Eg:Eucgr.F03232.1
+Q65XK0	Phytozome_Eg:Eucgr.K01105.1
+Q65XM9	Phytozome_Eg:Eucgr.E03836.1
+Q67J16	Phytozome_Eg:Eucgr.G01454.1 Phytozome_Eg:Eucgr.G01451.1 Phytozome_Eg:Eucgr.G01453.1
+Q67J19	Phytozome_Eg:Eucgr.F00237.1
+Q67TQ5	Phytozome_Eg:Eucgr.I01145.1
+Q67UL3	Phytozome_Eg:Eucgr.K02271.1
+Q67UX0	Phytozome_Eg:Eucgr.C00144.1
+Q67VM1	Phytozome_Eg:Eucgr.J01455.1
+Q67VR7	Phytozome_Eg:Eucgr.D01945.1
+Q67W82	Phytozome_Eg:Eucgr.C02284.1
+Q67WR2	Phytozome_Eg:Eucgr.C01236.1
+Q688Q8	Phytozome_Eg:Eucgr.F04428.1 Phytozome_Eg:Eucgr.F04303.1
+Q688Q9	Phytozome_Eg:Eucgr.D01848.1
+Q688Y2	Phytozome_Eg:Eucgr.F01118.1
+Q689G6	Phytozome_Eg:Eucgr.A01405.1
+Q689G9	Phytozome_Eg:Eucgr.B00537.1
+Q69IM7	Phytozome_Eg:Eucgr.A00077.1
+Q69J27	Phytozome_Eg:Eucgr.J02531.1
+Q69K00	Phytozome_Eg:Eucgr.I01374.1
+Q69L93	Phytozome_Eg:Eucgr.J02002.1
+Q69LG7	Phytozome_Eg:Eucgr.F02952.1
+Q69MC9	Phytozome_Eg:Eucgr.I02623.1
+Q69MH0	Phytozome_Eg:Eucgr.F02489.1 Phytozome_Eg:Eucgr.J01500.1 Phytozome_Eg:Eucgr.F02488.1 Phytozome_Eg:Eucgr.G02472.1
+Q69NY7	Phytozome_Eg:Eucgr.E02416.1 Phytozome_Eg:Eucgr.D00289.1
+Q69P51	Phytozome_Eg:Eucgr.C00246.1
+Q69QD7	Phytozome_Eg:Eucgr.C01140.1
+Q69RJ0	Phytozome_Eg:Eucgr.A02249.1
+Q69T90	Phytozome_Eg:Eucgr.H04996.1
+Q69TF4	Phytozome_Eg:Eucgr.K01291.1
+Q69TT1	Phytozome_Eg:Eucgr.B02929.1
+Q69TV4	Phytozome_Eg:Eucgr.B00531.1
+Q69TV6	Phytozome_Eg:Eucgr.B00531.1
+Q69TW5	Phytozome_Eg:Eucgr.G01436.1 Phytozome_Eg:Eucgr.F02337.1
+Q69U93	Phytozome_Eg:Eucgr.A00256.1 Phytozome_Eg:Eucgr.A00054.1
+Q69V57	Phytozome_Eg:Eucgr.F02017.1
+Q69XS7	Phytozome_Eg:Eucgr.E00346.1 Phytozome_Eg:Eucgr.G00574.1 Phytozome_Eg:Eucgr.F01584.1 Phytozome_Eg:Eucgr.E00343.1 Phytozome_Eg:Eucgr.E00001.1 Phytozome_Eg:Eucgr.B01777.1 Phytozome_Eg:Eucgr.E00337.1 Phytozome_Eg:Eucgr.L00747.1 Phytozome_Eg:Eucgr.L02476.1 Phytozome_Eg:Eucgr.B00145.1 Phytozome_Eg:Eucgr.E00338.1 Phytozome_Eg:Eucgr.E00003.1 Phytozome_Eg:Eucgr.L01334.1 Phytozome_Eg:Eucgr.B01250.1 Phytozome_Eg:Eucgr.E00336.1 Phytozome_Eg:Eucgr.E00344.1
+Q6AT26	Phytozome_Eg:Eucgr.C01769.1 Phytozome_Eg:Eucgr.C02801.1
+Q6AT32	Phytozome_Eg:Eucgr.C00584.1
+Q6AT41	Phytozome_Eg:Eucgr.C03788.1
+Q6AT43	Phytozome_Eg:Eucgr.I00664.1
+Q6ATR2	Phytozome_Eg:Eucgr.H03602.1 Phytozome_Eg:Eucgr.B01146.1
+Q6AV34	Phytozome_Eg:Eucgr.I01182.1
+Q6AVG6	Phytozome_Eg:Eucgr.I01241.1
+Q6AVM5	Phytozome_Eg:Eucgr.J00320.1
+Q6AVR2	Phytozome_Eg:Eucgr.G00422.1 Phytozome_Eg:Eucgr.G00554.1
+Q6AVT2	Phytozome_Eg:Eucgr.B01108.1 Phytozome_Eg:Eucgr.L00600.1
+Q6BDZ9	Phytozome_Eg:Eucgr.F03855.1
+Q6EN48	Phytozome_Eg:Eucgr.A01487.1
+Q6EP31	Phytozome_Eg:Eucgr.I01414.1
+Q6EP59	Phytozome_Eg:Eucgr.B01109.1 Phytozome_Eg:Eucgr.F00346.1 Phytozome_Eg:Eucgr.F00343.1 Phytozome_Eg:Eucgr.E01567.1 Phytozome_Eg:Eucgr.L00502.1 Phytozome_Eg:Eucgr.L00994.1 Phytozome_Eg:Eucgr.E01562.1 Phytozome_Eg:Eucgr.F00351.1 Phytozome_Eg:Eucgr.F00353.1 Phytozome_Eg:Eucgr.L00599.1 Phytozome_Eg:Eucgr.F00340.1 Phytozome_Eg:Eucgr.F00338.1 Phytozome_Eg:Eucgr.F00337.1 Phytozome_Eg:Eucgr.F00339.1 Phytozome_Eg:Eucgr.E01564.1 Phytozome_Eg:Eucgr.L00991.1
+Q6EP77	Phytozome_Eg:Eucgr.A02832.1 Phytozome_Eg:Eucgr.A02821.1 Phytozome_Eg:Eucgr.A02820.1 Phytozome_Eg:Eucgr.A02825.1 Phytozome_Eg:Eucgr.A02824.1 Phytozome_Eg:Eucgr.A02831.1 Phytozome_Eg:Eucgr.A02818.1 Phytozome_Eg:Eucgr.A02823.1 Phytozome_Eg:Eucgr.A02834.1 Phytozome_Eg:Eucgr.A02822.1 Phytozome_Eg:Eucgr.A02827.1 Phytozome_Eg:Eucgr.A02826.1 Phytozome_Eg:Eucgr.A02830.1
+Q6EPN6	Phytozome_Eg:Eucgr.L03318.1 Phytozome_Eg:Eucgr.E00780.1
+Q6EPY7	Phytozome_Eg:Eucgr.K02031.1
+Q6EQW2	Phytozome_Eg:Eucgr.F01378.1
+Q6ERL4	Phytozome_Eg:Eucgr.I00651.1
+Q6ERR3	Phytozome_Eg:Eucgr.J03114.1
+Q6ES51	Phytozome_Eg:Eucgr.G02115.1 Phytozome_Eg:Eucgr.H00537.1 Phytozome_Eg:Eucgr.K02279.1 Phytozome_Eg:Eucgr.G02116.1
+Q6ESJ0	Phytozome_Eg:Eucgr.E00579.1
+Q6ESZ9	Phytozome_Eg:Eucgr.F04257.1
+Q6ET36	Phytozome_Eg:Eucgr.H01472.1
+Q6ET88	Phytozome_Eg:Eucgr.G01806.1
+Q6ETD3	Phytozome_Eg:Eucgr.A02888.1 Phytozome_Eg:Eucgr.D02029.1
+Q6ETN3	Phytozome_Eg:Eucgr.C02284.1
+Q6ETX4	Phytozome_Eg:Eucgr.J00201.1
+Q6EUP4	Phytozome_Eg:Eucgr.F02482.1
+Q6EUS6	Phytozome_Eg:Eucgr.A01927.1
+Q6F361	Phytozome_Eg:Eucgr.F01209.1
+Q6F4N6	Phytozome_Eg:Eucgr.C00232.1
+Q6H5C7	Phytozome_Eg:Eucgr.F02498.1
+Q6H6C7	Phytozome_Eg:Eucgr.F04463.1
+Q6H6D2	Phytozome_Eg:Eucgr.C00142.1
+Q6H6G1	Phytozome_Eg:Eucgr.C02143.1
+Q6H6P8	Phytozome_Eg:Eucgr.A01533.1
+Q6H703	Phytozome_Eg:Eucgr.F04466.1
+Q6H7Q6	Phytozome_Eg:Eucgr.J00820.1 Phytozome_Eg:Eucgr.J00832.1 Phytozome_Eg:Eucgr.J00824.1 Phytozome_Eg:Eucgr.J00825.1 Phytozome_Eg:Eucgr.L01891.1 Phytozome_Eg:Eucgr.J00819.1
+Q6H819	Phytozome_Eg:Eucgr.J00167.1
+Q6H849	Phytozome_Eg:Eucgr.J00529.1
+Q6H851	Phytozome_Eg:Eucgr.J00529.1
+Q6I581	Phytozome_Eg:Eucgr.D02349.1 Phytozome_Eg:Eucgr.E00072.1
+Q6K1X7	Phytozome_Eg:Eucgr.L00052.1 Phytozome_Eg:Eucgr.H01869.1
+Q6K2E8	Phytozome_Eg:Eucgr.B00108.1 Phytozome_Eg:Eucgr.K02720.1
+Q6K3T2	Phytozome_Eg:Eucgr.E02396.1
+Q6K3Z3	Phytozome_Eg:Eucgr.L00148.1
+Q6K548	Phytozome_Eg:Eucgr.B00433.1
+Q6K6Q0	Phytozome_Eg:Eucgr.G02852.1 Phytozome_Eg:Eucgr.G02849.1 Phytozome_Eg:Eucgr.G02848.1 Phytozome_Eg:Eucgr.J01079.1 Phytozome_Eg:Eucgr.J00907.1 Phytozome_Eg:Eucgr.G02851.1 Phytozome_Eg:Eucgr.G02850.1
+Q6K6Q1	Phytozome_Eg:Eucgr.G02852.1 Phytozome_Eg:Eucgr.G02849.1 Phytozome_Eg:Eucgr.G02848.1 Phytozome_Eg:Eucgr.J01079.1 Phytozome_Eg:Eucgr.J00907.1 Phytozome_Eg:Eucgr.G02851.1 Phytozome_Eg:Eucgr.G02850.1
+Q6K7V6	Phytozome_Eg:Eucgr.C02909.1
+Q6K8E7	Phytozome_Eg:Eucgr.D00310.1
+Q6K8J4	Phytozome_Eg:Eucgr.B02495.1
+Q6K973	Phytozome_Eg:Eucgr.J01640.1
+Q6K9B8	Phytozome_Eg:Eucgr.C00232.1
+Q6K9M5	Phytozome_Eg:Eucgr.C01241.1
+Q6K9N6	Phytozome_Eg:Eucgr.H00143.1
+Q6K9X3	Phytozome_Eg:Eucgr.A01600.1
+Q6KAJ2	Phytozome_Eg:Eucgr.C02720.1
+Q6L479	Phytozome_Eg:Eucgr.H03262.1
+Q6L4G2	Phytozome_Eg:Eucgr.C02671.1 Phytozome_Eg:Eucgr.C02674.1 Phytozome_Eg:Eucgr.C02688.1 Phytozome_Eg:Eucgr.C02687.1 Phytozome_Eg:Eucgr.C02668.1 Phytozome_Eg:Eucgr.C02690.1 Phytozome_Eg:Eucgr.G02313.1 Phytozome_Eg:Eucgr.C02679.1 Phytozome_Eg:Eucgr.C02681.1 Phytozome_Eg:Eucgr.C02680.1
+Q6L4H5	Phytozome_Eg:Eucgr.C00846.1
+Q6L4L4	Phytozome_Eg:Eucgr.B02478.1
+Q6L4R0	Phytozome_Eg:Eucgr.F03127.1
+Q6L4R7	Phytozome_Eg:Eucgr.F03166.1
+Q6L545	Phytozome_Eg:Eucgr.B02030.1 Phytozome_Eg:Eucgr.H01611.1 Phytozome_Eg:Eucgr.K03422.1
+Q6Q9I2	Phytozome_Eg:Eucgr.K02547.1 Phytozome_Eg:Eucgr.I02059.1 Phytozome_Eg:Eucgr.B00634.1
+Q6YPG5	Phytozome_Eg:Eucgr.A02894.1
+Q6YS33	Phytozome_Eg:Eucgr.I01605.1
+Q6YSA1	Phytozome_Eg:Eucgr.H00574.1 Phytozome_Eg:Eucgr.G02066.1 Phytozome_Eg:Eucgr.K02292.1
+Q6YT73	Phytozome_Eg:Eucgr.E02420.1 Phytozome_Eg:Eucgr.D00288.1
+Q6YTI6	Phytozome_Eg:Eucgr.F03738.1
+Q6YU51	Phytozome_Eg:Eucgr.I00566.1
+Q6YUS0	Phytozome_Eg:Eucgr.H05005.1
+Q6YUU2	Phytozome_Eg:Eucgr.A02265.1
+Q6YV23	Phytozome_Eg:Eucgr.I00242.1
+Q6YVI0	Phytozome_Eg:Eucgr.F01880.1
+Q6YVY0	Phytozome_Eg:Eucgr.G00076.1
+Q6YVY6	Phytozome_Eg:Eucgr.G02444.1
+Q6YWE1	Phytozome_Eg:Eucgr.H03602.1 Phytozome_Eg:Eucgr.B01146.1
+Q6YXI1	Phytozome_Eg:Eucgr.F02133.1
+Q6YXW6	Phytozome_Eg:Eucgr.A02547.1
+Q6YYB9	Phytozome_Eg:Eucgr.F03443.1
+Q6YYZ2	Phytozome_Eg:Eucgr.D02624.1
+Q6YZ18	Phytozome_Eg:Eucgr.A01770.1
+Q6YZE2	Phytozome_Eg:Eucgr.K00727.1
+Q6YZH8	Phytozome_Eg:Eucgr.H02826.1
+Q6YZX6	Phytozome_Eg:Eucgr.I02307.1
+Q6Z2L5	Phytozome_Eg:Eucgr.E01722.1
+Q6Z2T6	Phytozome_Eg:Eucgr.B03789.1
+Q6Z312	Phytozome_Eg:Eucgr.G01436.1 Phytozome_Eg:Eucgr.F02337.1
+Q6Z351	Phytozome_Eg:Eucgr.J00610.1
+Q6Z368	Phytozome_Eg:Eucgr.G01720.1
+Q6Z398	Phytozome_Eg:Eucgr.F01647.1
+Q6Z3A3	Phytozome_Eg:Eucgr.D01848.1
+Q6Z3F1	Phytozome_Eg:Eucgr.B02626.1
+Q6Z3F9	Phytozome_Eg:Eucgr.G01834.1
+Q6Z3X5	Phytozome_Eg:Eucgr.G01375.1
+Q6Z3Y3	Phytozome_Eg:Eucgr.J00958.1
+Q6Z433	Phytozome_Eg:Eucgr.J03166.1
+Q6Z4E7	Phytozome_Eg:Eucgr.A01382.1 Phytozome_Eg:Eucgr.A01384.1
+Q6Z4I1	Phytozome_Eg:Eucgr.G01697.1
+Q6Z5M3	Phytozome_Eg:Eucgr.I00693.1
+Q6Z684	Phytozome_Eg:Eucgr.B01109.1 Phytozome_Eg:Eucgr.F00346.1 Phytozome_Eg:Eucgr.F00343.1 Phytozome_Eg:Eucgr.E01567.1 Phytozome_Eg:Eucgr.L00502.1 Phytozome_Eg:Eucgr.L00994.1 Phytozome_Eg:Eucgr.E01562.1 Phytozome_Eg:Eucgr.F00351.1 Phytozome_Eg:Eucgr.F00353.1 Phytozome_Eg:Eucgr.L00599.1 Phytozome_Eg:Eucgr.F00340.1 Phytozome_Eg:Eucgr.F00338.1 Phytozome_Eg:Eucgr.F00337.1 Phytozome_Eg:Eucgr.F00339.1 Phytozome_Eg:Eucgr.E01564.1 Phytozome_Eg:Eucgr.L00991.1
+Q6Z6F0	Phytozome_Eg:Eucgr.H02638.1 Phytozome_Eg:Eucgr.H02639.1
+Q6Z702	Phytozome_Eg:Eucgr.H02913.1
+Q6Z744	Phytozome_Eg:Eucgr.K02286.1
+Q6Z795	Phytozome_Eg:Eucgr.C01744.1 Phytozome_Eg:Eucgr.C02778.1 Phytozome_Eg:Eucgr.C01524.1 Phytozome_Eg:Eucgr.C01334.1
+Q6Z7Q3	Phytozome_Eg:Eucgr.B00531.1
+Q6Z836	Phytozome_Eg:Eucgr.I01794.1
+Q6Z8F4	Phytozome_Eg:Eucgr.E01261.1
+Q6Z8Z7	Phytozome_Eg:Eucgr.K00776.1
+Q6Z965	Phytozome_Eg:Eucgr.C00820.1
+Q6Z9A3	Phytozome_Eg:Eucgr.G02988.1
+Q6ZAH2	Phytozome_Eg:Eucgr.G01369.1
+Q6ZBH5	Phytozome_Eg:Eucgr.D01931.1
+Q6ZC33	Phytozome_Eg:Eucgr.F03744.1
+Q6ZCF0	Phytozome_Eg:Eucgr.K01341.1
+Q6ZD10	Phytozome_Eg:Eucgr.F02952.1
+Q6ZD89	Phytozome_Eg:Eucgr.A02870.1 Phytozome_Eg:Eucgr.A01392.1 Phytozome_Eg:Eucgr.K00041.1 Phytozome_Eg:Eucgr.A01397.1 Phytozome_Eg:Eucgr.A01389.1 Phytozome_Eg:Eucgr.A01395.1 Phytozome_Eg:Eucgr.K00449.1
+Q6ZDQ1	Phytozome_Eg:Eucgr.D02153.1
+Q6ZDY8	Phytozome_Eg:Eucgr.I02452.1
+Q6ZEZ2	Phytozome_Eg:Eucgr.B02112.1
+Q6ZFT5	Phytozome_Eg:Eucgr.A01976.1
+Q6ZG77	Phytozome_Eg:Eucgr.G01640.1
+Q6ZG91	Phytozome_Eg:Eucgr.H02516.1
+Q6ZGS9	Phytozome_Eg:Eucgr.D02190.1
+Q6ZGW6	Phytozome_Eg:Eucgr.A02449.1 Phytozome_Eg:Eucgr.B03641.1
+Q6ZHB2	Phytozome_Eg:Eucgr.D02146.1 Phytozome_Eg:Eucgr.E00327.1
+Q6ZHH7	Phytozome_Eg:Eucgr.F03744.1
+Q6ZHS4	Phytozome_Eg:Eucgr.G01350.1
+Q6ZHZ1	Phytozome_Eg:Eucgr.E03524.1
+Q6ZI55	Phytozome_Eg:Eucgr.I01510.1
+Q6ZIA3	Phytozome_Eg:Eucgr.J02325.1
+Q6ZIK0	Phytozome_Eg:Eucgr.K00068.1
+Q6ZIX2	Phytozome_Eg:Eucgr.G03364.1
+Q6ZJ97	Phytozome_Eg:Eucgr.E04308.1
+Q6ZJK7	Phytozome_Eg:Eucgr.A01770.1
+Q6ZJU3	Phytozome_Eg:Eucgr.G02115.1 Phytozome_Eg:Eucgr.H00537.1 Phytozome_Eg:Eucgr.K02279.1 Phytozome_Eg:Eucgr.G02116.1
+Q6ZK11	Phytozome_Eg:Eucgr.A00642.1
+Q6ZKC0	Phytozome_Eg:Eucgr.F02482.1
+Q6ZKV8	Phytozome_Eg:Eucgr.C00186.1
+Q6ZL61	Phytozome_Eg:Eucgr.G01098.1
+Q6ZL94	Phytozome_Eg:Eucgr.J00864.1
+Q6ZLD3	Phytozome_Eg:Eucgr.B01475.1
+Q6ZLJ9	Phytozome_Eg:Eucgr.A02374.1
+Q75GB1	Phytozome_Eg:Eucgr.H02407.1 Phytozome_Eg:Eucgr.F03050.1 Phytozome_Eg:Eucgr.F02172.1
+Q75GK0	Phytozome_Eg:Eucgr.H04335.1
+Q75H77	Phytozome_Eg:Eucgr.I01180.1
+Q75HP7	Phytozome_Eg:Eucgr.I02741.1
+Q75HQ7	Phytozome_Eg:Eucgr.G02852.1 Phytozome_Eg:Eucgr.G02849.1 Phytozome_Eg:Eucgr.G02848.1 Phytozome_Eg:Eucgr.J01079.1 Phytozome_Eg:Eucgr.J00907.1 Phytozome_Eg:Eucgr.G02851.1 Phytozome_Eg:Eucgr.G02850.1
+Q75HZ9	Phytozome_Eg:Eucgr.F03219.1
+Q75II5	Phytozome_Eg:Eucgr.F01299.1
+Q75KD7	Phytozome_Eg:Eucgr.F02479.1
+Q75KT7	Phytozome_Eg:Eucgr.F04176.1
+Q75L84	Phytozome_Eg:Eucgr.A01172.1
+Q75LL5	Phytozome_Eg:Eucgr.B03802.1 Phytozome_Eg:Eucgr.J00588.1 Phytozome_Eg:Eucgr.J00590.1
+Q75LR2	Phytozome_Eg:Eucgr.F00366.1
+Q75M18	Phytozome_Eg:Eucgr.G00060.1
+Q75V57	Phytozome_Eg:Eucgr.I01180.1
+Q75W16	Phytozome_Eg:Eucgr.F00366.1
+Q764B9	Phytozome_Eg:Eucgr.A00016.1
+Q7EYE4	Phytozome_Eg:Eucgr.A00914.1
+Q7EYM8	Phytozome_Eg:Eucgr.H02605.1
+Q7EZZ0	Phytozome_Eg:Eucgr.A02296.1
+Q7F0B2	Phytozome_Eg:Eucgr.G03014.1 Phytozome_Eg:Eucgr.J00970.1 Phytozome_Eg:Eucgr.G03010.1 Phytozome_Eg:Eucgr.J00972.1 Phytozome_Eg:Eucgr.G03009.1 Phytozome_Eg:Eucgr.G03013.1 Phytozome_Eg:Eucgr.A00424.1 Phytozome_Eg:Eucgr.G03006.1
+Q7F0Q2	Phytozome_Eg:Eucgr.G01738.1 Phytozome_Eg:Eucgr.H01470.1
+Q7F190	Phytozome_Eg:Eucgr.E01713.1
+Q7F8K7	Phytozome_Eg:Eucgr.B02620.1
+Q7FAE1	Phytozome_Eg:Eucgr.A02618.1 Phytozome_Eg:Eucgr.F01817.1 Phytozome_Eg:Eucgr.A02619.1 Phytozome_Eg:Eucgr.A02616.1
+Q7FAH2	Phytozome_Eg:Eucgr.B00144.1 Phytozome_Eg:Eucgr.J02288.1
+Q7G1V6	Phytozome_Eg:Eucgr.D00711.1
+Q7G2F7	Phytozome_Eg:Eucgr.D00642.1
+Q7G2H3	Phytozome_Eg:Eucgr.I01182.1
+Q7G4P2	Phytozome_Eg:Eucgr.D00310.1
+Q7G602	Phytozome_Eg:Eucgr.B00582.1 Phytozome_Eg:Eucgr.B00580.1 Phytozome_Eg:Eucgr.B00578.1
+Q7G7J6	Phytozome_Eg:Eucgr.J01594.1 Phytozome_Eg:Eucgr.G02163.1
+Q7X634	Phytozome_Eg:Eucgr.H04236.1
+Q7X7H9	Phytozome_Eg:Eucgr.I00321.1
+Q7X7N2	Phytozome_Eg:Eucgr.E01445.1
+Q7X7X0	Phytozome_Eg:Eucgr.F03034.1
+Q7X8A1	Phytozome_Eg:Eucgr.I01564.1
+Q7X8V3	Phytozome_Eg:Eucgr.G02852.1 Phytozome_Eg:Eucgr.G02849.1 Phytozome_Eg:Eucgr.G02848.1 Phytozome_Eg:Eucgr.J01079.1 Phytozome_Eg:Eucgr.J00907.1 Phytozome_Eg:Eucgr.G02851.1 Phytozome_Eg:Eucgr.G02850.1
+Q7XAP2	Phytozome_Eg:Eucgr.A01487.1
+Q7XBY6	Phytozome_Eg:Eucgr.D02201.1 Phytozome_Eg:Eucgr.E00279.1
+Q7XCK3	Phytozome_Eg:Eucgr.L00935.1 Phytozome_Eg:Eucgr.J02524.1 Phytozome_Eg:Eucgr.J02521.1 Phytozome_Eg:Eucgr.A00119.1 Phytozome_Eg:Eucgr.J02526.1 Phytozome_Eg:Eucgr.J02522.1
+Q7XE48	Phytozome_Eg:Eucgr.J01349.1
+Q7XH05	Phytozome_Eg:Eucgr.J00610.1
+Q7XHL3	Phytozome_Eg:Eucgr.K01418.1 Phytozome_Eg:Eucgr.K01417.1
+Q7XHZ2	Phytozome_Eg:Eucgr.J01084.1
+Q7XI35	Phytozome_Eg:Eucgr.G03014.1 Phytozome_Eg:Eucgr.J00970.1 Phytozome_Eg:Eucgr.G03010.1 Phytozome_Eg:Eucgr.J00972.1 Phytozome_Eg:Eucgr.G03009.1 Phytozome_Eg:Eucgr.G03013.1 Phytozome_Eg:Eucgr.A00424.1 Phytozome_Eg:Eucgr.G03006.1
+Q7XI67	Phytozome_Eg:Eucgr.A00643.1
+Q7XI92	Phytozome_Eg:Eucgr.H01236.1 Phytozome_Eg:Eucgr.H01235.1
+Q7XI96	Phytozome_Eg:Eucgr.H01239.1
+Q7XK23	Phytozome_Eg:Eucgr.I01510.1
+Q7XKQ8	Phytozome_Eg:Eucgr.B00108.1 Phytozome_Eg:Eucgr.K02720.1
+Q7XM21	Phytozome_Eg:Eucgr.J02430.1
+Q7XNX6	Phytozome_Eg:Eucgr.J01640.1
+Q7XPB5	Phytozome_Eg:Eucgr.D02445.1
+Q7XPW5	Phytozome_Eg:Eucgr.E00182.1
+Q7XQ85	Phytozome_Eg:Eucgr.D01815.1 Phytozome_Eg:Eucgr.L01617.1 Phytozome_Eg:Eucgr.D01817.1 Phytozome_Eg:Eucgr.L02435.1 Phytozome_Eg:Eucgr.D01814.1
+Q7XR02	Phytozome_Eg:Eucgr.H00724.1 Phytozome_Eg:Eucgr.H00442.1
+Q7XR60	Phytozome_Eg:Eucgr.I01098.1
+Q7XR61	Phytozome_Eg:Eucgr.I01098.1
+Q7XRT0	Phytozome_Eg:Eucgr.J00242.1
+Q7XTE8	Phytozome_Eg:Eucgr.F02482.1
+Q7XTK3	Phytozome_Eg:Eucgr.L03224.1 Phytozome_Eg:Eucgr.B01996.1 Phytozome_Eg:Eucgr.B01994.1
+Q7XTX7	Phytozome_Eg:Eucgr.D01960.1
+Q7XU28	Phytozome_Eg:Eucgr.C02143.1
+Q7XU29	Phytozome_Eg:Eucgr.E01594.1
+Q7XUA8	Phytozome_Eg:Eucgr.K00046.1 Phytozome_Eg:Eucgr.K00453.1
+Q7XUH5	Phytozome_Eg:Eucgr.G01738.1 Phytozome_Eg:Eucgr.H01470.1
+Q7XUK6	Phytozome_Eg:Eucgr.F02801.1 Phytozome_Eg:Eucgr.L01202.1
+Q7XV42	Phytozome_Eg:Eucgr.B01109.1 Phytozome_Eg:Eucgr.F00346.1 Phytozome_Eg:Eucgr.F00343.1 Phytozome_Eg:Eucgr.E01567.1 Phytozome_Eg:Eucgr.L00502.1 Phytozome_Eg:Eucgr.L00994.1 Phytozome_Eg:Eucgr.E01562.1 Phytozome_Eg:Eucgr.F00351.1 Phytozome_Eg:Eucgr.F00353.1 Phytozome_Eg:Eucgr.L00599.1 Phytozome_Eg:Eucgr.F00340.1 Phytozome_Eg:Eucgr.F00338.1 Phytozome_Eg:Eucgr.F00337.1 Phytozome_Eg:Eucgr.F00339.1 Phytozome_Eg:Eucgr.E01564.1 Phytozome_Eg:Eucgr.L00991.1
+Q7XVM2	Phytozome_Eg:Eucgr.D01602.1
+Q7XVM8	Phytozome_Eg:Eucgr.G01952.1
+Q7XX31	Phytozome_Eg:Eucgr.A02509.1
+Q7XX32	Phytozome_Eg:Eucgr.A02509.1
+Q7XXL2	Phytozome_Eg:Eucgr.B03502.1
+Q7XYS3	Phytozome_Eg:Eucgr.G00496.1 Phytozome_Eg:Eucgr.G00507.1 Phytozome_Eg:Eucgr.G00497.1 Phytozome_Eg:Eucgr.G00493.1 Phytozome_Eg:Eucgr.G01535.1 Phytozome_Eg:Eucgr.K01755.1 Phytozome_Eg:Eucgr.G01541.1 Phytozome_Eg:Eucgr.G00501.1 Phytozome_Eg:Eucgr.G00504.1 Phytozome_Eg:Eucgr.G01537.1 Phytozome_Eg:Eucgr.G00499.1
+Q7XZH5	Phytozome_Eg:Eucgr.G03255.1
+Q7Y0C8	Phytozome_Eg:Eucgr.F01505.1
+Q7Y152	Phytozome_Eg:Eucgr.H04065.1
+Q7Y1H9	Phytozome_Eg:Eucgr.G01098.1
+Q84LK3	Phytozome_Eg:Eucgr.B00336.1
+Q84M43	Phytozome_Eg:Eucgr.G03380.1 Phytozome_Eg:Eucgr.J01278.1
+Q84ME6	Phytozome_Eg:Eucgr.E02385.1 Phytozome_Eg:Eucgr.G01712.1
+Q84MN8	Phytozome_Eg:Eucgr.H03408.1
+Q84Q89	Phytozome_Eg:Eucgr.A00101.1
+Q84R94	Phytozome_Eg:Eucgr.C00785.1 Phytozome_Eg:Eucgr.C03301.1
+Q84RX6	Phytozome_Eg:Eucgr.H02267.1
+Q84VC7	Phytozome_Eg:Eucgr.D00323.1
+Q84YK8	Phytozome_Eg:Eucgr.J00820.1 Phytozome_Eg:Eucgr.J00832.1 Phytozome_Eg:Eucgr.J00824.1 Phytozome_Eg:Eucgr.J00825.1 Phytozome_Eg:Eucgr.L01891.1 Phytozome_Eg:Eucgr.J00819.1
+Q84ZN6	Phytozome_Eg:Eucgr.G03380.1 Phytozome_Eg:Eucgr.J01278.1
+Q84ZY2	Phytozome_Eg:Eucgr.D02467.1 Phytozome_Eg:Eucgr.D02466.1
+Q851L5	Phytozome_Eg:Eucgr.K02598.1 Phytozome_Eg:Eucgr.K02596.1 Phytozome_Eg:Eucgr.K02589.1
+Q851L6	Phytozome_Eg:Eucgr.K02598.1 Phytozome_Eg:Eucgr.K02596.1 Phytozome_Eg:Eucgr.K02589.1
+Q851Z6	Phytozome_Eg:Eucgr.I01605.1
+Q852C2	Phytozome_Eg:Eucgr.G03014.1 Phytozome_Eg:Eucgr.J00970.1 Phytozome_Eg:Eucgr.G03010.1 Phytozome_Eg:Eucgr.J00972.1 Phytozome_Eg:Eucgr.G03009.1 Phytozome_Eg:Eucgr.G03013.1 Phytozome_Eg:Eucgr.A00424.1 Phytozome_Eg:Eucgr.G03006.1
+Q852M1	Phytozome_Eg:Eucgr.J00610.1
+Q852M2	Phytozome_Eg:Eucgr.J00610.1
+Q8GRU7	Phytozome_Eg:Eucgr.F00471.1
+Q8GT01	Phytozome_Eg:Eucgr.K01625.1
+Q8GTK1	Phytozome_Eg:Eucgr.B02522.1 Phytozome_Eg:Eucgr.B02520.1
+Q8GVZ0	Phytozome_Eg:Eucgr.A01783.1
+Q8H016	Phytozome_Eg:Eucgr.J02807.1
+Q8H038	Phytozome_Eg:Eucgr.A01318.1
+Q8H048	Phytozome_Eg:Eucgr.E01326.1
+Q8H051	Phytozome_Eg:Eucgr.D01931.1
+Q8H075	Phytozome_Eg:Eucgr.B01537.1
+Q8H093	Phytozome_Eg:Eucgr.E01326.1
+Q8H273	Phytozome_Eg:Eucgr.A02832.1 Phytozome_Eg:Eucgr.A02821.1 Phytozome_Eg:Eucgr.A02820.1 Phytozome_Eg:Eucgr.A02825.1 Phytozome_Eg:Eucgr.A02824.1 Phytozome_Eg:Eucgr.A02831.1 Phytozome_Eg:Eucgr.A02818.1 Phytozome_Eg:Eucgr.A02823.1 Phytozome_Eg:Eucgr.A02834.1 Phytozome_Eg:Eucgr.A02822.1 Phytozome_Eg:Eucgr.A02827.1 Phytozome_Eg:Eucgr.A02826.1 Phytozome_Eg:Eucgr.A02830.1
+Q8H2J9	Phytozome_Eg:Eucgr.G03143.1
+Q8H395	Phytozome_Eg:Eucgr.C00785.1 Phytozome_Eg:Eucgr.C03301.1
+Q8H3A4	Phytozome_Eg:Eucgr.C03319.1 Phytozome_Eg:Eucgr.C03313.1 Phytozome_Eg:Eucgr.C03257.1 Phytozome_Eg:Eucgr.C03310.1 Phytozome_Eg:Eucgr.L02690.1
+Q8H3C9	Phytozome_Eg:Eucgr.K02598.1 Phytozome_Eg:Eucgr.K02596.1 Phytozome_Eg:Eucgr.K02589.1
+Q8H3L0	Phytozome_Eg:Eucgr.F02489.1 Phytozome_Eg:Eucgr.J01500.1 Phytozome_Eg:Eucgr.F02488.1 Phytozome_Eg:Eucgr.G02472.1
+Q8H3Q7	Phytozome_Eg:Eucgr.G01193.1
+Q8H530	Phytozome_Eg:Eucgr.G00868.1
+Q8H539	Phytozome_Eg:Eucgr.L02951.1 Phytozome_Eg:Eucgr.G02661.1 Phytozome_Eg:Eucgr.G02662.1
+Q8H7T7	Phytozome_Eg:Eucgr.I00664.1
+Q8H825	Phytozome_Eg:Eucgr.G02323.1
+Q8H8U0	Phytozome_Eg:Eucgr.J01141.1
+Q8H930	Phytozome_Eg:Eucgr.D01025.1
+Q8LGW5	Phytozome_Eg:Eucgr.G00422.1 Phytozome_Eg:Eucgr.G00554.1
+Q8LHD1	Phytozome_Eg:Eucgr.I01066.1
+Q8LI89	Phytozome_Eg:Eucgr.E01025.1
+Q8LJJ2	Phytozome_Eg:Eucgr.C00846.1
+Q8LM92	Phytozome_Eg:Eucgr.B00582.1 Phytozome_Eg:Eucgr.B00580.1 Phytozome_Eg:Eucgr.B00578.1
+Q8LMW8	Phytozome_Eg:Eucgr.D01552.1 Phytozome_Eg:Eucgr.D01560.1 Phytozome_Eg:Eucgr.L01707.1 Phytozome_Eg:Eucgr.L01705.1 Phytozome_Eg:Eucgr.G01152.1 Phytozome_Eg:Eucgr.G01135.1 Phytozome_Eg:Eucgr.G01140.1 Phytozome_Eg:Eucgr.G01137.1 Phytozome_Eg:Eucgr.G01132.1 Phytozome_Eg:Eucgr.G01171.1 Phytozome_Eg:Eucgr.D01554.1 Phytozome_Eg:Eucgr.G01148.1 Phytozome_Eg:Eucgr.G01133.1 Phytozome_Eg:Eucgr.L02505.1 Phytozome_Eg:Eucgr.G01134.1
+Q8LNU2	Phytozome_Eg:Eucgr.B02881.1
+Q8LQ34	Phytozome_Eg:Eucgr.D02079.1
+Q8RU95	Phytozome_Eg:Eucgr.K02745.1 Phytozome_Eg:Eucgr.B00139.1 Phytozome_Eg:Eucgr.B00137.1 Phytozome_Eg:Eucgr.B00135.1
+Q8RYY6	Phytozome_Eg:Eucgr.I02741.1
+Q8S2E5	Phytozome_Eg:Eucgr.H02515.1
+Q8S2G0	Phytozome_Eg:Eucgr.J00662.1
+Q8S5M6	Phytozome_Eg:Eucgr.H01345.1
+Q8S5T1	Phytozome_Eg:Eucgr.K03307.1
+Q8S919	Phytozome_Eg:Eucgr.E00833.1 Phytozome_Eg:Eucgr.K00320.1 Phytozome_Eg:Eucgr.D01776.1
+Q8S983	Phytozome_Eg:Eucgr.F02090.1
+Q8S985	Phytozome_Eg:Eucgr.D00588.1
+Q8S9S4	Phytozome_Eg:Eucgr.F03096.1
+Q8S9Z2	Phytozome_Eg:Eucgr.J00413.1 Phytozome_Eg:Eucgr.B03902.1
+Q8VWH2	Phytozome_Eg:Eucgr.B01458.1
+Q8W0B6	Phytozome_Eg:Eucgr.L00981.1 Phytozome_Eg:Eucgr.B01015.1 Phytozome_Eg:Eucgr.B00199.1 Phytozome_Eg:Eucgr.B00204.1
+Q8W0E4	Phytozome_Eg:Eucgr.C00914.1
+Q8W1L6	Phytozome_Eg:Eucgr.C01265.1 Phytozome_Eg:Eucgr.C01261.1
+Q8W250	Phytozome_Eg:Eucgr.B00316.1
+Q8W3J0	Phytozome_Eg:Eucgr.G02921.1 Phytozome_Eg:Eucgr.J00040.1
+Q8W3L9	Phytozome_Eg:Eucgr.J00631.1 Phytozome_Eg:Eucgr.G02632.1
+Q8W3M0	Phytozome_Eg:Eucgr.J00631.1 Phytozome_Eg:Eucgr.G02632.1
+Q93VC3	Phytozome_Eg:Eucgr.D01945.1
+Q93VD5	Phytozome_Eg:Eucgr.C02932.1 Phytozome_Eg:Eucgr.C02930.1
+Q93WI9	Phytozome_Eg:Eucgr.B01458.1
+Q93X08	Phytozome_Eg:Eucgr.F02905.1
+Q93XI4	Phytozome_Eg:Eucgr.J00500.1
+Q93Y73	Phytozome_Eg:Eucgr.B03437.1
+Q941W8	Phytozome_Eg:Eucgr.G03093.1 Phytozome_Eg:Eucgr.J00169.1
+Q94E75	Phytozome_Eg:Eucgr.A02547.1
+Q94GF1	Phytozome_Eg:Eucgr.G03047.1
+Q94HG3	Phytozome_Eg:Eucgr.F00232.1
+Q94HG6	Phytozome_Eg:Eucgr.F02362.1
+Q94IW5	Phytozome_Eg:Eucgr.F03127.1
+Q94J90	Phytozome_Eg:Eucgr.J00682.1
+Q94JA2	Phytozome_Eg:Eucgr.F01209.1
+Q94JJ0	Phytozome_Eg:Eucgr.B02864.1
+Q94LU9	Phytozome_Eg:Eucgr.D01840.1
+Q9ASD3	Phytozome_Eg:Eucgr.C03045.1
+Q9ASP4	Phytozome_Eg:Eucgr.H04086.1
+Q9AUQ4	Phytozome_Eg:Eucgr.B02942.1 Phytozome_Eg:Eucgr.G02157.1
+Q9AUV6	Phytozome_Eg:Eucgr.J01372.1
+Q9AV71	Phytozome_Eg:Eucgr.A01324.1
+Q9AWL7	Phytozome_Eg:Eucgr.F02686.1
+Q9AWZ8	Phytozome_Eg:Eucgr.B01988.1
+Q9FDX8	Phytozome_Eg:Eucgr.I02094.1
+Q9FTR6	Phytozome_Eg:Eucgr.F02498.1
+Q9FTZ2	Phytozome_Eg:Eucgr.J01653.1
+Q9FU67	Phytozome_Eg:Eucgr.A01607.1 Phytozome_Eg:Eucgr.A01608.1 Phytozome_Eg:Eucgr.A01606.1
+Q9FU68	Phytozome_Eg:Eucgr.A01607.1 Phytozome_Eg:Eucgr.A01608.1 Phytozome_Eg:Eucgr.A01606.1
+Q9FU69	Phytozome_Eg:Eucgr.A01607.1 Phytozome_Eg:Eucgr.A01608.1 Phytozome_Eg:Eucgr.A01606.1
+Q9FWC1	Phytozome_Eg:Eucgr.E01027.1
+Q9FWK4	Phytozome_Eg:Eucgr.H02989.1
+Q9FWQ2	Phytozome_Eg:Eucgr.D02031.1 Phytozome_Eg:Eucgr.E00460.1 Phytozome_Eg:Eucgr.A02889.1
+Q9FXQ3	Phytozome_Eg:Eucgr.H04992.1 Phytozome_Eg:Eucgr.I01536.1
+Q9LD61	Phytozome_Eg:Eucgr.F03492.1
+Q9LDB7	Phytozome_Eg:Eucgr.C01711.1
+Q9LGU6	Phytozome_Eg:Eucgr.H04112.1
+Q9LHZ0	Phytozome_Eg:Eucgr.G01748.1 Phytozome_Eg:Eucgr.G01749.1
+Q9LHZ7	Phytozome_Eg:Eucgr.K00085.1
+Q9LIZ8	Phytozome_Eg:Eucgr.H01345.1
+Q9LWJ2	Phytozome_Eg:Eucgr.A02261.1
+Q9S7D3	Phytozome_Eg:Eucgr.J00347.1
+Q9SDG5	Phytozome_Eg:Eucgr.A01135.1
+Q9SMB1	Phytozome_Eg:Eucgr.H02622.1
+Q9SNK3	Phytozome_Eg:Eucgr.F01793.1
+Q9SNN0	Phytozome_Eg:Eucgr.G01735.1
+Q9XEA6	Phytozome_Eg:Eucgr.B01724.1 Phytozome_Eg:Eucgr.H03464.1 Phytozome_Eg:Eucgr.B01722.1
+Q9XEA8	Phytozome_Eg:Eucgr.B01724.1 Phytozome_Eg:Eucgr.H03464.1 Phytozome_Eg:Eucgr.B01722.1
+Q9XG80	Phytozome_Eg:Eucgr.C00921.1
+Q9XHL5	Phytozome_Eg:Eucgr.H05009.1 Phytozome_Eg:Eucgr.I01544.1 Phytozome_Eg:Eucgr.H05007.1 Phytozome_Eg:Eucgr.F03606.1 Phytozome_Eg:Eucgr.F01818.1
+Q9XJ03	Phytozome_Eg:Eucgr.J02531.1
+Q9XJ29	Phytozome_Eg:Eucgr.G03047.1
+Q9ZTP5	Phytozome_Eg:Eucgr.B00532.1
+UPI00000AA151	Phytozome_Eg:Eucgr.C01711.1

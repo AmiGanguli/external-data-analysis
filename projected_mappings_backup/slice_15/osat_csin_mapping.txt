@@ -1,0 +1,1020 @@
+A2X747	Phytozome_Cs:orange1.1g036315m
+A2XPN8	Phytozome_Cs:orange1.1g021558m Phytozome_Cs:orange1.1g012433m Phytozome_Cs:orange1.1g015787m
+A2Y626	Phytozome_Cs:orange1.1g010704m
+A2Y8A8	Phytozome_Cs:orange1.1g010700m Phytozome_Cs:orange1.1g007735m
+A2ZRY8	Phytozome_Cs:orange1.1g035700m
+A2ZW27	Phytozome_Cs:orange1.1g007987m Phytozome_Cs:orange1.1g012479m Phytozome_Cs:orange1.1g007951m Phytozome_Cs:orange1.1g013877m Phytozome_Cs:orange1.1g014863m
+A2ZWY3	Phytozome_Cs:orange1.1g009299m Phytozome_Cs:orange1.1g008995m
+A2ZWY7	Phytozome_Cs:orange1.1g009299m Phytozome_Cs:orange1.1g008995m
+A3AAR2	Phytozome_Cs:orange1.1g031789m
+A3AQC6	Phytozome_Cs:orange1.1g044294m Phytozome_Cs:orange1.1g037166m
+A3AZW5	Phytozome_Cs:orange1.1g016019m Phytozome_Cs:orange1.1g014649m Phytozome_Cs:orange1.1g014608m Phytozome_Cs:orange1.1g014638m
+A3B7R7	Phytozome_Cs:orange1.1g012770m
+A3B9A0	Phytozome_Cs:orange1.1g002116m Phytozome_Cs:orange1.1g001969m Phytozome_Cs:orange1.1g001931m Phytozome_Cs:orange1.1g003369m Phytozome_Cs:orange1.1g001787m Phytozome_Cs:orange1.1g001821m Phytozome_Cs:orange1.1g003107m Phytozome_Cs:orange1.1g002396m Phytozome_Cs:orange1.1g004300m Phytozome_Cs:orange1.1g002397m Phytozome_Cs:orange1.1g001728m Phytozome_Cs:orange1.1g002119m
+A3BI64	Phytozome_Cs:orange1.1g013342m Phytozome_Cs:orange1.1g046167m Phytozome_Cs:orange1.1g012151m Phytozome_Cs:orange1.1g013836m Phytozome_Cs:orange1.1g012678m Phytozome_Cs:orange1.1g012543m Phytozome_Cs:orange1.1g012563m Phytozome_Cs:orange1.1g040486m Phytozome_Cs:orange1.1g016062m Phytozome_Cs:orange1.1g012613m Phytozome_Cs:orange1.1g020179m Phytozome_Cs:orange1.1g014232m Phytozome_Cs:orange1.1g018483m Phytozome_Cs:orange1.1g012735m Phytozome_Cs:orange1.1g012474m
+A3BIR7	Phytozome_Cs:orange1.1g041964m Phytozome_Cs:orange1.1g010151m Phytozome_Cs:orange1.1g035623m Phytozome_Cs:orange1.1g010614m Phytozome_Cs:orange1.1g010727m Phytozome_Cs:orange1.1g048482m Phytozome_Cs:orange1.1g041279m Phytozome_Cs:orange1.1g010479m Phytozome_Cs:orange1.1g046490m Phytozome_Cs:orange1.1g035527m Phytozome_Cs:orange1.1g035827m Phytozome_Cs:orange1.1g013651m Phytozome_Cs:orange1.1g046023m Phytozome_Cs:orange1.1g047291m Phytozome_Cs:orange1.1g048583m Phytozome_Cs:orange1.1g046537m Phytozome_Cs:orange1.1g048790m Phytozome_Cs:orange1.1g038171m Phytozome_Cs:orange1.1g010315m Phytozome_Cs:orange1.1g048189m Phytozome_Cs:orange1.1g010661m Phytozome_Cs:orange1.1g037819m Phytozome_Cs:orange1.1g009872m
+A3BJI8	Phytozome_Cs:orange1.1g046079m
+A3C4N5	Phytozome_Cs:orange1.1g021809m Phytozome_Cs:orange1.1g023226m Phytozome_Cs:orange1.1g021352m Phytozome_Cs:orange1.1g022620m Phytozome_Cs:orange1.1g021077m Phytozome_Cs:orange1.1g021357m
+A3C6G9	Phytozome_Cs:orange1.1g031294m Phytozome_Cs:orange1.1g032928m
+A4LBC0	Phytozome_Cs:orange1.1g019261m Phytozome_Cs:orange1.1g043432m
+B7E8M5	Phytozome_Cs:orange1.1g014311m
+B7EA04	Phytozome_Cs:orange1.1g010950m Phytozome_Cs:orange1.1g018126m Phytozome_Cs:orange1.1g018150m Phytozome_Cs:orange1.1g017059m Phytozome_Cs:orange1.1g016006m Phytozome_Cs:orange1.1g011772m Phytozome_Cs:orange1.1g015957m Phytozome_Cs:orange1.1g016922m
+B7EJ81	Phytozome_Cs:orange1.1g022171m Phytozome_Cs:orange1.1g019508m Phytozome_Cs:orange1.1g019960m Phytozome_Cs:orange1.1g020282m Phytozome_Cs:orange1.1g019485m Phytozome_Cs:orange1.1g020814m Phytozome_Cs:orange1.1g020774m
+B7F4K3	Phytozome_Cs:orange1.1g037495m
+B7F7B9	Phytozome_Cs:orange1.1g001557m Phytozome_Cs:orange1.1g001541m Phytozome_Cs:orange1.1g002660m
+B7F8T0	Phytozome_Cs:orange1.1g009502m
+B7F9K3	Phytozome_Cs:orange1.1g037495m
+B7FA34	Phytozome_Cs:orange1.1g043471m
+B7FA90	Phytozome_Cs:orange1.1g023367m Phytozome_Cs:orange1.1g020838m Phytozome_Cs:orange1.1g022970m Phytozome_Cs:orange1.1g041070m
+B7FA99	Phytozome_Cs:orange1.1g019298m Phytozome_Cs:orange1.1g014936m
+B7FAE9	Phytozome_Cs:orange1.1g026028m Phytozome_Cs:orange1.1g026066m Phytozome_Cs:orange1.1g026011m Phytozome_Cs:orange1.1g029204m
+B7FAP2	Phytozome_Cs:orange1.1g041902m Phytozome_Cs:orange1.1g036740m
+B8AG62	Phytozome_Cs:orange1.1g019218m Phytozome_Cs:orange1.1g014714m Phytozome_Cs:orange1.1g017031m Phytozome_Cs:orange1.1g023775m Phytozome_Cs:orange1.1g025322m Phytozome_Cs:orange1.1g023760m
+B8AHI9	Phytozome_Cs:orange1.1g033065m Phytozome_Cs:orange1.1g042754m Phytozome_Cs:orange1.1g033074m Phytozome_Cs:orange1.1g033044m
+B8AZ97	Phytozome_Cs:orange1.1g011669m Phytozome_Cs:orange1.1g013235m
+B8B8K7	Phytozome_Cs:orange1.1g009517m Phytozome_Cs:orange1.1g013892m
+B8BB38	Phytozome_Cs:orange1.1g030406m Phytozome_Cs:orange1.1g026418m
+B9EUK4	Phytozome_Cs:orange1.1g006028m Phytozome_Cs:orange1.1g007282m Phytozome_Cs:orange1.1g005368m Phytozome_Cs:orange1.1g005491m Phytozome_Cs:orange1.1g006471m Phytozome_Cs:orange1.1g009328m Phytozome_Cs:orange1.1g005675m Phytozome_Cs:orange1.1g005623m Phytozome_Cs:orange1.1g005575m
+B9EXM2	Phytozome_Cs:orange1.1g001014m
+B9EZJ8	Phytozome_Cs:orange1.1g016069m Phytozome_Cs:orange1.1g020533m Phytozome_Cs:orange1.1g022626m Phytozome_Cs:orange1.1g039923m Phytozome_Cs:orange1.1g016519m Phytozome_Cs:orange1.1g022090m Phytozome_Cs:orange1.1g025254m Phytozome_Cs:orange1.1g016088m Phytozome_Cs:orange1.1g022182m
+B9F3B6	Phytozome_Cs:orange1.1g010482m Phytozome_Cs:orange1.1g009516m Phytozome_Cs:orange1.1g015249m Phytozome_Cs:orange1.1g009618m
+B9FDB8	Phytozome_Cs:orange1.1g015182m Phytozome_Cs:orange1.1g015110m Phytozome_Cs:orange1.1g015826m Phytozome_Cs:orange1.1g010547m Phytozome_Cs:orange1.1g013050m Phytozome_Cs:orange1.1g015190m
+B9FML1	Phytozome_Cs:orange1.1g010573m Phytozome_Cs:orange1.1g011787m
+B9FRT6	Phytozome_Cs:orange1.1g019543m Phytozome_Cs:orange1.1g021783m Phytozome_Cs:orange1.1g016612m Phytozome_Cs:orange1.1g027424m Phytozome_Cs:orange1.1g022194m
+B9FYX6	Phytozome_Cs:orange1.1g007392m Phytozome_Cs:orange1.1g005540m Phytozome_Cs:orange1.1g006408m
+B9FZ46	Phytozome_Cs:orange1.1g010700m Phytozome_Cs:orange1.1g007735m
+B9G3A7	Phytozome_Cs:orange1.1g045882m Phytozome_Cs:orange1.1g002986m Phytozome_Cs:orange1.1g002979m Phytozome_Cs:orange1.1g002977m Phytozome_Cs:orange1.1g002983m Phytozome_Cs:orange1.1g002984m Phytozome_Cs:orange1.1g003999m
+C7IYK7	Phytozome_Cs:orange1.1g019298m Phytozome_Cs:orange1.1g014936m
+C7J0P3	Phytozome_Cs:orange1.1g012705m Phytozome_Cs:orange1.1g012077m
+C7J5F5	Phytozome_Cs:orange1.1g046862m Phytozome_Cs:orange1.1g038655m Phytozome_Cs:orange1.1g039445m
+C7J5T9	Phytozome_Cs:orange1.1g046862m Phytozome_Cs:orange1.1g038655m Phytozome_Cs:orange1.1g039445m
+E3WF37	Phytozome_Cs:orange1.1g012946m
+I1QJ08	Phytozome_Cs:orange1.1g048603m
+I1QQP8	Phytozome_Cs:orange1.1g042742m Phytozome_Cs:orange1.1g025826m Phytozome_Cs:orange1.1g030315m Phytozome_Cs:orange1.1g027043m
+I3QK18	Phytozome_Cs:orange1.1g003705m Phytozome_Cs:orange1.1g004408m Phytozome_Cs:orange1.1g002059m
+O04226	Phytozome_Cs:orange1.1g005074m Phytozome_Cs:orange1.1g006484m Phytozome_Cs:orange1.1g008588m Phytozome_Cs:orange1.1g005047m Phytozome_Cs:orange1.1g004665m Phytozome_Cs:orange1.1g005798m Phytozome_Cs:orange1.1g005062m Phytozome_Cs:orange1.1g005131m Phytozome_Cs:orange1.1g005078m Phytozome_Cs:orange1.1g005079m Phytozome_Cs:orange1.1g005041m
+O04882	Phytozome_Cs:orange1.1g025823m Phytozome_Cs:orange1.1g019339m
+O22105	Phytozome_Cs:orange1.1g022601m Phytozome_Cs:orange1.1g022527m Phytozome_Cs:orange1.1g019466m Phytozome_Cs:orange1.1g016607m Phytozome_Cs:orange1.1g028137m Phytozome_Cs:orange1.1g016722m Phytozome_Cs:orange1.1g015108m Phytozome_Cs:orange1.1g016621m Phytozome_Cs:orange1.1g015087m
+O22567	Phytozome_Cs:orange1.1g008493m Phytozome_Cs:orange1.1g005820m Phytozome_Cs:orange1.1g004923m Phytozome_Cs:orange1.1g009809m
+O64422	Phytozome_Cs:orange1.1g015860m Phytozome_Cs:orange1.1g015111m
+O64437	Phytozome_Cs:orange1.1g010460m Phytozome_Cs:orange1.1g011047m
+O82117	Phytozome_Cs:orange1.1g019028m Phytozome_Cs:orange1.1g017738m Phytozome_Cs:orange1.1g017166m Phytozome_Cs:orange1.1g017819m
+O82427	Phytozome_Cs:orange1.1g018194m
+P0C0X5	Phytozome_Cs:orange1.1g048649m Phytozome_Cs:orange1.1g041574m Phytozome_Cs:orange1.1g041301m Phytozome_Cs:orange1.1g006674m Phytozome_Cs:orange1.1g010956m Phytozome_Cs:orange1.1g007022m Phytozome_Cs:orange1.1g035534m Phytozome_Cs:orange1.1g007019m Phytozome_Cs:orange1.1g009681m Phytozome_Cs:orange1.1g006199m Phytozome_Cs:orange1.1g007418m
+P0C128	Phytozome_Cs:orange1.1g025433m Phytozome_Cs:orange1.1g023966m Phytozome_Cs:orange1.1g020493m Phytozome_Cs:orange1.1g025406m Phytozome_Cs:orange1.1g022921m Phytozome_Cs:orange1.1g020479m
+P0C132	Phytozome_Cs:orange1.1g026811m Phytozome_Cs:orange1.1g029018m
+P0C587	Phytozome_Cs:orange1.1g010322m
+P0C5A4	Phytozome_Cs:orange1.1g045955m
+P0C5B2	Phytozome_Cs:orange1.1g027656m Phytozome_Cs:orange1.1g028858m Phytozome_Cs:orange1.1g028923m Phytozome_Cs:orange1.1g030748m Phytozome_Cs:orange1.1g027684m Phytozome_Cs:orange1.1g027691m Phytozome_Cs:orange1.1g028911m Phytozome_Cs:orange1.1g028363m Phytozome_Cs:orange1.1g028864m Phytozome_Cs:orange1.1g031392m Phytozome_Cs:orange1.1g028889m Phytozome_Cs:orange1.1g028641m Phytozome_Cs:orange1.1g027667m Phytozome_Cs:orange1.1g031012m Phytozome_Cs:orange1.1g027658m Phytozome_Cs:orange1.1g030981m Phytozome_Cs:orange1.1g031002m
+P14654	Phytozome_Cs:orange1.1g018434m Phytozome_Cs:orange1.1g018391m
+P14655	Phytozome_Cs:orange1.1g014226m Phytozome_Cs:orange1.1g013989m Phytozome_Cs:orange1.1g017214m Phytozome_Cs:orange1.1g014002m Phytozome_Cs:orange1.1g013478m Phytozome_Cs:orange1.1g013994m
+P14656	Phytozome_Cs:orange1.1g018434m Phytozome_Cs:orange1.1g018391m
+P15280	Phytozome_Cs:orange1.1g010006m Phytozome_Cs:orange1.1g017422m Phytozome_Cs:orange1.1g009971m
+P16081	Phytozome_Cs:orange1.1g002724m
+P17784	Phytozome_Cs:orange1.1g018326m
+P17814	Phytozome_Cs:orange1.1g009077m Phytozome_Cs:orange1.1g010425m Phytozome_Cs:orange1.1g014952m Phytozome_Cs:orange1.1g042783m
+P18566	Phytozome_Cs:orange1.1g030735m Phytozome_Cs:orange1.1g030738m Phytozome_Cs:orange1.1g029245m
+P30298	Phytozome_Cs:orange1.1g003646m Phytozome_Cs:orange1.1g003657m Phytozome_Cs:orange1.1g003661m Phytozome_Cs:orange1.1g003656m Phytozome_Cs:orange1.1g003655m Phytozome_Cs:orange1.1g005365m Phytozome_Cs:orange1.1g003962m Phytozome_Cs:orange1.1g003652m Phytozome_Cs:orange1.1g003647m
+P31924	Phytozome_Cs:orange1.1g003646m Phytozome_Cs:orange1.1g003657m Phytozome_Cs:orange1.1g003661m Phytozome_Cs:orange1.1g003656m Phytozome_Cs:orange1.1g003655m Phytozome_Cs:orange1.1g005365m Phytozome_Cs:orange1.1g003962m Phytozome_Cs:orange1.1g003652m Phytozome_Cs:orange1.1g003647m
+P37833	Phytozome_Cs:orange1.1g015435m
+P38419	Phytozome_Cs:orange1.1g002644m Phytozome_Cs:orange1.1g002670m Phytozome_Cs:orange1.1g002672m Phytozome_Cs:orange1.1g003699m Phytozome_Cs:orange1.1g008591m Phytozome_Cs:orange1.1g002617m Phytozome_Cs:orange1.1g007678m Phytozome_Cs:orange1.1g008399m Phytozome_Cs:orange1.1g007674m Phytozome_Cs:orange1.1g006365m Phytozome_Cs:orange1.1g012542m Phytozome_Cs:orange1.1g006428m Phytozome_Cs:orange1.1g008395m Phytozome_Cs:orange1.1g005971m Phytozome_Cs:orange1.1g008659m Phytozome_Cs:orange1.1g006629m Phytozome_Cs:orange1.1g004307m Phytozome_Cs:orange1.1g006999m Phytozome_Cs:orange1.1g002649m Phytozome_Cs:orange1.1g047131m Phytozome_Cs:orange1.1g040723m Phytozome_Cs:orange1.1g005962m Phytozome_Cs:orange1.1g002706m
+P42862	Phytozome_Cs:orange1.1g013562m Phytozome_Cs:orange1.1g007374m Phytozome_Cs:orange1.1g007963m
+P42863	Phytozome_Cs:orange1.1g013562m Phytozome_Cs:orange1.1g007374m Phytozome_Cs:orange1.1g007963m
+P48642	Phytozome_Cs:orange1.1g042564m
+P93438	Phytozome_Cs:orange1.1g016192m Phytozome_Cs:orange1.1g016895m Phytozome_Cs:orange1.1g015873m Phytozome_Cs:orange1.1g016843m Phytozome_Cs:orange1.1g016575m Phytozome_Cs:orange1.1g016215m Phytozome_Cs:orange1.1g044516m
+Q01KF3	Phytozome_Cs:orange1.1g021621m Phytozome_Cs:orange1.1g021828m
+Q01M39	Phytozome_Cs:orange1.1g047540m Phytozome_Cs:orange1.1g010775m Phytozome_Cs:orange1.1g037221m Phytozome_Cs:orange1.1g022329m Phytozome_Cs:orange1.1g010825m Phytozome_Cs:orange1.1g010684m Phytozome_Cs:orange1.1g022321m Phytozome_Cs:orange1.1g012217m Phytozome_Cs:orange1.1g022811m Phytozome_Cs:orange1.1g012342m
+Q05JG2	Phytozome_Cs:orange1.1g042507m Phytozome_Cs:orange1.1g036255m Phytozome_Cs:orange1.1g046128m
+Q06967	Phytozome_Cs:orange1.1g024736m Phytozome_Cs:orange1.1g024714m
+Q0D3B6	Phytozome_Cs:orange1.1g007205m Phytozome_Cs:orange1.1g003994m Phytozome_Cs:orange1.1g003995m Phytozome_Cs:orange1.1g004001m Phytozome_Cs:orange1.1g004541m Phytozome_Cs:orange1.1g005631m Phytozome_Cs:orange1.1g004184m Phytozome_Cs:orange1.1g007196m
+Q0D3D2	Phytozome_Cs:orange1.1g044559m Phytozome_Cs:orange1.1g007917m Phytozome_Cs:orange1.1g007800m Phytozome_Cs:orange1.1g009060m
+Q0D3F2	Phytozome_Cs:orange1.1g039591m Phytozome_Cs:orange1.1g021008m Phytozome_Cs:orange1.1g042119m Phytozome_Cs:orange1.1g036061m
+Q0D4G3	Phytozome_Cs:orange1.1g024445m
+Q0D759	Phytozome_Cs:orange1.1g041964m Phytozome_Cs:orange1.1g010151m Phytozome_Cs:orange1.1g035623m Phytozome_Cs:orange1.1g010614m Phytozome_Cs:orange1.1g010727m Phytozome_Cs:orange1.1g048482m Phytozome_Cs:orange1.1g041279m Phytozome_Cs:orange1.1g010479m Phytozome_Cs:orange1.1g046490m Phytozome_Cs:orange1.1g035527m Phytozome_Cs:orange1.1g035827m Phytozome_Cs:orange1.1g013651m Phytozome_Cs:orange1.1g046023m Phytozome_Cs:orange1.1g047291m Phytozome_Cs:orange1.1g048583m Phytozome_Cs:orange1.1g046537m Phytozome_Cs:orange1.1g048790m Phytozome_Cs:orange1.1g038171m Phytozome_Cs:orange1.1g010315m Phytozome_Cs:orange1.1g048189m Phytozome_Cs:orange1.1g010661m Phytozome_Cs:orange1.1g037819m Phytozome_Cs:orange1.1g009872m
+Q0D7E4	Phytozome_Cs:orange1.1g009128m Phytozome_Cs:orange1.1g016122m Phytozome_Cs:orange1.1g008955m Phytozome_Cs:orange1.1g009104m Phytozome_Cs:orange1.1g010396m Phytozome_Cs:orange1.1g013769m
+Q0D7J0	Phytozome_Cs:orange1.1g013342m Phytozome_Cs:orange1.1g046167m Phytozome_Cs:orange1.1g012151m Phytozome_Cs:orange1.1g013836m Phytozome_Cs:orange1.1g012678m Phytozome_Cs:orange1.1g012543m Phytozome_Cs:orange1.1g012563m Phytozome_Cs:orange1.1g040486m Phytozome_Cs:orange1.1g016062m Phytozome_Cs:orange1.1g012613m Phytozome_Cs:orange1.1g020179m Phytozome_Cs:orange1.1g014232m Phytozome_Cs:orange1.1g018483m Phytozome_Cs:orange1.1g012735m Phytozome_Cs:orange1.1g012474m
+Q0D7J3	Phytozome_Cs:orange1.1g013342m Phytozome_Cs:orange1.1g046167m Phytozome_Cs:orange1.1g012151m Phytozome_Cs:orange1.1g013836m Phytozome_Cs:orange1.1g012678m Phytozome_Cs:orange1.1g012543m Phytozome_Cs:orange1.1g012563m Phytozome_Cs:orange1.1g040486m Phytozome_Cs:orange1.1g016062m Phytozome_Cs:orange1.1g012613m Phytozome_Cs:orange1.1g020179m Phytozome_Cs:orange1.1g014232m Phytozome_Cs:orange1.1g018483m Phytozome_Cs:orange1.1g012735m Phytozome_Cs:orange1.1g012474m
+Q0D7W4	Phytozome_Cs:orange1.1g023333m Phytozome_Cs:orange1.1g025358m Phytozome_Cs:orange1.1g023386m Phytozome_Cs:orange1.1g026885m Phytozome_Cs:orange1.1g024958m
+Q0D8I9	Phytozome_Cs:orange1.1g000798m Phytozome_Cs:orange1.1g000759m Phytozome_Cs:orange1.1g000538m Phytozome_Cs:orange1.1g000799m Phytozome_Cs:orange1.1g000800m Phytozome_Cs:orange1.1g000794m
+Q0D8J6	Phytozome_Cs:orange1.1g007291m Phytozome_Cs:orange1.1g007379m
+Q0D980	Phytozome_Cs:orange1.1g021289m Phytozome_Cs:orange1.1g023313m Phytozome_Cs:orange1.1g017904m
+Q0DA35	Phytozome_Cs:orange1.1g034327m Phytozome_Cs:orange1.1g034684m
+Q0DAA4	Phytozome_Cs:orange1.1g001896m Phytozome_Cs:orange1.1g002427m Phytozome_Cs:orange1.1g004259m Phytozome_Cs:orange1.1g003131m Phytozome_Cs:orange1.1g008590m Phytozome_Cs:orange1.1g001906m
+Q0DBD3	Phytozome_Cs:orange1.1g021866m Phytozome_Cs:orange1.1g021898m
+Q0DBF4	Phytozome_Cs:orange1.1g010097m
+Q0DBN4	Phytozome_Cs:orange1.1g047180m Phytozome_Cs:orange1.1g013839m
+Q0DCE9	Phytozome_Cs:orange1.1g006113m Phytozome_Cs:orange1.1g007236m Phytozome_Cs:orange1.1g006970m Phytozome_Cs:orange1.1g005872m Phytozome_Cs:orange1.1g040402m Phytozome_Cs:orange1.1g006052m Phytozome_Cs:orange1.1g006085m
+Q0DDS1	Phytozome_Cs:orange1.1g020760m Phytozome_Cs:orange1.1g022344m Phytozome_Cs:orange1.1g016473m Phytozome_Cs:orange1.1g018918m Phytozome_Cs:orange1.1g016411m
+Q0DEC8	Phytozome_Cs:orange1.1g007370m Phytozome_Cs:orange1.1g008154m Phytozome_Cs:orange1.1g006091m Phytozome_Cs:orange1.1g009139m
+Q0DG35	Phytozome_Cs:orange1.1g000265m Phytozome_Cs:orange1.1g000266m
+Q0DGG8	Phytozome_Cs:orange1.1g047635m
+Q0DHF6	Phytozome_Cs:orange1.1g044559m Phytozome_Cs:orange1.1g007917m Phytozome_Cs:orange1.1g007800m Phytozome_Cs:orange1.1g009060m
+Q0DJJ9	Phytozome_Cs:orange1.1g022631m Phytozome_Cs:orange1.1g022634m
+Q0DJT2	Phytozome_Cs:orange1.1g018011m Phytozome_Cs:orange1.1g017144m Phytozome_Cs:orange1.1g024790m Phytozome_Cs:orange1.1g022769m Phytozome_Cs:orange1.1g020829m Phytozome_Cs:orange1.1g016689m Phytozome_Cs:orange1.1g024779m Phytozome_Cs:orange1.1g017993m Phytozome_Cs:orange1.1g020803m Phytozome_Cs:orange1.1g023245m Phytozome_Cs:orange1.1g018138m Phytozome_Cs:orange1.1g023676m
+Q0DKE8	Phytozome_Cs:orange1.1g018172m Phytozome_Cs:orange1.1g012785m
+Q0DKP3	Phytozome_Cs:orange1.1g007912m Phytozome_Cs:orange1.1g008051m Phytozome_Cs:orange1.1g008325m
+Q0DKY4	Phytozome_Cs:orange1.1g016192m Phytozome_Cs:orange1.1g016895m Phytozome_Cs:orange1.1g015873m Phytozome_Cs:orange1.1g016843m Phytozome_Cs:orange1.1g016575m Phytozome_Cs:orange1.1g016215m Phytozome_Cs:orange1.1g044516m
+Q0DNU1	Phytozome_Cs:orange1.1g021461m Phytozome_Cs:orange1.1g017348m Phytozome_Cs:orange1.1g024594m Phytozome_Cs:orange1.1g027756m Phytozome_Cs:orange1.1g025411m Phytozome_Cs:orange1.1g018981m Phytozome_Cs:orange1.1g027672m Phytozome_Cs:orange1.1g017321m Phytozome_Cs:orange1.1g022728m Phytozome_Cs:orange1.1g017834m Phytozome_Cs:orange1.1g018653m Phytozome_Cs:orange1.1g023560m Phytozome_Cs:orange1.1g017409m Phytozome_Cs:orange1.1g018641m Phytozome_Cs:orange1.1g018626m Phytozome_Cs:orange1.1g017356m Phytozome_Cs:orange1.1g017195m Phytozome_Cs:orange1.1g018277m
+Q0DS76	Phytozome_Cs:orange1.1g000652m Phytozome_Cs:orange1.1g000651m Phytozome_Cs:orange1.1g001401m
+Q0DSM1	Phytozome_Cs:orange1.1g012705m Phytozome_Cs:orange1.1g012077m
+Q0DV32	Phytozome_Cs:orange1.1g013780m Phytozome_Cs:orange1.1g019348m Phytozome_Cs:orange1.1g043601m Phytozome_Cs:orange1.1g013850m Phytozome_Cs:orange1.1g014435m
+Q0DWC7	Phytozome_Cs:orange1.1g004510m
+Q0DWF2	Phytozome_Cs:orange1.1g023395m Phytozome_Cs:orange1.1g022632m Phytozome_Cs:orange1.1g023104m
+Q0DWH1	Phytozome_Cs:orange1.1g016978m Phytozome_Cs:orange1.1g022865m Phytozome_Cs:orange1.1g026087m Phytozome_Cs:orange1.1g019139m Phytozome_Cs:orange1.1g025895m Phytozome_Cs:orange1.1g017000m Phytozome_Cs:orange1.1g025264m Phytozome_Cs:orange1.1g026414m Phytozome_Cs:orange1.1g025257m Phytozome_Cs:orange1.1g017431m
+Q0DXA9	Phytozome_Cs:orange1.1g009137m Phytozome_Cs:orange1.1g010030m Phytozome_Cs:orange1.1g039620m Phytozome_Cs:orange1.1g008917m Phytozome_Cs:orange1.1g009398m Phytozome_Cs:orange1.1g019688m
+Q0DY86	Phytozome_Cs:orange1.1g014594m Phytozome_Cs:orange1.1g025730m Phytozome_Cs:orange1.1g019868m Phytozome_Cs:orange1.1g014492m
+Q0DYK7	Phytozome_Cs:orange1.1g009339m Phytozome_Cs:orange1.1g008462m Phytozome_Cs:orange1.1g008483m Phytozome_Cs:orange1.1g007895m Phytozome_Cs:orange1.1g009337m Phytozome_Cs:orange1.1g008490m Phytozome_Cs:orange1.1g015898m Phytozome_Cs:orange1.1g017960m Phytozome_Cs:orange1.1g008475m Phytozome_Cs:orange1.1g012614m
+Q0DZE0	Phytozome_Cs:orange1.1g005031m Phytozome_Cs:orange1.1g037382m Phytozome_Cs:orange1.1g004955m
+Q0E2P1	Phytozome_Cs:orange1.1g012535m Phytozome_Cs:orange1.1g015363m Phytozome_Cs:orange1.1g010206m Phytozome_Cs:orange1.1g010287m Phytozome_Cs:orange1.1g015390m Phytozome_Cs:orange1.1g011257m Phytozome_Cs:orange1.1g043890m Phytozome_Cs:orange1.1g010256m
+Q0E2P9	Phytozome_Cs:orange1.1g009299m Phytozome_Cs:orange1.1g008995m
+Q0E2X2	Phytozome_Cs:orange1.1g037640m Phytozome_Cs:orange1.1g048562m Phytozome_Cs:orange1.1g039701m Phytozome_Cs:orange1.1g013951m Phytozome_Cs:orange1.1g011142m Phytozome_Cs:orange1.1g010988m Phytozome_Cs:orange1.1g011490m Phytozome_Cs:orange1.1g039413m Phytozome_Cs:orange1.1g046605m Phytozome_Cs:orange1.1g038151m Phytozome_Cs:orange1.1g046582m Phytozome_Cs:orange1.1g010940m Phytozome_Cs:orange1.1g044823m Phytozome_Cs:orange1.1g011339m Phytozome_Cs:orange1.1g044012m Phytozome_Cs:orange1.1g010093m Phytozome_Cs:orange1.1g042970m
+Q0E3F2	Phytozome_Cs:orange1.1g006707m Phytozome_Cs:orange1.1g009384m Phytozome_Cs:orange1.1g007010m Phytozome_Cs:orange1.1g007076m Phytozome_Cs:orange1.1g012530m
+Q0E3J1	Phytozome_Cs:orange1.1g001896m Phytozome_Cs:orange1.1g002427m Phytozome_Cs:orange1.1g004259m Phytozome_Cs:orange1.1g003131m Phytozome_Cs:orange1.1g008590m Phytozome_Cs:orange1.1g001906m
+Q0E3L4	Phytozome_Cs:orange1.1g013898m Phytozome_Cs:orange1.1g016432m
+Q0E4F0	Phytozome_Cs:orange1.1g015121m Phytozome_Cs:orange1.1g011591m Phytozome_Cs:orange1.1g008932m Phytozome_Cs:orange1.1g018778m Phytozome_Cs:orange1.1g008695m
+Q0E4N2	Phytozome_Cs:orange1.1g019218m Phytozome_Cs:orange1.1g014714m Phytozome_Cs:orange1.1g017031m Phytozome_Cs:orange1.1g023775m Phytozome_Cs:orange1.1g025322m Phytozome_Cs:orange1.1g023760m
+Q0ILP7	Phytozome_Cs:orange1.1g022949m Phytozome_Cs:orange1.1g011357m Phytozome_Cs:orange1.1g008692m Phytozome_Cs:orange1.1g015802m
+Q0INY7	Phytozome_Cs:orange1.1g030735m Phytozome_Cs:orange1.1g030738m Phytozome_Cs:orange1.1g029245m
+Q0INZ4	Phytozome_Cs:orange1.1g014706m Phytozome_Cs:orange1.1g014627m
+Q0IPE5	Phytozome_Cs:orange1.1g022892m
+Q0IQ89	Phytozome_Cs:orange1.1g022751m Phytozome_Cs:orange1.1g022519m Phytozome_Cs:orange1.1g018848m Phytozome_Cs:orange1.1g014177m
+Q0IQA5	Phytozome_Cs:orange1.1g048649m Phytozome_Cs:orange1.1g041574m Phytozome_Cs:orange1.1g041301m Phytozome_Cs:orange1.1g006674m Phytozome_Cs:orange1.1g010956m Phytozome_Cs:orange1.1g007022m Phytozome_Cs:orange1.1g035534m Phytozome_Cs:orange1.1g007019m Phytozome_Cs:orange1.1g009681m Phytozome_Cs:orange1.1g006199m Phytozome_Cs:orange1.1g007418m
+Q0IQQ5	Phytozome_Cs:orange1.1g039534m
+Q0IRE6	Phytozome_Cs:orange1.1g008446m Phytozome_Cs:orange1.1g008481m Phytozome_Cs:orange1.1g008309m
+Q0IS70	Phytozome_Cs:orange1.1g019298m Phytozome_Cs:orange1.1g014936m
+Q0ITU1	Phytozome_Cs:orange1.1g017329m Phytozome_Cs:orange1.1g017293m Phytozome_Cs:orange1.1g018280m Phytozome_Cs:orange1.1g017312m
+Q0ITW7	Phytozome_Cs:orange1.1g047713m Phytozome_Cs:orange1.1g016933m Phytozome_Cs:orange1.1g018529m Phytozome_Cs:orange1.1g017336m Phytozome_Cs:orange1.1g019414m Phytozome_Cs:orange1.1g018072m
+Q0IZJ9	Phytozome_Cs:orange1.1g014547m
+Q0IZS0	Phytozome_Cs:orange1.1g029760m Phytozome_Cs:orange1.1g033026m Phytozome_Cs:orange1.1g033021m Phytozome_Cs:orange1.1g029754m Phytozome_Cs:orange1.1g027948m Phytozome_Cs:orange1.1g026301m Phytozome_Cs:orange1.1g031175m Phytozome_Cs:orange1.1g029775m Phytozome_Cs:orange1.1g029418m Phytozome_Cs:orange1.1g031215m
+Q0IZX5	Phytozome_Cs:orange1.1g003153m Phytozome_Cs:orange1.1g006854m Phytozome_Cs:orange1.1g006430m Phytozome_Cs:orange1.1g004233m Phytozome_Cs:orange1.1g005439m Phytozome_Cs:orange1.1g004774m Phytozome_Cs:orange1.1g004222m Phytozome_Cs:orange1.1g004061m Phytozome_Cs:orange1.1g002960m
+Q0J0M8	Phytozome_Cs:orange1.1g007956m Phytozome_Cs:orange1.1g011423m Phytozome_Cs:orange1.1g011933m
+Q0J0N3	Phytozome_Cs:orange1.1g043169m Phytozome_Cs:orange1.1g042406m Phytozome_Cs:orange1.1g015113m Phytozome_Cs:orange1.1g013602m
+Q0J185	Phytozome_Cs:orange1.1g042507m Phytozome_Cs:orange1.1g036255m Phytozome_Cs:orange1.1g046128m
+Q0J1C1	Phytozome_Cs:orange1.1g024020m Phytozome_Cs:orange1.1g023985m Phytozome_Cs:orange1.1g018920m Phytozome_Cs:orange1.1g021002m Phytozome_Cs:orange1.1g026305m Phytozome_Cs:orange1.1g020953m Phytozome_Cs:orange1.1g027317m
+Q0J1E1	Phytozome_Cs:orange1.1g008480m Phytozome_Cs:orange1.1g010562m Phytozome_Cs:orange1.1g044054m Phytozome_Cs:orange1.1g006673m Phytozome_Cs:orange1.1g010734m Phytozome_Cs:orange1.1g010555m
+Q0J270	Phytozome_Cs:orange1.1g039124m
+Q0J2L7	Phytozome_Cs:orange1.1g015135m Phytozome_Cs:orange1.1g036852m
+Q0J360	Phytozome_Cs:orange1.1g018161m Phytozome_Cs:orange1.1g013412m Phytozome_Cs:orange1.1g014058m Phytozome_Cs:orange1.1g007857m
+Q0J5Y4	Phytozome_Cs:orange1.1g019626m
+Q0J7P4	Phytozome_Cs:orange1.1g030627m Phytozome_Cs:orange1.1g032777m Phytozome_Cs:orange1.1g030670m Phytozome_Cs:orange1.1g033283m Phytozome_Cs:orange1.1g033282m Phytozome_Cs:orange1.1g030547m Phytozome_Cs:orange1.1g032773m Phytozome_Cs:orange1.1g030647m Phytozome_Cs:orange1.1g030714m Phytozome_Cs:orange1.1g030812m
+Q0J7U6	Phytozome_Cs:orange1.1g001176m Phytozome_Cs:orange1.1g001157m Phytozome_Cs:orange1.1g001168m Phytozome_Cs:orange1.1g001159m Phytozome_Cs:orange1.1g001477m Phytozome_Cs:orange1.1g001160m Phytozome_Cs:orange1.1g002494m Phytozome_Cs:orange1.1g001534m
+Q0J8A4	Phytozome_Cs:orange1.1g019445m
+Q0J951	Phytozome_Cs:orange1.1g003286m Phytozome_Cs:orange1.1g003505m Phytozome_Cs:orange1.1g002624m Phytozome_Cs:orange1.1g002737m Phytozome_Cs:orange1.1g003298m Phytozome_Cs:orange1.1g003506m Phytozome_Cs:orange1.1g002629m Phytozome_Cs:orange1.1g002390m Phytozome_Cs:orange1.1g002650m
+Q0J9F2	Phytozome_Cs:orange1.1g025823m Phytozome_Cs:orange1.1g019339m
+Q0J9K2	Phytozome_Cs:orange1.1g009868m
+Q0J9Z0	Phytozome_Cs:orange1.1g046057m
+Q0JA81	Phytozome_Cs:orange1.1g004193m
+Q0JA82	Phytozome_Cs:orange1.1g004193m
+Q0JAI1	Phytozome_Cs:orange1.1g044766m
+Q0JB49	Phytozome_Cs:orange1.1g027311m Phytozome_Cs:orange1.1g027134m Phytozome_Cs:orange1.1g029690m
+Q0JB91	Phytozome_Cs:orange1.1g025337m Phytozome_Cs:orange1.1g025945m Phytozome_Cs:orange1.1g024894m Phytozome_Cs:orange1.1g018660m
+Q0JB99	Phytozome_Cs:orange1.1g044938m Phytozome_Cs:orange1.1g028566m
+Q0JBF1	Phytozome_Cs:orange1.1g005279m
+Q0JC10	Phytozome_Cs:orange1.1g039582m Phytozome_Cs:orange1.1g035670m
+Q0JCU7	Phytozome_Cs:orange1.1g014684m Phytozome_Cs:orange1.1g010723m Phytozome_Cs:orange1.1g005770m Phytozome_Cs:orange1.1g006440m Phytozome_Cs:orange1.1g011876m Phytozome_Cs:orange1.1g006013m Phytozome_Cs:orange1.1g017856m Phytozome_Cs:orange1.1g011888m Phytozome_Cs:orange1.1g006025m
+Q0JCZ4	Phytozome_Cs:orange1.1g005618m Phytozome_Cs:orange1.1g008608m Phytozome_Cs:orange1.1g006544m Phytozome_Cs:orange1.1g004792m
+Q0JDD2	Phytozome_Cs:orange1.1g044649m
+Q0JDF7	Phytozome_Cs:orange1.1g014547m
+Q0JDN5	Phytozome_Cs:orange1.1g001713m Phytozome_Cs:orange1.1g002419m Phytozome_Cs:orange1.1g002323m
+Q0JDT1	Phytozome_Cs:orange1.1g011550m
+Q0JE53	Phytozome_Cs:orange1.1g047540m Phytozome_Cs:orange1.1g010775m Phytozome_Cs:orange1.1g037221m Phytozome_Cs:orange1.1g022329m Phytozome_Cs:orange1.1g010825m Phytozome_Cs:orange1.1g010684m Phytozome_Cs:orange1.1g022321m Phytozome_Cs:orange1.1g012217m Phytozome_Cs:orange1.1g022811m Phytozome_Cs:orange1.1g012342m
+Q0JEK1	Phytozome_Cs:orange1.1g018253m Phytozome_Cs:orange1.1g018443m
+Q0JEP5	Phytozome_Cs:orange1.1g013476m Phytozome_Cs:orange1.1g008503m Phytozome_Cs:orange1.1g012358m Phytozome_Cs:orange1.1g006891m
+Q0JEZ8	Phytozome_Cs:orange1.1g004193m
+Q0JF25	Phytozome_Cs:orange1.1g035533m Phytozome_Cs:orange1.1g009152m
+Q0JF26	Phytozome_Cs:orange1.1g035533m Phytozome_Cs:orange1.1g009152m
+Q0JF30	Phytozome_Cs:orange1.1g004510m
+Q0JGK4	Phytozome_Cs:orange1.1g001705m
+Q0JIC2	Phytozome_Cs:orange1.1g018087m Phytozome_Cs:orange1.1g011938m Phytozome_Cs:orange1.1g012809m
+Q0JIR6	Phytozome_Cs:orange1.1g021404m Phytozome_Cs:orange1.1g025855m Phytozome_Cs:orange1.1g016806m Phytozome_Cs:orange1.1g027761m Phytozome_Cs:orange1.1g025883m Phytozome_Cs:orange1.1g016832m
+Q0JJ01	Phytozome_Cs:orange1.1g007619m Phytozome_Cs:orange1.1g007550m Phytozome_Cs:orange1.1g009554m Phytozome_Cs:orange1.1g007758m Phytozome_Cs:orange1.1g008204m Phytozome_Cs:orange1.1g010793m Phytozome_Cs:orange1.1g007849m Phytozome_Cs:orange1.1g010293m
+Q0JJI1	Phytozome_Cs:orange1.1g023444m Phytozome_Cs:orange1.1g018000m Phytozome_Cs:orange1.1g020982m Phytozome_Cs:orange1.1g013798m
+Q0JJV0	Phytozome_Cs:orange1.1g018360m
+Q0JK57	Phytozome_Cs:orange1.1g043471m
+Q0JKD0	Phytozome_Cs:orange1.1g000265m Phytozome_Cs:orange1.1g000266m
+Q0JKG7	Phytozome_Cs:orange1.1g017865m Phytozome_Cs:orange1.1g017830m Phytozome_Cs:orange1.1g017828m Phytozome_Cs:orange1.1g017807m Phytozome_Cs:orange1.1g022747m Phytozome_Cs:orange1.1g028379m Phytozome_Cs:orange1.1g029427m Phytozome_Cs:orange1.1g017871m Phytozome_Cs:orange1.1g019236m Phytozome_Cs:orange1.1g022618m Phytozome_Cs:orange1.1g019963m Phytozome_Cs:orange1.1g023039m Phytozome_Cs:orange1.1g017803m Phytozome_Cs:orange1.1g017809m Phytozome_Cs:orange1.1g017824m Phytozome_Cs:orange1.1g017170m
+Q0JKI9	Phytozome_Cs:orange1.1g004436m Phytozome_Cs:orange1.1g004489m Phytozome_Cs:orange1.1g004532m Phytozome_Cs:orange1.1g012439m Phytozome_Cs:orange1.1g004106m
+Q0JKY8	Phytozome_Cs:orange1.1g024180m Phytozome_Cs:orange1.1g025325m Phytozome_Cs:orange1.1g025150m Phytozome_Cs:orange1.1g045791m Phytozome_Cs:orange1.1g025210m Phytozome_Cs:orange1.1g020683m Phytozome_Cs:orange1.1g020830m Phytozome_Cs:orange1.1g020195m Phytozome_Cs:orange1.1g021414m Phytozome_Cs:orange1.1g025231m Phytozome_Cs:orange1.1g019906m Phytozome_Cs:orange1.1g021560m Phytozome_Cs:orange1.1g028421m Phytozome_Cs:orange1.1g025208m Phytozome_Cs:orange1.1g029638m Phytozome_Cs:orange1.1g025161m Phytozome_Cs:orange1.1g021559m Phytozome_Cs:orange1.1g028412m Phytozome_Cs:orange1.1g023213m Phytozome_Cs:orange1.1g028449m Phytozome_Cs:orange1.1g023673m Phytozome_Cs:orange1.1g025160m Phytozome_Cs:orange1.1g020684m Phytozome_Cs:orange1.1g025318m Phytozome_Cs:orange1.1g023589m Phytozome_Cs:orange1.1g019915m Phytozome_Cs:orange1.1g024356m Phytozome_Cs:orange1.1g026089m Phytozome_Cs:orange1.1g023668m Phytozome_Cs:orange1.1g023280m Phytozome_Cs:orange1.1g025179m Phytozome_Cs:orange1.1g020707m
+Q0JLT2	Phytozome_Cs:orange1.1g008017m Phytozome_Cs:orange1.1g007898m Phytozome_Cs:orange1.1g014855m Phytozome_Cs:orange1.1g010863m Phytozome_Cs:orange1.1g008724m
+Q0JPT4	Phytozome_Cs:orange1.1g020567m Phytozome_Cs:orange1.1g020318m Phytozome_Cs:orange1.1g025773m Phytozome_Cs:orange1.1g020383m
+Q0JQ41	Phytozome_Cs:orange1.1g018207m Phytozome_Cs:orange1.1g017951m
+Q0JR55	Phytozome_Cs:orange1.1g018363m Phytozome_Cs:orange1.1g018354m Phytozome_Cs:orange1.1g021953m Phytozome_Cs:orange1.1g018840m Phytozome_Cs:orange1.1g014425m
+Q0JRG4	Phytozome_Cs:orange1.1g023493m Phytozome_Cs:orange1.1g028019m Phytozome_Cs:orange1.1g023749m Phytozome_Cs:orange1.1g023776m Phytozome_Cs:orange1.1g028227m
+Q109F2	Phytozome_Cs:orange1.1g009497m Phytozome_Cs:orange1.1g010226m
+Q109K4	Phytozome_Cs:orange1.1g017995m Phytozome_Cs:orange1.1g016755m Phytozome_Cs:orange1.1g023109m Phytozome_Cs:orange1.1g021360m Phytozome_Cs:orange1.1g023972m Phytozome_Cs:orange1.1g024956m
+Q109W9	Phytozome_Cs:orange1.1g017995m Phytozome_Cs:orange1.1g016755m Phytozome_Cs:orange1.1g023109m Phytozome_Cs:orange1.1g021360m Phytozome_Cs:orange1.1g023972m Phytozome_Cs:orange1.1g024956m
+Q10A30	Phytozome_Cs:orange1.1g018326m
+Q10A97	Phytozome_Cs:orange1.1g047387m Phytozome_Cs:orange1.1g042174m
+Q10B63	Phytozome_Cs:orange1.1g039682m Phytozome_Cs:orange1.1g032692m Phytozome_Cs:orange1.1g033892m Phytozome_Cs:orange1.1g033723m Phytozome_Cs:orange1.1g032707m Phytozome_Cs:orange1.1g032695m
+Q10BA5	Phytozome_Cs:orange1.1g005498m Phytozome_Cs:orange1.1g003012m
+Q10BT5	Phytozome_Cs:orange1.1g021809m Phytozome_Cs:orange1.1g023226m Phytozome_Cs:orange1.1g021352m Phytozome_Cs:orange1.1g022620m Phytozome_Cs:orange1.1g021077m Phytozome_Cs:orange1.1g021357m
+Q10BX9	Phytozome_Cs:orange1.1g016934m
+Q10CE4	Phytozome_Cs:orange1.1g018519m Phytozome_Cs:orange1.1g017434m Phytozome_Cs:orange1.1g017433m Phytozome_Cs:orange1.1g017718m Phytozome_Cs:orange1.1g018919m Phytozome_Cs:orange1.1g017781m Phytozome_Cs:orange1.1g017492m Phytozome_Cs:orange1.1g019244m Phytozome_Cs:orange1.1g015722m Phytozome_Cs:orange1.1g021739m
+Q10CH5	Phytozome_Cs:orange1.1g014550m Phytozome_Cs:orange1.1g014485m Phytozome_Cs:orange1.1g018836m Phytozome_Cs:orange1.1g015639m Phytozome_Cs:orange1.1g014090m
+Q10CQ1	Phytozome_Cs:orange1.1g030228m Phytozome_Cs:orange1.1g024640m Phytozome_Cs:orange1.1g030134m Phytozome_Cs:orange1.1g030164m Phytozome_Cs:orange1.1g026043m
+Q10CS9	Phytozome_Cs:orange1.1g029161m Phytozome_Cs:orange1.1g029472m
+Q10CU7	Phytozome_Cs:orange1.1g010640m
+Q10D34	Phytozome_Cs:orange1.1g026811m Phytozome_Cs:orange1.1g029018m
+Q10D68	Phytozome_Cs:orange1.1g010058m
+Q10D87	Phytozome_Cs:orange1.1g032532m Phytozome_Cs:orange1.1g032497m Phytozome_Cs:orange1.1g031190m Phytozome_Cs:orange1.1g028667m Phytozome_Cs:orange1.1g033339m
+Q10DK7	Phytozome_Cs:orange1.1g043923m
+Q10DU0	Phytozome_Cs:orange1.1g001564m Phytozome_Cs:orange1.1g001235m
+Q10DZ5	Phytozome_Cs:orange1.1g048400m
+Q10EG4	Phytozome_Cs:orange1.1g000798m Phytozome_Cs:orange1.1g000759m Phytozome_Cs:orange1.1g000538m Phytozome_Cs:orange1.1g000799m Phytozome_Cs:orange1.1g000800m Phytozome_Cs:orange1.1g000794m
+Q10F04	Phytozome_Cs:orange1.1g013834m
+Q10F25	Phytozome_Cs:orange1.1g021461m Phytozome_Cs:orange1.1g017348m Phytozome_Cs:orange1.1g024594m Phytozome_Cs:orange1.1g027756m Phytozome_Cs:orange1.1g025411m Phytozome_Cs:orange1.1g018981m Phytozome_Cs:orange1.1g027672m Phytozome_Cs:orange1.1g017321m Phytozome_Cs:orange1.1g022728m Phytozome_Cs:orange1.1g017834m Phytozome_Cs:orange1.1g018653m Phytozome_Cs:orange1.1g023560m Phytozome_Cs:orange1.1g017409m Phytozome_Cs:orange1.1g018641m Phytozome_Cs:orange1.1g018626m Phytozome_Cs:orange1.1g017356m Phytozome_Cs:orange1.1g017195m Phytozome_Cs:orange1.1g018277m
+Q10FE9	Phytozome_Cs:orange1.1g020629m Phytozome_Cs:orange1.1g014361m Phytozome_Cs:orange1.1g020664m Phytozome_Cs:orange1.1g012470m
+Q10G56	Phytozome_Cs:orange1.1g012138m Phytozome_Cs:orange1.1g021893m Phytozome_Cs:orange1.1g017259m
+Q10HZ6	Phytozome_Cs:orange1.1g035533m Phytozome_Cs:orange1.1g009152m
+Q10J20	Phytozome_Cs:orange1.1g046596m
+Q10J32	Phytozome_Cs:orange1.1g016693m Phytozome_Cs:orange1.1g009625m Phytozome_Cs:orange1.1g008487m Phytozome_Cs:orange1.1g009638m Phytozome_Cs:orange1.1g008453m
+Q10JA2	Phytozome_Cs:orange1.1g044511m Phytozome_Cs:orange1.1g040042m
+Q10L51	Phytozome_Cs:orange1.1g037640m Phytozome_Cs:orange1.1g048562m Phytozome_Cs:orange1.1g039701m Phytozome_Cs:orange1.1g013951m Phytozome_Cs:orange1.1g011142m Phytozome_Cs:orange1.1g010988m Phytozome_Cs:orange1.1g011490m Phytozome_Cs:orange1.1g039413m Phytozome_Cs:orange1.1g046605m Phytozome_Cs:orange1.1g038151m Phytozome_Cs:orange1.1g046582m Phytozome_Cs:orange1.1g010940m Phytozome_Cs:orange1.1g044823m Phytozome_Cs:orange1.1g011339m Phytozome_Cs:orange1.1g044012m Phytozome_Cs:orange1.1g010093m Phytozome_Cs:orange1.1g042970m
+Q10L56	Phytozome_Cs:orange1.1g030845m
+Q10LP5	Phytozome_Cs:orange1.1g003646m Phytozome_Cs:orange1.1g003657m Phytozome_Cs:orange1.1g003661m Phytozome_Cs:orange1.1g003656m Phytozome_Cs:orange1.1g003655m Phytozome_Cs:orange1.1g005365m Phytozome_Cs:orange1.1g003962m Phytozome_Cs:orange1.1g003652m Phytozome_Cs:orange1.1g003647m
+Q10LR4	Phytozome_Cs:orange1.1g011669m Phytozome_Cs:orange1.1g013235m
+Q10LR5	Phytozome_Cs:orange1.1g010951m Phytozome_Cs:orange1.1g011379m Phytozome_Cs:orange1.1g014519m Phytozome_Cs:orange1.1g013614m Phytozome_Cs:orange1.1g015619m Phytozome_Cs:orange1.1g010908m Phytozome_Cs:orange1.1g013594m Phytozome_Cs:orange1.1g014483m
+Q10M76	Phytozome_Cs:orange1.1g026455m
+Q10MB0	Phytozome_Cs:orange1.1g020230m Phytozome_Cs:orange1.1g041855m
+Q10MB4	Phytozome_Cs:orange1.1g020197m Phytozome_Cs:orange1.1g019911m
+Q10ME8	Phytozome_Cs:orange1.1g001380m
+Q10MG9	Phytozome_Cs:orange1.1g037299m
+Q10MK2	Phytozome_Cs:orange1.1g047753m
+Q10MK5	Phytozome_Cs:orange1.1g010020m Phytozome_Cs:orange1.1g016508m Phytozome_Cs:orange1.1g016801m
+Q10MQ2	Phytozome_Cs:orange1.1g045431m Phytozome_Cs:orange1.1g036024m
+Q10MS2	Phytozome_Cs:orange1.1g038201m
+Q10MW3	Phytozome_Cs:orange1.1g044559m Phytozome_Cs:orange1.1g007917m Phytozome_Cs:orange1.1g007800m Phytozome_Cs:orange1.1g009060m
+Q10MX9	Phytozome_Cs:orange1.1g019885m Phytozome_Cs:orange1.1g012763m Phytozome_Cs:orange1.1g019864m Phytozome_Cs:orange1.1g025223m Phytozome_Cs:orange1.1g015238m Phytozome_Cs:orange1.1g019894m
+Q10N17	Phytozome_Cs:orange1.1g048784m
+Q10N34	Phytozome_Cs:orange1.1g007205m Phytozome_Cs:orange1.1g003994m Phytozome_Cs:orange1.1g003995m Phytozome_Cs:orange1.1g004001m Phytozome_Cs:orange1.1g004541m Phytozome_Cs:orange1.1g005631m Phytozome_Cs:orange1.1g004184m Phytozome_Cs:orange1.1g007196m
+Q10NY1	Phytozome_Cs:orange1.1g022731m Phytozome_Cs:orange1.1g017617m Phytozome_Cs:orange1.1g013510m Phytozome_Cs:orange1.1g015142m Phytozome_Cs:orange1.1g013280m
+Q10NY2	Phytozome_Cs:orange1.1g001295m Phytozome_Cs:orange1.1g001318m Phytozome_Cs:orange1.1g001248m Phytozome_Cs:orange1.1g001311m Phytozome_Cs:orange1.1g001224m Phytozome_Cs:orange1.1g001415m Phytozome_Cs:orange1.1g001258m
+Q10P01	Phytozome_Cs:orange1.1g013461m Phytozome_Cs:orange1.1g011544m Phytozome_Cs:orange1.1g011543m Phytozome_Cs:orange1.1g011533m Phytozome_Cs:orange1.1g011567m Phytozome_Cs:orange1.1g011557m
+Q10P67	Phytozome_Cs:orange1.1g024671m Phytozome_Cs:orange1.1g028115m
+Q10PL0	Phytozome_Cs:orange1.1g024053m Phytozome_Cs:orange1.1g019544m Phytozome_Cs:orange1.1g016272m Phytozome_Cs:orange1.1g020258m Phytozome_Cs:orange1.1g028415m Phytozome_Cs:orange1.1g028343m Phytozome_Cs:orange1.1g020028m Phytozome_Cs:orange1.1g021564m Phytozome_Cs:orange1.1g023788m Phytozome_Cs:orange1.1g020003m Phytozome_Cs:orange1.1g036241m Phytozome_Cs:orange1.1g027144m Phytozome_Cs:orange1.1g016343m Phytozome_Cs:orange1.1g020264m Phytozome_Cs:orange1.1g021543m Phytozome_Cs:orange1.1g021518m Phytozome_Cs:orange1.1g019986m Phytozome_Cs:orange1.1g022854m Phytozome_Cs:orange1.1g020036m Phytozome_Cs:orange1.1g019527m
+Q10PY7	Phytozome_Cs:orange1.1g010159m Phytozome_Cs:orange1.1g010889m
+Q10QA5	Phytozome_Cs:orange1.1g024681m Phytozome_Cs:orange1.1g045774m
+Q10QN3	Phytozome_Cs:orange1.1g029099m Phytozome_Cs:orange1.1g031079m Phytozome_Cs:orange1.1g023874m Phytozome_Cs:orange1.1g029112m Phytozome_Cs:orange1.1g023777m Phytozome_Cs:orange1.1g023826m
+Q10QR9	Phytozome_Cs:orange1.1g022162m Phytozome_Cs:orange1.1g024837m Phytozome_Cs:orange1.1g022128m Phytozome_Cs:orange1.1g023179m Phytozome_Cs:orange1.1g026235m Phytozome_Cs:orange1.1g024773m Phytozome_Cs:orange1.1g024727m Phytozome_Cs:orange1.1g022234m Phytozome_Cs:orange1.1g022176m
+Q10RP2	Phytozome_Cs:orange1.1g026503m
+Q10S34	Phytozome_Cs:orange1.1g002829m Phytozome_Cs:orange1.1g003793m Phytozome_Cs:orange1.1g003797m Phytozome_Cs:orange1.1g001917m Phytozome_Cs:orange1.1g001863m Phytozome_Cs:orange1.1g001914m Phytozome_Cs:orange1.1g002820m Phytozome_Cs:orange1.1g002599m Phytozome_Cs:orange1.1g002651m
+Q10S55	Phytozome_Cs:orange1.1g025329m Phytozome_Cs:orange1.1g018854m Phytozome_Cs:orange1.1g018852m
+Q10S58	Phytozome_Cs:orange1.1g039045m
+Q10S72	Phytozome_Cs:orange1.1g008946m
+Q10SD6	Phytozome_Cs:orange1.1g023655m Phytozome_Cs:orange1.1g029431m Phytozome_Cs:orange1.1g027739m Phytozome_Cs:orange1.1g029452m Phytozome_Cs:orange1.1g023546m Phytozome_Cs:orange1.1g023663m Phytozome_Cs:orange1.1g023127m Phytozome_Cs:orange1.1g026769m
+Q10SL7	Phytozome_Cs:orange1.1g031341m Phytozome_Cs:orange1.1g031216m Phytozome_Cs:orange1.1g027747m Phytozome_Cs:orange1.1g022250m Phytozome_Cs:orange1.1g025154m Phytozome_Cs:orange1.1g027650m Phytozome_Cs:orange1.1g022057m
+Q10SM6	Phytozome_Cs:orange1.1g014311m
+Q10SP1	Phytozome_Cs:orange1.1g031333m Phytozome_Cs:orange1.1g028990m Phytozome_Cs:orange1.1g033147m
+Q10SU1	Phytozome_Cs:orange1.1g048728m
+Q10T43	Phytozome_Cs:orange1.1g024609m Phytozome_Cs:orange1.1g013143m
+Q25AR2	Phytozome_Cs:orange1.1g029253m Phytozome_Cs:orange1.1g027366m Phytozome_Cs:orange1.1g025280m Phytozome_Cs:orange1.1g023756m
+Q2KNB4	Phytozome_Cs:orange1.1g014020m Phytozome_Cs:orange1.1g010456m
+Q2KNB5	Phytozome_Cs:orange1.1g014020m Phytozome_Cs:orange1.1g010456m
+Q2MJA7	Phytozome_Cs:orange1.1g043169m Phytozome_Cs:orange1.1g042406m Phytozome_Cs:orange1.1g015113m Phytozome_Cs:orange1.1g013602m
+Q2MJA8	Phytozome_Cs:orange1.1g043169m Phytozome_Cs:orange1.1g042406m Phytozome_Cs:orange1.1g015113m Phytozome_Cs:orange1.1g013602m
+Q2QLJ0	Phytozome_Cs:orange1.1g019836m Phytozome_Cs:orange1.1g013529m Phytozome_Cs:orange1.1g015386m Phytozome_Cs:orange1.1g007605m Phytozome_Cs:orange1.1g015522m Phytozome_Cs:orange1.1g019900m
+Q2QLQ1	Phytozome_Cs:orange1.1g029298m Phytozome_Cs:orange1.1g031070m
+Q2QLY5	Phytozome_Cs:orange1.1g004263m Phytozome_Cs:orange1.1g003819m
+Q2QLY6	Phytozome_Cs:orange1.1g017061m Phytozome_Cs:orange1.1g018577m
+Q2QM47	Phytozome_Cs:orange1.1g002047m Phytozome_Cs:orange1.1g001901m Phytozome_Cs:orange1.1g001895m
+Q2QM70	Phytozome_Cs:orange1.1g019684m Phytozome_Cs:orange1.1g022929m Phytozome_Cs:orange1.1g019479m
+Q2QM83	Phytozome_Cs:orange1.1g006433m
+Q2QMD4	Phytozome_Cs:orange1.1g024280m Phytozome_Cs:orange1.1g020963m Phytozome_Cs:orange1.1g024216m Phytozome_Cs:orange1.1g017392m Phytozome_Cs:orange1.1g017338m Phytozome_Cs:orange1.1g018869m
+Q2QME6	Phytozome_Cs:orange1.1g021144m Phytozome_Cs:orange1.1g024544m Phytozome_Cs:orange1.1g025860m Phytozome_Cs:orange1.1g019107m Phytozome_Cs:orange1.1g027947m
+Q2QMK8	Phytozome_Cs:orange1.1g027620m Phytozome_Cs:orange1.1g022988m Phytozome_Cs:orange1.1g024300m Phytozome_Cs:orange1.1g021714m Phytozome_Cs:orange1.1g021743m
+Q2QN06	Phytozome_Cs:orange1.1g024499m Phytozome_Cs:orange1.1g038669m
+Q2QN88	Phytozome_Cs:orange1.1g015804m Phytozome_Cs:orange1.1g015788m
+Q2QNF7	Phytozome_Cs:orange1.1g017920m
+Q2QNM9	Phytozome_Cs:orange1.1g002436m Phytozome_Cs:orange1.1g002417m
+Q2QNN5	Phytozome_Cs:orange1.1g002644m Phytozome_Cs:orange1.1g002670m Phytozome_Cs:orange1.1g002672m Phytozome_Cs:orange1.1g003699m Phytozome_Cs:orange1.1g008591m Phytozome_Cs:orange1.1g002617m Phytozome_Cs:orange1.1g007678m Phytozome_Cs:orange1.1g008399m Phytozome_Cs:orange1.1g007674m Phytozome_Cs:orange1.1g006365m Phytozome_Cs:orange1.1g012542m Phytozome_Cs:orange1.1g006428m Phytozome_Cs:orange1.1g008395m Phytozome_Cs:orange1.1g005971m Phytozome_Cs:orange1.1g008659m Phytozome_Cs:orange1.1g006629m Phytozome_Cs:orange1.1g004307m Phytozome_Cs:orange1.1g006999m Phytozome_Cs:orange1.1g002649m Phytozome_Cs:orange1.1g047131m Phytozome_Cs:orange1.1g040723m Phytozome_Cs:orange1.1g005962m Phytozome_Cs:orange1.1g002706m
+Q2QNS6	Phytozome_Cs:orange1.1g001071m
+Q2QPI2	Phytozome_Cs:orange1.1g008446m Phytozome_Cs:orange1.1g008481m Phytozome_Cs:orange1.1g008309m
+Q2QPR0	Phytozome_Cs:orange1.1g005031m Phytozome_Cs:orange1.1g037382m Phytozome_Cs:orange1.1g004955m
+Q2QQJ5	Phytozome_Cs:orange1.1g004193m
+Q2QQX6	Phytozome_Cs:orange1.1g005618m Phytozome_Cs:orange1.1g008608m Phytozome_Cs:orange1.1g006544m Phytozome_Cs:orange1.1g004792m
+Q2QR54	Phytozome_Cs:orange1.1g036568m Phytozome_Cs:orange1.1g035666m Phytozome_Cs:orange1.1g031006m Phytozome_Cs:orange1.1g031288m
+Q2QRX6	Phytozome_Cs:orange1.1g010811m Phytozome_Cs:orange1.1g009747m Phytozome_Cs:orange1.1g010303m Phytozome_Cs:orange1.1g009746m Phytozome_Cs:orange1.1g009737m
+Q2QS13	Phytozome_Cs:orange1.1g011650m Phytozome_Cs:orange1.1g017997m Phytozome_Cs:orange1.1g011654m Phytozome_Cs:orange1.1g011641m
+Q2QS14	Phytozome_Cs:orange1.1g011650m Phytozome_Cs:orange1.1g017997m Phytozome_Cs:orange1.1g011654m Phytozome_Cs:orange1.1g011641m
+Q2QTJ1	Phytozome_Cs:orange1.1g030735m Phytozome_Cs:orange1.1g030738m Phytozome_Cs:orange1.1g029245m
+Q2QTL0	Phytozome_Cs:orange1.1g013131m
+Q2QTQ1	Phytozome_Cs:orange1.1g012718m Phytozome_Cs:orange1.1g017640m
+Q2QUG4	Phytozome_Cs:orange1.1g017331m Phytozome_Cs:orange1.1g016920m Phytozome_Cs:orange1.1g017189m
+Q2QUI0	Phytozome_Cs:orange1.1g008446m Phytozome_Cs:orange1.1g008481m Phytozome_Cs:orange1.1g008309m
+Q2QVC1	Phytozome_Cs:orange1.1g011097m
+Q2QWD0	Phytozome_Cs:orange1.1g024046m Phytozome_Cs:orange1.1g018405m Phytozome_Cs:orange1.1g018366m Phytozome_Cs:orange1.1g017495m Phytozome_Cs:orange1.1g018576m Phytozome_Cs:orange1.1g035738m Phytozome_Cs:orange1.1g046424m Phytozome_Cs:orange1.1g017595m Phytozome_Cs:orange1.1g018145m Phytozome_Cs:orange1.1g018681m Phytozome_Cs:orange1.1g044458m Phytozome_Cs:orange1.1g016366m
+Q2QWK9	Phytozome_Cs:orange1.1g010240m Phytozome_Cs:orange1.1g010260m Phytozome_Cs:orange1.1g010244m
+Q2QWV7	Phytozome_Cs:orange1.1g009502m
+Q2QX49	Phytozome_Cs:orange1.1g025005m Phytozome_Cs:orange1.1g038065m Phytozome_Cs:orange1.1g023512m Phytozome_Cs:orange1.1g041090m Phytozome_Cs:orange1.1g021709m Phytozome_Cs:orange1.1g024256m
+Q2QX58	Phytozome_Cs:orange1.1g009160m Phytozome_Cs:orange1.1g005874m
+Q2QXB1	Phytozome_Cs:orange1.1g013261m Phytozome_Cs:orange1.1g013208m
+Q2QXK5	Phytozome_Cs:orange1.1g044649m
+Q2QXL0	Phytozome_Cs:orange1.1g036039m
+Q2QXP0	Phytozome_Cs:orange1.1g012705m Phytozome_Cs:orange1.1g012077m
+Q2QXY1	Phytozome_Cs:orange1.1g017750m Phytozome_Cs:orange1.1g017772m
+Q2QXY9	Phytozome_Cs:orange1.1g007056m Phytozome_Cs:orange1.1g013498m Phytozome_Cs:orange1.1g013232m Phytozome_Cs:orange1.1g006969m
+Q2QXZ1	Phytozome_Cs:orange1.1g018242m
+Q2QY63	Phytozome_Cs:orange1.1g006659m
+Q2QYB7	Phytozome_Cs:orange1.1g040627m
+Q2QYW4	Phytozome_Cs:orange1.1g019885m Phytozome_Cs:orange1.1g012763m Phytozome_Cs:orange1.1g019864m Phytozome_Cs:orange1.1g025223m Phytozome_Cs:orange1.1g015238m Phytozome_Cs:orange1.1g019894m
+Q2QZ14	Phytozome_Cs:orange1.1g024309m
+Q2R0P3	Phytozome_Cs:orange1.1g021671m Phytozome_Cs:orange1.1g016254m Phytozome_Cs:orange1.1g021644m Phytozome_Cs:orange1.1g037958m
+Q2R1G8	Phytozome_Cs:orange1.1g048624m
+Q2R1L4	Phytozome_Cs:orange1.1g014147m Phytozome_Cs:orange1.1g013464m
+Q2R2W1	Phytozome_Cs:orange1.1g048754m
+Q2R2W2	Phytozome_Cs:orange1.1g024736m Phytozome_Cs:orange1.1g024714m
+Q2R2W8	Phytozome_Cs:orange1.1g045999m
+Q2R339	Phytozome_Cs:orange1.1g013306m Phytozome_Cs:orange1.1g013583m Phytozome_Cs:orange1.1g012086m Phytozome_Cs:orange1.1g012107m Phytozome_Cs:orange1.1g015697m Phytozome_Cs:orange1.1g013473m Phytozome_Cs:orange1.1g012204m Phytozome_Cs:orange1.1g012206m Phytozome_Cs:orange1.1g012073m Phytozome_Cs:orange1.1g012232m
+Q2R3A1	Phytozome_Cs:orange1.1g016330m
+Q2R3F5	Phytozome_Cs:orange1.1g005618m Phytozome_Cs:orange1.1g008608m Phytozome_Cs:orange1.1g006544m Phytozome_Cs:orange1.1g004792m
+Q2R3K3	Phytozome_Cs:orange1.1g040324m Phytozome_Cs:orange1.1g046230m
+Q2R3K5	Phytozome_Cs:orange1.1g007912m Phytozome_Cs:orange1.1g008051m Phytozome_Cs:orange1.1g008325m
+Q2R3Y4	Phytozome_Cs:orange1.1g025005m Phytozome_Cs:orange1.1g038065m Phytozome_Cs:orange1.1g023512m Phytozome_Cs:orange1.1g041090m Phytozome_Cs:orange1.1g021709m Phytozome_Cs:orange1.1g024256m
+Q2R432	Phytozome_Cs:orange1.1g030050m Phytozome_Cs:orange1.1g043122m Phytozome_Cs:orange1.1g031298m
+Q2R481	Phytozome_Cs:orange1.1g010811m Phytozome_Cs:orange1.1g009747m Phytozome_Cs:orange1.1g010303m Phytozome_Cs:orange1.1g009746m Phytozome_Cs:orange1.1g009737m
+Q2R8T7	Phytozome_Cs:orange1.1g043436m
+Q2RA11	Phytozome_Cs:orange1.1g025005m Phytozome_Cs:orange1.1g038065m Phytozome_Cs:orange1.1g023512m Phytozome_Cs:orange1.1g041090m Phytozome_Cs:orange1.1g021709m Phytozome_Cs:orange1.1g024256m
+Q2RAM8	Phytozome_Cs:orange1.1g041902m Phytozome_Cs:orange1.1g036740m
+Q2RAP0	Phytozome_Cs:orange1.1g017750m Phytozome_Cs:orange1.1g017772m
+Q2RAP4	Phytozome_Cs:orange1.1g019827m Phytozome_Cs:orange1.1g012019m Phytozome_Cs:orange1.1g015580m Phytozome_Cs:orange1.1g011522m Phytozome_Cs:orange1.1g016674m Phytozome_Cs:orange1.1g025228m
+Q2RAP8	Phytozome_Cs:orange1.1g007056m Phytozome_Cs:orange1.1g013498m Phytozome_Cs:orange1.1g013232m Phytozome_Cs:orange1.1g006969m
+Q2RAP9	Phytozome_Cs:orange1.1g018242m
+Q2RAW4	Phytozome_Cs:orange1.1g011424m Phytozome_Cs:orange1.1g015847m Phytozome_Cs:orange1.1g011409m Phytozome_Cs:orange1.1g041273m Phytozome_Cs:orange1.1g014682m Phytozome_Cs:orange1.1g015396m Phytozome_Cs:orange1.1g011783m Phytozome_Cs:orange1.1g017429m Phytozome_Cs:orange1.1g014699m Phytozome_Cs:orange1.1g013991m Phytozome_Cs:orange1.1g011422m Phytozome_Cs:orange1.1g011997m Phytozome_Cs:orange1.1g018727m Phytozome_Cs:orange1.1g013453m Phytozome_Cs:orange1.1g014686m
+Q2RAW8	Phytozome_Cs:orange1.1g011424m Phytozome_Cs:orange1.1g015847m Phytozome_Cs:orange1.1g011409m Phytozome_Cs:orange1.1g041273m Phytozome_Cs:orange1.1g014682m Phytozome_Cs:orange1.1g015396m Phytozome_Cs:orange1.1g011783m Phytozome_Cs:orange1.1g017429m Phytozome_Cs:orange1.1g014699m Phytozome_Cs:orange1.1g013991m Phytozome_Cs:orange1.1g011422m Phytozome_Cs:orange1.1g011997m Phytozome_Cs:orange1.1g018727m Phytozome_Cs:orange1.1g013453m Phytozome_Cs:orange1.1g014686m
+Q2RAY0	Phytozome_Cs:orange1.1g006659m
+Q2RB02	Phytozome_Cs:orange1.1g046554m Phytozome_Cs:orange1.1g041236m Phytozome_Cs:orange1.1g046476m Phytozome_Cs:orange1.1g016365m Phytozome_Cs:orange1.1g038047m Phytozome_Cs:orange1.1g016419m Phytozome_Cs:orange1.1g017140m Phytozome_Cs:orange1.1g043101m Phytozome_Cs:orange1.1g042114m
+Q2RB23	Phytozome_Cs:orange1.1g040627m
+Q2RBN0	Phytozome_Cs:orange1.1g026029m Phytozome_Cs:orange1.1g022935m Phytozome_Cs:orange1.1g025315m
+Q2RBP2	Phytozome_Cs:orange1.1g002758m Phytozome_Cs:orange1.1g005186m Phytozome_Cs:orange1.1g001355m
+Q2V0P1	Phytozome_Cs:orange1.1g036452m Phytozome_Cs:orange1.1g041834m
+Q336M7	Phytozome_Cs:orange1.1g037622m
+Q336N7	Phytozome_Cs:orange1.1g024881m Phytozome_Cs:orange1.1g016486m Phytozome_Cs:orange1.1g019172m
+Q336R6	Phytozome_Cs:orange1.1g029318m Phytozome_Cs:orange1.1g029292m Phytozome_Cs:orange1.1g023888m Phytozome_Cs:orange1.1g026677m Phytozome_Cs:orange1.1g026009m Phytozome_Cs:orange1.1g037001m Phytozome_Cs:orange1.1g025330m Phytozome_Cs:orange1.1g025636m Phytozome_Cs:orange1.1g023046m
+Q336U3	Phytozome_Cs:orange1.1g042033m
+Q336V3	Phytozome_Cs:orange1.1g009065m Phytozome_Cs:orange1.1g010879m Phytozome_Cs:orange1.1g010410m Phytozome_Cs:orange1.1g008564m Phytozome_Cs:orange1.1g009087m
+Q336X9	Phytozome_Cs:orange1.1g019728m Phytozome_Cs:orange1.1g017083m Phytozome_Cs:orange1.1g021181m Phytozome_Cs:orange1.1g017231m
+Q337F0	Phytozome_Cs:orange1.1g007939m Phytozome_Cs:orange1.1g007499m Phytozome_Cs:orange1.1g007456m Phytozome_Cs:orange1.1g013638m Phytozome_Cs:orange1.1g011618m Phytozome_Cs:orange1.1g009519m
+Q337F3	Phytozome_Cs:orange1.1g048728m
+Q337H3	Phytozome_Cs:orange1.1g018977m Phytozome_Cs:orange1.1g028090m Phytozome_Cs:orange1.1g028105m Phytozome_Cs:orange1.1g028087m Phytozome_Cs:orange1.1g024829m
+Q338J0	Phytozome_Cs:orange1.1g010842m Phytozome_Cs:orange1.1g041829m
+Q338N8	Phytozome_Cs:orange1.1g009517m Phytozome_Cs:orange1.1g013892m
+Q338Z4	Phytozome_Cs:orange1.1g036952m
+Q339V1	Phytozome_Cs:orange1.1g045151m
+Q33AE4	Phytozome_Cs:orange1.1g006678m
+Q40704	Phytozome_Cs:orange1.1g036452m Phytozome_Cs:orange1.1g041834m
+Q40710	Phytozome_Cs:orange1.1g020230m Phytozome_Cs:orange1.1g041855m
+Q42971	Phytozome_Cs:orange1.1g013317m Phytozome_Cs:orange1.1g043137m
+Q42982	Phytozome_Cs:orange1.1g009077m Phytozome_Cs:orange1.1g010425m Phytozome_Cs:orange1.1g014952m Phytozome_Cs:orange1.1g042783m
+Q43007	Phytozome_Cs:orange1.1g004579m
+Q43009	Phytozome_Cs:orange1.1g003646m Phytozome_Cs:orange1.1g003657m Phytozome_Cs:orange1.1g003661m Phytozome_Cs:orange1.1g003656m Phytozome_Cs:orange1.1g003655m Phytozome_Cs:orange1.1g005365m Phytozome_Cs:orange1.1g003962m Phytozome_Cs:orange1.1g003652m Phytozome_Cs:orange1.1g003647m
+Q43011	Phytozome_Cs:orange1.1g011133m Phytozome_Cs:orange1.1g014715m Phytozome_Cs:orange1.1g011115m Phytozome_Cs:orange1.1g010213m Phytozome_Cs:orange1.1g012824m Phytozome_Cs:orange1.1g012773m Phytozome_Cs:orange1.1g011948m Phytozome_Cs:orange1.1g007799m
+Q4W8D0	Phytozome_Cs:orange1.1g018434m Phytozome_Cs:orange1.1g018391m
+Q52QH4	Phytozome_Cs:orange1.1g021910m Phytozome_Cs:orange1.1g025667m Phytozome_Cs:orange1.1g030927m Phytozome_Cs:orange1.1g025156m Phytozome_Cs:orange1.1g027957m Phytozome_Cs:orange1.1g023190m
+Q52RG7	Phytozome_Cs:orange1.1g009181m Phytozome_Cs:orange1.1g013675m
+Q53JI9	Phytozome_Cs:orange1.1g001705m
+Q53JP2	Phytozome_Cs:orange1.1g018097m Phytozome_Cs:orange1.1g017934m
+Q53KL7	Phytozome_Cs:orange1.1g034468m
+Q53L28	Phytozome_Cs:orange1.1g012043m Phytozome_Cs:orange1.1g011491m Phytozome_Cs:orange1.1g018896m Phytozome_Cs:orange1.1g013068m
+Q53M09	Phytozome_Cs:orange1.1g028226m Phytozome_Cs:orange1.1g027737m Phytozome_Cs:orange1.1g029374m Phytozome_Cs:orange1.1g030456m Phytozome_Cs:orange1.1g028190m Phytozome_Cs:orange1.1g029352m Phytozome_Cs:orange1.1g030554m Phytozome_Cs:orange1.1g028170m Phytozome_Cs:orange1.1g028193m Phytozome_Cs:orange1.1g028176m
+Q53MS9	Phytozome_Cs:orange1.1g028736m Phytozome_Cs:orange1.1g028944m
+Q53MU1	Phytozome_Cs:orange1.1g043877m Phytozome_Cs:orange1.1g034929m
+Q53MU8	Phytozome_Cs:orange1.1g035253m Phytozome_Cs:orange1.1g035258m
+Q53NW6	Phytozome_Cs:orange1.1g005031m Phytozome_Cs:orange1.1g037382m Phytozome_Cs:orange1.1g004955m
+Q53P49	Phytozome_Cs:orange1.1g007815m Phytozome_Cs:orange1.1g008062m Phytozome_Cs:orange1.1g015118m Phytozome_Cs:orange1.1g012409m Phytozome_Cs:orange1.1g007464m Phytozome_Cs:orange1.1g008068m Phytozome_Cs:orange1.1g015052m
+Q53QJ0	Phytozome_Cs:orange1.1g022986m Phytozome_Cs:orange1.1g022857m Phytozome_Cs:orange1.1g028017m
+Q53RH0	Phytozome_Cs:orange1.1g005974m Phytozome_Cs:orange1.1g007434m Phytozome_Cs:orange1.1g010124m Phytozome_Cs:orange1.1g006704m Phytozome_Cs:orange1.1g012575m Phytozome_Cs:orange1.1g006706m Phytozome_Cs:orange1.1g010147m Phytozome_Cs:orange1.1g006701m Phytozome_Cs:orange1.1g004636m Phytozome_Cs:orange1.1g008718m Phytozome_Cs:orange1.1g005591m Phytozome_Cs:orange1.1g008720m
+Q5CCK1	Phytozome_Cs:orange1.1g019827m Phytozome_Cs:orange1.1g012019m Phytozome_Cs:orange1.1g015580m Phytozome_Cs:orange1.1g011522m Phytozome_Cs:orange1.1g016674m Phytozome_Cs:orange1.1g025228m
+Q5CCK3	Phytozome_Cs:orange1.1g018520m
+Q5JJV0	Phytozome_Cs:orange1.1g018161m Phytozome_Cs:orange1.1g013412m Phytozome_Cs:orange1.1g014058m Phytozome_Cs:orange1.1g007857m
+Q5JK18	Phytozome_Cs:orange1.1g012808m Phytozome_Cs:orange1.1g008621m Phytozome_Cs:orange1.1g008693m
+Q5JK20	Phytozome_Cs:orange1.1g005618m Phytozome_Cs:orange1.1g008608m Phytozome_Cs:orange1.1g006544m Phytozome_Cs:orange1.1g004792m
+Q5JK39	Phytozome_Cs:orange1.1g040324m Phytozome_Cs:orange1.1g046230m
+Q5JLS4	Phytozome_Cs:orange1.1g014818m Phytozome_Cs:orange1.1g024169m Phytozome_Cs:orange1.1g019084m Phytozome_Cs:orange1.1g021288m Phytozome_Cs:orange1.1g021971m Phytozome_Cs:orange1.1g015714m Phytozome_Cs:orange1.1g014790m
+Q5JMA1	Phytozome_Cs:orange1.1g004879m Phytozome_Cs:orange1.1g002589m Phytozome_Cs:orange1.1g002628m Phytozome_Cs:orange1.1g003536m Phytozome_Cs:orange1.1g005005m
+Q5JMA6	Phytozome_Cs:orange1.1g040779m
+Q5JMB6	Phytozome_Cs:orange1.1g018207m Phytozome_Cs:orange1.1g017951m
+Q5JME6	Phytozome_Cs:orange1.1g014757m Phytozome_Cs:orange1.1g014739m
+Q5JMX5	Phytozome_Cs:orange1.1g024872m Phytozome_Cs:orange1.1g016179m
+Q5JMX9	Phytozome_Cs:orange1.1g016043m Phytozome_Cs:orange1.1g016290m
+Q5JN42	Phytozome_Cs:orange1.1g008959m Phytozome_Cs:orange1.1g007303m Phytozome_Cs:orange1.1g008313m Phytozome_Cs:orange1.1g015462m
+Q5JN63	Phytozome_Cs:orange1.1g002020m
+Q5JNS0	Phytozome_Cs:orange1.1g043851m
+Q5MBR3	Phytozome_Cs:orange1.1g007291m Phytozome_Cs:orange1.1g007379m
+Q5MBR5	Phytozome_Cs:orange1.1g007291m Phytozome_Cs:orange1.1g007379m
+Q5N725	Phytozome_Cs:orange1.1g018326m
+Q5N7C7	Phytozome_Cs:orange1.1g036039m
+Q5N7L0	Phytozome_Cs:orange1.1g019312m
+Q5N7Z8	Phytozome_Cs:orange1.1g010565m Phytozome_Cs:orange1.1g013579m Phytozome_Cs:orange1.1g010638m Phytozome_Cs:orange1.1g010346m Phytozome_Cs:orange1.1g046534m
+Q5N8G1	Phytozome_Cs:orange1.1g028320m Phytozome_Cs:orange1.1g028081m Phytozome_Cs:orange1.1g027082m Phytozome_Cs:orange1.1g022657m
+Q5N8H9	Phytozome_Cs:orange1.1g009299m Phytozome_Cs:orange1.1g008995m
+Q5N8Q3	Phytozome_Cs:orange1.1g018363m Phytozome_Cs:orange1.1g018354m Phytozome_Cs:orange1.1g021953m Phytozome_Cs:orange1.1g018840m Phytozome_Cs:orange1.1g014425m
+Q5N9N2	Phytozome_Cs:orange1.1g015135m Phytozome_Cs:orange1.1g036852m
+Q5N9Z8	Phytozome_Cs:orange1.1g014172m Phytozome_Cs:orange1.1g012095m Phytozome_Cs:orange1.1g012124m Phytozome_Cs:orange1.1g018665m
+Q5NA81	Phytozome_Cs:orange1.1g048287m
+Q5NAY4	Phytozome_Cs:orange1.1g013679m Phytozome_Cs:orange1.1g011437m Phytozome_Cs:orange1.1g016315m Phytozome_Cs:orange1.1g011404m Phytozome_Cs:orange1.1g011411m
+Q5NAZ7	Phytozome_Cs:orange1.1g007815m Phytozome_Cs:orange1.1g008062m Phytozome_Cs:orange1.1g015118m Phytozome_Cs:orange1.1g012409m Phytozome_Cs:orange1.1g007464m Phytozome_Cs:orange1.1g008068m Phytozome_Cs:orange1.1g015052m
+Q5NB25	Phytozome_Cs:orange1.1g017865m Phytozome_Cs:orange1.1g017830m Phytozome_Cs:orange1.1g017828m Phytozome_Cs:orange1.1g017807m Phytozome_Cs:orange1.1g022747m Phytozome_Cs:orange1.1g028379m Phytozome_Cs:orange1.1g029427m Phytozome_Cs:orange1.1g017871m Phytozome_Cs:orange1.1g019236m Phytozome_Cs:orange1.1g022618m Phytozome_Cs:orange1.1g019963m Phytozome_Cs:orange1.1g023039m Phytozome_Cs:orange1.1g017803m Phytozome_Cs:orange1.1g017809m Phytozome_Cs:orange1.1g017824m Phytozome_Cs:orange1.1g017170m
+Q5NBQ1	Phytozome_Cs:orange1.1g023734m Phytozome_Cs:orange1.1g029236m Phytozome_Cs:orange1.1g023745m Phytozome_Cs:orange1.1g028044m
+Q5NBT9	Phytozome_Cs:orange1.1g001790m Phytozome_Cs:orange1.1g001178m Phytozome_Cs:orange1.1g001190m Phytozome_Cs:orange1.1g001319m Phytozome_Cs:orange1.1g001343m Phytozome_Cs:orange1.1g001184m Phytozome_Cs:orange1.1g002264m Phytozome_Cs:orange1.1g001535m
+Q5NTH3	Phytozome_Cs:orange1.1g025114m Phytozome_Cs:orange1.1g029455m
+Q5NTH4	Phytozome_Cs:orange1.1g025114m Phytozome_Cs:orange1.1g029455m
+Q5QN02	Phytozome_Cs:orange1.1g013729m Phytozome_Cs:orange1.1g013695m Phytozome_Cs:orange1.1g013661m Phytozome_Cs:orange1.1g013701m
+Q5SMQ9	Phytozome_Cs:orange1.1g048649m Phytozome_Cs:orange1.1g041574m Phytozome_Cs:orange1.1g041301m Phytozome_Cs:orange1.1g006674m Phytozome_Cs:orange1.1g010956m Phytozome_Cs:orange1.1g007022m Phytozome_Cs:orange1.1g035534m Phytozome_Cs:orange1.1g007019m Phytozome_Cs:orange1.1g009681m Phytozome_Cs:orange1.1g006199m Phytozome_Cs:orange1.1g007418m
+Q5SMY2	Phytozome_Cs:orange1.1g008017m Phytozome_Cs:orange1.1g007898m Phytozome_Cs:orange1.1g014855m Phytozome_Cs:orange1.1g010863m Phytozome_Cs:orange1.1g008724m
+Q5SND7	Phytozome_Cs:orange1.1g025942m Phytozome_Cs:orange1.1g022020m Phytozome_Cs:orange1.1g025939m Phytozome_Cs:orange1.1g023508m Phytozome_Cs:orange1.1g019965m Phytozome_Cs:orange1.1g024761m Phytozome_Cs:orange1.1g025932m Phytozome_Cs:orange1.1g023549m Phytozome_Cs:orange1.1g019778m
+Q5U9F2	Phytozome_Cs:orange1.1g031789m
+Q5VMP0	Phytozome_Cs:orange1.1g044164m Phytozome_Cs:orange1.1g038791m Phytozome_Cs:orange1.1g039096m
+Q5VMP2	Phytozome_Cs:orange1.1g032783m Phytozome_Cs:orange1.1g032753m
+Q5VN31	Phytozome_Cs:orange1.1g002609m
+Q5VNP5	Phytozome_Cs:orange1.1g020916m
+Q5VNW0	Phytozome_Cs:orange1.1g011947m Phytozome_Cs:orange1.1g014155m Phytozome_Cs:orange1.1g021126m Phytozome_Cs:orange1.1g010070m
+Q5VP70	Phytozome_Cs:orange1.1g048649m Phytozome_Cs:orange1.1g041574m Phytozome_Cs:orange1.1g041301m Phytozome_Cs:orange1.1g006674m Phytozome_Cs:orange1.1g010956m Phytozome_Cs:orange1.1g007022m Phytozome_Cs:orange1.1g035534m Phytozome_Cs:orange1.1g007019m Phytozome_Cs:orange1.1g009681m Phytozome_Cs:orange1.1g006199m Phytozome_Cs:orange1.1g007418m
+Q5VPH2	Phytozome_Cs:orange1.1g022914m
+Q5VQG4	Phytozome_Cs:orange1.1g011675m Phytozome_Cs:orange1.1g003471m Phytozome_Cs:orange1.1g006552m Phytozome_Cs:orange1.1g004032m Phytozome_Cs:orange1.1g003897m
+Q5VQG8	Phytozome_Cs:orange1.1g018172m Phytozome_Cs:orange1.1g012785m
+Q5VRB9	Phytozome_Cs:orange1.1g016069m Phytozome_Cs:orange1.1g020533m Phytozome_Cs:orange1.1g022626m Phytozome_Cs:orange1.1g039923m Phytozome_Cs:orange1.1g016519m Phytozome_Cs:orange1.1g022090m Phytozome_Cs:orange1.1g025254m Phytozome_Cs:orange1.1g016088m Phytozome_Cs:orange1.1g022182m
+Q5VRH4	Phytozome_Cs:orange1.1g011768m Phytozome_Cs:orange1.1g019943m Phytozome_Cs:orange1.1g011934m
+Q5VRR0	Phytozome_Cs:orange1.1g025967m Phytozome_Cs:orange1.1g023769m Phytozome_Cs:orange1.1g024991m
+Q5VSB8	Phytozome_Cs:orange1.1g004946m Phytozome_Cs:orange1.1g004968m Phytozome_Cs:orange1.1g007443m
+Q5W670	Phytozome_Cs:orange1.1g025433m Phytozome_Cs:orange1.1g023966m Phytozome_Cs:orange1.1g020493m Phytozome_Cs:orange1.1g025406m Phytozome_Cs:orange1.1g022921m Phytozome_Cs:orange1.1g020479m
+Q5W6F1	Phytozome_Cs:orange1.1g012770m
+Q5W6F9	Phytozome_Cs:orange1.1g046900m
+Q5W6H5	Phytozome_Cs:orange1.1g021301m Phytozome_Cs:orange1.1g022848m Phytozome_Cs:orange1.1g017282m Phytozome_Cs:orange1.1g017603m
+Q5W6W7	Phytozome_Cs:orange1.1g004961m Phytozome_Cs:orange1.1g006354m Phytozome_Cs:orange1.1g004977m Phytozome_Cs:orange1.1g008134m Phytozome_Cs:orange1.1g004982m Phytozome_Cs:orange1.1g004568m
+Q5XLJ2	Phytozome_Cs:orange1.1g013306m Phytozome_Cs:orange1.1g013583m Phytozome_Cs:orange1.1g012086m Phytozome_Cs:orange1.1g012107m Phytozome_Cs:orange1.1g015697m Phytozome_Cs:orange1.1g013473m Phytozome_Cs:orange1.1g012204m Phytozome_Cs:orange1.1g012206m Phytozome_Cs:orange1.1g012073m Phytozome_Cs:orange1.1g012232m
+Q5Z5B7	Phytozome_Cs:orange1.1g044623m
+Q5Z5R4	Phytozome_Cs:orange1.1g010097m
+Q5Z5R7	Phytozome_Cs:orange1.1g010097m
+Q5Z678	Phytozome_Cs:orange1.1g011730m Phytozome_Cs:orange1.1g019753m Phytozome_Cs:orange1.1g011407m Phytozome_Cs:orange1.1g017084m
+Q5Z6D3	Phytozome_Cs:orange1.1g006113m Phytozome_Cs:orange1.1g007236m Phytozome_Cs:orange1.1g006970m Phytozome_Cs:orange1.1g005872m Phytozome_Cs:orange1.1g040402m Phytozome_Cs:orange1.1g006052m Phytozome_Cs:orange1.1g006085m
+Q5Z6E5	Phytozome_Cs:orange1.1g036064m
+Q5Z749	Phytozome_Cs:orange1.1g017865m Phytozome_Cs:orange1.1g017830m Phytozome_Cs:orange1.1g017828m Phytozome_Cs:orange1.1g017807m Phytozome_Cs:orange1.1g022747m Phytozome_Cs:orange1.1g028379m Phytozome_Cs:orange1.1g029427m Phytozome_Cs:orange1.1g017871m Phytozome_Cs:orange1.1g019236m Phytozome_Cs:orange1.1g022618m Phytozome_Cs:orange1.1g019963m Phytozome_Cs:orange1.1g023039m Phytozome_Cs:orange1.1g017803m Phytozome_Cs:orange1.1g017809m Phytozome_Cs:orange1.1g017824m Phytozome_Cs:orange1.1g017170m
+Q5Z7R3	Phytozome_Cs:orange1.1g019298m Phytozome_Cs:orange1.1g014936m
+Q5Z807	Phytozome_Cs:orange1.1g041494m
+Q5Z856	Phytozome_Cs:orange1.1g044177m
+Q5Z8K3	Phytozome_Cs:orange1.1g042793m
+Q5Z8S0	Phytozome_Cs:orange1.1g046697m Phytozome_Cs:orange1.1g047053m
+Q5Z8T3	Phytozome_Cs:orange1.1g024774m Phytozome_Cs:orange1.1g026080m Phytozome_Cs:orange1.1g046235m Phytozome_Cs:orange1.1g021203m Phytozome_Cs:orange1.1g022006m Phytozome_Cs:orange1.1g021944m
+Q5Z8V9	Phytozome_Cs:orange1.1g020319m Phytozome_Cs:orange1.1g014237m Phytozome_Cs:orange1.1g013861m Phytozome_Cs:orange1.1g014017m Phytozome_Cs:orange1.1g014234m
+Q5Z8Y4	Phytozome_Cs:orange1.1g007115m Phytozome_Cs:orange1.1g006297m Phytozome_Cs:orange1.1g007727m Phytozome_Cs:orange1.1g007751m Phytozome_Cs:orange1.1g012230m Phytozome_Cs:orange1.1g009878m Phytozome_Cs:orange1.1g006923m
+Q5Z8Z7	Phytozome_Cs:orange1.1g012535m Phytozome_Cs:orange1.1g015363m Phytozome_Cs:orange1.1g010206m Phytozome_Cs:orange1.1g010287m Phytozome_Cs:orange1.1g015390m Phytozome_Cs:orange1.1g011257m Phytozome_Cs:orange1.1g043890m Phytozome_Cs:orange1.1g010256m
+Q5ZCV1	Phytozome_Cs:orange1.1g009615m Phytozome_Cs:orange1.1g007151m Phytozome_Cs:orange1.1g014691m Phytozome_Cs:orange1.1g011136m Phytozome_Cs:orange1.1g012352m Phytozome_Cs:orange1.1g009464m
+Q5ZED1	Phytozome_Cs:orange1.1g043518m
+Q5ZEL4	Phytozome_Cs:orange1.1g013626m Phytozome_Cs:orange1.1g041985m Phytozome_Cs:orange1.1g022503m Phytozome_Cs:orange1.1g026317m Phytozome_Cs:orange1.1g014583m Phytozome_Cs:orange1.1g022844m Phytozome_Cs:orange1.1g020535m Phytozome_Cs:orange1.1g017183m Phytozome_Cs:orange1.1g021675m Phytozome_Cs:orange1.1g017765m
+Q60EI7	Phytozome_Cs:orange1.1g021404m Phytozome_Cs:orange1.1g025855m Phytozome_Cs:orange1.1g016806m Phytozome_Cs:orange1.1g027761m Phytozome_Cs:orange1.1g025883m Phytozome_Cs:orange1.1g016832m
+Q60EX6	Phytozome_Cs:orange1.1g002740m Phytozome_Cs:orange1.1g005755m Phytozome_Cs:orange1.1g003562m Phytozome_Cs:orange1.1g002749m Phytozome_Cs:orange1.1g004569m Phytozome_Cs:orange1.1g011903m Phytozome_Cs:orange1.1g002713m Phytozome_Cs:orange1.1g003577m Phytozome_Cs:orange1.1g006410m Phytozome_Cs:orange1.1g004198m
+Q60EY1	Phytozome_Cs:orange1.1g009765m Phytozome_Cs:orange1.1g014974m Phytozome_Cs:orange1.1g008073m Phytozome_Cs:orange1.1g011497m
+Q64MA9	Phytozome_Cs:orange1.1g018518m Phytozome_Cs:orange1.1g012909m Phytozome_Cs:orange1.1g013297m Phytozome_Cs:orange1.1g012353m Phytozome_Cs:orange1.1g018515m Phytozome_Cs:orange1.1g012273m Phytozome_Cs:orange1.1g012253m
+Q650W1	Phytozome_Cs:orange1.1g014547m
+Q651F0	Phytozome_Cs:orange1.1g023156m Phytozome_Cs:orange1.1g017815m Phytozome_Cs:orange1.1g023154m Phytozome_Cs:orange1.1g013271m
+Q652A8	Phytozome_Cs:orange1.1g019795m
+Q652S1	Phytozome_Cs:orange1.1g001973m
+Q653D9	Phytozome_Cs:orange1.1g032783m Phytozome_Cs:orange1.1g032753m
+Q653F4	Phytozome_Cs:orange1.1g010452m Phytozome_Cs:orange1.1g013985m
+Q653H7	Phytozome_Cs:orange1.1g004898m Phytozome_Cs:orange1.1g004896m Phytozome_Cs:orange1.1g005799m Phytozome_Cs:orange1.1g005296m Phytozome_Cs:orange1.1g005075m Phytozome_Cs:orange1.1g005482m
+Q653T6	Phytozome_Cs:orange1.1g016097m Phytozome_Cs:orange1.1g014640m Phytozome_Cs:orange1.1g014276m Phytozome_Cs:orange1.1g014378m Phytozome_Cs:orange1.1g020765m Phytozome_Cs:orange1.1g020782m Phytozome_Cs:orange1.1g018980m Phytozome_Cs:orange1.1g024463m Phytozome_Cs:orange1.1g020763m Phytozome_Cs:orange1.1g029266m Phytozome_Cs:orange1.1g018156m Phytozome_Cs:orange1.1g014738m Phytozome_Cs:orange1.1g020685m Phytozome_Cs:orange1.1g020818m
+Q653U3	Phytozome_Cs:orange1.1g003286m Phytozome_Cs:orange1.1g003505m Phytozome_Cs:orange1.1g002624m Phytozome_Cs:orange1.1g002737m Phytozome_Cs:orange1.1g003298m Phytozome_Cs:orange1.1g003506m Phytozome_Cs:orange1.1g002629m Phytozome_Cs:orange1.1g002390m Phytozome_Cs:orange1.1g002650m
+Q655T1	Phytozome_Cs:orange1.1g040813m
+Q655W2	Phytozome_Cs:orange1.1g016451m Phytozome_Cs:orange1.1g014424m Phytozome_Cs:orange1.1g019933m
+Q656F1	Phytozome_Cs:orange1.1g009445m Phytozome_Cs:orange1.1g010488m
+Q657X7	Phytozome_Cs:orange1.1g009454m Phytozome_Cs:orange1.1g027723m Phytozome_Cs:orange1.1g025504m Phytozome_Cs:orange1.1g013815m
+Q65X14	Phytozome_Cs:orange1.1g002285m Phytozome_Cs:orange1.1g003508m Phytozome_Cs:orange1.1g005855m Phytozome_Cs:orange1.1g002314m Phytozome_Cs:orange1.1g003029m Phytozome_Cs:orange1.1g002468m Phytozome_Cs:orange1.1g003145m
+Q65X70	Phytozome_Cs:orange1.1g022050m Phytozome_Cs:orange1.1g012349m Phytozome_Cs:orange1.1g042202m Phytozome_Cs:orange1.1g012547m Phytozome_Cs:orange1.1g019978m
+Q65XC6	Phytozome_Cs:orange1.1g016069m Phytozome_Cs:orange1.1g020533m Phytozome_Cs:orange1.1g022626m Phytozome_Cs:orange1.1g039923m Phytozome_Cs:orange1.1g016519m Phytozome_Cs:orange1.1g022090m Phytozome_Cs:orange1.1g025254m Phytozome_Cs:orange1.1g016088m Phytozome_Cs:orange1.1g022182m
+Q65XK0	Phytozome_Cs:orange1.1g007987m Phytozome_Cs:orange1.1g012479m Phytozome_Cs:orange1.1g007951m Phytozome_Cs:orange1.1g013877m Phytozome_Cs:orange1.1g014863m
+Q65XM9	Phytozome_Cs:orange1.1g025823m Phytozome_Cs:orange1.1g019339m
+Q65XR9	Phytozome_Cs:orange1.1g004579m
+Q67TQ5	Phytozome_Cs:orange1.1g013223m Phytozome_Cs:orange1.1g014831m Phytozome_Cs:orange1.1g021146m Phytozome_Cs:orange1.1g013713m Phytozome_Cs:orange1.1g013754m Phytozome_Cs:orange1.1g013197m Phytozome_Cs:orange1.1g014865m Phytozome_Cs:orange1.1g021098m
+Q67TS1	Phytozome_Cs:orange1.1g036900m
+Q67TS4	Phytozome_Cs:orange1.1g036900m
+Q67TZ7	Phytozome_Cs:orange1.1g009137m Phytozome_Cs:orange1.1g010030m Phytozome_Cs:orange1.1g039620m Phytozome_Cs:orange1.1g008917m Phytozome_Cs:orange1.1g009398m Phytozome_Cs:orange1.1g019688m
+Q67UL3	Phytozome_Cs:orange1.1g048649m Phytozome_Cs:orange1.1g041574m Phytozome_Cs:orange1.1g041301m Phytozome_Cs:orange1.1g006674m Phytozome_Cs:orange1.1g010956m Phytozome_Cs:orange1.1g007022m Phytozome_Cs:orange1.1g035534m Phytozome_Cs:orange1.1g007019m Phytozome_Cs:orange1.1g009681m Phytozome_Cs:orange1.1g006199m Phytozome_Cs:orange1.1g007418m
+Q67UX0	Phytozome_Cs:orange1.1g042793m
+Q67UZ8	Phytozome_Cs:orange1.1g016121m Phytozome_Cs:orange1.1g022275m Phytozome_Cs:orange1.1g015683m Phytozome_Cs:orange1.1g017533m Phytozome_Cs:orange1.1g021079m Phytozome_Cs:orange1.1g021105m
+Q67V61	Phytozome_Cs:orange1.1g040083m
+Q67VM1	Phytozome_Cs:orange1.1g045846m
+Q67VR7	Phytozome_Cs:orange1.1g019717m Phytozome_Cs:orange1.1g044975m Phytozome_Cs:orange1.1g019857m
+Q67W29	Phytozome_Cs:orange1.1g024671m Phytozome_Cs:orange1.1g028115m
+Q67W82	Phytozome_Cs:orange1.1g009077m Phytozome_Cs:orange1.1g010425m Phytozome_Cs:orange1.1g014952m Phytozome_Cs:orange1.1g042783m
+Q67WK8	Phytozome_Cs:orange1.1g024445m
+Q67WN8	Phytozome_Cs:orange1.1g001557m Phytozome_Cs:orange1.1g001541m Phytozome_Cs:orange1.1g002660m
+Q67WR2	Phytozome_Cs:orange1.1g020730m
+Q688L9	Phytozome_Cs:orange1.1g046900m
+Q688Q8	Phytozome_Cs:orange1.1g013008m Phytozome_Cs:orange1.1g012363m Phytozome_Cs:orange1.1g012368m
+Q688Q9	Phytozome_Cs:orange1.1g016072m Phytozome_Cs:orange1.1g011314m Phytozome_Cs:orange1.1g015997m Phytozome_Cs:orange1.1g014287m Phytozome_Cs:orange1.1g011318m Phytozome_Cs:orange1.1g010751m Phytozome_Cs:orange1.1g014295m Phytozome_Cs:orange1.1g011330m
+Q688T8	Phytozome_Cs:orange1.1g009817m Phytozome_Cs:orange1.1g018622m Phytozome_Cs:orange1.1g010922m Phytozome_Cs:orange1.1g009720m Phytozome_Cs:orange1.1g043870m Phytozome_Cs:orange1.1g010554m Phytozome_Cs:orange1.1g010874m
+Q688Y2	Phytozome_Cs:orange1.1g022555m Phytozome_Cs:orange1.1g023786m Phytozome_Cs:orange1.1g028257m Phytozome_Cs:orange1.1g028260m Phytozome_Cs:orange1.1g027992m Phytozome_Cs:orange1.1g028298m
+Q689G6	Phytozome_Cs:orange1.1g011208m Phytozome_Cs:orange1.1g011192m Phytozome_Cs:orange1.1g010665m Phytozome_Cs:orange1.1g009734m Phytozome_Cs:orange1.1g042954m Phytozome_Cs:orange1.1g005920m Phytozome_Cs:orange1.1g013244m Phytozome_Cs:orange1.1g017013m Phytozome_Cs:orange1.1g007462m Phytozome_Cs:orange1.1g011217m
+Q689G9	Phytozome_Cs:orange1.1g008761m Phytozome_Cs:orange1.1g008649m Phytozome_Cs:orange1.1g008655m Phytozome_Cs:orange1.1g018624m Phytozome_Cs:orange1.1g013329m
+Q69IM7	Phytozome_Cs:orange1.1g023284m
+Q69J27	Phytozome_Cs:orange1.1g038167m Phytozome_Cs:orange1.1g017611m
+Q69JI7	Phytozome_Cs:orange1.1g022171m Phytozome_Cs:orange1.1g019508m Phytozome_Cs:orange1.1g019960m Phytozome_Cs:orange1.1g020282m Phytozome_Cs:orange1.1g019485m Phytozome_Cs:orange1.1g020814m Phytozome_Cs:orange1.1g020774m
+Q69K00	Phytozome_Cs:orange1.1g024925m Phytozome_Cs:orange1.1g026249m Phytozome_Cs:orange1.1g026522m
+Q69KM5	Phytozome_Cs:orange1.1g043169m Phytozome_Cs:orange1.1g042406m Phytozome_Cs:orange1.1g015113m Phytozome_Cs:orange1.1g013602m
+Q69L93	Phytozome_Cs:orange1.1g024309m
+Q69LG7	Phytozome_Cs:orange1.1g020388m Phytozome_Cs:orange1.1g020431m Phytozome_Cs:orange1.1g023778m Phytozome_Cs:orange1.1g023782m Phytozome_Cs:orange1.1g020132m
+Q69M33	Phytozome_Cs:orange1.1g027637m
+Q69MC9	Phytozome_Cs:orange1.1g028092m Phytozome_Cs:orange1.1g028052m Phytozome_Cs:orange1.1g021901m Phytozome_Cs:orange1.1g030346m Phytozome_Cs:orange1.1g028073m Phytozome_Cs:orange1.1g027041m Phytozome_Cs:orange1.1g028103m Phytozome_Cs:orange1.1g028197m Phytozome_Cs:orange1.1g030581m Phytozome_Cs:orange1.1g030013m Phytozome_Cs:orange1.1g030363m
+Q69MH0	Phytozome_Cs:orange1.1g010083m
+Q69NY7	Phytozome_Cs:orange1.1g046141m
+Q69P51	Phytozome_Cs:orange1.1g001574m Phytozome_Cs:orange1.1g039678m Phytozome_Cs:orange1.1g001576m
+Q69P84	Phytozome_Cs:orange1.1g010518m Phytozome_Cs:orange1.1g013505m Phytozome_Cs:orange1.1g010511m Phytozome_Cs:orange1.1g010506m Phytozome_Cs:orange1.1g010520m
+Q69P94	Phytozome_Cs:orange1.1g023369m Phytozome_Cs:orange1.1g025735m Phytozome_Cs:orange1.1g028898m Phytozome_Cs:orange1.1g025991m
+Q69QD7	Phytozome_Cs:orange1.1g016788m
+Q69RG7	Phytozome_Cs:orange1.1g013780m Phytozome_Cs:orange1.1g019348m Phytozome_Cs:orange1.1g043601m Phytozome_Cs:orange1.1g013850m Phytozome_Cs:orange1.1g014435m
+Q69RJ0	Phytozome_Cs:orange1.1g000461m
+Q69T90	Phytozome_Cs:orange1.1g021170m Phytozome_Cs:orange1.1g023509m Phytozome_Cs:orange1.1g022400m Phytozome_Cs:orange1.1g017689m Phytozome_Cs:orange1.1g022402m Phytozome_Cs:orange1.1g023499m Phytozome_Cs:orange1.1g021582m Phytozome_Cs:orange1.1g023484m
+Q69T99	Phytozome_Cs:orange1.1g010006m Phytozome_Cs:orange1.1g017422m Phytozome_Cs:orange1.1g009971m
+Q69TF4	Phytozome_Cs:orange1.1g028187m Phytozome_Cs:orange1.1g028199m Phytozome_Cs:orange1.1g029085m
+Q69TH6	Phytozome_Cs:orange1.1g036028m Phytozome_Cs:orange1.1g037727m
+Q69TT1	Phytozome_Cs:orange1.1g021442m Phytozome_Cs:orange1.1g027073m Phytozome_Cs:orange1.1g029748m Phytozome_Cs:orange1.1g022948m
+Q69TV4	Phytozome_Cs:orange1.1g009137m Phytozome_Cs:orange1.1g010030m Phytozome_Cs:orange1.1g039620m Phytozome_Cs:orange1.1g008917m Phytozome_Cs:orange1.1g009398m Phytozome_Cs:orange1.1g019688m
+Q69TV6	Phytozome_Cs:orange1.1g009137m Phytozome_Cs:orange1.1g010030m Phytozome_Cs:orange1.1g039620m Phytozome_Cs:orange1.1g008917m Phytozome_Cs:orange1.1g009398m Phytozome_Cs:orange1.1g019688m
+Q69TV8	Phytozome_Cs:orange1.1g009137m Phytozome_Cs:orange1.1g010030m Phytozome_Cs:orange1.1g039620m Phytozome_Cs:orange1.1g008917m Phytozome_Cs:orange1.1g009398m Phytozome_Cs:orange1.1g019688m
+Q69TW5	Phytozome_Cs:orange1.1g013223m Phytozome_Cs:orange1.1g014831m Phytozome_Cs:orange1.1g021146m Phytozome_Cs:orange1.1g013713m Phytozome_Cs:orange1.1g013754m Phytozome_Cs:orange1.1g013197m Phytozome_Cs:orange1.1g014865m Phytozome_Cs:orange1.1g021098m
+Q69U01	Phytozome_Cs:orange1.1g019290m
+Q69U03	Phytozome_Cs:orange1.1g019290m
+Q69U04	Phytozome_Cs:orange1.1g019290m
+Q69U93	Phytozome_Cs:orange1.1g020848m Phytozome_Cs:orange1.1g022946m Phytozome_Cs:orange1.1g016605m Phytozome_Cs:orange1.1g016599m
+Q69UF5	Phytozome_Cs:orange1.1g041902m Phytozome_Cs:orange1.1g036740m
+Q69UU3	Phytozome_Cs:orange1.1g041151m
+Q69V57	Phytozome_Cs:orange1.1g018326m
+Q69XD3	Phytozome_Cs:orange1.1g041902m Phytozome_Cs:orange1.1g036740m
+Q69XJ0	Phytozome_Cs:orange1.1g022825m Phytozome_Cs:orange1.1g022798m
+Q69XS7	Phytozome_Cs:orange1.1g039623m Phytozome_Cs:orange1.1g021737m Phytozome_Cs:orange1.1g021596m
+Q6AT26	Phytozome_Cs:orange1.1g001529m Phytozome_Cs:orange1.1g001399m
+Q6AT32	Phytozome_Cs:orange1.1g013414m Phytozome_Cs:orange1.1g016052m Phytozome_Cs:orange1.1g016070m Phytozome_Cs:orange1.1g013438m
+Q6AT33	Phytozome_Cs:orange1.1g017865m Phytozome_Cs:orange1.1g017830m Phytozome_Cs:orange1.1g017828m Phytozome_Cs:orange1.1g017807m Phytozome_Cs:orange1.1g022747m Phytozome_Cs:orange1.1g028379m Phytozome_Cs:orange1.1g029427m Phytozome_Cs:orange1.1g017871m Phytozome_Cs:orange1.1g019236m Phytozome_Cs:orange1.1g022618m Phytozome_Cs:orange1.1g019963m Phytozome_Cs:orange1.1g023039m Phytozome_Cs:orange1.1g017803m Phytozome_Cs:orange1.1g017809m Phytozome_Cs:orange1.1g017824m Phytozome_Cs:orange1.1g017170m
+Q6AT41	Phytozome_Cs:orange1.1g010436m
+Q6AT43	Phytozome_Cs:orange1.1g027646m Phytozome_Cs:orange1.1g025084m
+Q6AT75	Phytozome_Cs:orange1.1g046079m
+Q6ATR2	Phytozome_Cs:orange1.1g039019m
+Q6AUB0	Phytozome_Cs:orange1.1g027372m Phytozome_Cs:orange1.1g022053m Phytozome_Cs:orange1.1g029516m Phytozome_Cs:orange1.1g027303m Phytozome_Cs:orange1.1g030138m Phytozome_Cs:orange1.1g029829m
+Q6AUJ8	Phytozome_Cs:orange1.1g044559m Phytozome_Cs:orange1.1g007917m Phytozome_Cs:orange1.1g007800m Phytozome_Cs:orange1.1g009060m
+Q6AUV1	Phytozome_Cs:orange1.1g000775m Phytozome_Cs:orange1.1g000807m Phytozome_Cs:orange1.1g001052m Phytozome_Cs:orange1.1g000805m Phytozome_Cs:orange1.1g000657m
+Q6AV34	Phytozome_Cs:orange1.1g015441m Phytozome_Cs:orange1.1g021865m
+Q6AVG6	Phytozome_Cs:orange1.1g016939m Phytozome_Cs:orange1.1g019556m Phytozome_Cs:orange1.1g026546m Phytozome_Cs:orange1.1g022297m Phytozome_Cs:orange1.1g016960m Phytozome_Cs:orange1.1g017886m Phytozome_Cs:orange1.1g017615m Phytozome_Cs:orange1.1g018062m
+Q6AVM5	Phytozome_Cs:orange1.1g020697m Phytozome_Cs:orange1.1g021853m
+Q6AVT2	Phytozome_Cs:orange1.1g018109m Phytozome_Cs:orange1.1g013483m Phytozome_Cs:orange1.1g014953m Phytozome_Cs:orange1.1g017030m Phytozome_Cs:orange1.1g014564m
+Q6BDZ9	Phytozome_Cs:orange1.1g004193m
+Q6EN48	Phytozome_Cs:orange1.1g019882m Phytozome_Cs:orange1.1g017607m Phytozome_Cs:orange1.1g016578m
+Q6EP31	Phytozome_Cs:orange1.1g029144m Phytozome_Cs:orange1.1g029215m Phytozome_Cs:orange1.1g036449m
+Q6EP59	Phytozome_Cs:orange1.1g047540m Phytozome_Cs:orange1.1g010775m Phytozome_Cs:orange1.1g037221m Phytozome_Cs:orange1.1g022329m Phytozome_Cs:orange1.1g010825m Phytozome_Cs:orange1.1g010684m Phytozome_Cs:orange1.1g022321m Phytozome_Cs:orange1.1g012217m Phytozome_Cs:orange1.1g022811m Phytozome_Cs:orange1.1g012342m
+Q6EP77	Phytozome_Cs:orange1.1g029015m Phytozome_Cs:orange1.1g038285m Phytozome_Cs:orange1.1g028094m Phytozome_Cs:orange1.1g026103m Phytozome_Cs:orange1.1g038709m
+Q6EPN6	Phytozome_Cs:orange1.1g026508m Phytozome_Cs:orange1.1g029267m
+Q6EPY7	Phytozome_Cs:orange1.1g044649m
+Q6EQW2	Phytozome_Cs:orange1.1g023649m
+Q6ERL4	Phytozome_Cs:orange1.1g040741m
+Q6ERR3	Phytozome_Cs:orange1.1g030406m Phytozome_Cs:orange1.1g026418m
+Q6ES51	Phytozome_Cs:orange1.1g020030m Phytozome_Cs:orange1.1g020700m Phytozome_Cs:orange1.1g025069m Phytozome_Cs:orange1.1g020724m Phytozome_Cs:orange1.1g018411m Phytozome_Cs:orange1.1g017322m Phytozome_Cs:orange1.1g019230m
+Q6ESJ0	Phytozome_Cs:orange1.1g027311m Phytozome_Cs:orange1.1g027134m Phytozome_Cs:orange1.1g029690m
+Q6ESZ9	Phytozome_Cs:orange1.1g011842m Phytozome_Cs:orange1.1g011871m
+Q6ET36	Phytozome_Cs:orange1.1g003417m
+Q6ET88	Phytozome_Cs:orange1.1g019903m
+Q6ETD3	Phytozome_Cs:orange1.1g005279m
+Q6ETN3	Phytozome_Cs:orange1.1g009077m Phytozome_Cs:orange1.1g010425m Phytozome_Cs:orange1.1g014952m Phytozome_Cs:orange1.1g042783m
+Q6EUF1	Phytozome_Cs:orange1.1g020567m Phytozome_Cs:orange1.1g020318m Phytozome_Cs:orange1.1g025773m Phytozome_Cs:orange1.1g020383m
+Q6EUNO	Phytozome_Cs:orange1.1g044744m Phytozome_Cs:orange1.1g021748m Phytozome_Cs:orange1.1g021716m Phytozome_Cs:orange1.1g027101m Phytozome_Cs:orange1.1g047636m Phytozome_Cs:orange1.1g026454m Phytozome_Cs:orange1.1g026084m Phytozome_Cs:orange1.1g022681m Phytozome_Cs:orange1.1g029440m
+Q6EUP4	Phytozome_Cs:orange1.1g024736m Phytozome_Cs:orange1.1g024714m
+Q6EUS6	Phytozome_Cs:orange1.1g047180m Phytozome_Cs:orange1.1g013839m
+Q6F354	Phytozome_Cs:orange1.1g042175m Phytozome_Cs:orange1.1g037594m Phytozome_Cs:orange1.1g021668m
+Q6F361	Phytozome_Cs:orange1.1g022546m Phytozome_Cs:orange1.1g022263m Phytozome_Cs:orange1.1g018314m Phytozome_Cs:orange1.1g019519m Phytozome_Cs:orange1.1g025206m
+Q6F4N6	Phytozome_Cs:orange1.1g039582m Phytozome_Cs:orange1.1g035670m
+Q6H4H9	Phytozome_Cs:orange1.1g019290m
+Q6H543	Phytozome_Cs:orange1.1g025433m Phytozome_Cs:orange1.1g023966m Phytozome_Cs:orange1.1g020493m Phytozome_Cs:orange1.1g025406m Phytozome_Cs:orange1.1g022921m Phytozome_Cs:orange1.1g020479m
+Q6H5C7	Phytozome_Cs:orange1.1g014147m Phytozome_Cs:orange1.1g013464m
+Q6H5U3	Phytozome_Cs:orange1.1g021532m Phytozome_Cs:orange1.1g020224m
+Q6H5Z4	Phytozome_Cs:orange1.1g046697m Phytozome_Cs:orange1.1g047053m
+Q6H6C7	Phytozome_Cs:orange1.1g040813m
+Q6H6D2	Phytozome_Cs:orange1.1g026500m Phytozome_Cs:orange1.1g020472m
+Q6H6G1	Phytozome_Cs:orange1.1g018330m
+Q6H6I1	Phytozome_Cs:orange1.1g025777m
+Q6H6P8	Phytozome_Cs:orange1.1g004765m Phytozome_Cs:orange1.1g003474m Phytozome_Cs:orange1.1g003390m Phytozome_Cs:orange1.1g004253m Phytozome_Cs:orange1.1g003226m Phytozome_Cs:orange1.1g003230m
+Q6H703	Phytozome_Cs:orange1.1g016451m Phytozome_Cs:orange1.1g014424m Phytozome_Cs:orange1.1g019933m
+Q6H7M1	Phytozome_Cs:orange1.1g020400m Phytozome_Cs:orange1.1g020463m Phytozome_Cs:orange1.1g018339m Phytozome_Cs:orange1.1g014784m Phytozome_Cs:orange1.1g012786m Phytozome_Cs:orange1.1g022156m Phytozome_Cs:orange1.1g014670m Phytozome_Cs:orange1.1g013889m Phytozome_Cs:orange1.1g019941m
+Q6H7Q6	Phytozome_Cs:orange1.1g002644m Phytozome_Cs:orange1.1g002670m Phytozome_Cs:orange1.1g002672m Phytozome_Cs:orange1.1g003699m Phytozome_Cs:orange1.1g008591m Phytozome_Cs:orange1.1g002617m Phytozome_Cs:orange1.1g007678m Phytozome_Cs:orange1.1g008399m Phytozome_Cs:orange1.1g007674m Phytozome_Cs:orange1.1g006365m Phytozome_Cs:orange1.1g012542m Phytozome_Cs:orange1.1g006428m Phytozome_Cs:orange1.1g008395m Phytozome_Cs:orange1.1g005971m Phytozome_Cs:orange1.1g008659m Phytozome_Cs:orange1.1g006629m Phytozome_Cs:orange1.1g004307m Phytozome_Cs:orange1.1g006999m Phytozome_Cs:orange1.1g002649m Phytozome_Cs:orange1.1g047131m Phytozome_Cs:orange1.1g040723m Phytozome_Cs:orange1.1g005962m Phytozome_Cs:orange1.1g002706m
+Q6H819	Phytozome_Cs:orange1.1g025389m
+Q6H849	Phytozome_Cs:orange1.1g031270m Phytozome_Cs:orange1.1g019166m
+Q6H851	Phytozome_Cs:orange1.1g031270m Phytozome_Cs:orange1.1g019166m
+Q6H8F6	Phytozome_Cs:orange1.1g036900m
+Q6I581	Phytozome_Cs:orange1.1g007815m Phytozome_Cs:orange1.1g008062m Phytozome_Cs:orange1.1g015118m Phytozome_Cs:orange1.1g012409m Phytozome_Cs:orange1.1g007464m Phytozome_Cs:orange1.1g008068m Phytozome_Cs:orange1.1g015052m
+Q6I5C3	Phytozome_Cs:orange1.1g029200m Phytozome_Cs:orange1.1g029721m Phytozome_Cs:orange1.1g028067m Phytozome_Cs:orange1.1g043944m
+Q6I628	Phytozome_Cs:orange1.1g018363m Phytozome_Cs:orange1.1g018354m Phytozome_Cs:orange1.1g021953m Phytozome_Cs:orange1.1g018840m Phytozome_Cs:orange1.1g014425m
+Q6IVC3	Phytozome_Cs:orange1.1g015385m Phytozome_Cs:orange1.1g015262m Phytozome_Cs:orange1.1g015258m Phytozome_Cs:orange1.1g021676m Phytozome_Cs:orange1.1g018284m Phytozome_Cs:orange1.1g015265m Phytozome_Cs:orange1.1g045786m
+Q6J1A5	Phytozome_Cs:orange1.1g029015m Phytozome_Cs:orange1.1g038285m Phytozome_Cs:orange1.1g028094m Phytozome_Cs:orange1.1g026103m Phytozome_Cs:orange1.1g038709m
+Q6K1S6	Phytozome_Cs:orange1.1g021486m
+Q6K1X7	Phytozome_Cs:orange1.1g012043m Phytozome_Cs:orange1.1g011491m Phytozome_Cs:orange1.1g018896m Phytozome_Cs:orange1.1g013068m
+Q6K2E8	Phytozome_Cs:orange1.1g040733m Phytozome_Cs:orange1.1g048725m
+Q6K306	Phytozome_Cs:orange1.1g018446m Phytozome_Cs:orange1.1g015899m Phytozome_Cs:orange1.1g015424m
+Q6K3T2	Phytozome_Cs:orange1.1g003951m
+Q6K3Z3	Phytozome_Cs:orange1.1g015495m Phytozome_Cs:orange1.1g015003m Phytozome_Cs:orange1.1g019555m Phytozome_Cs:orange1.1g015576m
+Q6K548	Phytozome_Cs:orange1.1g008131m
+Q6K5G8	Phytozome_Cs:orange1.1g019445m
+Q6K5U4	Phytozome_Cs:orange1.1g019298m Phytozome_Cs:orange1.1g014936m
+Q6K678	Phytozome_Cs:orange1.1g031560m Phytozome_Cs:orange1.1g027963m Phytozome_Cs:orange1.1g028560m Phytozome_Cs:orange1.1g031553m
+Q6K6Q0	Phytozome_Cs:orange1.1g005031m Phytozome_Cs:orange1.1g037382m Phytozome_Cs:orange1.1g004955m
+Q6K6Q1	Phytozome_Cs:orange1.1g005031m Phytozome_Cs:orange1.1g037382m Phytozome_Cs:orange1.1g004955m
+Q6K755	Phytozome_Cs:orange1.1g047540m Phytozome_Cs:orange1.1g010775m Phytozome_Cs:orange1.1g037221m Phytozome_Cs:orange1.1g022329m Phytozome_Cs:orange1.1g010825m Phytozome_Cs:orange1.1g010684m Phytozome_Cs:orange1.1g022321m Phytozome_Cs:orange1.1g012217m Phytozome_Cs:orange1.1g022811m Phytozome_Cs:orange1.1g012342m
+Q6K7V6	Phytozome_Cs:orange1.1g020940m Phytozome_Cs:orange1.1g020971m Phytozome_Cs:orange1.1g015678m Phytozome_Cs:orange1.1g011852m Phytozome_Cs:orange1.1g011869m Phytozome_Cs:orange1.1g011258m
+Q6K846	Phytozome_Cs:orange1.1g025967m Phytozome_Cs:orange1.1g023769m Phytozome_Cs:orange1.1g024991m
+Q6K8E2	Phytozome_Cs:orange1.1g007912m Phytozome_Cs:orange1.1g008051m Phytozome_Cs:orange1.1g008325m
+Q6K8E7	Phytozome_Cs:orange1.1g013461m Phytozome_Cs:orange1.1g011544m Phytozome_Cs:orange1.1g011543m Phytozome_Cs:orange1.1g011533m Phytozome_Cs:orange1.1g011567m Phytozome_Cs:orange1.1g011557m
+Q6K8J4	Phytozome_Cs:orange1.1g004621m Phytozome_Cs:orange1.1g004623m Phytozome_Cs:orange1.1g004907m Phytozome_Cs:orange1.1g004620m Phytozome_Cs:orange1.1g006566m Phytozome_Cs:orange1.1g004634m Phytozome_Cs:orange1.1g004629m Phytozome_Cs:orange1.1g004626m Phytozome_Cs:orange1.1g005248m
+Q6K969	Phytozome_Cs:orange1.1g017756m
+Q6K9B8	Phytozome_Cs:orange1.1g019411m
+Q6K9M5	Phytozome_Cs:orange1.1g043169m Phytozome_Cs:orange1.1g042406m Phytozome_Cs:orange1.1g015113m Phytozome_Cs:orange1.1g013602m
+Q6K9N6	Phytozome_Cs:orange1.1g014588m Phytozome_Cs:orange1.1g016159m Phytozome_Cs:orange1.1g022648m
+Q6K9X3	Phytozome_Cs:orange1.1g025363m Phytozome_Cs:orange1.1g041308m Phytozome_Cs:orange1.1g037818m Phytozome_Cs:orange1.1g043063m Phytozome_Cs:orange1.1g021707m
+Q6KAJ2	Phytozome_Cs:orange1.1g012628m Phytozome_Cs:orange1.1g012633m Phytozome_Cs:orange1.1g017967m Phytozome_Cs:orange1.1g015283m Phytozome_Cs:orange1.1g012647m Phytozome_Cs:orange1.1g012238m
+Q6L479	Phytozome_Cs:orange1.1g001225m Phytozome_Cs:orange1.1g001322m Phytozome_Cs:orange1.1g002219m
+Q6L4G2	Phytozome_Cs:orange1.1g019312m
+Q6L4H5	Phytozome_Cs:orange1.1g009957m Phytozome_Cs:orange1.1g009781m
+Q6L4L4	Phytozome_Cs:orange1.1g007373m Phytozome_Cs:orange1.1g007358m Phytozome_Cs:orange1.1g006644m Phytozome_Cs:orange1.1g007048m Phytozome_Cs:orange1.1g007360m Phytozome_Cs:orange1.1g014025m Phytozome_Cs:orange1.1g007354m Phytozome_Cs:orange1.1g007380m Phytozome_Cs:orange1.1g007366m Phytozome_Cs:orange1.1g003096m Phytozome_Cs:orange1.1g011246m Phytozome_Cs:orange1.1g007359m Phytozome_Cs:orange1.1g007369m
+Q6L4R0	Phytozome_Cs:orange1.1g012417m Phytozome_Cs:orange1.1g012422m Phytozome_Cs:orange1.1g012040m Phytozome_Cs:orange1.1g023238m Phytozome_Cs:orange1.1g010923m Phytozome_Cs:orange1.1g017749m Phytozome_Cs:orange1.1g020090m Phytozome_Cs:orange1.1g013673m
+Q6L4R7	Phytozome_Cs:orange1.1g008875m Phytozome_Cs:orange1.1g008868m Phytozome_Cs:orange1.1g008880m Phytozome_Cs:orange1.1g009094m Phytozome_Cs:orange1.1g008890m Phytozome_Cs:orange1.1g013488m Phytozome_Cs:orange1.1g014853m Phytozome_Cs:orange1.1g009083m Phytozome_Cs:orange1.1g009070m Phytozome_Cs:orange1.1g013188m Phytozome_Cs:orange1.1g009092m
+Q6L540	Phytozome_Cs:orange1.1g037144m Phytozome_Cs:orange1.1g038818m Phytozome_Cs:orange1.1g048643m Phytozome_Cs:orange1.1g010125m Phytozome_Cs:orange1.1g048438m Phytozome_Cs:orange1.1g046506m
+Q6L545	Phytozome_Cs:orange1.1g019193m Phytozome_Cs:orange1.1g024327m Phytozome_Cs:orange1.1g019201m Phytozome_Cs:orange1.1g024286m
+Q6L5F6	Phytozome_Cs:orange1.1g019021m
+Q6L5H6	Phytozome_Cs:orange1.1g008875m Phytozome_Cs:orange1.1g008868m Phytozome_Cs:orange1.1g008880m Phytozome_Cs:orange1.1g009094m Phytozome_Cs:orange1.1g008890m Phytozome_Cs:orange1.1g013488m Phytozome_Cs:orange1.1g014853m Phytozome_Cs:orange1.1g009083m Phytozome_Cs:orange1.1g009070m Phytozome_Cs:orange1.1g013188m Phytozome_Cs:orange1.1g009092m
+Q6L8G1	Phytozome_Cs:orange1.1g044821m
+Q6Q9I2	Phytozome_Cs:orange1.1g030228m Phytozome_Cs:orange1.1g024640m Phytozome_Cs:orange1.1g030134m Phytozome_Cs:orange1.1g030164m Phytozome_Cs:orange1.1g026043m
+Q6VMN7	Phytozome_Cs:orange1.1g045431m Phytozome_Cs:orange1.1g036024m
+Q6YPG5	Phytozome_Cs:orange1.1g008807m
+Q6YS33	Phytozome_Cs:orange1.1g012808m Phytozome_Cs:orange1.1g008621m Phytozome_Cs:orange1.1g008693m
+Q6YSA1	Phytozome_Cs:orange1.1g037502m Phytozome_Cs:orange1.1g014184m
+Q6YT73	Phytozome_Cs:orange1.1g018519m Phytozome_Cs:orange1.1g017434m Phytozome_Cs:orange1.1g017433m Phytozome_Cs:orange1.1g017718m Phytozome_Cs:orange1.1g018919m Phytozome_Cs:orange1.1g017781m Phytozome_Cs:orange1.1g017492m Phytozome_Cs:orange1.1g019244m Phytozome_Cs:orange1.1g015722m Phytozome_Cs:orange1.1g021739m
+Q6YTI6	Phytozome_Cs:orange1.1g016121m Phytozome_Cs:orange1.1g022275m Phytozome_Cs:orange1.1g015683m Phytozome_Cs:orange1.1g017533m Phytozome_Cs:orange1.1g021079m Phytozome_Cs:orange1.1g021105m
+Q6YTT3	Phytozome_Cs:orange1.1g013450m Phytozome_Cs:orange1.1g036421m Phytozome_Cs:orange1.1g009728m Phytozome_Cs:orange1.1g009610m
+Q6YU51	Phytozome_Cs:orange1.1g004227m Phytozome_Cs:orange1.1g003948m Phytozome_Cs:orange1.1g006251m
+Q6YUI8	Phytozome_Cs:orange1.1g009137m Phytozome_Cs:orange1.1g010030m Phytozome_Cs:orange1.1g039620m Phytozome_Cs:orange1.1g008917m Phytozome_Cs:orange1.1g009398m Phytozome_Cs:orange1.1g019688m
+Q6YUS0	Phytozome_Cs:orange1.1g008289m Phytozome_Cs:orange1.1g013441m
+Q6YUS3	Phytozome_Cs:orange1.1g045155m
+Q6YUU2	Phytozome_Cs:orange1.1g014377m
+Q6YV04	Phytozome_Cs:orange1.1g011109m Phytozome_Cs:orange1.1g014460m Phytozome_Cs:orange1.1g010834m Phytozome_Cs:orange1.1g010858m Phytozome_Cs:orange1.1g011761m Phytozome_Cs:orange1.1g014465m Phytozome_Cs:orange1.1g014470m
+Q6YV23	Phytozome_Cs:orange1.1g039151m
+Q6YVI0	Phytozome_Cs:orange1.1g024871m
+Q6YWE1	Phytozome_Cs:orange1.1g039019m
+Q6YWS8	Phytozome_Cs:orange1.1g044744m Phytozome_Cs:orange1.1g021748m Phytozome_Cs:orange1.1g021716m Phytozome_Cs:orange1.1g027101m Phytozome_Cs:orange1.1g047636m Phytozome_Cs:orange1.1g026454m Phytozome_Cs:orange1.1g026084m Phytozome_Cs:orange1.1g022681m Phytozome_Cs:orange1.1g029440m
+Q6YWY7	Phytozome_Cs:orange1.1g024445m
+Q6YXI1	Phytozome_Cs:orange1.1g007074m
+Q6YXW6	Phytozome_Cs:orange1.1g016019m Phytozome_Cs:orange1.1g014649m Phytozome_Cs:orange1.1g014608m Phytozome_Cs:orange1.1g014638m
+Q6YYB9	Phytozome_Cs:orange1.1g012347m Phytozome_Cs:orange1.1g012341m Phytozome_Cs:orange1.1g021613m Phytozome_Cs:orange1.1g013596m Phytozome_Cs:orange1.1g016830m
+Q6YYZ2	Phytozome_Cs:orange1.1g037622m
+Q6YZ18	Phytozome_Cs:orange1.1g010842m Phytozome_Cs:orange1.1g041829m
+Q6YZ76	Phytozome_Cs:orange1.1g046862m Phytozome_Cs:orange1.1g038655m Phytozome_Cs:orange1.1g039445m
+Q6YZE2	Phytozome_Cs:orange1.1g017633m Phytozome_Cs:orange1.1g011959m Phytozome_Cs:orange1.1g011856m Phytozome_Cs:orange1.1g015230m
+Q6YZH8	Phytozome_Cs:orange1.1g014009m Phytozome_Cs:orange1.1g007192m
+Q6YZX6	Phytozome_Cs:orange1.1g002829m Phytozome_Cs:orange1.1g003793m Phytozome_Cs:orange1.1g003797m Phytozome_Cs:orange1.1g001917m Phytozome_Cs:orange1.1g001863m Phytozome_Cs:orange1.1g001914m Phytozome_Cs:orange1.1g002820m Phytozome_Cs:orange1.1g002599m Phytozome_Cs:orange1.1g002651m
+Q6Z0T7	Phytozome_Cs:orange1.1g032783m Phytozome_Cs:orange1.1g032753m
+Q6Z156	Phytozome_Cs:orange1.1g011778m Phytozome_Cs:orange1.1g014271m Phytozome_Cs:orange1.1g014306m Phytozome_Cs:orange1.1g011803m Phytozome_Cs:orange1.1g014270m Phytozome_Cs:orange1.1g014309m Phytozome_Cs:orange1.1g011780m Phytozome_Cs:orange1.1g014308m Phytozome_Cs:orange1.1g011771m Phytozome_Cs:orange1.1g011788m Phytozome_Cs:orange1.1g011805m Phytozome_Cs:orange1.1g017799m Phytozome_Cs:orange1.1g011785m Phytozome_Cs:orange1.1g019430m Phytozome_Cs:orange1.1g020651m
+Q6Z1Z3	Phytozome_Cs:orange1.1g017035m Phytozome_Cs:orange1.1g021945m
+Q6Z2L5	Phytozome_Cs:orange1.1g022367m Phytozome_Cs:orange1.1g016576m Phytozome_Cs:orange1.1g026473m
+Q6Z2T6	Phytozome_Cs:orange1.1g012488m
+Q6Z312	Phytozome_Cs:orange1.1g013223m Phytozome_Cs:orange1.1g014831m Phytozome_Cs:orange1.1g021146m Phytozome_Cs:orange1.1g013713m Phytozome_Cs:orange1.1g013754m Phytozome_Cs:orange1.1g013197m Phytozome_Cs:orange1.1g014865m Phytozome_Cs:orange1.1g021098m
+Q6Z351	Phytozome_Cs:orange1.1g002311m Phytozome_Cs:orange1.1g002932m Phytozome_Cs:orange1.1g000669m Phytozome_Cs:orange1.1g002015m Phytozome_Cs:orange1.1g000981m Phytozome_Cs:orange1.1g000629m Phytozome_Cs:orange1.1g001024m Phytozome_Cs:orange1.1g003040m
+Q6Z368	Phytozome_Cs:orange1.1g022601m Phytozome_Cs:orange1.1g022527m Phytozome_Cs:orange1.1g019466m Phytozome_Cs:orange1.1g016607m Phytozome_Cs:orange1.1g028137m Phytozome_Cs:orange1.1g016722m Phytozome_Cs:orange1.1g015108m Phytozome_Cs:orange1.1g016621m Phytozome_Cs:orange1.1g015087m
+Q6Z398	Phytozome_Cs:orange1.1g011283m
+Q6Z3A3	Phytozome_Cs:orange1.1g016072m Phytozome_Cs:orange1.1g011314m Phytozome_Cs:orange1.1g015997m Phytozome_Cs:orange1.1g014287m Phytozome_Cs:orange1.1g011318m Phytozome_Cs:orange1.1g010751m Phytozome_Cs:orange1.1g014295m Phytozome_Cs:orange1.1g011330m
+Q6Z3A4	Phytozome_Cs:orange1.1g012138m Phytozome_Cs:orange1.1g021893m Phytozome_Cs:orange1.1g017259m
+Q6Z3F9	Phytozome_Cs:orange1.1g024290m Phytozome_Cs:orange1.1g015872m Phytozome_Cs:orange1.1g021832m
+Q6Z3X5	Phytozome_Cs:orange1.1g001713m Phytozome_Cs:orange1.1g002419m Phytozome_Cs:orange1.1g002323m
+Q6Z3Y3	Phytozome_Cs:orange1.1g048784m
+Q6Z433	Phytozome_Cs:orange1.1g021461m Phytozome_Cs:orange1.1g017348m Phytozome_Cs:orange1.1g024594m Phytozome_Cs:orange1.1g027756m Phytozome_Cs:orange1.1g025411m Phytozome_Cs:orange1.1g018981m Phytozome_Cs:orange1.1g027672m Phytozome_Cs:orange1.1g017321m Phytozome_Cs:orange1.1g022728m Phytozome_Cs:orange1.1g017834m Phytozome_Cs:orange1.1g018653m Phytozome_Cs:orange1.1g023560m Phytozome_Cs:orange1.1g017409m Phytozome_Cs:orange1.1g018641m Phytozome_Cs:orange1.1g018626m Phytozome_Cs:orange1.1g017356m Phytozome_Cs:orange1.1g017195m Phytozome_Cs:orange1.1g018277m
+Q6Z4E7	Phytozome_Cs:orange1.1g009454m Phytozome_Cs:orange1.1g027723m Phytozome_Cs:orange1.1g025504m Phytozome_Cs:orange1.1g013815m
+Q6Z4I1	Phytozome_Cs:orange1.1g022121m Phytozome_Cs:orange1.1g022326m
+Q6Z4U1	Phytozome_Cs:orange1.1g019290m
+Q6Z5B5	Phytozome_Cs:orange1.1g019290m
+Q6Z5M0	Phytozome_Cs:orange1.1g035700m
+Q6Z5M3	Phytozome_Cs:orange1.1g045999m
+Q6Z684	Phytozome_Cs:orange1.1g047540m Phytozome_Cs:orange1.1g010775m Phytozome_Cs:orange1.1g037221m Phytozome_Cs:orange1.1g022329m Phytozome_Cs:orange1.1g010825m Phytozome_Cs:orange1.1g010684m Phytozome_Cs:orange1.1g022321m Phytozome_Cs:orange1.1g012217m Phytozome_Cs:orange1.1g022811m Phytozome_Cs:orange1.1g012342m
+Q6Z6F0	Phytozome_Cs:orange1.1g041902m Phytozome_Cs:orange1.1g036740m
+Q6Z702	Phytozome_Cs:orange1.1g013574m Phytozome_Cs:orange1.1g010403m Phytozome_Cs:orange1.1g013449m Phytozome_Cs:orange1.1g012009m Phytozome_Cs:orange1.1g019862m
+Q6Z744	Phytozome_Cs:orange1.1g014581m
+Q6Z795	Phytozome_Cs:orange1.1g006749m Phytozome_Cs:orange1.1g006426m Phytozome_Cs:orange1.1g006794m
+Q6Z7F5	Phytozome_Cs:orange1.1g028226m Phytozome_Cs:orange1.1g027737m Phytozome_Cs:orange1.1g029374m Phytozome_Cs:orange1.1g030456m Phytozome_Cs:orange1.1g028190m Phytozome_Cs:orange1.1g029352m Phytozome_Cs:orange1.1g030554m Phytozome_Cs:orange1.1g028170m Phytozome_Cs:orange1.1g028193m Phytozome_Cs:orange1.1g028176m
+Q6Z7Q3	Phytozome_Cs:orange1.1g009137m Phytozome_Cs:orange1.1g010030m Phytozome_Cs:orange1.1g039620m Phytozome_Cs:orange1.1g008917m Phytozome_Cs:orange1.1g009398m Phytozome_Cs:orange1.1g019688m
+Q6Z836	Phytozome_Cs:orange1.1g006387m Phytozome_Cs:orange1.1g006385m Phytozome_Cs:orange1.1g006397m Phytozome_Cs:orange1.1g006532m
+Q6Z8F4	Phytozome_Cs:orange1.1g048274m
+Q6Z8S2	Phytozome_Cs:orange1.1g039124m
+Q6Z8Z7	Phytozome_Cs:orange1.1g043704m
+Q6Z965	Phytozome_Cs:orange1.1g025135m
+Q6Z9A3	Phytozome_Cs:orange1.1g018327m Phytozome_Cs:orange1.1g018060m Phytozome_Cs:orange1.1g022113m
+Q6Z9E6	Phytozome_Cs:orange1.1g025389m
+Q6ZAC1	Phytozome_Cs:orange1.1g009077m Phytozome_Cs:orange1.1g010425m Phytozome_Cs:orange1.1g014952m Phytozome_Cs:orange1.1g042783m
+Q6ZAH2	Phytozome_Cs:orange1.1g019626m
+Q6ZBE1	Phytozome_Cs:orange1.1g047540m Phytozome_Cs:orange1.1g010775m Phytozome_Cs:orange1.1g037221m Phytozome_Cs:orange1.1g022329m Phytozome_Cs:orange1.1g010825m Phytozome_Cs:orange1.1g010684m Phytozome_Cs:orange1.1g022321m Phytozome_Cs:orange1.1g012217m Phytozome_Cs:orange1.1g022811m Phytozome_Cs:orange1.1g012342m
+Q6ZBH5	Phytozome_Cs:orange1.1g018518m Phytozome_Cs:orange1.1g012909m Phytozome_Cs:orange1.1g013297m Phytozome_Cs:orange1.1g012353m Phytozome_Cs:orange1.1g018515m Phytozome_Cs:orange1.1g012273m Phytozome_Cs:orange1.1g012253m
+Q6ZC33	Phytozome_Cs:orange1.1g002724m
+Q6ZCF0	Phytozome_Cs:orange1.1g010250m Phytozome_Cs:orange1.1g013243m Phytozome_Cs:orange1.1g013204m
+Q6ZD10	Phytozome_Cs:orange1.1g020388m Phytozome_Cs:orange1.1g020431m Phytozome_Cs:orange1.1g023778m Phytozome_Cs:orange1.1g023782m Phytozome_Cs:orange1.1g020132m
+Q6ZD89	Phytozome_Cs:orange1.1g024046m Phytozome_Cs:orange1.1g018405m Phytozome_Cs:orange1.1g018366m Phytozome_Cs:orange1.1g017495m Phytozome_Cs:orange1.1g018576m Phytozome_Cs:orange1.1g035738m Phytozome_Cs:orange1.1g046424m Phytozome_Cs:orange1.1g017595m Phytozome_Cs:orange1.1g018145m Phytozome_Cs:orange1.1g018681m Phytozome_Cs:orange1.1g044458m Phytozome_Cs:orange1.1g016366m
+Q6ZDQ1	Phytozome_Cs:orange1.1g020474m Phytozome_Cs:orange1.1g020500m Phytozome_Cs:orange1.1g020505m Phytozome_Cs:orange1.1g014775m
+Q6ZDY8	Phytozome_Cs:orange1.1g046556m
+Q6ZEZ2	Phytozome_Cs:orange1.1g023978m Phytozome_Cs:orange1.1g029100m Phytozome_Cs:orange1.1g023993m Phytozome_Cs:orange1.1g036939m Phytozome_Cs:orange1.1g024004m
+Q6ZFT5	Phytozome_Cs:orange1.1g023455m Phytozome_Cs:orange1.1g020390m Phytozome_Cs:orange1.1g027833m Phytozome_Cs:orange1.1g023987m Phytozome_Cs:orange1.1g020692m
+Q6ZG77	Phytozome_Cs:orange1.1g012098m
+Q6ZG91	Phytozome_Cs:orange1.1g008923m Phytozome_Cs:orange1.1g014848m Phytozome_Cs:orange1.1g009818m Phytozome_Cs:orange1.1g007783m Phytozome_Cs:orange1.1g009838m Phytozome_Cs:orange1.1g013432m Phytozome_Cs:orange1.1g007779m
+Q6ZGS9	Phytozome_Cs:orange1.1g022886m Phytozome_Cs:orange1.1g024487m Phytozome_Cs:orange1.1g028821m Phytozome_Cs:orange1.1g024502m Phytozome_Cs:orange1.1g024524m Phytozome_Cs:orange1.1g022583m Phytozome_Cs:orange1.1g022579m Phytozome_Cs:orange1.1g023343m Phytozome_Cs:orange1.1g028674m
+Q6ZGW6	Phytozome_Cs:orange1.1g040843m Phytozome_Cs:orange1.1g019605m Phytozome_Cs:orange1.1g016781m
+Q6ZHA3	Phytozome_Cs:orange1.1g029144m Phytozome_Cs:orange1.1g029215m Phytozome_Cs:orange1.1g036449m
+Q6ZHB2	Phytozome_Cs:orange1.1g018409m Phytozome_Cs:orange1.1g018564m Phytozome_Cs:orange1.1g021006m Phytozome_Cs:orange1.1g016506m
+Q6ZHH7	Phytozome_Cs:orange1.1g002724m
+Q6ZHS4	Phytozome_Cs:orange1.1g018382m
+Q6ZHU3	Phytozome_Cs:orange1.1g047635m
+Q6ZHZ1	Phytozome_Cs:orange1.1g001557m Phytozome_Cs:orange1.1g001541m Phytozome_Cs:orange1.1g002660m
+Q6ZI39	Phytozome_Cs:orange1.1g010767m Phytozome_Cs:orange1.1g010139m Phytozome_Cs:orange1.1g009693m Phytozome_Cs:orange1.1g007452m
+Q6ZI55	Phytozome_Cs:orange1.1g019198m Phytozome_Cs:orange1.1g018224m
+Q6ZIK0	Phytozome_Cs:orange1.1g016942m Phytozome_Cs:orange1.1g016921m Phytozome_Cs:orange1.1g017428m Phytozome_Cs:orange1.1g016981m
+Q6ZIX2	Phytozome_Cs:orange1.1g042544m
+Q6ZJ97	Phytozome_Cs:orange1.1g010950m Phytozome_Cs:orange1.1g018126m Phytozome_Cs:orange1.1g018150m Phytozome_Cs:orange1.1g017059m Phytozome_Cs:orange1.1g016006m Phytozome_Cs:orange1.1g011772m Phytozome_Cs:orange1.1g015957m Phytozome_Cs:orange1.1g016922m
+Q6ZJK7	Phytozome_Cs:orange1.1g010842m Phytozome_Cs:orange1.1g041829m
+Q6ZJM9	Phytozome_Cs:orange1.1g008421m Phytozome_Cs:orange1.1g009254m Phytozome_Cs:orange1.1g009258m
+Q6ZJU3	Phytozome_Cs:orange1.1g020030m Phytozome_Cs:orange1.1g020700m Phytozome_Cs:orange1.1g025069m Phytozome_Cs:orange1.1g020724m Phytozome_Cs:orange1.1g018411m Phytozome_Cs:orange1.1g017322m Phytozome_Cs:orange1.1g019230m
+Q6ZK11	Phytozome_Cs:orange1.1g022631m Phytozome_Cs:orange1.1g022634m
+Q6ZKC0	Phytozome_Cs:orange1.1g024736m Phytozome_Cs:orange1.1g024714m
+Q6ZKV8	Phytozome_Cs:orange1.1g002941m Phytozome_Cs:orange1.1g005009m Phytozome_Cs:orange1.1g003466m Phytozome_Cs:orange1.1g003472m
+Q6ZL51	Phytozome_Cs:orange1.1g019290m
+Q6ZL94	Phytozome_Cs:orange1.1g019500m Phytozome_Cs:orange1.1g020101m
+Q6ZLD3	Phytozome_Cs:orange1.1g019684m Phytozome_Cs:orange1.1g022929m Phytozome_Cs:orange1.1g019479m
+Q6ZLJ9	Phytozome_Cs:orange1.1g004371m Phytozome_Cs:orange1.1g004086m Phytozome_Cs:orange1.1g008551m Phytozome_Cs:orange1.1g005020m Phytozome_Cs:orange1.1g003500m Phytozome_Cs:orange1.1g005650m Phytozome_Cs:orange1.1g004099m Phytozome_Cs:orange1.1g007685m Phytozome_Cs:orange1.1g004090m
+Q75GB1	Phytozome_Cs:orange1.1g017865m Phytozome_Cs:orange1.1g017830m Phytozome_Cs:orange1.1g017828m Phytozome_Cs:orange1.1g017807m Phytozome_Cs:orange1.1g022747m Phytozome_Cs:orange1.1g028379m Phytozome_Cs:orange1.1g029427m Phytozome_Cs:orange1.1g017871m Phytozome_Cs:orange1.1g019236m Phytozome_Cs:orange1.1g022618m Phytozome_Cs:orange1.1g019963m Phytozome_Cs:orange1.1g023039m Phytozome_Cs:orange1.1g017803m Phytozome_Cs:orange1.1g017809m Phytozome_Cs:orange1.1g017824m Phytozome_Cs:orange1.1g017170m
+Q75GK0	Phytozome_Cs:orange1.1g026811m Phytozome_Cs:orange1.1g029018m
+Q75H77	Phytozome_Cs:orange1.1g023058m Phytozome_Cs:orange1.1g019901m Phytozome_Cs:orange1.1g017936m Phytozome_Cs:orange1.1g020133m Phytozome_Cs:orange1.1g017933m Phytozome_Cs:orange1.1g017860m
+Q75HQ7	Phytozome_Cs:orange1.1g005031m Phytozome_Cs:orange1.1g037382m Phytozome_Cs:orange1.1g004955m
+Q75HZ9	Phytozome_Cs:orange1.1g014706m Phytozome_Cs:orange1.1g014627m
+Q75I93	Phytozome_Cs:orange1.1g036937m Phytozome_Cs:orange1.1g015526m Phytozome_Cs:orange1.1g040688m Phytozome_Cs:orange1.1g015517m Phytozome_Cs:orange1.1g015451m Phytozome_Cs:orange1.1g015449m Phytozome_Cs:orange1.1g010049m Phytozome_Cs:orange1.1g046891m Phytozome_Cs:orange1.1g015209m Phytozome_Cs:orange1.1g014137m
+Q75II5	Phytozome_Cs:orange1.1g023716m Phytozome_Cs:orange1.1g039121m Phytozome_Cs:orange1.1g025574m Phytozome_Cs:orange1.1g024713m
+Q75KD7	Phytozome_Cs:orange1.1g025525m Phytozome_Cs:orange1.1g025155m
+Q75KT7	Phytozome_Cs:orange1.1g018207m Phytozome_Cs:orange1.1g017951m
+Q75L84	Phytozome_Cs:orange1.1g042066m
+Q75LL5	Phytozome_Cs:orange1.1g015463m Phytozome_Cs:orange1.1g016318m
+Q75LR2	Phytozome_Cs:orange1.1g013450m Phytozome_Cs:orange1.1g036421m Phytozome_Cs:orange1.1g009728m Phytozome_Cs:orange1.1g009610m
+Q75M18	Phytozome_Cs:orange1.1g043334m
+Q75V57	Phytozome_Cs:orange1.1g023058m Phytozome_Cs:orange1.1g019901m Phytozome_Cs:orange1.1g017936m Phytozome_Cs:orange1.1g020133m Phytozome_Cs:orange1.1g017933m Phytozome_Cs:orange1.1g017860m
+Q75W16	Phytozome_Cs:orange1.1g013450m Phytozome_Cs:orange1.1g036421m Phytozome_Cs:orange1.1g009728m Phytozome_Cs:orange1.1g009610m
+Q764B9	Phytozome_Cs:orange1.1g027062m Phytozome_Cs:orange1.1g037843m Phytozome_Cs:orange1.1g029484m Phytozome_Cs:orange1.1g030626m Phytozome_Cs:orange1.1g046651m
+Q7EXZ2	Phytozome_Cs:orange1.1g046416m
+Q7EYE4	Phytozome_Cs:orange1.1g025533m Phytozome_Cs:orange1.1g023135m Phytozome_Cs:orange1.1g020938m
+Q7EZW6	Phytozome_Cs:orange1.1g042084m
+Q7EZZ0	Phytozome_Cs:orange1.1g019958m Phytozome_Cs:orange1.1g014480m Phytozome_Cs:orange1.1g024458m Phytozome_Cs:orange1.1g014683m
+Q7F0B2	Phytozome_Cs:orange1.1g013342m Phytozome_Cs:orange1.1g046167m Phytozome_Cs:orange1.1g012151m Phytozome_Cs:orange1.1g013836m Phytozome_Cs:orange1.1g012678m Phytozome_Cs:orange1.1g012543m Phytozome_Cs:orange1.1g012563m Phytozome_Cs:orange1.1g040486m Phytozome_Cs:orange1.1g016062m Phytozome_Cs:orange1.1g012613m Phytozome_Cs:orange1.1g020179m Phytozome_Cs:orange1.1g014232m Phytozome_Cs:orange1.1g018483m Phytozome_Cs:orange1.1g012735m Phytozome_Cs:orange1.1g012474m
+Q7F0Q2	Phytozome_Cs:orange1.1g024684m Phytozome_Cs:orange1.1g019622m Phytozome_Cs:orange1.1g019608m Phytozome_Cs:orange1.1g022510m
+Q7F190	Phytozome_Cs:orange1.1g040403m
+Q7F1X5	Phytozome_Cs:orange1.1g008895m Phytozome_Cs:orange1.1g012774m Phytozome_Cs:orange1.1g012015m Phytozome_Cs:orange1.1g045351m Phytozome_Cs:orange1.1g011116m Phytozome_Cs:orange1.1g015325m Phytozome_Cs:orange1.1g008749m
+Q7F8K7	Phytozome_Cs:orange1.1g034999m
+Q7F8U7	Phytozome_Cs:orange1.1g023233m
+Q7FAE1	Phytozome_Cs:orange1.1g044923m Phytozome_Cs:orange1.1g044485m Phytozome_Cs:orange1.1g023553m Phytozome_Cs:orange1.1g046809m Phytozome_Cs:orange1.1g023573m Phytozome_Cs:orange1.1g023613m Phytozome_Cs:orange1.1g023554m
+Q7FAH2	Phytozome_Cs:orange1.1g019445m
+Q7FAL6	Phytozome_Cs:orange1.1g025823m Phytozome_Cs:orange1.1g019339m
+Q7FAS1	Phytozome_Cs:orange1.1g018519m Phytozome_Cs:orange1.1g017434m Phytozome_Cs:orange1.1g017433m Phytozome_Cs:orange1.1g017718m Phytozome_Cs:orange1.1g018919m Phytozome_Cs:orange1.1g017781m Phytozome_Cs:orange1.1g017492m Phytozome_Cs:orange1.1g019244m Phytozome_Cs:orange1.1g015722m Phytozome_Cs:orange1.1g021739m
+Q7G065	Phytozome_Cs:orange1.1g009817m Phytozome_Cs:orange1.1g018622m Phytozome_Cs:orange1.1g010922m Phytozome_Cs:orange1.1g009720m Phytozome_Cs:orange1.1g043870m Phytozome_Cs:orange1.1g010554m Phytozome_Cs:orange1.1g010874m
+Q7G1V6	Phytozome_Cs:orange1.1g038350m Phytozome_Cs:orange1.1g023212m Phytozome_Cs:orange1.1g046380m Phytozome_Cs:orange1.1g039738m Phytozome_Cs:orange1.1g045124m Phytozome_Cs:orange1.1g047191m Phytozome_Cs:orange1.1g037644m Phytozome_Cs:orange1.1g010633m Phytozome_Cs:orange1.1g018344m Phytozome_Cs:orange1.1g023267m Phytozome_Cs:orange1.1g015886m Phytozome_Cs:orange1.1g010332m Phytozome_Cs:orange1.1g036670m Phytozome_Cs:orange1.1g047644m Phytozome_Cs:orange1.1g047045m Phytozome_Cs:orange1.1g013263m Phytozome_Cs:orange1.1g013295m Phytozome_Cs:orange1.1g042399m Phytozome_Cs:orange1.1g048811m Phytozome_Cs:orange1.1g044387m Phytozome_Cs:orange1.1g048444m Phytozome_Cs:orange1.1g040388m Phytozome_Cs:orange1.1g038694m Phytozome_Cs:orange1.1g042520m Phytozome_Cs:orange1.1g016087m Phytozome_Cs:orange1.1g040527m Phytozome_Cs:orange1.1g036695m Phytozome_Cs:orange1.1g041020m Phytozome_Cs:orange1.1g046855m Phytozome_Cs:orange1.1g012533m Phytozome_Cs:orange1.1g042431m Phytozome_Cs:orange1.1g042962m Phytozome_Cs:orange1.1g038991m Phytozome_Cs:orange1.1g041385m Phytozome_Cs:orange1.1g044491m Phytozome_Cs:orange1.1g047431m Phytozome_Cs:orange1.1g041199m Phytozome_Cs:orange1.1g012521m Phytozome_Cs:orange1.1g047809m Phytozome_Cs:orange1.1g046658m Phytozome_Cs:orange1.1g044337m Phytozome_Cs:orange1.1g039476m Phytozome_Cs:orange1.1g017981m Phytozome_Cs:orange1.1g038759m Phytozome_Cs:orange1.1g037123m Phytozome_Cs:orange1.1g016710m Phytozome_Cs:orange1.1g042585m Phytozome_Cs:orange1.1g044035m Phytozome_Cs:orange1.1g041388m Phytozome_Cs:orange1.1g036380m Phytozome_Cs:orange1.1g047944m Phytozome_Cs:orange1.1g043817m Phytozome_Cs:orange1.1g012562m Phytozome_Cs:orange1.1g036679m Phytozome_Cs:orange1.1g015171m Phytozome_Cs:orange1.1g043541m Phytozome_Cs:orange1.1g015001m Phytozome_Cs:orange1.1g013286m Phytozome_Cs:orange1.1g039755m Phytozome_Cs:orange1.1g038283m Phytozome_Cs:orange1.1g045243m Phytozome_Cs:orange1.1g047554m Phytozome_Cs:orange1.1g014120m Phytozome_Cs:orange1.1g013278m
+Q7G2F7	Phytozome_Cs:orange1.1g000848m Phytozome_Cs:orange1.1g000935m Phytozome_Cs:orange1.1g003032m Phytozome_Cs:orange1.1g001502m Phytozome_Cs:orange1.1g001379m Phytozome_Cs:orange1.1g002224m
+Q7G2H3	Phytozome_Cs:orange1.1g015441m Phytozome_Cs:orange1.1g021865m
+Q7G4P2	Phytozome_Cs:orange1.1g013461m Phytozome_Cs:orange1.1g011544m Phytozome_Cs:orange1.1g011543m Phytozome_Cs:orange1.1g011533m Phytozome_Cs:orange1.1g011567m Phytozome_Cs:orange1.1g011557m
+Q7G602	Phytozome_Cs:orange1.1g020877m Phytozome_Cs:orange1.1g047593m Phytozome_Cs:orange1.1g042286m
+Q7G6M2	Phytozome_Cs:orange1.1g037144m Phytozome_Cs:orange1.1g038818m Phytozome_Cs:orange1.1g048643m Phytozome_Cs:orange1.1g010125m Phytozome_Cs:orange1.1g048438m Phytozome_Cs:orange1.1g046506m
+Q7G7J6	Phytozome_Cs:orange1.1g043131m Phytozome_Cs:orange1.1g008153m Phytozome_Cs:orange1.1g009607m
+Q7X634	Phytozome_Cs:orange1.1g018240m Phytozome_Cs:orange1.1g018243m
+Q7X720	Phytozome_Cs:orange1.1g005031m Phytozome_Cs:orange1.1g037382m Phytozome_Cs:orange1.1g004955m
+Q7X742	Phytozome_Cs:orange1.1g041198m Phytozome_Cs:orange1.1g048534m
+Q7X7A1	Phytozome_Cs:orange1.1g010609m Phytozome_Cs:orange1.1g016059m Phytozome_Cs:orange1.1g042848m Phytozome_Cs:orange1.1g012440m Phytozome_Cs:orange1.1g047536m Phytozome_Cs:orange1.1g012242m Phytozome_Cs:orange1.1g044220m Phytozome_Cs:orange1.1g036678m Phytozome_Cs:orange1.1g047419m Phytozome_Cs:orange1.1g038932m Phytozome_Cs:orange1.1g041416m Phytozome_Cs:orange1.1g042461m Phytozome_Cs:orange1.1g011670m Phytozome_Cs:orange1.1g013034m
+Q7X7H9	Phytozome_Cs:orange1.1g025114m Phytozome_Cs:orange1.1g029455m
+Q7X7N2	Phytozome_Cs:orange1.1g019566m Phytozome_Cs:orange1.1g019533m Phytozome_Cs:orange1.1g022685m Phytozome_Cs:orange1.1g022705m Phytozome_Cs:orange1.1g028588m Phytozome_Cs:orange1.1g022718m Phytozome_Cs:orange1.1g019525m Phytozome_Cs:orange1.1g019572m Phytozome_Cs:orange1.1g022416m
+Q7X7X0	Phytozome_Cs:orange1.1g038230m
+Q7X8A1	Phytozome_Cs:orange1.1g013492m Phytozome_Cs:orange1.1g015637m Phytozome_Cs:orange1.1g014890m
+Q7X8R0	Phytozome_Cs:orange1.1g009555m
+Q7X8V3	Phytozome_Cs:orange1.1g005031m Phytozome_Cs:orange1.1g037382m Phytozome_Cs:orange1.1g004955m
+Q7X993	Phytozome_Cs:orange1.1g015385m Phytozome_Cs:orange1.1g015262m Phytozome_Cs:orange1.1g015258m Phytozome_Cs:orange1.1g021676m Phytozome_Cs:orange1.1g018284m Phytozome_Cs:orange1.1g015265m Phytozome_Cs:orange1.1g045786m
+Q7XAP2	Phytozome_Cs:orange1.1g019882m Phytozome_Cs:orange1.1g017607m Phytozome_Cs:orange1.1g016578m
+Q7XBY6	Phytozome_Cs:orange1.1g046151m
+Q7XC20	Phytozome_Cs:orange1.1g018409m Phytozome_Cs:orange1.1g018564m Phytozome_Cs:orange1.1g021006m Phytozome_Cs:orange1.1g016506m
+Q7XCK3	Phytozome_Cs:orange1.1g016199m Phytozome_Cs:orange1.1g026389m Phytozome_Cs:orange1.1g018705m Phytozome_Cs:orange1.1g017371m Phytozome_Cs:orange1.1g046107m Phytozome_Cs:orange1.1g018474m Phytozome_Cs:orange1.1g023085m Phytozome_Cs:orange1.1g017520m Phytozome_Cs:orange1.1g018144m Phytozome_Cs:orange1.1g022967m Phytozome_Cs:orange1.1g017317m Phytozome_Cs:orange1.1g026118m
+Q7XE48	Phytozome_Cs:orange1.1g006770m Phytozome_Cs:orange1.1g015531m Phytozome_Cs:orange1.1g011755m Phytozome_Cs:orange1.1g007130m Phytozome_Cs:orange1.1g015971m Phytozome_Cs:orange1.1g018901m
+Q7XEH2	Phytozome_Cs:orange1.1g021144m Phytozome_Cs:orange1.1g024544m Phytozome_Cs:orange1.1g025860m Phytozome_Cs:orange1.1g019107m Phytozome_Cs:orange1.1g027947m
+Q7XEZ1	Phytozome_Cs:orange1.1g026462m Phytozome_Cs:orange1.1g028982m Phytozome_Cs:orange1.1g030183m
+Q7XEZ6	Phytozome_Cs:orange1.1g030011m Phytozome_Cs:orange1.1g023795m Phytozome_Cs:orange1.1g029227m Phytozome_Cs:orange1.1g027356m Phytozome_Cs:orange1.1g031558m Phytozome_Cs:orange1.1g027340m Phytozome_Cs:orange1.1g028311m Phytozome_Cs:orange1.1g028845m Phytozome_Cs:orange1.1g029134m Phytozome_Cs:orange1.1g022037m
+Q7XH05	Phytozome_Cs:orange1.1g002311m Phytozome_Cs:orange1.1g002932m Phytozome_Cs:orange1.1g000669m Phytozome_Cs:orange1.1g002015m Phytozome_Cs:orange1.1g000981m Phytozome_Cs:orange1.1g000629m Phytozome_Cs:orange1.1g001024m Phytozome_Cs:orange1.1g003040m
+Q7XHL3	Phytozome_Cs:orange1.1g010842m Phytozome_Cs:orange1.1g041829m
+Q7XHZ2	Phytozome_Cs:orange1.1g012505m Phytozome_Cs:orange1.1g012560m
+Q7XI34	Phytozome_Cs:orange1.1g013342m Phytozome_Cs:orange1.1g046167m Phytozome_Cs:orange1.1g012151m Phytozome_Cs:orange1.1g013836m Phytozome_Cs:orange1.1g012678m Phytozome_Cs:orange1.1g012543m Phytozome_Cs:orange1.1g012563m Phytozome_Cs:orange1.1g040486m Phytozome_Cs:orange1.1g016062m Phytozome_Cs:orange1.1g012613m Phytozome_Cs:orange1.1g020179m Phytozome_Cs:orange1.1g014232m Phytozome_Cs:orange1.1g018483m Phytozome_Cs:orange1.1g012735m Phytozome_Cs:orange1.1g012474m
+Q7XI35	Phytozome_Cs:orange1.1g013342m Phytozome_Cs:orange1.1g046167m Phytozome_Cs:orange1.1g012151m Phytozome_Cs:orange1.1g013836m Phytozome_Cs:orange1.1g012678m Phytozome_Cs:orange1.1g012543m Phytozome_Cs:orange1.1g012563m Phytozome_Cs:orange1.1g040486m Phytozome_Cs:orange1.1g016062m Phytozome_Cs:orange1.1g012613m Phytozome_Cs:orange1.1g020179m Phytozome_Cs:orange1.1g014232m Phytozome_Cs:orange1.1g018483m Phytozome_Cs:orange1.1g012735m Phytozome_Cs:orange1.1g012474m
+Q7XI45	Phytozome_Cs:orange1.1g033701m Phytozome_Cs:orange1.1g034168m
+Q7XI92	Phytozome_Cs:orange1.1g038854m Phytozome_Cs:orange1.1g038404m Phytozome_Cs:orange1.1g037716m Phytozome_Cs:orange1.1g024239m
+Q7XI96	Phytozome_Cs:orange1.1g020929m Phytozome_Cs:orange1.1g022148m
+Q7XK23	Phytozome_Cs:orange1.1g019198m Phytozome_Cs:orange1.1g018224m
+Q7XKH9	Phytozome_Cs:orange1.1g047540m Phytozome_Cs:orange1.1g010775m Phytozome_Cs:orange1.1g037221m Phytozome_Cs:orange1.1g022329m Phytozome_Cs:orange1.1g010825m Phytozome_Cs:orange1.1g010684m Phytozome_Cs:orange1.1g022321m Phytozome_Cs:orange1.1g012217m Phytozome_Cs:orange1.1g022811m Phytozome_Cs:orange1.1g012342m
+Q7XKI0	Phytozome_Cs:orange1.1g047540m Phytozome_Cs:orange1.1g010775m Phytozome_Cs:orange1.1g037221m Phytozome_Cs:orange1.1g022329m Phytozome_Cs:orange1.1g010825m Phytozome_Cs:orange1.1g010684m Phytozome_Cs:orange1.1g022321m Phytozome_Cs:orange1.1g012217m Phytozome_Cs:orange1.1g022811m Phytozome_Cs:orange1.1g012342m
+Q7XKQ8	Phytozome_Cs:orange1.1g040733m Phytozome_Cs:orange1.1g048725m
+Q7XM21	Phytozome_Cs:orange1.1g018041m Phytozome_Cs:orange1.1g017946m Phytozome_Cs:orange1.1g022556m
+Q7XMA8	Phytozome_Cs:orange1.1g047540m Phytozome_Cs:orange1.1g010775m Phytozome_Cs:orange1.1g037221m Phytozome_Cs:orange1.1g022329m Phytozome_Cs:orange1.1g010825m Phytozome_Cs:orange1.1g010684m Phytozome_Cs:orange1.1g022321m Phytozome_Cs:orange1.1g012217m Phytozome_Cs:orange1.1g022811m Phytozome_Cs:orange1.1g012342m
+Q7XN11	Phytozome_Cs:orange1.1g010250m Phytozome_Cs:orange1.1g013243m Phytozome_Cs:orange1.1g013204m
+Q7XNL8	Phytozome_Cs:orange1.1g034468m
+Q7XPB5	Phytozome_Cs:orange1.1g018253m Phytozome_Cs:orange1.1g018443m
+Q7XPR4	Phytozome_Cs:orange1.1g028827m Phytozome_Cs:orange1.1g026410m Phytozome_Cs:orange1.1g026391m Phytozome_Cs:orange1.1g026380m Phytozome_Cs:orange1.1g039466m Phytozome_Cs:orange1.1g028838m Phytozome_Cs:orange1.1g024846m
+Q7XPW5	Phytozome_Cs:orange1.1g038498m
+Q7XQ85	Phytozome_Cs:orange1.1g011570m
+Q7XR02	Phytozome_Cs:orange1.1g032200m
+Q7XR52	Phytozome_Cs:orange1.1g012022m
+Q7XR60	Phytozome_Cs:orange1.1g048614m Phytozome_Cs:orange1.1g045250m
+Q7XR61	Phytozome_Cs:orange1.1g048614m Phytozome_Cs:orange1.1g045250m
+Q7XRA1	Phytozome_Cs:orange1.1g004438m Phytozome_Cs:orange1.1g005135m
+Q7XRT0	Phytozome_Cs:orange1.1g027781m Phytozome_Cs:orange1.1g022385m Phytozome_Cs:orange1.1g022390m Phytozome_Cs:orange1.1g026923m
+Q7XRX3	Phytozome_Cs:orange1.1g034429m
+Q7XSS9	Phytozome_Cs:orange1.1g038793m Phytozome_Cs:orange1.1g043927m
+Q7XTE8	Phytozome_Cs:orange1.1g024736m Phytozome_Cs:orange1.1g024714m
+Q7XTH0	Phytozome_Cs:orange1.1g047540m Phytozome_Cs:orange1.1g010775m Phytozome_Cs:orange1.1g037221m Phytozome_Cs:orange1.1g022329m Phytozome_Cs:orange1.1g010825m Phytozome_Cs:orange1.1g010684m Phytozome_Cs:orange1.1g022321m Phytozome_Cs:orange1.1g012217m Phytozome_Cs:orange1.1g022811m Phytozome_Cs:orange1.1g012342m
+Q7XTK3	Phytozome_Cs:orange1.1g044294m Phytozome_Cs:orange1.1g037166m
+Q7XTX7	Phytozome_Cs:orange1.1g007521m
+Q7XU28	Phytozome_Cs:orange1.1g018330m
+Q7XU29	Phytozome_Cs:orange1.1g043705m
+Q7XUA8	Phytozome_Cs:orange1.1g013571m Phytozome_Cs:orange1.1g021336m Phytozome_Cs:orange1.1g036756m Phytozome_Cs:orange1.1g020605m
+Q7XUH5	Phytozome_Cs:orange1.1g024684m Phytozome_Cs:orange1.1g019622m Phytozome_Cs:orange1.1g019608m Phytozome_Cs:orange1.1g022510m
+Q7XUK6	Phytozome_Cs:orange1.1g027801m Phytozome_Cs:orange1.1g032216m
+Q7XUS2	Phytozome_Cs:orange1.1g027062m Phytozome_Cs:orange1.1g037843m Phytozome_Cs:orange1.1g029484m Phytozome_Cs:orange1.1g030626m Phytozome_Cs:orange1.1g046651m
+Q7XV13	Phytozome_Cs:orange1.1g002436m Phytozome_Cs:orange1.1g002417m
+Q7XV42	Phytozome_Cs:orange1.1g047540m Phytozome_Cs:orange1.1g010775m Phytozome_Cs:orange1.1g037221m Phytozome_Cs:orange1.1g022329m Phytozome_Cs:orange1.1g010825m Phytozome_Cs:orange1.1g010684m Phytozome_Cs:orange1.1g022321m Phytozome_Cs:orange1.1g012217m Phytozome_Cs:orange1.1g022811m Phytozome_Cs:orange1.1g012342m
+Q7XVM2	Phytozome_Cs:orange1.1g017358m Phytozome_Cs:orange1.1g036766m Phytozome_Cs:orange1.1g012142m Phytozome_Cs:orange1.1g012864m Phytozome_Cs:orange1.1g018779m Phytozome_Cs:orange1.1g019331m
+Q7XVM8	Phytozome_Cs:orange1.1g007912m Phytozome_Cs:orange1.1g008051m Phytozome_Cs:orange1.1g008325m
+Q7XVP0	Phytozome_Cs:orange1.1g023978m Phytozome_Cs:orange1.1g029100m Phytozome_Cs:orange1.1g023993m Phytozome_Cs:orange1.1g036939m Phytozome_Cs:orange1.1g024004m
+Q7XWP9	Phytozome_Cs:orange1.1g004970m Phytozome_Cs:orange1.1g004495m Phytozome_Cs:orange1.1g004509m Phytozome_Cs:orange1.1g005021m
+Q7XX31	Phytozome_Cs:orange1.1g009502m
+Q7XX32	Phytozome_Cs:orange1.1g009502m
+Q7XXL2	Phytozome_Cs:orange1.1g039837m
+Q7XXQ9	Phytozome_Cs:orange1.1g020289m Phytozome_Cs:orange1.1g020329m Phytozome_Cs:orange1.1g020596m
+Q7XYS3	Phytozome_Cs:orange1.1g043892m
+Q7XZH5	Phytozome_Cs:orange1.1g044923m Phytozome_Cs:orange1.1g044485m Phytozome_Cs:orange1.1g023553m Phytozome_Cs:orange1.1g046809m Phytozome_Cs:orange1.1g023573m Phytozome_Cs:orange1.1g023613m Phytozome_Cs:orange1.1g023554m
+Q7Y0B9	Phytozome_Cs:orange1.1g023058m Phytozome_Cs:orange1.1g019901m Phytozome_Cs:orange1.1g017936m Phytozome_Cs:orange1.1g020133m Phytozome_Cs:orange1.1g017933m Phytozome_Cs:orange1.1g017860m
+Q7Y0C8	Phytozome_Cs:orange1.1g043892m
+Q7Y0W5	Phytozome_Cs:orange1.1g044790m Phytozome_Cs:orange1.1g027234m Phytozome_Cs:orange1.1g029986m
+Q7Y0Y6	Phytozome_Cs:orange1.1g011109m Phytozome_Cs:orange1.1g014460m Phytozome_Cs:orange1.1g010834m Phytozome_Cs:orange1.1g010858m Phytozome_Cs:orange1.1g011761m Phytozome_Cs:orange1.1g014465m Phytozome_Cs:orange1.1g014470m
+Q7Y0Y8	Phytozome_Cs:orange1.1g011109m Phytozome_Cs:orange1.1g014460m Phytozome_Cs:orange1.1g010834m Phytozome_Cs:orange1.1g010858m Phytozome_Cs:orange1.1g011761m Phytozome_Cs:orange1.1g014465m Phytozome_Cs:orange1.1g014470m
+Q7Y152	Phytozome_Cs:orange1.1g017802m Phytozome_Cs:orange1.1g048621m Phytozome_Cs:orange1.1g016886m Phytozome_Cs:orange1.1g016879m Phytozome_Cs:orange1.1g010850m Phytozome_Cs:orange1.1g018397m Phytozome_Cs:orange1.1g020300m Phytozome_Cs:orange1.1g018058m
+Q84JH5	Phytozome_Cs:orange1.1g018327m Phytozome_Cs:orange1.1g018060m Phytozome_Cs:orange1.1g022113m
+Q84JI0	Phytozome_Cs:orange1.1g015135m Phytozome_Cs:orange1.1g036852m
+Q84LF7	Phytozome_Cs:orange1.1g046079m
+Q84M43	Phytozome_Cs:orange1.1g001420m Phytozome_Cs:orange1.1g001430m Phytozome_Cs:orange1.1g001422m Phytozome_Cs:orange1.1g004118m Phytozome_Cs:orange1.1g003073m Phytozome_Cs:orange1.1g002469m Phytozome_Cs:orange1.1g003527m Phytozome_Cs:orange1.1g001413m Phytozome_Cs:orange1.1g003541m Phytozome_Cs:orange1.1g001424m Phytozome_Cs:orange1.1g001431m Phytozome_Cs:orange1.1g001427m Phytozome_Cs:orange1.1g001421m
+Q84ME6	Phytozome_Cs:orange1.1g030992m Phytozome_Cs:orange1.1g027253m
+Q84MN8	Phytozome_Cs:orange1.1g021558m Phytozome_Cs:orange1.1g012433m Phytozome_Cs:orange1.1g015787m
+Q84NP3	Phytozome_Cs:orange1.1g019885m Phytozome_Cs:orange1.1g012763m Phytozome_Cs:orange1.1g019864m Phytozome_Cs:orange1.1g025223m Phytozome_Cs:orange1.1g015238m Phytozome_Cs:orange1.1g019894m
+Q84Q89	Phytozome_Cs:orange1.1g039124m
+Q84QA7	Phytozome_Cs:orange1.1g007586m
+Q84QC0	Phytozome_Cs:orange1.1g044744m Phytozome_Cs:orange1.1g021748m Phytozome_Cs:orange1.1g021716m Phytozome_Cs:orange1.1g027101m Phytozome_Cs:orange1.1g047636m Phytozome_Cs:orange1.1g026454m Phytozome_Cs:orange1.1g026084m Phytozome_Cs:orange1.1g022681m Phytozome_Cs:orange1.1g029440m
+Q84R94	Phytozome_Cs:orange1.1g023369m Phytozome_Cs:orange1.1g025735m Phytozome_Cs:orange1.1g028898m Phytozome_Cs:orange1.1g025991m
+Q84VC7	Phytozome_Cs:orange1.1g004879m Phytozome_Cs:orange1.1g002589m Phytozome_Cs:orange1.1g002628m Phytozome_Cs:orange1.1g003536m Phytozome_Cs:orange1.1g005005m
+Q84YK8	Phytozome_Cs:orange1.1g002644m Phytozome_Cs:orange1.1g002670m Phytozome_Cs:orange1.1g002672m Phytozome_Cs:orange1.1g003699m Phytozome_Cs:orange1.1g008591m Phytozome_Cs:orange1.1g002617m Phytozome_Cs:orange1.1g007678m Phytozome_Cs:orange1.1g008399m Phytozome_Cs:orange1.1g007674m Phytozome_Cs:orange1.1g006365m Phytozome_Cs:orange1.1g012542m Phytozome_Cs:orange1.1g006428m Phytozome_Cs:orange1.1g008395m Phytozome_Cs:orange1.1g005971m Phytozome_Cs:orange1.1g008659m Phytozome_Cs:orange1.1g006629m Phytozome_Cs:orange1.1g004307m Phytozome_Cs:orange1.1g006999m Phytozome_Cs:orange1.1g002649m Phytozome_Cs:orange1.1g047131m Phytozome_Cs:orange1.1g040723m Phytozome_Cs:orange1.1g005962m Phytozome_Cs:orange1.1g002706m
+Q84ZN6	Phytozome_Cs:orange1.1g001420m Phytozome_Cs:orange1.1g001430m Phytozome_Cs:orange1.1g001422m Phytozome_Cs:orange1.1g004118m Phytozome_Cs:orange1.1g003073m Phytozome_Cs:orange1.1g002469m Phytozome_Cs:orange1.1g003527m Phytozome_Cs:orange1.1g001413m Phytozome_Cs:orange1.1g003541m Phytozome_Cs:orange1.1g001424m Phytozome_Cs:orange1.1g001431m Phytozome_Cs:orange1.1g001427m Phytozome_Cs:orange1.1g001421m
+Q84ZY2	Phytozome_Cs:orange1.1g004970m Phytozome_Cs:orange1.1g004495m Phytozome_Cs:orange1.1g004509m Phytozome_Cs:orange1.1g005021m
+Q851L5	Phytozome_Cs:orange1.1g013571m Phytozome_Cs:orange1.1g021336m Phytozome_Cs:orange1.1g036756m Phytozome_Cs:orange1.1g020605m
+Q851L6	Phytozome_Cs:orange1.1g013571m Phytozome_Cs:orange1.1g021336m Phytozome_Cs:orange1.1g036756m Phytozome_Cs:orange1.1g020605m
+Q851Z6	Phytozome_Cs:orange1.1g012808m Phytozome_Cs:orange1.1g008621m Phytozome_Cs:orange1.1g008693m
+Q852C2	Phytozome_Cs:orange1.1g013342m Phytozome_Cs:orange1.1g046167m Phytozome_Cs:orange1.1g012151m Phytozome_Cs:orange1.1g013836m Phytozome_Cs:orange1.1g012678m Phytozome_Cs:orange1.1g012543m Phytozome_Cs:orange1.1g012563m Phytozome_Cs:orange1.1g040486m Phytozome_Cs:orange1.1g016062m Phytozome_Cs:orange1.1g012613m Phytozome_Cs:orange1.1g020179m Phytozome_Cs:orange1.1g014232m Phytozome_Cs:orange1.1g018483m Phytozome_Cs:orange1.1g012735m Phytozome_Cs:orange1.1g012474m
+Q852M1	Phytozome_Cs:orange1.1g002311m Phytozome_Cs:orange1.1g002932m Phytozome_Cs:orange1.1g000669m Phytozome_Cs:orange1.1g002015m Phytozome_Cs:orange1.1g000981m Phytozome_Cs:orange1.1g000629m Phytozome_Cs:orange1.1g001024m Phytozome_Cs:orange1.1g003040m
+Q852M2	Phytozome_Cs:orange1.1g002311m Phytozome_Cs:orange1.1g002932m Phytozome_Cs:orange1.1g000669m Phytozome_Cs:orange1.1g002015m Phytozome_Cs:orange1.1g000981m Phytozome_Cs:orange1.1g000629m Phytozome_Cs:orange1.1g001024m Phytozome_Cs:orange1.1g003040m
+Q852Q1	Phytozome_Cs:orange1.1g010214m Phytozome_Cs:orange1.1g022617m Phytozome_Cs:orange1.1g012201m Phytozome_Cs:orange1.1g010208m Phytozome_Cs:orange1.1g016985m Phytozome_Cs:orange1.1g014842m Phytozome_Cs:orange1.1g017029m
+Q8GRS2	Phytozome_Cs:orange1.1g026462m Phytozome_Cs:orange1.1g028982m Phytozome_Cs:orange1.1g030183m
+Q8GRU7	Phytozome_Cs:orange1.1g022949m Phytozome_Cs:orange1.1g011357m Phytozome_Cs:orange1.1g008692m Phytozome_Cs:orange1.1g015802m
+Q8GSD9	Phytozome_Cs:orange1.1g010112m Phytozome_Cs:orange1.1g010076m Phytozome_Cs:orange1.1g046667m
+Q8GSI0	Phytozome_Cs:orange1.1g020030m Phytozome_Cs:orange1.1g020700m Phytozome_Cs:orange1.1g025069m Phytozome_Cs:orange1.1g020724m Phytozome_Cs:orange1.1g018411m Phytozome_Cs:orange1.1g017322m Phytozome_Cs:orange1.1g019230m
+Q8GT01	Phytozome_Cs:orange1.1g024016m Phytozome_Cs:orange1.1g023866m Phytozome_Cs:orange1.1g024121m
+Q8GTK1	Phytozome_Cs:orange1.1g046862m Phytozome_Cs:orange1.1g038655m Phytozome_Cs:orange1.1g039445m
+Q8GVJ4	Phytozome_Cs:orange1.1g040843m Phytozome_Cs:orange1.1g019605m Phytozome_Cs:orange1.1g016781m
+Q8GVN6	Phytozome_Cs:orange1.1g017205m
+Q8GVZ0	Phytozome_Cs:orange1.1g027372m Phytozome_Cs:orange1.1g022053m Phytozome_Cs:orange1.1g029516m Phytozome_Cs:orange1.1g027303m Phytozome_Cs:orange1.1g030138m Phytozome_Cs:orange1.1g029829m
+Q8GZY1	Phytozome_Cs:orange1.1g009497m Phytozome_Cs:orange1.1g010226m
+Q8H016	Phytozome_Cs:orange1.1g002436m Phytozome_Cs:orange1.1g002417m
+Q8H048	Phytozome_Cs:orange1.1g001129m Phytozome_Cs:orange1.1g001250m Phytozome_Cs:orange1.1g003060m Phytozome_Cs:orange1.1g003210m Phytozome_Cs:orange1.1g009008m Phytozome_Cs:orange1.1g001128m Phytozome_Cs:orange1.1g001126m Phytozome_Cs:orange1.1g003057m Phytozome_Cs:orange1.1g001130m Phytozome_Cs:orange1.1g007000m Phytozome_Cs:orange1.1g001122m
+Q8H051	Phytozome_Cs:orange1.1g018518m Phytozome_Cs:orange1.1g012909m Phytozome_Cs:orange1.1g013297m Phytozome_Cs:orange1.1g012353m Phytozome_Cs:orange1.1g018515m Phytozome_Cs:orange1.1g012273m Phytozome_Cs:orange1.1g012253m
+Q8H093	Phytozome_Cs:orange1.1g001129m Phytozome_Cs:orange1.1g001250m Phytozome_Cs:orange1.1g003060m Phytozome_Cs:orange1.1g003210m Phytozome_Cs:orange1.1g009008m Phytozome_Cs:orange1.1g001128m Phytozome_Cs:orange1.1g001126m Phytozome_Cs:orange1.1g003057m Phytozome_Cs:orange1.1g001130m Phytozome_Cs:orange1.1g007000m Phytozome_Cs:orange1.1g001122m
+Q8H0A1	Phytozome_Cs:orange1.1g015464m Phytozome_Cs:orange1.1g018090m Phytozome_Cs:orange1.1g015945m
+Q8H0B2	Phytozome_Cs:orange1.1g015073m Phytozome_Cs:orange1.1g015079m Phytozome_Cs:orange1.1g015080m Phytozome_Cs:orange1.1g015119m Phytozome_Cs:orange1.1g015109m Phytozome_Cs:orange1.1g015114m
+Q8H0B6	Phytozome_Cs:orange1.1g015073m Phytozome_Cs:orange1.1g015079m Phytozome_Cs:orange1.1g015080m Phytozome_Cs:orange1.1g015119m Phytozome_Cs:orange1.1g015109m Phytozome_Cs:orange1.1g015114m
+Q8H273	Phytozome_Cs:orange1.1g029015m Phytozome_Cs:orange1.1g038285m Phytozome_Cs:orange1.1g028094m Phytozome_Cs:orange1.1g026103m Phytozome_Cs:orange1.1g038709m
+Q8H2J9	Phytozome_Cs:orange1.1g014700m Phytozome_Cs:orange1.1g012596m Phytozome_Cs:orange1.1g012720m
+Q8H395	Phytozome_Cs:orange1.1g023369m Phytozome_Cs:orange1.1g025735m Phytozome_Cs:orange1.1g028898m Phytozome_Cs:orange1.1g025991m
+Q8H3A4	Phytozome_Cs:orange1.1g016199m Phytozome_Cs:orange1.1g026389m Phytozome_Cs:orange1.1g018705m Phytozome_Cs:orange1.1g017371m Phytozome_Cs:orange1.1g046107m Phytozome_Cs:orange1.1g018474m Phytozome_Cs:orange1.1g023085m Phytozome_Cs:orange1.1g017520m Phytozome_Cs:orange1.1g018144m Phytozome_Cs:orange1.1g022967m Phytozome_Cs:orange1.1g017317m Phytozome_Cs:orange1.1g026118m
+Q8H3C8	Phytozome_Cs:orange1.1g013571m Phytozome_Cs:orange1.1g021336m Phytozome_Cs:orange1.1g036756m Phytozome_Cs:orange1.1g020605m
+Q8H3C9	Phytozome_Cs:orange1.1g013571m Phytozome_Cs:orange1.1g021336m Phytozome_Cs:orange1.1g036756m Phytozome_Cs:orange1.1g020605m
+Q8H3L0	Phytozome_Cs:orange1.1g010083m
+Q8H3Q7	Phytozome_Cs:orange1.1g037393m
+Q8H4L3	Phytozome_Cs:orange1.1g016330m
+Q8H530	Phytozome_Cs:orange1.1g041243m
+Q8H539	Phytozome_Cs:orange1.1g041039m Phytozome_Cs:orange1.1g024678m Phytozome_Cs:orange1.1g029221m
+Q8H6G8	Phytozome_Cs:orange1.1g010112m Phytozome_Cs:orange1.1g010076m Phytozome_Cs:orange1.1g046667m
+Q8H7P5	Phytozome_Cs:orange1.1g035790m
+Q8H7T7	Phytozome_Cs:orange1.1g027646m Phytozome_Cs:orange1.1g025084m
+Q8H825	Phytozome_Cs:orange1.1g020275m
+Q8H8U0	Phytozome_Cs:orange1.1g018312m
+Q8H930	Phytozome_Cs:orange1.1g015073m Phytozome_Cs:orange1.1g015079m Phytozome_Cs:orange1.1g015080m Phytozome_Cs:orange1.1g015119m Phytozome_Cs:orange1.1g015109m Phytozome_Cs:orange1.1g015114m
+Q8LGZ9	Phytozome_Cs:orange1.1g019715m Phytozome_Cs:orange1.1g018025m Phytozome_Cs:orange1.1g019949m Phytozome_Cs:orange1.1g040559m Phytozome_Cs:orange1.1g018014m
+Q8LHD1	Phytozome_Cs:orange1.1g000831m Phytozome_Cs:orange1.1g001049m
+Q8LI89	Phytozome_Cs:orange1.1g014523m Phytozome_Cs:orange1.1g004727m Phytozome_Cs:orange1.1g009537m Phytozome_Cs:orange1.1g011602m Phytozome_Cs:orange1.1g007749m Phytozome_Cs:orange1.1g004719m Phytozome_Cs:orange1.1g009550m
+Q8LJJ2	Phytozome_Cs:orange1.1g009957m Phytozome_Cs:orange1.1g009781m
+Q8LM92	Phytozome_Cs:orange1.1g020877m Phytozome_Cs:orange1.1g047593m Phytozome_Cs:orange1.1g042286m
+Q8LMW8	Phytozome_Cs:orange1.1g043403m
+Q8LN68	Phytozome_Cs:orange1.1g035911m Phytozome_Cs:orange1.1g039323m Phytozome_Cs:orange1.1g047495m
+Q8LNU2	Phytozome_Cs:orange1.1g002807m
+Q8LQ34	Phytozome_Cs:orange1.1g048730m
+Q8RU95	Phytozome_Cs:orange1.1g008895m Phytozome_Cs:orange1.1g012774m Phytozome_Cs:orange1.1g012015m Phytozome_Cs:orange1.1g045351m Phytozome_Cs:orange1.1g011116m Phytozome_Cs:orange1.1g015325m Phytozome_Cs:orange1.1g008749m
+Q8RV06	Phytozome_Cs:orange1.1g011842m Phytozome_Cs:orange1.1g011871m
+Q8RV34	Phytozome_Cs:orange1.1g019381m
+Q8RYL0	Phytozome_Cs:orange1.1g040324m Phytozome_Cs:orange1.1g046230m
+Q8RZV7	Phytozome_Cs:orange1.1g002155m
+Q8S0G4	Phytozome_Cs:orange1.1g022050m Phytozome_Cs:orange1.1g012349m Phytozome_Cs:orange1.1g042202m Phytozome_Cs:orange1.1g012547m Phytozome_Cs:orange1.1g019978m
+Q8S2E5	Phytozome_Cs:orange1.1g022268m Phytozome_Cs:orange1.1g015926m
+Q8S2G0	Phytozome_Cs:orange1.1g016716m
+Q8S2G5	Phytozome_Cs:orange1.1g022050m Phytozome_Cs:orange1.1g012349m Phytozome_Cs:orange1.1g042202m Phytozome_Cs:orange1.1g012547m Phytozome_Cs:orange1.1g019978m
+Q8S3R0	Phytozome_Cs:orange1.1g020916m
+Q8S5M6	Phytozome_Cs:orange1.1g043341m
+Q8S5N2	Phytozome_Cs:orange1.1g010460m Phytozome_Cs:orange1.1g011047m
+Q8S5T1	Phytozome_Cs:orange1.1g042564m
+Q8S601	Phytozome_Cs:orange1.1g014818m Phytozome_Cs:orange1.1g024169m Phytozome_Cs:orange1.1g019084m Phytozome_Cs:orange1.1g021288m Phytozome_Cs:orange1.1g021971m Phytozome_Cs:orange1.1g015714m Phytozome_Cs:orange1.1g014790m
+Q8S7T9	Phytozome_Cs:orange1.1g008324m Phytozome_Cs:orange1.1g037479m Phytozome_Cs:orange1.1g016854m Phytozome_Cs:orange1.1g008315m
+Q8S919	Phytozome_Cs:orange1.1g032060m Phytozome_Cs:orange1.1g048404m Phytozome_Cs:orange1.1g032075m Phytozome_Cs:orange1.1g032055m Phytozome_Cs:orange1.1g032038m
+Q8S920	Phytozome_Cs:orange1.1g032060m Phytozome_Cs:orange1.1g048404m Phytozome_Cs:orange1.1g032075m Phytozome_Cs:orange1.1g032055m Phytozome_Cs:orange1.1g032038m
+Q8S983	Phytozome_Cs:orange1.1g002516m
+Q8S985	Phytozome_Cs:orange1.1g004436m Phytozome_Cs:orange1.1g004489m Phytozome_Cs:orange1.1g004532m Phytozome_Cs:orange1.1g012439m Phytozome_Cs:orange1.1g004106m
+Q8S9S4	Phytozome_Cs:orange1.1g013332m Phytozome_Cs:orange1.1g020439m Phytozome_Cs:orange1.1g023013m Phytozome_Cs:orange1.1g023049m Phytozome_Cs:orange1.1g021680m Phytozome_Cs:orange1.1g013442m Phytozome_Cs:orange1.1g023014m Phytozome_Cs:orange1.1g014490m Phytozome_Cs:orange1.1g021176m Phytozome_Cs:orange1.1g013076m
+Q8S9Z2	Phytozome_Cs:orange1.1g016370m
+Q8VWH2	Phytozome_Cs:orange1.1g030371m
+Q8W0B6	Phytozome_Cs:orange1.1g010565m Phytozome_Cs:orange1.1g013579m Phytozome_Cs:orange1.1g010638m Phytozome_Cs:orange1.1g010346m Phytozome_Cs:orange1.1g046534m
+Q8W0E4	Phytozome_Cs:orange1.1g047635m
+Q8W1L6	Phytozome_Cs:orange1.1g004891m Phytozome_Cs:orange1.1g004726m Phytozome_Cs:orange1.1g008509m Phytozome_Cs:orange1.1g004972m Phytozome_Cs:orange1.1g004918m Phytozome_Cs:orange1.1g007805m Phytozome_Cs:orange1.1g009256m Phytozome_Cs:orange1.1g004892m
+Q8W250	Phytozome_Cs:orange1.1g040690m Phytozome_Cs:orange1.1g012004m Phytozome_Cs:orange1.1g018600m Phytozome_Cs:orange1.1g017567m Phytozome_Cs:orange1.1g013846m Phytozome_Cs:orange1.1g018592m
+Q8W3F9	Phytozome_Cs:orange1.1g001213m
+Q8W3J0	Phytozome_Cs:orange1.1g019309m Phytozome_Cs:orange1.1g019317m Phytozome_Cs:orange1.1g019276m Phytozome_Cs:orange1.1g019060m Phytozome_Cs:orange1.1g019079m Phytozome_Cs:orange1.1g019062m Phytozome_Cs:orange1.1g019293m Phytozome_Cs:orange1.1g022414m
+Q8W3L9	Phytozome_Cs:orange1.1g007028m Phytozome_Cs:orange1.1g007187m Phytozome_Cs:orange1.1g007186m Phytozome_Cs:orange1.1g007983m Phytozome_Cs:orange1.1g007180m Phytozome_Cs:orange1.1g007174m Phytozome_Cs:orange1.1g009144m Phytozome_Cs:orange1.1g007034m Phytozome_Cs:orange1.1g008002m Phytozome_Cs:orange1.1g016498m Phytozome_Cs:orange1.1g016500m Phytozome_Cs:orange1.1g007988m Phytozome_Cs:orange1.1g007173m Phytozome_Cs:orange1.1g016840m Phytozome_Cs:orange1.1g007017m Phytozome_Cs:orange1.1g009140m Phytozome_Cs:orange1.1g012304m Phytozome_Cs:orange1.1g012340m
+Q8W3M0	Phytozome_Cs:orange1.1g007028m Phytozome_Cs:orange1.1g007187m Phytozome_Cs:orange1.1g007186m Phytozome_Cs:orange1.1g007983m Phytozome_Cs:orange1.1g007180m Phytozome_Cs:orange1.1g007174m Phytozome_Cs:orange1.1g009144m Phytozome_Cs:orange1.1g007034m Phytozome_Cs:orange1.1g008002m Phytozome_Cs:orange1.1g016498m Phytozome_Cs:orange1.1g016500m Phytozome_Cs:orange1.1g007988m Phytozome_Cs:orange1.1g007173m Phytozome_Cs:orange1.1g016840m Phytozome_Cs:orange1.1g007017m Phytozome_Cs:orange1.1g009140m Phytozome_Cs:orange1.1g012304m Phytozome_Cs:orange1.1g012340m
+Q93VC3	Phytozome_Cs:orange1.1g019717m Phytozome_Cs:orange1.1g044975m Phytozome_Cs:orange1.1g019857m
+Q93VD5	Phytozome_Cs:orange1.1g010461m Phytozome_Cs:orange1.1g047920m
+Q93WI9	Phytozome_Cs:orange1.1g030371m
+Q93X08	Phytozome_Cs:orange1.1g012172m Phytozome_Cs:orange1.1g019770m Phytozome_Cs:orange1.1g013550m
+Q93XI4	Phytozome_Cs:orange1.1g022243m Phytozome_Cs:orange1.1g031422m Phytozome_Cs:orange1.1g027914m Phytozome_Cs:orange1.1g022174m Phytozome_Cs:orange1.1g027467m Phytozome_Cs:orange1.1g029167m
+Q93Y73	Phytozome_Cs:orange1.1g023678m Phytozome_Cs:orange1.1g017153m
+Q941W8	Phytozome_Cs:orange1.1g038201m
+Q945X3	Phytozome_Cs:orange1.1g028226m Phytozome_Cs:orange1.1g027737m Phytozome_Cs:orange1.1g029374m Phytozome_Cs:orange1.1g030456m Phytozome_Cs:orange1.1g028190m Phytozome_Cs:orange1.1g029352m Phytozome_Cs:orange1.1g030554m Phytozome_Cs:orange1.1g028170m Phytozome_Cs:orange1.1g028193m Phytozome_Cs:orange1.1g028176m
+Q948T6	Phytozome_Cs:orange1.1g022831m Phytozome_Cs:orange1.1g022840m Phytozome_Cs:orange1.1g022818m Phytozome_Cs:orange1.1g022835m Phytozome_Cs:orange1.1g022851m Phytozome_Cs:orange1.1g022871m
+Q94E75	Phytozome_Cs:orange1.1g016019m Phytozome_Cs:orange1.1g014649m Phytozome_Cs:orange1.1g014608m Phytozome_Cs:orange1.1g014638m
+Q94EE9	Phytozome_Cs:orange1.1g037144m Phytozome_Cs:orange1.1g038818m Phytozome_Cs:orange1.1g048643m Phytozome_Cs:orange1.1g010125m Phytozome_Cs:orange1.1g048438m Phytozome_Cs:orange1.1g046506m
+Q94GF1	Phytozome_Cs:orange1.1g012578m Phytozome_Cs:orange1.1g007699m
+Q94HG3	Phytozome_Cs:orange1.1g007705m
+Q94HG6	Phytozome_Cs:orange1.1g019878m Phytozome_Cs:orange1.1g027007m Phytozome_Cs:orange1.1g022832m Phytozome_Cs:orange1.1g028444m Phytozome_Cs:orange1.1g021565m Phytozome_Cs:orange1.1g026744m Phytozome_Cs:orange1.1g020468m
+Q94IW5	Phytozome_Cs:orange1.1g012417m Phytozome_Cs:orange1.1g012422m Phytozome_Cs:orange1.1g012040m Phytozome_Cs:orange1.1g023238m Phytozome_Cs:orange1.1g010923m Phytozome_Cs:orange1.1g017749m Phytozome_Cs:orange1.1g020090m Phytozome_Cs:orange1.1g013673m
+Q94J90	Phytozome_Cs:orange1.1g014320m Phytozome_Cs:orange1.1g020079m Phytozome_Cs:orange1.1g009282m Phytozome_Cs:orange1.1g009410m
+Q94JA2	Phytozome_Cs:orange1.1g022546m Phytozome_Cs:orange1.1g022263m Phytozome_Cs:orange1.1g018314m Phytozome_Cs:orange1.1g019519m Phytozome_Cs:orange1.1g025206m
+Q94JJ0	Phytozome_Cs:orange1.1g018580m Phytozome_Cs:orange1.1g021290m Phytozome_Cs:orange1.1g016568m Phytozome_Cs:orange1.1g015888m
+Q94LU9	Phytozome_Cs:orange1.1g043376m Phytozome_Cs:orange1.1g041678m
+Q94LV4	Phytozome_Cs:orange1.1g027646m Phytozome_Cs:orange1.1g025084m
+Q9ASD3	Phytozome_Cs:orange1.1g026663m Phytozome_Cs:orange1.1g026670m Phytozome_Cs:orange1.1g023693m Phytozome_Cs:orange1.1g026676m
+Q9ASP4	Phytozome_Cs:orange1.1g010573m Phytozome_Cs:orange1.1g011787m
+Q9AUQ4	Phytozome_Cs:orange1.1g046205m
+Q9AUV6	Phytozome_Cs:orange1.1g011650m Phytozome_Cs:orange1.1g017997m Phytozome_Cs:orange1.1g011654m Phytozome_Cs:orange1.1g011641m
+Q9AV47	Phytozome_Cs:orange1.1g004898m Phytozome_Cs:orange1.1g004896m Phytozome_Cs:orange1.1g005799m Phytozome_Cs:orange1.1g005296m Phytozome_Cs:orange1.1g005075m Phytozome_Cs:orange1.1g005482m
+Q9AV71	Phytozome_Cs:orange1.1g001574m Phytozome_Cs:orange1.1g039678m Phytozome_Cs:orange1.1g001576m
+Q9AWL7	Phytozome_Cs:orange1.1g001216m
+Q9AWZ7	Phytozome_Cs:orange1.1g016682m Phytozome_Cs:orange1.1g022677m Phytozome_Cs:orange1.1g026125m
+Q9AWZ8	Phytozome_Cs:orange1.1g016682m Phytozome_Cs:orange1.1g022677m Phytozome_Cs:orange1.1g026125m
+Q9AY73	Phytozome_Cs:orange1.1g029727m Phytozome_Cs:orange1.1g026611m Phytozome_Cs:orange1.1g041340m Phytozome_Cs:orange1.1g023817m Phytozome_Cs:orange1.1g026617m
+Q9FDX8	Phytozome_Cs:orange1.1g019028m Phytozome_Cs:orange1.1g017738m Phytozome_Cs:orange1.1g017166m Phytozome_Cs:orange1.1g017819m
+Q9FDY4	Phytozome_Cs:orange1.1g007923m
+Q9FRX7	Phytozome_Cs:orange1.1g017060m Phytozome_Cs:orange1.1g017066m Phytozome_Cs:orange1.1g012802m Phytozome_Cs:orange1.1g014515m Phytozome_Cs:orange1.1g012658m Phytozome_Cs:orange1.1g009035m Phytozome_Cs:orange1.1g011130m Phytozome_Cs:orange1.1g016240m Phytozome_Cs:orange1.1g014543m Phytozome_Cs:orange1.1g014508m
+Q9FTN5	Phytozome_Cs:orange1.1g039623m Phytozome_Cs:orange1.1g021737m Phytozome_Cs:orange1.1g021596m
+Q9FTN6	Phytozome_Cs:orange1.1g039623m Phytozome_Cs:orange1.1g021737m Phytozome_Cs:orange1.1g021596m
+Q9FTR6	Phytozome_Cs:orange1.1g014147m Phytozome_Cs:orange1.1g013464m
+Q9FTZ2	Phytozome_Cs:orange1.1g027873m Phytozome_Cs:orange1.1g027889m Phytozome_Cs:orange1.1g040128m
+Q9FU67	Phytozome_Cs:orange1.1g037640m Phytozome_Cs:orange1.1g048562m Phytozome_Cs:orange1.1g039701m Phytozome_Cs:orange1.1g013951m Phytozome_Cs:orange1.1g011142m Phytozome_Cs:orange1.1g010988m Phytozome_Cs:orange1.1g011490m Phytozome_Cs:orange1.1g039413m Phytozome_Cs:orange1.1g046605m Phytozome_Cs:orange1.1g038151m Phytozome_Cs:orange1.1g046582m Phytozome_Cs:orange1.1g010940m Phytozome_Cs:orange1.1g044823m Phytozome_Cs:orange1.1g011339m Phytozome_Cs:orange1.1g044012m Phytozome_Cs:orange1.1g010093m Phytozome_Cs:orange1.1g042970m
+Q9FU68	Phytozome_Cs:orange1.1g037640m Phytozome_Cs:orange1.1g048562m Phytozome_Cs:orange1.1g039701m Phytozome_Cs:orange1.1g013951m Phytozome_Cs:orange1.1g011142m Phytozome_Cs:orange1.1g010988m Phytozome_Cs:orange1.1g011490m Phytozome_Cs:orange1.1g039413m Phytozome_Cs:orange1.1g046605m Phytozome_Cs:orange1.1g038151m Phytozome_Cs:orange1.1g046582m Phytozome_Cs:orange1.1g010940m Phytozome_Cs:orange1.1g044823m Phytozome_Cs:orange1.1g011339m Phytozome_Cs:orange1.1g044012m Phytozome_Cs:orange1.1g010093m Phytozome_Cs:orange1.1g042970m
+Q9FU69	Phytozome_Cs:orange1.1g037640m Phytozome_Cs:orange1.1g048562m Phytozome_Cs:orange1.1g039701m Phytozome_Cs:orange1.1g013951m Phytozome_Cs:orange1.1g011142m Phytozome_Cs:orange1.1g010988m Phytozome_Cs:orange1.1g011490m Phytozome_Cs:orange1.1g039413m Phytozome_Cs:orange1.1g046605m Phytozome_Cs:orange1.1g038151m Phytozome_Cs:orange1.1g046582m Phytozome_Cs:orange1.1g010940m Phytozome_Cs:orange1.1g044823m Phytozome_Cs:orange1.1g011339m Phytozome_Cs:orange1.1g044012m Phytozome_Cs:orange1.1g010093m Phytozome_Cs:orange1.1g042970m
+Q9FUE1	Phytozome_Cs:orange1.1g028226m Phytozome_Cs:orange1.1g027737m Phytozome_Cs:orange1.1g029374m Phytozome_Cs:orange1.1g030456m Phytozome_Cs:orange1.1g028190m Phytozome_Cs:orange1.1g029352m Phytozome_Cs:orange1.1g030554m Phytozome_Cs:orange1.1g028170m Phytozome_Cs:orange1.1g028193m Phytozome_Cs:orange1.1g028176m
+Q9FWC1	Phytozome_Cs:orange1.1g047407m Phytozome_Cs:orange1.1g041103m Phytozome_Cs:orange1.1g037772m
+Q9FWQ2	Phytozome_Cs:orange1.1g016635m Phytozome_Cs:orange1.1g015439m Phytozome_Cs:orange1.1g016671m Phytozome_Cs:orange1.1g016672m Phytozome_Cs:orange1.1g016649m Phytozome_Cs:orange1.1g020273m Phytozome_Cs:orange1.1g017025m Phytozome_Cs:orange1.1g015453m Phytozome_Cs:orange1.1g020285m
+Q9FXQ3	Phytozome_Cs:orange1.1g009339m Phytozome_Cs:orange1.1g008462m Phytozome_Cs:orange1.1g008483m Phytozome_Cs:orange1.1g007895m Phytozome_Cs:orange1.1g009337m Phytozome_Cs:orange1.1g008490m Phytozome_Cs:orange1.1g015898m Phytozome_Cs:orange1.1g017960m Phytozome_Cs:orange1.1g008475m Phytozome_Cs:orange1.1g012614m
+Q9LD61	Phytozome_Cs:orange1.1g026841m Phytozome_Cs:orange1.1g026861m
+Q9LDB7	Phytozome_Cs:orange1.1g024324m Phytozome_Cs:orange1.1g024273m Phytozome_Cs:orange1.1g019083m Phytozome_Cs:orange1.1g016756m
+Q9LG86	Phytozome_Cs:orange1.1g025433m Phytozome_Cs:orange1.1g023966m Phytozome_Cs:orange1.1g020493m Phytozome_Cs:orange1.1g025406m Phytozome_Cs:orange1.1g022921m Phytozome_Cs:orange1.1g020479m
+Q9LGL5	Phytozome_Cs:orange1.1g044559m Phytozome_Cs:orange1.1g007917m Phytozome_Cs:orange1.1g007800m Phytozome_Cs:orange1.1g009060m
+Q9LGU6	Phytozome_Cs:orange1.1g016192m Phytozome_Cs:orange1.1g016895m Phytozome_Cs:orange1.1g015873m Phytozome_Cs:orange1.1g016843m Phytozome_Cs:orange1.1g016575m Phytozome_Cs:orange1.1g016215m Phytozome_Cs:orange1.1g044516m
+Q9LHZ0	Phytozome_Cs:orange1.1g029435m Phytozome_Cs:orange1.1g025413m Phytozome_Cs:orange1.1g027878m
+Q9LHZ7	Phytozome_Cs:orange1.1g001213m
+Q9LIZ8	Phytozome_Cs:orange1.1g043341m
+Q9LRI6	Phytozome_Cs:orange1.1g017060m Phytozome_Cs:orange1.1g017066m Phytozome_Cs:orange1.1g012802m Phytozome_Cs:orange1.1g014515m Phytozome_Cs:orange1.1g012658m Phytozome_Cs:orange1.1g009035m Phytozome_Cs:orange1.1g011130m Phytozome_Cs:orange1.1g016240m Phytozome_Cs:orange1.1g014543m Phytozome_Cs:orange1.1g014508m
+Q9LWJ2	Phytozome_Cs:orange1.1g019543m Phytozome_Cs:orange1.1g021783m Phytozome_Cs:orange1.1g016612m Phytozome_Cs:orange1.1g027424m Phytozome_Cs:orange1.1g022194m
+Q9LWU9	Phytozome_Cs:orange1.1g005954m
+Q9LWV3	Phytozome_Cs:orange1.1g027107m
+Q9S7D3	Phytozome_Cs:orange1.1g023670m Phytozome_Cs:orange1.1g045926m Phytozome_Cs:orange1.1g026956m
+Q9SDG5	Phytozome_Cs:orange1.1g017413m Phytozome_Cs:orange1.1g023218m
+Q9SMB1	Phytozome_Cs:orange1.1g020933m Phytozome_Cs:orange1.1g019187m
+Q9SNK3	Phytozome_Cs:orange1.1g012940m Phytozome_Cs:orange1.1g015291m
+Q9SNN0	Phytozome_Cs:orange1.1g004438m Phytozome_Cs:orange1.1g005135m
+Q9SNQ6	Phytozome_Cs:orange1.1g005516m Phytozome_Cs:orange1.1g016509m Phytozome_Cs:orange1.1g017841m Phytozome_Cs:orange1.1g017850m Phytozome_Cs:orange1.1g004928m Phytozome_Cs:orange1.1g013854m Phytozome_Cs:orange1.1g004483m Phytozome_Cs:orange1.1g017662m
+Q9XEA6	Phytozome_Cs:orange1.1g024208m Phytozome_Cs:orange1.1g024252m Phytozome_Cs:orange1.1g027405m Phytozome_Cs:orange1.1g023227m Phytozome_Cs:orange1.1g020528m Phytozome_Cs:orange1.1g020805m Phytozome_Cs:orange1.1g027338m Phytozome_Cs:orange1.1g020501m Phytozome_Cs:orange1.1g023695m Phytozome_Cs:orange1.1g023801m
+Q9XEA8	Phytozome_Cs:orange1.1g024208m Phytozome_Cs:orange1.1g024252m Phytozome_Cs:orange1.1g027405m Phytozome_Cs:orange1.1g023227m Phytozome_Cs:orange1.1g020528m Phytozome_Cs:orange1.1g020805m Phytozome_Cs:orange1.1g027338m Phytozome_Cs:orange1.1g020501m Phytozome_Cs:orange1.1g023695m Phytozome_Cs:orange1.1g023801m
+Q9XFE5	Phytozome_Cs:orange1.1g025533m Phytozome_Cs:orange1.1g023135m Phytozome_Cs:orange1.1g020938m
+Q9XG80	Phytozome_Cs:orange1.1g023650m Phytozome_Cs:orange1.1g036054m Phytozome_Cs:orange1.1g042006m Phytozome_Cs:orange1.1g041129m
+Q9XHL5	Phytozome_Cs:orange1.1g007956m Phytozome_Cs:orange1.1g011423m Phytozome_Cs:orange1.1g011933m
+Q9XJ03	Phytozome_Cs:orange1.1g038167m Phytozome_Cs:orange1.1g017611m
+Q9XJ29	Phytozome_Cs:orange1.1g012578m Phytozome_Cs:orange1.1g007699m
+Q9XJ60	Phytozome_Cs:orange1.1g027656m Phytozome_Cs:orange1.1g028858m Phytozome_Cs:orange1.1g028923m Phytozome_Cs:orange1.1g030748m Phytozome_Cs:orange1.1g027684m Phytozome_Cs:orange1.1g027691m Phytozome_Cs:orange1.1g028911m Phytozome_Cs:orange1.1g028363m Phytozome_Cs:orange1.1g028864m Phytozome_Cs:orange1.1g031392m Phytozome_Cs:orange1.1g028889m Phytozome_Cs:orange1.1g028641m Phytozome_Cs:orange1.1g027667m Phytozome_Cs:orange1.1g031012m Phytozome_Cs:orange1.1g027658m Phytozome_Cs:orange1.1g030981m Phytozome_Cs:orange1.1g031002m
+Q9ZTP5	Phytozome_Cs:orange1.1g025927m Phytozome_Cs:orange1.1g023494m Phytozome_Cs:orange1.1g023503m
+UPI00000AA151	Phytozome_Cs:orange1.1g024324m Phytozome_Cs:orange1.1g024273m Phytozome_Cs:orange1.1g019083m Phytozome_Cs:orange1.1g016756m
+UPI0001C7A9C3	Phytozome_Cs:orange1.1g009291m Phytozome_Cs:orange1.1g012198m Phytozome_Cs:orange1.1g009275m Phytozome_Cs:orange1.1g042501m Phytozome_Cs:orange1.1g009295m Phytozome_Cs:orange1.1g005244m Phytozome_Cs:orange1.1g005251m Phytozome_Cs:orange1.1g005247m Phytozome_Cs:orange1.1g006703m

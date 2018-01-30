@@ -1,0 +1,856 @@
+A2X747	Ensembl:Bra036480 Ensembl:Bra033526
+A2XPN8	Ensembl:Bra025782 Ensembl:Bra016487
+A2Y626	Ensembl:Bra016964 Ensembl:Bra000211 Ensembl:Bra004591
+A2ZRY8	Ensembl:Bra001670 Ensembl:Bra022224 Ensembl:Bra021257
+A2ZW27	Ensembl:Bra014562 Ensembl:Bra007404 Ensembl:Bra003345
+A2ZWY7	Ensembl:Bra000558
+A3AAR2	Ensembl:Bra023537 Ensembl:Bra008677
+A3AC56	Ensembl:Bra038548
+A3AQC6	Ensembl:Bra031652
+A3BZ14	Ensembl:Bra038548
+B7E8M5	Ensembl:Bra020877 Ensembl:Bra038793
+B7EA04	Ensembl:Bra005373 Ensembl:Bra023160 Ensembl:Bra038405
+B7EM10	Ensembl:Bra025857 Ensembl:Bra015736 Ensembl:Bra008264 Ensembl:Bra003716
+B7ERE7	Ensembl:Bra024834 Ensembl:Bra026819 Ensembl:Bra040974 Ensembl:Bra026203 Ensembl:Bra026617 Ensembl:Bra026616 Ensembl:Bra024833 Ensembl:Bra026204
+B7F409	Ensembl:Bra009636
+B7F4K3	Ensembl:Bra019638
+B7F7B9	Ensembl:Bra020096 Ensembl:Bra002289
+B7F8P7	Ensembl:Bra032433 Ensembl:Bra018271 Ensembl:Bra022832 Ensembl:Bra021712 Ensembl:Bra015478
+B7F956	Ensembl:Bra029898 Ensembl:Bra033509 Ensembl:Bra020467 Ensembl:Bra029893 Ensembl:Bra036897 Ensembl:Bra019538 Ensembl:Bra022813 Ensembl:Bra029897 Ensembl:Bra013449
+B7F9K3	Ensembl:Bra019638
+B7FA24	Ensembl:Bra007259 Ensembl:Bra003247 Ensembl:Bra003246
+B7FA34	Ensembl:Bra003840 Ensembl:Bra022266 Ensembl:Bra018740 Ensembl:Bra028133
+B7FA90	Ensembl:Bra038834
+B7FAE9	Ensembl:Bra023978 Ensembl:Bra007819
+B7FAP2	Ensembl:Bra038445 Ensembl:Bra038079 Ensembl:Bra033494 Ensembl:Bra038080 Ensembl:Bra017882 Ensembl:Bra031483
+B8ACC6	Ensembl:Bra038505
+B8AG62	Ensembl:Bra014828 Ensembl:Bra007059
+B8AHI9	Ensembl:Bra038502
+B8AT82	Ensembl:Bra027582 Ensembl:Bra003211 Ensembl:Bra024417
+B8AY22	Ensembl:Bra023056 Ensembl:Bra005290
+B8AZ97	Ensembl:Bra000060 Ensembl:Bra017119 Ensembl:Bra005111 Ensembl:Bra001341
+B8BB38	Ensembl:Bra008438 Ensembl:Bra035150 Ensembl:Bra026737 Ensembl:Bra026090
+B8BF84	Ensembl:Bra004054
+B9EUK4	Ensembl:Bra019255 Ensembl:Bra014419 Ensembl:Bra004530 Ensembl:Bra013748
+B9EZJ8	Ensembl:Bra020509 Ensembl:Bra036547 Ensembl:Bra009856
+B9FRT6	Ensembl:Bra007296 Ensembl:Bra014648
+B9FYX6	Ensembl:Bra013498
+B9G4Z8	Ensembl:Bra002068 Ensembl:Bra037193 Ensembl:Bra037268 Ensembl:Bra031803
+B9G942	Ensembl:Bra008615
+C7IWK8	Ensembl:Bra001443 Ensembl:Bra028713 Ensembl:Bra009241 Ensembl:Bra034767 Ensembl:Bra038705
+C7IXG8	Ensembl:Bra039342 Ensembl:Bra001470 Ensembl:Bra034729
+C7J6Z0	Ensembl:Bra008165 Ensembl:Bra003789 Ensembl:Bra025694
+D5A7J1	Ensembl:Bra016366 Ensembl:Bra012358 Ensembl:Bra016173 Ensembl:Bra003938 Ensembl:Bra026669
+H6TFZ4	Ensembl:Bra015995 Ensembl:Bra003845 Ensembl:Bra039502
+I1QJ08	Ensembl:Bra011235 Ensembl:Bra010264
+O04226	Ensembl:Bra017051 Ensembl:Bra014732 Ensembl:Bra000150 Ensembl:Bra007179 Ensembl:Bra005012
+O04882	Ensembl:Bra024917 Ensembl:Bra022156
+O22105	Ensembl:Bra017668 Ensembl:Bra034641 Ensembl:Bra017667 Ensembl:Bra011549 Ensembl:Bra011548
+O22567	Ensembl:Bra012779 Ensembl:Bra033495 Ensembl:Bra001832
+O24174	Ensembl:Bra003781 Ensembl:Bra019528
+O24210	Ensembl:Bra037457
+O64422	Ensembl:Bra014841 Ensembl:Bra007041
+O64437	Ensembl:Bra030253 Ensembl:Bra028596 Ensembl:Bra011830 Ensembl:Bra009054 Ensembl:Bra038538
+O82117	Ensembl:Bra021464
+O82427	Ensembl:Bra025811 Ensembl:Bra015789
+P0C132	Ensembl:Bra033890 Ensembl:Bra040398 Ensembl:Bra040122 Ensembl:Bra027504 Ensembl:Bra015297 Ensembl:Bra021117 Ensembl:Bra001598 Ensembl:Bra001899 Ensembl:Bra023771 Ensembl:Bra039732 Ensembl:Bra032521
+P0C587	Ensembl:Bra019789 Ensembl:Bra027877 Ensembl:Bra035447 Ensembl:Bra031690 Ensembl:Bra033776
+P0C5A4	Ensembl:Bra021126 Ensembl:Bra001603 Ensembl:Bra027219
+P0C5B2	Ensembl:Bra029314 Ensembl:Bra029155 Ensembl:Bra000393 Ensembl:Bra019343 Ensembl:Bra029424 Ensembl:Bra035907 Ensembl:Bra028282 Ensembl:Bra004928 Ensembl:Bra039324 Ensembl:Bra029154 Ensembl:Bra029281 Ensembl:Bra020826 Ensembl:Bra013891 Ensembl:Bra028283 Ensembl:Bra012957 Ensembl:Bra010465
+P14654	Ensembl:Bra021276 Ensembl:Bra018729 Ensembl:Bra001686 Ensembl:Bra022247
+P14655	Ensembl:Bra035392 Ensembl:Bra035529
+P14656	Ensembl:Bra028132 Ensembl:Bra039756 Ensembl:Bra008612 Ensembl:Bra023573
+P14717	Ensembl:Bra039777 Ensembl:Bra003126 Ensembl:Bra005221 Ensembl:Bra029831 Ensembl:Bra017210 Ensembl:Bra006985 Ensembl:Bra030322
+P15280	Ensembl:Bra015135 Ensembl:Bra037495
+P16081	Ensembl:Bra008333 Ensembl:Bra003670 Ensembl:Bra015656
+P17784	Ensembl:Bra009517
+P17814	Ensembl:Bra001820 Ensembl:Bra031265 Ensembl:Bra031266 Ensembl:Bra031263 Ensembl:Bra001819 Ensembl:Bra030429
+P18566	Ensembl:Bra034024 Ensembl:Bra034027 Ensembl:Bra028406 Ensembl:Bra034029 Ensembl:Bra028174 Ensembl:Bra025431 Ensembl:Bra028181
+P37833	Ensembl:Bra006103 Ensembl:Bra027015 Ensembl:Bra002245 Ensembl:Bra034522 Ensembl:Bra036647 Ensembl:Bra020047
+P42862	Ensembl:Bra027452
+P42863	Ensembl:Bra027452
+P48642	Ensembl:Bra015006 Ensembl:Bra001931
+Q01KF3	Ensembl:Bra005974 Ensembl:Bra009326
+Q05JG2	Ensembl:Bra012551 Ensembl:Bra013386 Ensembl:Bra025083 Ensembl:Bra027602 Ensembl:Bra021965
+Q06967	Ensembl:Bra028187 Ensembl:Bra028409 Ensembl:Bra040592 Ensembl:Bra001049
+Q0D3B6	Ensembl:Bra028861 Ensembl:Bra009565
+Q0D3D2	Ensembl:Bra002942 Ensembl:Bra034044 Ensembl:Bra028896
+Q0D4Z4	Ensembl:Bra011478
+Q0D7W4	Ensembl:Bra040411
+Q0D8I9	Ensembl:Bra009539
+Q0D8J6	Ensembl:Bra012603 Ensembl:Bra021558 Ensembl:Bra013298 Ensembl:Bra035033 Ensembl:Bra001552 Ensembl:Bra008358 Ensembl:Bra032359 Ensembl:Bra027336
+Q0DAA4	Ensembl:Bra027573 Ensembl:Bra025102
+Q0DAE1	Ensembl:Bra002763 Ensembl:Bra006834 Ensembl:Bra035648
+Q0DAJ3	Ensembl:Bra003588 Ensembl:Bra010220 Ensembl:Bra011299 Ensembl:Bra023983
+Q0DBD3	Ensembl:Bra027833 Ensembl:Bra031712 Ensembl:Bra019934 Ensembl:Bra016247
+Q0DBF4	Ensembl:Bra009868
+Q0DBN4	Ensembl:Bra018286 Ensembl:Bra021682
+Q0DCE9	Ensembl:Bra038432 Ensembl:Bra038431
+Q0DDD2	Ensembl:Bra008105 Ensembl:Bra015983
+Q0DDS1	Ensembl:Bra019718 Ensembl:Bra025147 Ensembl:Bra026899 Ensembl:Bra026519
+Q0DEC8	Ensembl:Bra009747
+Q0DGG8	Ensembl:Bra002793 Ensembl:Bra006857
+Q0DGS1	Ensembl:Bra021885 Ensembl:Bra005465
+Q0DHF6	Ensembl:Bra002942 Ensembl:Bra034044 Ensembl:Bra028896
+Q0DHT1	Ensembl:Bra018634 Ensembl:Bra031622
+Q0DJJ9	Ensembl:Bra023168
+Q0DKE8	Ensembl:Bra024585 Ensembl:Bra016203 Ensembl:Bra007924 Ensembl:Bra024582
+Q0DKM0	Ensembl:Bra004449
+Q0DKP3	Ensembl:Bra034191 Ensembl:Bra000842 Ensembl:Bra014378 Ensembl:Bra007720 Ensembl:Bra003518
+Q0DKY4	Ensembl:Bra041036 Ensembl:Bra000914 Ensembl:Bra036311
+Q0DSM1	Ensembl:Bra018545 Ensembl:Bra036262 Ensembl:Bra007696 Ensembl:Bra000877 Ensembl:Bra014396
+Q0DV32	Ensembl:Bra029560 Ensembl:Bra029561
+Q0DWC7	Ensembl:Bra023756 Ensembl:Bra015303 Ensembl:Bra040134
+Q0DWF2	Ensembl:Bra015289 Ensembl:Bra015326 Ensembl:Bra005508 Ensembl:Bra032503 Ensembl:Bra022934 Ensembl:Bra011045
+Q0DWY7	Ensembl:Bra010447 Ensembl:Bra013919
+Q0DXA9	Ensembl:Bra016709 Ensembl:Bra026859 Ensembl:Bra026858 Ensembl:Bra024786 Ensembl:Bra003802 Ensembl:Bra026861 Ensembl:Bra024785 Ensembl:Bra015217 Ensembl:Bra019681 Ensembl:Bra019680 Ensembl:Bra019683 Ensembl:Bra019679 Ensembl:Bra016712 Ensembl:Bra016711 Ensembl:Bra016710 Ensembl:Bra039838 Ensembl:Bra019685
+Q0DXM9	Ensembl:Bra008105 Ensembl:Bra015983
+Q0DY86	Ensembl:Bra016099 Ensembl:Bra007994
+Q0DYK7	Ensembl:Bra009653 Ensembl:Bra033557 Ensembl:Bra011605 Ensembl:Bra037277
+Q0E079	Ensembl:Bra038522 Ensembl:Bra024283 Ensembl:Bra037772
+Q0E088	Ensembl:Bra035120
+Q0E0S0	Ensembl:Bra009514 Ensembl:Bra005778
+Q0E2P1	Ensembl:Bra016590 Ensembl:Bra025952 Ensembl:Bra018924 Ensembl:Bra031003 Ensembl:Bra030425 Ensembl:Bra014296
+Q0E2Y8	Ensembl:Bra023317 Ensembl:Bra008976
+Q0E3F2	Ensembl:Bra024086
+Q0E3J1	Ensembl:Bra027573 Ensembl:Bra025102
+Q0E4F0	Ensembl:Bra000583 Ensembl:Bra031182 Ensembl:Bra011880
+Q0E4H0	Ensembl:Bra019718 Ensembl:Bra025147 Ensembl:Bra026899 Ensembl:Bra026519
+Q0E4N2	Ensembl:Bra014828 Ensembl:Bra007059
+Q0INY7	Ensembl:Bra034024 Ensembl:Bra034027 Ensembl:Bra028406 Ensembl:Bra034029 Ensembl:Bra028174 Ensembl:Bra025431 Ensembl:Bra028181
+Q0INZ4	Ensembl:Bra035042 Ensembl:Bra026006
+Q0IPE5	Ensembl:Bra008415 Ensembl:Bra003608
+Q0IQQ5	Ensembl:Bra000055
+Q0IRE6	Ensembl:Bra009967 Ensembl:Bra036101
+Q0ITU1	Ensembl:Bra015169
+Q0IZJ9	Ensembl:Bra034372 Ensembl:Bra002423 Ensembl:Bra020203 Ensembl:Bra031620 Ensembl:Bra031619 Ensembl:Bra019468
+Q0IZR4	Ensembl:Bra002068 Ensembl:Bra037193 Ensembl:Bra037268 Ensembl:Bra031803
+Q0IZS0	Ensembl:Bra026671
+Q0IZX5	Ensembl:Bra034939
+Q0J0L4	Ensembl:Bra025537 Ensembl:Bra032986 Ensembl:Bra025256
+Q0J0M8	Ensembl:Bra008261 Ensembl:Bra002053 Ensembl:Bra015739
+Q0J0N3	Ensembl:Bra028348 Ensembl:Bra001923 Ensembl:Bra014987
+Q0J0P1	Ensembl:Bra015970 Ensembl:Bra003831 Ensembl:Bra008110
+Q0J185	Ensembl:Bra001741 Ensembl:Bra022407
+Q0J1C1	Ensembl:Bra031798 Ensembl:Bra015380 Ensembl:Bra027049 Ensembl:Bra019734 Ensembl:Bra034504
+Q0J1E1	Ensembl:Bra018851 Ensembl:Bra030488
+Q0J2S0	Ensembl:Bra003828 Ensembl:Bra015964
+Q0J360	Ensembl:Bra017257 Ensembl:Bra023053 Ensembl:Bra033419
+Q0J484	Ensembl:Bra008615
+Q0J7P4	Ensembl:Bra017473 Ensembl:Bra001615 Ensembl:Bra027199 Ensembl:Bra022147 Ensembl:Bra021147
+Q0J8A4	Ensembl:Bra040146 Ensembl:Bra040213 Ensembl:Bra016729 Ensembl:Bra019722 Ensembl:Bra026904
+Q0J8X6	Ensembl:Bra037349
+Q0J951	Ensembl:Bra028110 Ensembl:Bra004125
+Q0J9K2	Ensembl:Bra001069 Ensembl:Bra003567 Ensembl:Bra035181 Ensembl:Bra008472
+Q0J9Z0	Ensembl:Bra016818
+Q0JA83	Ensembl:Bra035120
+Q0JAI1	Ensembl:Bra029305 Ensembl:Bra019619
+Q0JAQ3	Ensembl:Bra009653 Ensembl:Bra033557 Ensembl:Bra011605 Ensembl:Bra037277
+Q0JB49	Ensembl:Bra035211 Ensembl:Bra033140
+Q0JB91	Ensembl:Bra012945
+Q0JB99	Ensembl:Bra021048 Ensembl:Bra022115 Ensembl:Bra017495 Ensembl:Bra040159
+Q0JBA9	Ensembl:Bra004864 Ensembl:Bra000362
+Q0JBF1	Ensembl:Bra036653 Ensembl:Bra027030 Ensembl:Bra036652 Ensembl:Bra019749 Ensembl:Bra026984
+Q0JBZ8	Ensembl:Bra036480 Ensembl:Bra033526
+Q0JC10	Ensembl:Bra001046 Ensembl:Bra021458 Ensembl:Bra039176 Ensembl:Bra006334 Ensembl:Bra008662 Ensembl:Bra021271
+Q0JCP1	Ensembl:Bra025359 Ensembl:Bra039042
+Q0JCU7	Ensembl:Bra037130 Ensembl:Bra012127
+Q0JCZ4	Ensembl:Bra035427
+Q0JDD2	Ensembl:Bra006942
+Q0JDF7	Ensembl:Bra034372 Ensembl:Bra002423 Ensembl:Bra020203 Ensembl:Bra031620 Ensembl:Bra031619 Ensembl:Bra019468
+Q0JDT1	Ensembl:Bra018616
+Q0JEK1	Ensembl:Bra004912 Ensembl:Bra039337 Ensembl:Bra007568 Ensembl:Bra014465
+Q0JEP5	Ensembl:Bra034109 Ensembl:Bra035180 Ensembl:Bra029833
+Q0JEZ8	Ensembl:Bra035120
+Q0JF02	Ensembl:Bra036239 Ensembl:Bra000864
+Q0JF25	Ensembl:Bra016907 Ensembl:Bra009100 Ensembl:Bra005400 Ensembl:Bra011821 Ensembl:Bra030246 Ensembl:Bra029048 Ensembl:Bra010644 Ensembl:Bra028764 Ensembl:Bra017871 Ensembl:Bra026058
+Q0JF26	Ensembl:Bra016907 Ensembl:Bra009100 Ensembl:Bra005400 Ensembl:Bra011821 Ensembl:Bra030246 Ensembl:Bra029048 Ensembl:Bra010644 Ensembl:Bra028764 Ensembl:Bra017871 Ensembl:Bra026058
+Q0JF30	Ensembl:Bra023756 Ensembl:Bra015303 Ensembl:Bra040134
+Q0JHN3	Ensembl:Bra017044 Ensembl:Bra017045 Ensembl:Bra000156 Ensembl:Bra005000
+Q0JI87	Ensembl:Bra014265 Ensembl:Bra030441
+Q0JIJ8	Ensembl:Bra003358
+Q0JJ01	Ensembl:Bra013416 Ensembl:Bra025093 Ensembl:Bra021949
+Q0JJI1	Ensembl:Bra025593 Ensembl:Bra030335
+Q0JJV0	Ensembl:Bra008722
+Q0JKI9	Ensembl:Bra021885 Ensembl:Bra005465
+Q0JKX2	Ensembl:Bra016366 Ensembl:Bra012358 Ensembl:Bra016173 Ensembl:Bra003938 Ensembl:Bra026669
+Q0JKY8	Ensembl:Bra023485 Ensembl:Bra018698 Ensembl:Bra018699 Ensembl:Bra016223 Ensembl:Bra012384 Ensembl:Bra024615 Ensembl:Bra039113 Ensembl:Bra040520 Ensembl:Bra007912
+Q0JLT2	Ensembl:Bra009549 Ensembl:Bra005741 Ensembl:Bra033840
+Q0JP90	Ensembl:Bra039279 Ensembl:Bra033273 Ensembl:Bra004532
+Q0JPS3	Ensembl:Bra013341 Ensembl:Bra020994 Ensembl:Bra018285 Ensembl:Bra021685 Ensembl:Bra012581
+Q0JPT4	Ensembl:Bra035060 Ensembl:Bra008378
+Q0JQ41	Ensembl:Bra015921
+Q109F2	Ensembl:Bra033594 Ensembl:Bra011671 Ensembl:Bra024479 Ensembl:Bra017752
+Q10A30	Ensembl:Bra009517
+Q10A97	Ensembl:Bra032433 Ensembl:Bra018271 Ensembl:Bra022832 Ensembl:Bra021712 Ensembl:Bra015478
+Q10BT5	Ensembl:Bra016870 Ensembl:Bra007398 Ensembl:Bra000262 Ensembl:Bra014569 Ensembl:Bra004705 Ensembl:Bra003340
+Q10BX9	Ensembl:Bra005986
+Q10CE4	Ensembl:Bra035032
+Q10CS9	Ensembl:Bra033747
+Q10D34	Ensembl:Bra035185 Ensembl:Bra033890 Ensembl:Bra040398 Ensembl:Bra040122 Ensembl:Bra027504 Ensembl:Bra015297 Ensembl:Bra021117 Ensembl:Bra001598 Ensembl:Bra001899 Ensembl:Bra023771 Ensembl:Bra026755 Ensembl:Bra027232 Ensembl:Bra018993 Ensembl:Bra039732 Ensembl:Bra032521
+Q10D68	Ensembl:Bra011796 Ensembl:Bra010622
+Q10D87	Ensembl:Bra028561
+Q10DK7	Ensembl:Bra030199 Ensembl:Bra000637 Ensembl:Bra031846 Ensembl:Bra012924 Ensembl:Bra017962 Ensembl:Bra011784 Ensembl:Bra024420 Ensembl:Bra010611 Ensembl:Bra037829
+Q10DU0	Ensembl:Bra031672 Ensembl:Bra020013
+Q10DZ5	Ensembl:Bra001289 Ensembl:Bra029814 Ensembl:Bra034091
+Q10E50	Ensembl:Bra038125
+Q10EG4	Ensembl:Bra009539
+Q10FE9	Ensembl:Bra020174
+Q10G56	Ensembl:Bra017570 Ensembl:Bra025033
+Q10H87	Ensembl:Bra009319
+Q10HZ6	Ensembl:Bra016907 Ensembl:Bra009100 Ensembl:Bra005400 Ensembl:Bra011821 Ensembl:Bra030246 Ensembl:Bra029048 Ensembl:Bra010644 Ensembl:Bra028764 Ensembl:Bra017871 Ensembl:Bra026058
+Q10J20	Ensembl:Bra004765 Ensembl:Bra010600 Ensembl:Bra017826
+Q10J32	Ensembl:Bra010099
+Q10JI3	Ensembl:Bra004368 Ensembl:Bra004004 Ensembl:Bra026891 Ensembl:Bra019706 Ensembl:Bra036210 Ensembl:Bra025400
+Q10L50	Ensembl:Bra002204 Ensembl:Bra023701 Ensembl:Bra014968 Ensembl:Bra028326
+Q10L56	Ensembl:Bra003522 Ensembl:Bra021456 Ensembl:Bra004409
+Q10LP5	Ensembl:Bra036282 Ensembl:Bra037432
+Q10LR4	Ensembl:Bra000060 Ensembl:Bra017119 Ensembl:Bra005111 Ensembl:Bra001341
+Q10LR5	Ensembl:Bra021400 Ensembl:Bra021413 Ensembl:Bra004450
+Q10MB0	Ensembl:Bra010438 Ensembl:Bra032505 Ensembl:Bra004474 Ensembl:Bra027922 Ensembl:Bra007842 Ensembl:Bra031663 Ensembl:Bra021388
+Q10MG9	Ensembl:Bra022192
+Q10MK5	Ensembl:Bra009004
+Q10MQ2	Ensembl:Bra011461 Ensembl:Bra034580
+Q10MS2	Ensembl:Bra009113 Ensembl:Bra000184 Ensembl:Bra017125 Ensembl:Bra000052 Ensembl:Bra017012 Ensembl:Bra004967 Ensembl:Bra005115 Ensembl:Bra028758 Ensembl:Bra005853
+Q10MW3	Ensembl:Bra002942 Ensembl:Bra034044 Ensembl:Bra028896
+Q10MX9	Ensembl:Bra034863 Ensembl:Bra028754 Ensembl:Bra034862 Ensembl:Bra001392
+Q10N17	Ensembl:Bra001262 Ensembl:Bra029665
+Q10N34	Ensembl:Bra009565
+Q10N92	Ensembl:Bra035048 Ensembl:Bra026009 Ensembl:Bra038127 Ensembl:Bra021578 Ensembl:Bra039675 Ensembl:Bra027310
+Q10NY1	Ensembl:Bra032268 Ensembl:Bra014158
+Q10NY2	Ensembl:Bra026112 Ensembl:Bra026751 Ensembl:Bra003569
+Q10P02	Ensembl:Bra012007 Ensembl:Bra011684 Ensembl:Bra017762
+Q10P67	Ensembl:Bra000338 Ensembl:Bra037671
+Q10PL0	Ensembl:Bra014235 Ensembl:Bra018831 Ensembl:Bra001761 Ensembl:Bra018463 Ensembl:Bra019964 Ensembl:Bra022448 Ensembl:Bra019963 Ensembl:Bra018464 Ensembl:Bra031699 Ensembl:Bra039744
+Q10PY7	Ensembl:Bra029694 Ensembl:Bra040047 Ensembl:Bra001283 Ensembl:Bra001282
+Q10QA5	Ensembl:Bra031957 Ensembl:Bra036416
+Q10QN3	Ensembl:Bra031496
+Q10QR9	Ensembl:Bra007749
+Q10RP2	Ensembl:Bra000112
+Q10S34	Ensembl:Bra010508 Ensembl:Bra011642
+Q10S55	Ensembl:Bra027887 Ensembl:Bra019991 Ensembl:Bra035466
+Q10S58	Ensembl:Bra024500
+Q10S67	Ensembl:Bra004246 Ensembl:Bra020806 Ensembl:Bra011596 Ensembl:Bra013030 Ensembl:Bra037282
+Q10S72	Ensembl:Bra016463 Ensembl:Bra016465 Ensembl:Bra016464 Ensembl:Bra016466 Ensembl:Bra012232 Ensembl:Bra012233 Ensembl:Bra025822
+Q10SD6	Ensembl:Bra002119 Ensembl:Bra023651
+Q10SL7	Ensembl:Bra029140
+Q10SM6	Ensembl:Bra020877 Ensembl:Bra038793
+Q10SM9	Ensembl:Bra029140
+Q10SP1	Ensembl:Bra039273
+Q10SU1	Ensembl:Bra028746 Ensembl:Bra009156
+Q25AR2	Ensembl:Bra023826 Ensembl:Bra039953
+Q2KNB4	Ensembl:Bra030490 Ensembl:Bra018850 Ensembl:Bra014254 Ensembl:Bra035821
+Q2KNB5	Ensembl:Bra030490 Ensembl:Bra018850 Ensembl:Bra014254 Ensembl:Bra035821
+Q2MJA7	Ensembl:Bra029444 Ensembl:Bra000385 Ensembl:Bra037315 Ensembl:Bra033116
+Q2MJA8	Ensembl:Bra028348 Ensembl:Bra001923 Ensembl:Bra014987
+Q2QLJ0	Ensembl:Bra007826 Ensembl:Bra007825 Ensembl:Bra040449
+Q2QLY5	Ensembl:Bra006589 Ensembl:Bra023645 Ensembl:Bra001090 Ensembl:Bra006429 Ensembl:Bra002116
+Q2QM47	Ensembl:Bra031626 Ensembl:Bra034332 Ensembl:Bra030724
+Q2QM70	Ensembl:Bra003524
+Q2QM83	Ensembl:Bra013498
+Q2QMD4	Ensembl:Bra003617 Ensembl:Bra035101 Ensembl:Bra026055
+Q2QMK8	Ensembl:Bra028155
+Q2QN06	Ensembl:Bra032845 Ensembl:Bra009464 Ensembl:Bra010922 Ensembl:Bra033666
+Q2QNN5	Ensembl:Bra022535 Ensembl:Bra004060 Ensembl:Bra003526 Ensembl:Bra004059 Ensembl:Bra004058 Ensembl:Bra004057
+Q2QNS6	Ensembl:Bra033344
+Q2QPH4	Ensembl:Bra036229 Ensembl:Bra000850
+Q2QPR0	Ensembl:Bra039777 Ensembl:Bra003126 Ensembl:Bra029831 Ensembl:Bra017210 Ensembl:Bra006985 Ensembl:Bra030322
+Q2QQJ5	Ensembl:Bra035120
+Q2QQX6	Ensembl:Bra010048 Ensembl:Bra035910
+Q2QRX6	Ensembl:Bra000581
+Q2QS13	Ensembl:Bra028430 Ensembl:Bra026264 Ensembl:Bra023520 Ensembl:Bra006303 Ensembl:Bra024708 Ensembl:Bra028234 Ensembl:Bra008695
+Q2QS14	Ensembl:Bra028430 Ensembl:Bra026264 Ensembl:Bra023520 Ensembl:Bra006303 Ensembl:Bra024708 Ensembl:Bra028234 Ensembl:Bra008695
+Q2QT32	Ensembl:Bra014001 Ensembl:Bra032749
+Q2QTJ1	Ensembl:Bra034024 Ensembl:Bra034027 Ensembl:Bra028406 Ensembl:Bra034029 Ensembl:Bra028174 Ensembl:Bra025431 Ensembl:Bra028181
+Q2QTL0	Ensembl:Bra037933
+Q2QTQ1	Ensembl:Bra018621
+Q2QUG4	Ensembl:Bra018395 Ensembl:Bra039975 Ensembl:Bra031802 Ensembl:Bra039968 Ensembl:Bra018392
+Q2QVC1	Ensembl:Bra019206 Ensembl:Bra013839
+Q2QWK9	Ensembl:Bra024550
+Q2QX58	Ensembl:Bra003678
+Q2QXL0	Ensembl:Bra018634 Ensembl:Bra031622
+Q2QXP0	Ensembl:Bra025677 Ensembl:Bra003804 Ensembl:Bra015915 Ensembl:Bra009305 Ensembl:Bra008146
+Q2QXY1	Ensembl:Bra018100
+Q2QXY9	Ensembl:Bra031031 Ensembl:Bra025899
+Q2QXZ1	Ensembl:Bra004613 Ensembl:Bra000222
+Q2QY63	Ensembl:Bra015012 Ensembl:Bra001926
+Q2QYB7	Ensembl:Bra002352
+Q2QYV3	Ensembl:Bra002637
+Q2QYW4	Ensembl:Bra018348 Ensembl:Bra022767 Ensembl:Bra021599
+Q2QZ14	Ensembl:Bra030681 Ensembl:Bra039978
+Q2R1D5	Ensembl:Bra031383
+Q2R1G8	Ensembl:Bra037804 Ensembl:Bra024355
+Q2R1L4	Ensembl:Bra021430 Ensembl:Bra039181 Ensembl:Bra034030
+Q2R2Q2	Ensembl:Bra022686
+Q2R2W2	Ensembl:Bra028187 Ensembl:Bra028409 Ensembl:Bra040592 Ensembl:Bra001049
+Q2R2W8	Ensembl:Bra039938 Ensembl:Bra017847
+Q2R339	Ensembl:Bra014513 Ensembl:Bra037657 Ensembl:Bra000351
+Q2R3A1	Ensembl:Bra020688 Ensembl:Bra036307 Ensembl:Bra023441 Ensembl:Bra008792 Ensembl:Bra006224
+Q2R3F5	Ensembl:Bra010048 Ensembl:Bra029293 Ensembl:Bra035910
+Q2R3K3	Ensembl:Bra029919 Ensembl:Bra019564 Ensembl:Bra019567
+Q2R3K5	Ensembl:Bra032954 Ensembl:Bra026953 Ensembl:Bra016754
+Q2R432	Ensembl:Bra006178 Ensembl:Bra040557 Ensembl:Bra008858
+Q2R481	Ensembl:Bra000581
+Q2R4Y7	Ensembl:Bra014001 Ensembl:Bra032749
+Q2R4Y8	Ensembl:Bra001921 Ensembl:Bra032750 Ensembl:Bra014002 Ensembl:Bra014984 Ensembl:Bra028345
+Q2R8T7	Ensembl:Bra008754 Ensembl:Bra000998
+Q2RAM8	Ensembl:Bra033494 Ensembl:Bra038445 Ensembl:Bra038079 Ensembl:Bra038080 Ensembl:Bra031483
+Q2RAP0	Ensembl:Bra018100
+Q2RAP4	Ensembl:Bra009126 Ensembl:Bra005863 Ensembl:Bra028751
+Q2RAP8	Ensembl:Bra031031 Ensembl:Bra025899
+Q2RB23	Ensembl:Bra002352
+Q2RBN0	Ensembl:Bra002637
+Q2RBP1	Ensembl:Bra018348 Ensembl:Bra022767 Ensembl:Bra021599
+Q336M7	Ensembl:Bra013369
+Q336N7	Ensembl:Bra017318
+Q336P5	Ensembl:Bra010178 Ensembl:Bra017520 Ensembl:Bra024998
+Q336R6	Ensembl:Bra025463 Ensembl:Bra022101 Ensembl:Bra040171 Ensembl:Bra025515
+Q336U3	Ensembl:Bra020731 Ensembl:Bra025421 Ensembl:Bra036196 Ensembl:Bra028202
+Q336X9	Ensembl:Bra035233 Ensembl:Bra039292 Ensembl:Bra004959 Ensembl:Bra000955
+Q337F0	Ensembl:Bra000967 Ensembl:Bra037347
+Q337F3	Ensembl:Bra028746 Ensembl:Bra009156
+Q338Z4	Ensembl:Bra000603
+Q339V1	Ensembl:Bra020589 Ensembl:Bra036630
+Q33AE4	Ensembl:Bra028278
+Q33CD8	Ensembl:Bra002204 Ensembl:Bra023701 Ensembl:Bra014968 Ensembl:Bra028326
+Q33CD9	Ensembl:Bra002204 Ensembl:Bra023701 Ensembl:Bra014968 Ensembl:Bra028326
+Q40710	Ensembl:Bra010438 Ensembl:Bra032505 Ensembl:Bra004474 Ensembl:Bra027922 Ensembl:Bra007842 Ensembl:Bra031663 Ensembl:Bra021388
+Q42982	Ensembl:Bra004109
+Q43007	Ensembl:Bra030375 Ensembl:Bra040960 Ensembl:Bra027209 Ensembl:Bra021132
+Q43011	Ensembl:Bra024345 Ensembl:Bra006053
+Q4W8D0	Ensembl:Bra021276 Ensembl:Bra018729 Ensembl:Bra001686 Ensembl:Bra022247
+Q53JG7	Ensembl:Bra008325 Ensembl:Bra003674
+Q53MS9	Ensembl:Bra018232 Ensembl:Bra022853
+Q53Q70	Ensembl:Bra018634 Ensembl:Bra031622
+Q53RH0	Ensembl:Bra004449
+Q5CCK1	Ensembl:Bra009126 Ensembl:Bra005863 Ensembl:Bra028751
+Q5CCK3	Ensembl:Bra036097 Ensembl:Bra030023
+Q5JJV0	Ensembl:Bra017257 Ensembl:Bra023053 Ensembl:Bra033419
+Q5JK18	Ensembl:Bra008840 Ensembl:Bra035544 Ensembl:Bra006235 Ensembl:Bra023401
+Q5JK20	Ensembl:Bra010048 Ensembl:Bra035910
+Q5JK39	Ensembl:Bra029919 Ensembl:Bra019564 Ensembl:Bra019567
+Q5JLS4	Ensembl:Bra026404 Ensembl:Bra034506 Ensembl:Bra013612 Ensembl:Bra027046
+Q5JMA1	Ensembl:Bra021017
+Q5JMA6	Ensembl:Bra010323
+Q5JMB6	Ensembl:Bra015921
+Q5JMC7	Ensembl:Bra030276
+Q5JMM1	Ensembl:Bra021885 Ensembl:Bra005465
+Q5JMM6	Ensembl:Bra001583 Ensembl:Bra027280
+Q5JMX5	Ensembl:Bra015155
+Q5JMX9	Ensembl:Bra030656 Ensembl:Bra030657
+Q5JN19	Ensembl:Bra004001 Ensembl:Bra036217 Ensembl:Bra004376 Ensembl:Bra025383
+Q5JN63	Ensembl:Bra012578
+Q5JNB0	Ensembl:Bra037682 Ensembl:Bra004781 Ensembl:Bra014529
+Q5KQI0	Ensembl:Bra014265 Ensembl:Bra030441
+Q5KS47	Ensembl:Bra041056 Ensembl:Bra032128 Ensembl:Bra034562 Ensembl:Bra037006 Ensembl:Bra013136 Ensembl:Bra011439 Ensembl:Bra032125
+Q5MBR3	Ensembl:Bra012603 Ensembl:Bra021558 Ensembl:Bra013298 Ensembl:Bra035033 Ensembl:Bra001552 Ensembl:Bra008358 Ensembl:Bra032359 Ensembl:Bra027336
+Q5MBR5	Ensembl:Bra012603 Ensembl:Bra021558 Ensembl:Bra013298 Ensembl:Bra035033 Ensembl:Bra001552 Ensembl:Bra008358 Ensembl:Bra032359 Ensembl:Bra027336
+Q5N725	Ensembl:Bra009517
+Q5N7C7	Ensembl:Bra018634 Ensembl:Bra031622
+Q5N7L0	Ensembl:Bra037537 Ensembl:Bra001737 Ensembl:Bra033933 Ensembl:Bra004037
+Q5N7Z8	Ensembl:Bra029898 Ensembl:Bra033509 Ensembl:Bra020467 Ensembl:Bra029893 Ensembl:Bra036897 Ensembl:Bra019538 Ensembl:Bra022813 Ensembl:Bra029897 Ensembl:Bra013449
+Q5N892	Ensembl:Bra009636
+Q5N8F6	Ensembl:Bra039279 Ensembl:Bra033273 Ensembl:Bra004532
+Q5N8G1	Ensembl:Bra026591
+Q5N8H9	Ensembl:Bra000558
+Q5N9A1	Ensembl:Bra029521
+Q5N9N2	Ensembl:Bra002594 Ensembl:Bra034845 Ensembl:Bra002038 Ensembl:Bra018398 Ensembl:Bra031574 Ensembl:Bra015579
+Q5N9Z8	Ensembl:Bra038537 Ensembl:Bra030251
+Q5NA81	Ensembl:Bra032541 Ensembl:Bra015271 Ensembl:Bra033724
+Q5NAY4	Ensembl:Bra024245 Ensembl:Bra037757
+Q5NB25	Ensembl:Bra011082
+Q5NBQ1	Ensembl:Bra033871 Ensembl:Bra023217
+Q5NBT9	Ensembl:Bra022181 Ensembl:Bra021203 Ensembl:Bra020567 Ensembl:Bra009930
+Q5NTH3	Ensembl:Bra030270 Ensembl:Bra011857
+Q5QN02	Ensembl:Bra000013 Ensembl:Bra017161
+Q5SMY2	Ensembl:Bra030886 Ensembl:Bra027394 Ensembl:Bra021510 Ensembl:Bra001523
+Q5SND7	Ensembl:Bra033822 Ensembl:Bra014312 Ensembl:Bra034425 Ensembl:Bra019485
+Q5U9F2	Ensembl:Bra023537 Ensembl:Bra008677
+Q5VMP0	Ensembl:Bra016864
+Q5VMP2	Ensembl:Bra034814 Ensembl:Bra038678 Ensembl:Bra034813
+Q5VN31	Ensembl:Bra035782
+Q5VNP5	Ensembl:Bra011693 Ensembl:Bra011694 Ensembl:Bra010562 Ensembl:Bra024471
+Q5VNW0	Ensembl:Bra000384 Ensembl:Bra040319
+Q5VPH2	Ensembl:Bra038888 Ensembl:Bra012865 Ensembl:Bra031811 Ensembl:Bra012067 Ensembl:Bra036833
+Q5VRB9	Ensembl:Bra008971 Ensembl:Bra040081 Ensembl:Bra011354 Ensembl:Bra023318
+Q5VRM7	Ensembl:Bra015394 Ensembl:Bra005596
+Q5VRR2	Ensembl:Bra011744 Ensembl:Bra012140 Ensembl:Bra017811 Ensembl:Bra032173 Ensembl:Bra036061 Ensembl:Bra037124
+Q5W670	Ensembl:Bra001634 Ensembl:Bra014303 Ensembl:Bra022164 Ensembl:Bra021184
+Q5W6F1	Ensembl:Bra021636 Ensembl:Bra021637 Ensembl:Bra018311 Ensembl:Bra022802 Ensembl:Bra022803
+Q5W6F9	Ensembl:Bra026456 Ensembl:Bra019117
+Q5W6H5	Ensembl:Bra040893
+Q5W6W7	Ensembl:Bra013210
+Q5WMV3	Ensembl:Bra003241
+Q5XLJ2	Ensembl:Bra014513 Ensembl:Bra037657 Ensembl:Bra000351
+Q5Z5B7	Ensembl:Bra008569 Ensembl:Bra006391 Ensembl:Bra023603
+Q5Z5R4	Ensembl:Bra009868
+Q5Z5R7	Ensembl:Bra009868
+Q5Z678	Ensembl:Bra036946
+Q5Z6D3	Ensembl:Bra038432
+Q5Z6E5	Ensembl:Bra021827 Ensembl:Bra005524
+Q5Z749	Ensembl:Bra011082
+Q5Z807	Ensembl:Bra015851
+Q5Z8K3	Ensembl:Bra038832 Ensembl:Bra038830 Ensembl:Bra038831
+Q5Z8S0	Ensembl:Bra007772 Ensembl:Bra008064
+Q5Z8T3	Ensembl:Bra026209
+Q5Z8V9	Ensembl:Bra016270 Ensembl:Bra036945
+Q5Z8Y4	Ensembl:Bra007797
+Q5Z8Z7	Ensembl:Bra001821
+Q5ZCV1	Ensembl:Bra020756 Ensembl:Bra001195 Ensembl:Bra040225
+Q5ZED1	Ensembl:Bra007154
+Q5ZEL4	Ensembl:Bra006879
+Q60EH4	Ensembl:Bra017044 Ensembl:Bra017045 Ensembl:Bra000156 Ensembl:Bra005000
+Q60EX6	Ensembl:Bra018520 Ensembl:Bra030478 Ensembl:Bra000846
+Q64MA9	Ensembl:Bra033126 Ensembl:Bra014870
+Q650W1	Ensembl:Bra034372 Ensembl:Bra002423 Ensembl:Bra020203 Ensembl:Bra031620 Ensembl:Bra031619 Ensembl:Bra019468
+Q651F0	Ensembl:Bra037185
+Q652A8	Ensembl:Bra019785 Ensembl:Bra016757 Ensembl:Bra039253 Ensembl:Bra027626
+Q652S1	Ensembl:Bra025920
+Q653D9	Ensembl:Bra034814 Ensembl:Bra038678 Ensembl:Bra034813
+Q653H7	Ensembl:Bra011955 Ensembl:Bra024109 Ensembl:Bra011162
+Q653T6	Ensembl:Bra022982
+Q653U3	Ensembl:Bra010776
+Q655T1	Ensembl:Bra008421 Ensembl:Bra003605 Ensembl:Bra035124
+Q655W2	Ensembl:Bra008416 Ensembl:Bra003606 Ensembl:Bra026068
+Q655Y9	Ensembl:Bra024291
+Q656F1	Ensembl:Bra023489
+Q657X7	Ensembl:Bra038505
+Q65XC6	Ensembl:Bra020509 Ensembl:Bra036547 Ensembl:Bra009856
+Q65XK0	Ensembl:Bra014562 Ensembl:Bra007404 Ensembl:Bra003345
+Q65XL7	Ensembl:Bra000420 Ensembl:Bra035252 Ensembl:Bra004545
+Q65XM9	Ensembl:Bra024917 Ensembl:Bra022156
+Q65XR9	Ensembl:Bra030375 Ensembl:Bra040960 Ensembl:Bra027209 Ensembl:Bra021132
+Q67J16	Ensembl:Bra014212 Ensembl:Bra018802
+Q67TQ5	Ensembl:Bra022409 Ensembl:Bra001742 Ensembl:Bra037533 Ensembl:Bra018800 Ensembl:Bra011485
+Q67UX0	Ensembl:Bra038832 Ensembl:Bra038830 Ensembl:Bra038831
+Q67UZ8	Ensembl:Bra016393 Ensembl:Bra012302 Ensembl:Bra015654 Ensembl:Bra031357
+Q67VM1	Ensembl:Bra028191 Ensembl:Bra028413 Ensembl:Bra025430
+Q67VR7	Ensembl:Bra019350 Ensembl:Bra013652
+Q67W29	Ensembl:Bra000338 Ensembl:Bra037671
+Q67W82	Ensembl:Bra001820 Ensembl:Bra031265 Ensembl:Bra031266 Ensembl:Bra031263 Ensembl:Bra001819 Ensembl:Bra030429
+Q67WR2	Ensembl:Bra025939 Ensembl:Bra016008
+Q688L9	Ensembl:Bra026456 Ensembl:Bra019117
+Q688Q8	Ensembl:Bra008453 Ensembl:Bra008457 Ensembl:Bra035168
+Q688Q9	Ensembl:Bra019332 Ensembl:Bra013675 Ensembl:Bra019333
+Q688T8	Ensembl:Bra033604 Ensembl:Bra032842 Ensembl:Bra030291
+Q688Y2	Ensembl:Bra040813 Ensembl:Bra030966
+Q689G9	Ensembl:Bra012964 Ensembl:Bra035933
+Q69IM7	Ensembl:Bra039538
+Q69J27	Ensembl:Bra002477 Ensembl:Bra002476 Ensembl:Bra024508
+Q69K00	Ensembl:Bra031167 Ensembl:Bra030316
+Q69KM5	Ensembl:Bra011194 Ensembl:Bra024075
+Q69L93	Ensembl:Bra030681 Ensembl:Bra039978
+Q69LG7	Ensembl:Bra023169 Ensembl:Bra013425
+Q69MC9	Ensembl:Bra024288 Ensembl:Bra037001 Ensembl:Bra035461
+Q69P51	Ensembl:Bra006407
+Q69P64	Ensembl:Bra037982
+Q69QD7	Ensembl:Bra012049
+Q69RG7	Ensembl:Bra029229
+Q69RJ0	Ensembl:Bra009483 Ensembl:Bra016948 Ensembl:Bra000220
+Q69T90	Ensembl:Bra011609 Ensembl:Bra009651
+Q69T99	Ensembl:Bra015135 Ensembl:Bra037495
+Q69TF4	Ensembl:Bra001695 Ensembl:Bra022272
+Q69TT1	Ensembl:Bra016184
+Q69TW5	Ensembl:Bra022409 Ensembl:Bra001742 Ensembl:Bra037533 Ensembl:Bra018800 Ensembl:Bra011485
+Q69U93	Ensembl:Bra004758 Ensembl:Bra000303
+Q69UF5	Ensembl:Bra038445 Ensembl:Bra038079 Ensembl:Bra033494 Ensembl:Bra038080 Ensembl:Bra017882 Ensembl:Bra031483
+Q69UU3	Ensembl:Bra012371 Ensembl:Bra024580 Ensembl:Bra009959 Ensembl:Bra016353 Ensembl:Bra016202
+Q69V57	Ensembl:Bra026426
+Q69XD3	Ensembl:Bra038445 Ensembl:Bra038079 Ensembl:Bra033494 Ensembl:Bra038080 Ensembl:Bra017882 Ensembl:Bra031483
+Q6AT26	Ensembl:Bra011345 Ensembl:Bra023952
+Q6AT41	Ensembl:Bra011069 Ensembl:Bra024177
+Q6AT43	Ensembl:Bra029966 Ensembl:Bra017964
+Q6AT75	Ensembl:Bra019839 Ensembl:Bra021490
+Q6ATR2	Ensembl:Bra002204 Ensembl:Bra023701 Ensembl:Bra014968 Ensembl:Bra028326
+Q6AUB0	Ensembl:Bra001063 Ensembl:Bra021411 Ensembl:Bra006354 Ensembl:Bra040599
+Q6AUJ8	Ensembl:Bra002942 Ensembl:Bra034044 Ensembl:Bra028896
+Q6AV34	Ensembl:Bra027810
+Q6AVG6	Ensembl:Bra034620 Ensembl:Bra011522
+Q6AVT2	Ensembl:Bra023713 Ensembl:Bra002221
+Q6EP31	Ensembl:Bra011578 Ensembl:Bra012858 Ensembl:Bra017740 Ensembl:Bra001994 Ensembl:Bra013051 Ensembl:Bra013050 Ensembl:Bra036819 Ensembl:Bra037248 Ensembl:Bra011651 Ensembl:Bra040869 Ensembl:Bra038892 Ensembl:Bra002093
+Q6EP77	Ensembl:Bra026963 Ensembl:Bra022770 Ensembl:Bra028290 Ensembl:Bra016763 Ensembl:Bra019162 Ensembl:Bra027612 Ensembl:Bra019777 Ensembl:Bra010463 Ensembl:Bra010461 Ensembl:Bra010460
+Q6EPN6	Ensembl:Bra027770 Ensembl:Bra027672
+Q6EPR6	Ensembl:Bra019089
+Q6EPY7	Ensembl:Bra006942
+Q6EPZ2	Ensembl:Bra003588 Ensembl:Bra023983 Ensembl:Bra011299 Ensembl:Bra035148 Ensembl:Bra010220 Ensembl:Bra008435
+Q6EQW2	Ensembl:Bra039678
+Q6ERL4	Ensembl:Bra037826
+Q6ERR3	Ensembl:Bra008438 Ensembl:Bra035150 Ensembl:Bra026737 Ensembl:Bra026090
+Q6ESJ0	Ensembl:Bra035211 Ensembl:Bra033140
+Q6ESZ9	Ensembl:Bra027941 Ensembl:Bra034917 Ensembl:Bra032190
+Q6ET36	Ensembl:Bra036239 Ensembl:Bra000864
+Q6ET88	Ensembl:Bra011898
+Q6ETN1	Ensembl:Bra013921 Ensembl:Bra038552 Ensembl:Bra002716 Ensembl:Bra024457 Ensembl:Bra020430
+Q6ETN3	Ensembl:Bra001820 Ensembl:Bra031265 Ensembl:Bra031266 Ensembl:Bra031263 Ensembl:Bra001819 Ensembl:Bra030429
+Q6ETX4	Ensembl:Bra028753
+Q6EUF1	Ensembl:Bra035060 Ensembl:Bra008378
+Q6EUP4	Ensembl:Bra028187 Ensembl:Bra028409 Ensembl:Bra040592 Ensembl:Bra001049
+Q6EUS6	Ensembl:Bra018286 Ensembl:Bra021682
+Q6F361	Ensembl:Bra030951 Ensembl:Bra039662 Ensembl:Bra038112
+Q6H415	Ensembl:Bra018085 Ensembl:Bra033774 Ensembl:Bra033775
+Q6H4G3	Ensembl:Bra031877
+Q6H4V1	Ensembl:Bra015511 Ensembl:Bra032415
+Q6H513	Ensembl:Bra032470 Ensembl:Bra005578 Ensembl:Bra041066 Ensembl:Bra022881 Ensembl:Bra040693
+Q6H543	Ensembl:Bra001634 Ensembl:Bra014303 Ensembl:Bra022164 Ensembl:Bra021184 Ensembl:Bra018938
+Q6H5Z4	Ensembl:Bra007772 Ensembl:Bra008064
+Q6H6C7	Ensembl:Bra008421 Ensembl:Bra003605 Ensembl:Bra035124
+Q6H6D2	Ensembl:Bra028666 Ensembl:Bra009334 Ensembl:Bra005980
+Q6H6G1	Ensembl:Bra007337 Ensembl:Bra014618
+Q6H6I1	Ensembl:Bra004743 Ensembl:Bra000288 Ensembl:Bra004744
+Q6H703	Ensembl:Bra008416 Ensembl:Bra003606 Ensembl:Bra026068
+Q6H765	Ensembl:Bra025677 Ensembl:Bra003804 Ensembl:Bra015915 Ensembl:Bra009305 Ensembl:Bra008146
+Q6H7Q6	Ensembl:Bra022535 Ensembl:Bra004060 Ensembl:Bra003526 Ensembl:Bra004059 Ensembl:Bra004058 Ensembl:Bra004057
+Q6H819	Ensembl:Bra028560
+Q6H849	Ensembl:Bra028932 Ensembl:Bra021681 Ensembl:Bra020184 Ensembl:Bra023598 Ensembl:Bra035006
+Q6H851	Ensembl:Bra028932 Ensembl:Bra021681 Ensembl:Bra020184 Ensembl:Bra023598 Ensembl:Bra035006
+Q6I581	Ensembl:Bra004543 Ensembl:Bra000421 Ensembl:Bra039284
+Q6I5C3	Ensembl:Bra026299 Ensembl:Bra000938 Ensembl:Bra003077 Ensembl:Bra033267 Ensembl:Bra022634 Ensembl:Bra029093 Ensembl:Bra003463
+Q6IEQ7	Ensembl:Bra005104 Ensembl:Bra017117 Ensembl:Bra000064
+Q6IVC3	Ensembl:Bra001443 Ensembl:Bra028713 Ensembl:Bra009241 Ensembl:Bra034767 Ensembl:Bra038705
+Q6K1S6	Ensembl:Bra022831 Ensembl:Bra018267 Ensembl:Bra021708 Ensembl:Bra014929 Ensembl:Bra001907 Ensembl:Bra015481 Ensembl:Bra023742
+Q6K1X7	Ensembl:Bra021747 Ensembl:Bra021745 Ensembl:Bra005640 Ensembl:Bra022867
+Q6K2E1	Ensembl:Bra019257 Ensembl:Bra035262 Ensembl:Bra013744 Ensembl:Bra027732
+Q6K306	Ensembl:Bra037502 Ensembl:Bra013209
+Q6K3T2	Ensembl:Bra017567 Ensembl:Bra013296 Ensembl:Bra021012 Ensembl:Bra025028
+Q6K3Z3	Ensembl:Bra020710 Ensembl:Bra017469 Ensembl:Bra037501 Ensembl:Bra036182
+Q6K4V9	Ensembl:Bra041028 Ensembl:Bra014252
+Q6K4Y7	Ensembl:Bra023998 Ensembl:Bra010231 Ensembl:Bra032084 Ensembl:Bra011282
+Q6K548	Ensembl:Bra039131 Ensembl:Bra040507 Ensembl:Bra001010 Ensembl:Bra008723 Ensembl:Bra006664
+Q6K5G8	Ensembl:Bra040146 Ensembl:Bra040213 Ensembl:Bra016729 Ensembl:Bra019722 Ensembl:Bra026904
+Q6K678	Ensembl:Bra035141 Ensembl:Bra003594
+Q6K7P2	Ensembl:Bra009667 Ensembl:Bra029366 Ensembl:Bra005984 Ensembl:Bra009338 Ensembl:Bra026506 Ensembl:Bra028662
+Q6K7V6	Ensembl:Bra037042
+Q6K8E2	Ensembl:Bra013798 Ensembl:Bra000604
+Q6K8E7	Ensembl:Bra012007 Ensembl:Bra011684 Ensembl:Bra017762
+Q6K8J4	Ensembl:Bra002468
+Q6K969	Ensembl:Bra037278 Ensembl:Bra002047 Ensembl:Bra009655
+Q6K973	Ensembl:Bra015995 Ensembl:Bra003845 Ensembl:Bra039502
+Q6K9B8	Ensembl:Bra001046 Ensembl:Bra021458 Ensembl:Bra039176 Ensembl:Bra006334 Ensembl:Bra008662 Ensembl:Bra021271
+Q6K9M5	Ensembl:Bra011194 Ensembl:Bra024075
+Q6K9N6	Ensembl:Bra027661 Ensembl:Bra036470
+Q6K9X3	Ensembl:Bra040689
+Q6KAJ2	Ensembl:Bra023969
+Q6L4G2	Ensembl:Bra037537 Ensembl:Bra001737 Ensembl:Bra033933 Ensembl:Bra004037
+Q6L4H5	Ensembl:Bra010315 Ensembl:Bra011140 Ensembl:Bra036724 Ensembl:Bra008051
+Q6L4L4	Ensembl:Bra020249 Ensembl:Bra002481 Ensembl:Bra038290
+Q6L4R0	Ensembl:Bra021505 Ensembl:Bra027405
+Q6L506	Ensembl:Bra020293
+Q6L545	Ensembl:Bra040420 Ensembl:Bra003520 Ensembl:Bra009970 Ensembl:Bra039460 Ensembl:Bra007722
+Q6L5H6	Ensembl:Bra016595
+Q6MWK9	Ensembl:Bra023748 Ensembl:Bra014925
+Q6Q9I2	Ensembl:Bra038326 Ensembl:Bra036201 Ensembl:Bra004007 Ensembl:Bra004361 Ensembl:Bra029347 Ensembl:Bra012997 Ensembl:Bra011021 Ensembl:Bra035952 Ensembl:Bra025411
+Q6YPF1	Ensembl:Bra009517
+Q6YPG5	Ensembl:Bra018147
+Q6YS33	Ensembl:Bra008840 Ensembl:Bra035544 Ensembl:Bra006235 Ensembl:Bra023401
+Q6YT73	Ensembl:Bra035032
+Q6YTI6	Ensembl:Bra016393 Ensembl:Bra012302 Ensembl:Bra015654 Ensembl:Bra031357
+Q6YTT3	Ensembl:Bra035024 Ensembl:Bra031389 Ensembl:Bra011819 Ensembl:Bra016381 Ensembl:Bra011449
+Q6YUS0	Ensembl:Bra024262
+Q6YUU2	Ensembl:Bra029825
+Q6YV04	Ensembl:Bra040131
+Q6YV23	Ensembl:Bra004395 Ensembl:Bra007866
+Q6YVI0	Ensembl:Bra003758
+Q6YVT1	Ensembl:Bra015970 Ensembl:Bra003831 Ensembl:Bra008110
+Q6YVY0	Ensembl:Bra035427
+Q6YVY6	Ensembl:Bra004368 Ensembl:Bra004004 Ensembl:Bra026891 Ensembl:Bra019706 Ensembl:Bra036210 Ensembl:Bra025400
+Q6YWE1	Ensembl:Bra002204 Ensembl:Bra023701 Ensembl:Bra014968 Ensembl:Bra028326
+Q6YXC2	Ensembl:Bra037880
+Q6YXI1	Ensembl:Bra013819 Ensembl:Bra019214
+Q6YXW6	Ensembl:Bra030439 Ensembl:Bra014262 Ensembl:Bra007060 Ensembl:Bra017287 Ensembl:Bra023033
+Q6YYB9	Ensembl:Bra002954 Ensembl:Bra019075
+Q6YYY7	Ensembl:Bra003751 Ensembl:Bra015839 Ensembl:Bra008201
+Q6YYZ2	Ensembl:Bra013369
+Q6YZ76	Ensembl:Bra027010 Ensembl:Bra018660 Ensembl:Bra011969 Ensembl:Bra009479 Ensembl:Bra013487 Ensembl:Bra038791
+Q6YZE2	Ensembl:Bra038646 Ensembl:Bra035836
+Q6YZH8	Ensembl:Bra028367 Ensembl:Bra015023
+Q6YZX7	Ensembl:Bra016159
+Q6Z0T7	Ensembl:Bra034814 Ensembl:Bra038678 Ensembl:Bra034813
+Q6Z2L5	Ensembl:Bra023263 Ensembl:Bra005344
+Q6Z2T6	Ensembl:Bra008152 Ensembl:Bra015908
+Q6Z312	Ensembl:Bra022409 Ensembl:Bra001742 Ensembl:Bra037533 Ensembl:Bra018800 Ensembl:Bra011485
+Q6Z368	Ensembl:Bra017668 Ensembl:Bra034641 Ensembl:Bra017667 Ensembl:Bra011549 Ensembl:Bra011548
+Q6Z3A4	Ensembl:Bra008453 Ensembl:Bra008457 Ensembl:Bra035168
+Q6Z3F1	Ensembl:Bra024834 Ensembl:Bra026819 Ensembl:Bra040974 Ensembl:Bra026617 Ensembl:Bra026616 Ensembl:Bra024833 Ensembl:Bra026204
+Q6Z3F9	Ensembl:Bra020809
+Q6Z3X5	Ensembl:Bra027582 Ensembl:Bra003211 Ensembl:Bra024417
+Q6Z3Y3	Ensembl:Bra001262 Ensembl:Bra029665
+Q6Z414	Ensembl:Bra029553 Ensembl:Bra013526 Ensembl:Bra029033 Ensembl:Bra038774 Ensembl:Bra020892
+Q6Z433	Ensembl:Bra023900 Ensembl:Bra031258 Ensembl:Bra014292
+Q6Z434	Ensembl:Bra001814 Ensembl:Bra023902 Ensembl:Bra030435 Ensembl:Bra031254
+Q6Z4E7	Ensembl:Bra005780 Ensembl:Bra040019 Ensembl:Bra009509
+Q6Z4I1	Ensembl:Bra010703
+Q6Z5M3	Ensembl:Bra039938 Ensembl:Bra017847
+Q6Z6S7	Ensembl:Bra013311
+Q6Z702	Ensembl:Bra040341 Ensembl:Bra032708
+Q6Z744	Ensembl:Bra021275 Ensembl:Bra022246
+Q6Z795	Ensembl:Bra034254 Ensembl:Bra009835 Ensembl:Bra036542
+Q6Z836	Ensembl:Bra008739
+Q6Z8F4	Ensembl:Bra035516 Ensembl:Bra023235 Ensembl:Bra033861
+Q6Z8Z7	Ensembl:Bra012788
+Q6Z965	Ensembl:Bra013161
+Q6Z9A3	Ensembl:Bra000149 Ensembl:Bra024066 Ensembl:Bra024063 Ensembl:Bra017052 Ensembl:Bra005014 Ensembl:Bra000720
+Q6Z9E6	Ensembl:Bra028560
+Q6ZAC1	Ensembl:Bra001820 Ensembl:Bra031265 Ensembl:Bra031266 Ensembl:Bra031263 Ensembl:Bra001819 Ensembl:Bra030429
+Q6ZAH2	Ensembl:Bra013720 Ensembl:Bra019283
+Q6ZB59	Ensembl:Bra018072 Ensembl:Bra018073 Ensembl:Bra019516 Ensembl:Bra038607 Ensembl:Bra035858
+Q6ZB94	Ensembl:Bra013819 Ensembl:Bra019214
+Q6ZBH5	Ensembl:Bra033126 Ensembl:Bra014870
+Q6ZC33	Ensembl:Bra008333 Ensembl:Bra003670 Ensembl:Bra015656
+Q6ZC70	Ensembl:Bra038649
+Q6ZCF0	Ensembl:Bra023845 Ensembl:Bra031335 Ensembl:Bra031332
+Q6ZD10	Ensembl:Bra023169 Ensembl:Bra013425
+Q6ZDJ7	Ensembl:Bra019257 Ensembl:Bra035262 Ensembl:Bra013744 Ensembl:Bra027732
+Q6ZDQ1	Ensembl:Bra002129 Ensembl:Bra006437
+Q6ZDY8	Ensembl:Bra012100
+Q6ZEZ2	Ensembl:Bra040406 Ensembl:Bra040120
+Q6ZFT5	Ensembl:Bra004730 Ensembl:Bra000280
+Q6ZG77	Ensembl:Bra006124 Ensembl:Bra008931
+Q6ZG91	Ensembl:Bra007925
+Q6ZGS9	Ensembl:Bra013258 Ensembl:Bra012637
+Q6ZGW6	Ensembl:Bra034777
+Q6ZHA3	Ensembl:Bra011578 Ensembl:Bra012858 Ensembl:Bra017740 Ensembl:Bra001994 Ensembl:Bra013051 Ensembl:Bra013050 Ensembl:Bra036819 Ensembl:Bra037248 Ensembl:Bra011651 Ensembl:Bra040869 Ensembl:Bra038892 Ensembl:Bra002093
+Q6ZHB2	Ensembl:Bra024967 Ensembl:Bra017511
+Q6ZHH4	Ensembl:Bra005541
+Q6ZHH7	Ensembl:Bra008333 Ensembl:Bra003670 Ensembl:Bra015656
+Q6ZHS4	Ensembl:Bra017639 Ensembl:Bra011510 Ensembl:Bra022425
+Q6ZHZ1	Ensembl:Bra020096 Ensembl:Bra002289
+Q6ZI55	Ensembl:Bra011599 Ensembl:Bra020810 Ensembl:Bra010527 Ensembl:Bra002023
+Q6ZIA3	Ensembl:Bra025537 Ensembl:Bra032986 Ensembl:Bra025256
+Q6ZIK0	Ensembl:Bra022503 Ensembl:Bra008507
+Q6ZIX2	Ensembl:Bra006211
+Q6ZJ97	Ensembl:Bra005373 Ensembl:Bra023160 Ensembl:Bra038405
+Q6ZK11	Ensembl:Bra023168
+Q6ZKC0	Ensembl:Bra028187 Ensembl:Bra028409 Ensembl:Bra040592 Ensembl:Bra001049
+Q6ZKV8	Ensembl:Bra006813 Ensembl:Bra039546 Ensembl:Bra002715
+Q6ZL61	Ensembl:Bra036254 Ensembl:Bra007085
+Q6ZL94	Ensembl:Bra013027 Ensembl:Bra028665 Ensembl:Bra005982 Ensembl:Bra009336
+Q6ZLD3	Ensembl:Bra003524
+Q6ZLJ9	Ensembl:Bra007333
+Q75GB1	Ensembl:Bra011082
+Q75GK0	Ensembl:Bra015297 Ensembl:Bra040398 Ensembl:Bra040122 Ensembl:Bra027504 Ensembl:Bra032521
+Q75H77	Ensembl:Bra012113 Ensembl:Bra012897
+Q75HA6	Ensembl:Bra013416 Ensembl:Bra025093 Ensembl:Bra021949
+Q75HP7	Ensembl:Bra031358 Ensembl:Bra016392 Ensembl:Bra036774
+Q75HZ9	Ensembl:Bra035042 Ensembl:Bra026006
+Q75I93	Ensembl:Bra021291 Ensembl:Bra021292
+Q75II5	Ensembl:Bra008376 Ensembl:Bra035056 Ensembl:Bra035058
+Q75KD7	Ensembl:Bra017350 Ensembl:Bra017351 Ensembl:Bra016735 Ensembl:Bra025160
+Q75KT7	Ensembl:Bra015921
+Q75L84	Ensembl:Bra005218
+Q75LC7	Ensembl:Bra036351 Ensembl:Bra036352 Ensembl:Bra025179 Ensembl:Bra025178 Ensembl:Bra019720
+Q75LL5	Ensembl:Bra018623 Ensembl:Bra002383
+Q75M18	Ensembl:Bra022504
+Q75V57	Ensembl:Bra012113 Ensembl:Bra012897
+Q764B9	Ensembl:Bra010980 Ensembl:Bra032783
+Q7EYM8	Ensembl:Bra024616
+Q7EZW6	Ensembl:Bra033554 Ensembl:Bra011900
+Q7EZZ0	Ensembl:Bra004624 Ensembl:Bra007312 Ensembl:Bra014644
+Q7F0Q2	Ensembl:Bra001979 Ensembl:Bra037297 Ensembl:Bra013064
+Q7F190	Ensembl:Bra037210
+Q7F1X5	Ensembl:Bra029229
+Q7F8K7	Ensembl:Bra026615 Ensembl:Bra024832 Ensembl:Bra017421
+Q7FAH2	Ensembl:Bra040146 Ensembl:Bra040213 Ensembl:Bra016729 Ensembl:Bra019722 Ensembl:Bra026904
+Q7G065	Ensembl:Bra033604 Ensembl:Bra032842 Ensembl:Bra030291
+Q7G2F7	Ensembl:Bra029530
+Q7G2H3	Ensembl:Bra027810
+Q7G4P2	Ensembl:Bra012007 Ensembl:Bra011684 Ensembl:Bra017762
+Q7G602	Ensembl:Bra009312
+Q7G7J6	Ensembl:Bra017443 Ensembl:Bra013973 Ensembl:Bra039762 Ensembl:Bra024875 Ensembl:Bra031991
+Q7X634	Ensembl:Bra031636 Ensembl:Bra018611 Ensembl:Bra040187 Ensembl:Bra030736
+Q7X720	Ensembl:Bra039777 Ensembl:Bra003126 Ensembl:Bra005221 Ensembl:Bra029831 Ensembl:Bra017210 Ensembl:Bra006985 Ensembl:Bra030322
+Q7X742	Ensembl:Bra033063 Ensembl:Bra024672 Ensembl:Bra006286 Ensembl:Bra008154 Ensembl:Bra008716 Ensembl:Bra016299 Ensembl:Bra015906 Ensembl:Bra003797 Ensembl:Bra025358 Ensembl:Bra012435 Ensembl:Bra018117 Ensembl:Bra028443 Ensembl:Bra023508
+Q7X7N2	Ensembl:Bra000659
+Q7X7X0	Ensembl:Bra011157
+Q7X8A1	Ensembl:Bra032939 Ensembl:Bra019797 Ensembl:Bra026948 Ensembl:Bra025219
+Q7X993	Ensembl:Bra001443 Ensembl:Bra028713 Ensembl:Bra009241 Ensembl:Bra034767 Ensembl:Bra038705
+Q7XAP2	Ensembl:Bra022631 Ensembl:Bra003082
+Q7XBY6	Ensembl:Bra012635 Ensembl:Bra013262 Ensembl:Bra017526 Ensembl:Bra021032 Ensembl:Bra024995
+Q7XC20	Ensembl:Bra017511
+Q7XCK3	Ensembl:Bra038898 Ensembl:Bra036798 Ensembl:Bra038899
+Q7XDE0	Ensembl:Bra036126 Ensembl:Bra030551 Ensembl:Bra021340 Ensembl:Bra010012 Ensembl:Bra027527
+Q7XE48	Ensembl:Bra039138
+Q7XEH2	Ensembl:Bra040826 Ensembl:Bra040439
+Q7XHL3	Ensembl:Bra036466 Ensembl:Bra036465 Ensembl:Bra011049 Ensembl:Bra031116 Ensembl:Bra036683 Ensembl:Bra036684
+Q7XHZ2	Ensembl:Bra023623
+Q7XI67	Ensembl:Bra001344 Ensembl:Bra031478
+Q7XI92	Ensembl:Bra011709 Ensembl:Bra038544 Ensembl:Bra010576 Ensembl:Bra039216 Ensembl:Bra032140 Ensembl:Bra028096 Ensembl:Bra021562 Ensembl:Bra001777 Ensembl:Bra035808 Ensembl:Bra001556 Ensembl:Bra027330
+Q7XI96	Ensembl:Bra003772 Ensembl:Bra017782 Ensembl:Bra031077 Ensembl:Bra011706 Ensembl:Bra016508 Ensembl:Bra025733 Ensembl:Bra015868 Ensembl:Bra012891
+Q7XK23	Ensembl:Bra011599 Ensembl:Bra020810 Ensembl:Bra010527 Ensembl:Bra002023
+Q7XKQ8	Ensembl:Bra025195 Ensembl:Bra029906
+Q7XM21	Ensembl:Bra014831 Ensembl:Bra012862 Ensembl:Bra036828
+Q7XMP7	Ensembl:Bra027187 Ensembl:Bra021164
+Q7XNX6	Ensembl:Bra015995 Ensembl:Bra003845 Ensembl:Bra039502
+Q7XNY3	Ensembl:Bra023998 Ensembl:Bra010231 Ensembl:Bra032084 Ensembl:Bra011282
+Q7XPB5	Ensembl:Bra004912 Ensembl:Bra039337 Ensembl:Bra007568 Ensembl:Bra014465
+Q7XPR5	Ensembl:Bra029966 Ensembl:Bra017964
+Q7XPW5	Ensembl:Bra004938 Ensembl:Bra039314 Ensembl:Bra000403
+Q7XQ85	Ensembl:Bra007611 Ensembl:Bra035236 Ensembl:Bra033261
+Q7XR02	Ensembl:Bra037738
+Q7XR60	Ensembl:Bra018795
+Q7XR61	Ensembl:Bra018795
+Q7XRT0	Ensembl:Bra003221 Ensembl:Bra014720 Ensembl:Bra007192
+Q7XTB2	Ensembl:Bra030055 Ensembl:Bra010929
+Q7XTE8	Ensembl:Bra028187 Ensembl:Bra028409 Ensembl:Bra040592 Ensembl:Bra001049
+Q7XTK3	Ensembl:Bra031652
+Q7XTX7	Ensembl:Bra019770
+Q7XU28	Ensembl:Bra007337 Ensembl:Bra014618
+Q7XU29	Ensembl:Bra040330
+Q7XUA8	Ensembl:Bra003012
+Q7XUH5	Ensembl:Bra001979 Ensembl:Bra037297 Ensembl:Bra013064 Ensembl:Bra013065
+Q7XUI7	Ensembl:Bra040974 Ensembl:Bra026617 Ensembl:Bra024834 Ensembl:Bra024833 Ensembl:Bra026819
+Q7XUK6	Ensembl:Bra037670
+Q7XUS2	Ensembl:Bra010980 Ensembl:Bra032783
+Q7XV13	Ensembl:Bra008037 Ensembl:Bra016602 Ensembl:Bra030988
+Q7XVM2	Ensembl:Bra028992 Ensembl:Bra002934 Ensembl:Bra035551
+Q7XVM8	Ensembl:Bra032954 Ensembl:Bra026953 Ensembl:Bra016754
+Q7XVP0	Ensembl:Bra014328 Ensembl:Bra024892 Ensembl:Bra007961
+Q7XWP9	Ensembl:Bra003426 Ensembl:Bra007555 Ensembl:Bra014473 Ensembl:Bra004898
+Q7XZH5	Ensembl:Bra014323 Ensembl:Bra018964
+Q7Y0B9	Ensembl:Bra012113 Ensembl:Bra012897
+Q7Y0C8	Ensembl:Bra035320
+Q7Y0Y6	Ensembl:Bra040131
+Q7Y0Y8	Ensembl:Bra040131
+Q7Y152	Ensembl:Bra029589 Ensembl:Bra040277 Ensembl:Bra001204
+Q7Y1H9	Ensembl:Bra036254 Ensembl:Bra007085
+Q7Y1I9	Ensembl:Bra036254 Ensembl:Bra007085
+Q7Y1J1	Ensembl:Bra036254 Ensembl:Bra007085
+Q84JH5	Ensembl:Bra000149 Ensembl:Bra024066 Ensembl:Bra024063 Ensembl:Bra017052 Ensembl:Bra005014 Ensembl:Bra000720
+Q84LF7	Ensembl:Bra019839 Ensembl:Bra021490
+Q84LK3	Ensembl:Bra003781 Ensembl:Bra019528
+Q84M43	Ensembl:Bra028768 Ensembl:Bra029874 Ensembl:Bra005845
+Q84MN8	Ensembl:Bra033901 Ensembl:Bra036882 Ensembl:Bra001891 Ensembl:Bra033696
+Q84NP3	Ensembl:Bra034863 Ensembl:Bra028754 Ensembl:Bra001392
+Q84Q89	Ensembl:Bra014536 Ensembl:Bra007457
+Q84QA7	Ensembl:Bra017044 Ensembl:Bra017045 Ensembl:Bra000156 Ensembl:Bra005000
+Q84R94	Ensembl:Bra008172
+Q84RX6	Ensembl:Bra029989 Ensembl:Bra036047
+Q84T92	Ensembl:Bra007145 Ensembl:Bra007142 Ensembl:Bra003209 Ensembl:Bra017728
+Q84VC7	Ensembl:Bra021017
+Q84ZN6	Ensembl:Bra028768 Ensembl:Bra029874 Ensembl:Bra005845
+Q84ZY2	Ensembl:Bra003426 Ensembl:Bra007555 Ensembl:Bra014473 Ensembl:Bra004898
+Q851L5	Ensembl:Bra040608
+Q851Z6	Ensembl:Bra008840 Ensembl:Bra035544 Ensembl:Bra006235 Ensembl:Bra023401
+Q852P4	Ensembl:Bra015313 Ensembl:Bra030568
+Q852Q1	Ensembl:Bra021482 Ensembl:Bra033088 Ensembl:Bra039146 Ensembl:Bra025379 Ensembl:Bra028245 Ensembl:Bra001022
+Q8GRU7	Ensembl:Bra018175
+Q8GT01	Ensembl:Bra008735 Ensembl:Bra006270
+Q8GTK1	Ensembl:Bra027010 Ensembl:Bra018660 Ensembl:Bra011969 Ensembl:Bra009479 Ensembl:Bra013487 Ensembl:Bra038791
+Q8GVJ4	Ensembl:Bra034777
+Q8GVZ0	Ensembl:Bra001063 Ensembl:Bra021411 Ensembl:Bra006354 Ensembl:Bra040599
+Q8GZY1	Ensembl:Bra033594 Ensembl:Bra011671 Ensembl:Bra024479 Ensembl:Bra017752
+Q8H016	Ensembl:Bra008037 Ensembl:Bra016602 Ensembl:Bra030988
+Q8H038	Ensembl:Bra036680 Ensembl:Bra036467
+Q8H048	Ensembl:Bra001854 Ensembl:Bra014871 Ensembl:Bra008515 Ensembl:Bra000752 Ensembl:Bra000753 Ensembl:Bra033225
+Q8H075	Ensembl:Bra023748 Ensembl:Bra014925
+Q8H093	Ensembl:Bra001854 Ensembl:Bra014871 Ensembl:Bra008515 Ensembl:Bra000752 Ensembl:Bra000753 Ensembl:Bra033225
+Q8H0A1	Ensembl:Bra034372 Ensembl:Bra002423 Ensembl:Bra031620 Ensembl:Bra020203
+Q8H0B2	Ensembl:Bra033746 Ensembl:Bra020917 Ensembl:Bra005387 Ensembl:Bra032409 Ensembl:Bra013466 Ensembl:Bra027557
+Q8H0B6	Ensembl:Bra033746 Ensembl:Bra020917 Ensembl:Bra005387 Ensembl:Bra032409 Ensembl:Bra013466 Ensembl:Bra027557
+Q8H273	Ensembl:Bra026963 Ensembl:Bra022770 Ensembl:Bra028290 Ensembl:Bra016763 Ensembl:Bra019162 Ensembl:Bra027612 Ensembl:Bra019777 Ensembl:Bra010463 Ensembl:Bra010461 Ensembl:Bra010460
+Q8H395	Ensembl:Bra008172 Ensembl:Bra025713
+Q8H3C8	Ensembl:Bra040608
+Q8H3C9	Ensembl:Bra040608
+Q8H3I4	Ensembl:Bra021533 Ensembl:Bra021535 Ensembl:Bra001536
+Q8H3Q7	Ensembl:Bra002710
+Q8H4L3	Ensembl:Bra020688 Ensembl:Bra036307 Ensembl:Bra023441 Ensembl:Bra008792 Ensembl:Bra006224
+Q8H530	Ensembl:Bra037776 Ensembl:Bra024290
+Q8H539	Ensembl:Bra008657 Ensembl:Bra023548 Ensembl:Bra006336
+Q8H7T7	Ensembl:Bra029966 Ensembl:Bra017964
+Q8H825	Ensembl:Bra025171
+Q8H8U0	Ensembl:Bra003205 Ensembl:Bra007129 Ensembl:Bra000127 Ensembl:Bra026226 Ensembl:Bra014779
+Q8H930	Ensembl:Bra033746 Ensembl:Bra020917 Ensembl:Bra005387 Ensembl:Bra032409 Ensembl:Bra013466 Ensembl:Bra027557
+Q8LGW5	Ensembl:Bra034939
+Q8LGZ9	Ensembl:Bra038780 Ensembl:Bra020890
+Q8LHD1	Ensembl:Bra028393
+Q8LI89	Ensembl:Bra037978 Ensembl:Bra030888
+Q8LIY8	Ensembl:Bra011384
+Q8LJJ2	Ensembl:Bra010315 Ensembl:Bra011140 Ensembl:Bra036724 Ensembl:Bra008051
+Q8LM92	Ensembl:Bra009312
+Q8LNU2	Ensembl:Bra026162 Ensembl:Bra026779
+Q8LQ34	Ensembl:Bra017142
+Q8LR33	Ensembl:Bra027150
+Q8LR75	Ensembl:Bra014743 Ensembl:Bra003214 Ensembl:Bra014744
+Q8LRA0	Ensembl:Bra007259 Ensembl:Bra003247 Ensembl:Bra003246
+Q8RU95	Ensembl:Bra029229
+Q8RV34	Ensembl:Bra002334 Ensembl:Bra006580
+Q8RYL0	Ensembl:Bra029919 Ensembl:Bra019564 Ensembl:Bra019567
+Q8RYL1	Ensembl:Bra029919 Ensembl:Bra019564 Ensembl:Bra019567
+Q8RYY6	Ensembl:Bra031358 Ensembl:Bra016392 Ensembl:Bra036774
+Q8RZZ3	Ensembl:Bra001770 Ensembl:Bra027930 Ensembl:Bra035830 Ensembl:Bra038247 Ensembl:Bra014246
+Q8S2E5	Ensembl:Bra019905
+Q8S2G0	Ensembl:Bra012040
+Q8S3R0	Ensembl:Bra011693 Ensembl:Bra011694 Ensembl:Bra010562
+Q8S5M6	Ensembl:Bra020529 Ensembl:Bra036585
+Q8S5N2	Ensembl:Bra030253 Ensembl:Bra028596 Ensembl:Bra011830 Ensembl:Bra009054 Ensembl:Bra038538
+Q8S5T1	Ensembl:Bra014801 Ensembl:Bra007087
+Q8S601	Ensembl:Bra026404 Ensembl:Bra034506 Ensembl:Bra013612 Ensembl:Bra027046
+Q8S7N5	Ensembl:Bra013274 Ensembl:Bra025014
+Q8S919	Ensembl:Bra027688 Ensembl:Bra027749
+Q8S920	Ensembl:Bra029711 Ensembl:Bra001347 Ensembl:Bra041101
+Q8S983	Ensembl:Bra012190 Ensembl:Bra025775 Ensembl:Bra016492
+Q8S985	Ensembl:Bra021885 Ensembl:Bra005465
+Q8S9S4	Ensembl:Bra018932 Ensembl:Bra030419 Ensembl:Bra002800 Ensembl:Bra006863
+Q8S9Z2	Ensembl:Bra030716 Ensembl:Bra031616 Ensembl:Bra018643 Ensembl:Bra034374
+Q8W1L6	Ensembl:Bra011076 Ensembl:Bra024170 Ensembl:Bra010347
+Q8W250	Ensembl:Bra010123 Ensembl:Bra035881
+Q8W3J0	Ensembl:Bra006722 Ensembl:Bra035672 Ensembl:Bra020325 Ensembl:Bra011928
+Q93VC3	Ensembl:Bra019350 Ensembl:Bra013652
+Q93VD5	Ensembl:Bra011384
+Q93XI4	Ensembl:Bra034353
+Q93Y73	Ensembl:Bra016680 Ensembl:Bra026186
+Q941T9	Ensembl:Bra000149 Ensembl:Bra024066 Ensembl:Bra024063 Ensembl:Bra017052 Ensembl:Bra005014 Ensembl:Bra000720
+Q941W8	Ensembl:Bra009113 Ensembl:Bra000184 Ensembl:Bra017125 Ensembl:Bra000052 Ensembl:Bra017012 Ensembl:Bra004967 Ensembl:Bra005115 Ensembl:Bra028758 Ensembl:Bra005853
+Q943R3	Ensembl:Bra003828 Ensembl:Bra015964
+Q94E75	Ensembl:Bra030439 Ensembl:Bra014262 Ensembl:Bra007060 Ensembl:Bra017287 Ensembl:Bra023033
+Q94HG3	Ensembl:Bra034558 Ensembl:Bra011433
+Q94HG6	Ensembl:Bra037009
+Q94IW5	Ensembl:Bra021505 Ensembl:Bra027405
+Q94J08	Ensembl:Bra014556 Ensembl:Bra032300 Ensembl:Bra010839
+Q94J90	Ensembl:Bra008908
+Q94JA2	Ensembl:Bra030951 Ensembl:Bra039662 Ensembl:Bra038112
+Q94JJ0	Ensembl:Bra014340
+Q94LU9	Ensembl:Bra027655
+Q94LV4	Ensembl:Bra029966 Ensembl:Bra017964
+Q9ASD3	Ensembl:Bra007769
+Q9ASK5	Ensembl:Bra020710 Ensembl:Bra017469 Ensembl:Bra037501 Ensembl:Bra036182
+Q9ASP4	Ensembl:Bra018700 Ensembl:Bra022204
+Q9AUQ4	Ensembl:Bra016357 Ensembl:Bra024568
+Q9AUV6	Ensembl:Bra028430 Ensembl:Bra026264 Ensembl:Bra023520 Ensembl:Bra006303 Ensembl:Bra024708 Ensembl:Bra028234 Ensembl:Bra008695
+Q9AV47	Ensembl:Bra011955 Ensembl:Bra024109 Ensembl:Bra011162
+Q9AV71	Ensembl:Bra033714
+Q9AWL7	Ensembl:Bra024536
+Q9AWZ7	Ensembl:Bra007612 Ensembl:Bra003453
+Q9AWZ8	Ensembl:Bra003453
+Q9FDX8	Ensembl:Bra023541 Ensembl:Bra008668 Ensembl:Bra008669 Ensembl:Bra021464
+Q9FDY4	Ensembl:Bra013952 Ensembl:Bra013950 Ensembl:Bra027690
+Q9FTR6	Ensembl:Bra021430 Ensembl:Bra039181 Ensembl:Bra034030
+Q9FTZ2	Ensembl:Bra012204 Ensembl:Bra025788
+Q9FU17	Ensembl:Bra026456 Ensembl:Bra019117
+Q9FWC1	Ensembl:Bra019249 Ensembl:Bra013756
+Q9FWK4	Ensembl:Bra014956
+Q9FWQ2	Ensembl:Bra013628 Ensembl:Bra019370 Ensembl:Bra028254 Ensembl:Bra022549
+Q9LD61	Ensembl:Bra038263
+Q9LDB7	Ensembl:Bra007804 Ensembl:Bra011324
+Q9LG86	Ensembl:Bra001634 Ensembl:Bra014303 Ensembl:Bra022164 Ensembl:Bra021184 Ensembl:Bra018938
+Q9LGU6	Ensembl:Bra041036 Ensembl:Bra000914 Ensembl:Bra036311
+Q9LHZ0	Ensembl:Bra034660 Ensembl:Bra010725 Ensembl:Bra034657
+Q9LHZ7	Ensembl:Bra021377 Ensembl:Bra008583 Ensembl:Bra032022 Ensembl:Bra023588
+Q9LIZ8	Ensembl:Bra020529 Ensembl:Bra036585
+Q9LWU9	Ensembl:Bra026999 Ensembl:Bra027620
+Q9LWV3	Ensembl:Bra026963 Ensembl:Bra022770 Ensembl:Bra028290 Ensembl:Bra016763 Ensembl:Bra019162 Ensembl:Bra027612 Ensembl:Bra019777 Ensembl:Bra010463 Ensembl:Bra010461 Ensembl:Bra010460
+Q9S7D3	Ensembl:Bra025272 Ensembl:Bra039082 Ensembl:Bra033006 Ensembl:Bra028469
+Q9SDG5	Ensembl:Bra029791 Ensembl:Bra028843 Ensembl:Bra009537 Ensembl:Bra005736
+Q9SE42	Ensembl:Bra027631
+Q9SMB1	Ensembl:Bra012389 Ensembl:Bra024620 Ensembl:Bra016329
+Q9SNK3	Ensembl:Bra034927
+Q9SNN0	Ensembl:Bra034648 Ensembl:Bra011554 Ensembl:Bra011555 Ensembl:Bra017672
+Q9XEA6	Ensembl:Bra036910 Ensembl:Bra039708
+Q9XEA8	Ensembl:Bra036910 Ensembl:Bra039708
+Q9XG80	Ensembl:Bra036711 Ensembl:Bra011112 Ensembl:Bra010327 Ensembl:Bra039011
+Q9XHL5	Ensembl:Bra008261 Ensembl:Bra002053 Ensembl:Bra015739
+Q9XJ03	Ensembl:Bra002477 Ensembl:Bra002476 Ensembl:Bra024508
+Q9XJ29	Ensembl:Bra005864 Ensembl:Bra000473 Ensembl:Bra009130
+Q9XJ60	Ensembl:Bra029314 Ensembl:Bra029155 Ensembl:Bra000393 Ensembl:Bra019343 Ensembl:Bra029424 Ensembl:Bra035907 Ensembl:Bra028282 Ensembl:Bra004928 Ensembl:Bra039324 Ensembl:Bra029154 Ensembl:Bra029281 Ensembl:Bra020826 Ensembl:Bra013891 Ensembl:Bra028283 Ensembl:Bra012957 Ensembl:Bra010465
+Q9ZTP5	Ensembl:Bra009244 Ensembl:Bra012962 Ensembl:Bra012963
+UPI00000AA151	Ensembl:Bra007804 Ensembl:Bra011324
+UPI0001C7A9C3	Ensembl:Bra009514 Ensembl:Bra005778

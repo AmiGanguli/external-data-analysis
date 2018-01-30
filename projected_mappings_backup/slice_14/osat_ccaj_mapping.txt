@@ -1,0 +1,949 @@
+A2X747	LegumeInfo:C.cajan_33626 LegumeInfo:C.cajan_26265
+A2XPN8	LegumeInfo:C.cajan_28711 LegumeInfo:C.cajan_07462
+A2Y626	LegumeInfo:C.cajan_18159
+A2Y8A8	LegumeInfo:C.cajan_01572
+A2ZRY8	LegumeInfo:C.cajan_03950
+A2ZW27	LegumeInfo:C.cajan_27351 LegumeInfo:C.cajan_23877
+A2ZWY3	LegumeInfo:C.cajan_09273 LegumeInfo:C.cajan_44446 LegumeInfo:C.cajan_44443
+A2ZWY7	LegumeInfo:C.cajan_09273 LegumeInfo:C.cajan_44446 LegumeInfo:C.cajan_44443
+A3AAR2	LegumeInfo:C.cajan_10084
+A3AC56	LegumeInfo:C.cajan_16426 LegumeInfo:C.cajan_38384
+A3AQC6	LegumeInfo:C.cajan_06830
+A3AZW5	LegumeInfo:C.cajan_30862
+A3B7R7	LegumeInfo:C.cajan_05462
+A3B9A0	LegumeInfo:C.cajan_15406 LegumeInfo:C.cajan_05791 LegumeInfo:C.cajan_41999 LegumeInfo:C.cajan_19686 LegumeInfo:C.cajan_23210 LegumeInfo:C.cajan_03998
+A3BI64	LegumeInfo:C.cajan_39976 LegumeInfo:C.cajan_39595 LegumeInfo:C.cajan_39974 LegumeInfo:C.cajan_39597
+A3BIR7	LegumeInfo:C.cajan_32626 LegumeInfo:C.cajan_11253 LegumeInfo:C.cajan_47317 LegumeInfo:C.cajan_40735 LegumeInfo:C.cajan_32628
+A3BJI8	LegumeInfo:C.cajan_39645 LegumeInfo:C.cajan_08156
+A3C4N5	LegumeInfo:C.cajan_10605 LegumeInfo:C.cajan_23310
+A4LBC0	LegumeInfo:C.cajan_06359
+A9CM06	LegumeInfo:C.cajan_40315 LegumeInfo:C.cajan_36090
+B7E8M5	LegumeInfo:C.cajan_20705 LegumeInfo:C.cajan_16415 LegumeInfo:C.cajan_12570
+B7EA04	LegumeInfo:C.cajan_26779
+B7EJ81	LegumeInfo:C.cajan_08718
+B7ERE7	LegumeInfo:C.cajan_37122 LegumeInfo:C.cajan_37657 LegumeInfo:C.cajan_39759 LegumeInfo:C.cajan_08105
+B7F4K3	LegumeInfo:C.cajan_06269
+B7F7B9	LegumeInfo:C.cajan_35343
+B7F8T0	LegumeInfo:C.cajan_06475 LegumeInfo:C.cajan_10608
+B7F956	LegumeInfo:C.cajan_32031
+B7F9K3	LegumeInfo:C.cajan_06269
+B7FA34	LegumeInfo:C.cajan_11404 LegumeInfo:C.cajan_23106
+B7FA90	LegumeInfo:C.cajan_42396 LegumeInfo:C.cajan_07900 LegumeInfo:C.cajan_43085 LegumeInfo:C.cajan_35718 LegumeInfo:C.cajan_03672
+B7FA99	LegumeInfo:C.cajan_40315 LegumeInfo:C.cajan_36090
+B7FAE9	LegumeInfo:C.cajan_45060
+B7FAP2	LegumeInfo:C.cajan_46912 LegumeInfo:C.cajan_03178
+B8AG62	LegumeInfo:C.cajan_08102
+B8AHI9	LegumeInfo:C.cajan_45349
+B8AT82	LegumeInfo:C.cajan_07942 LegumeInfo:C.cajan_25857
+B8AZ97	LegumeInfo:C.cajan_34085 LegumeInfo:C.cajan_29633
+B8B8K7	LegumeInfo:C.cajan_32766
+B8BB38	LegumeInfo:C.cajan_29356 LegumeInfo:C.cajan_26280
+B8BF84	LegumeInfo:C.cajan_29339 LegumeInfo:C.cajan_07624
+B9EUK4	LegumeInfo:C.cajan_36937 LegumeInfo:C.cajan_16945
+B9EXM2	LegumeInfo:C.cajan_13621
+B9EZJ8	LegumeInfo:C.cajan_10586
+B9F2Q1	LegumeInfo:C.cajan_25545
+B9FML1	LegumeInfo:C.cajan_25121
+B9FRT6	LegumeInfo:C.cajan_30152
+B9FYX6	LegumeInfo:C.cajan_31003 LegumeInfo:C.cajan_24330
+B9FZ46	LegumeInfo:C.cajan_01572
+B9G3A7	LegumeInfo:C.cajan_02460 LegumeInfo:C.cajan_12094 LegumeInfo:C.cajan_30285 LegumeInfo:C.cajan_34732
+C7J0P3	LegumeInfo:C.cajan_25061 LegumeInfo:C.cajan_01656
+C7J5F5	LegumeInfo:C.cajan_36003 LegumeInfo:C.cajan_36004 LegumeInfo:C.cajan_25621 LegumeInfo:C.cajan_39776 LegumeInfo:C.cajan_09971 LegumeInfo:C.cajan_28656
+C7J5T9	LegumeInfo:C.cajan_36003 LegumeInfo:C.cajan_36004 LegumeInfo:C.cajan_25621 LegumeInfo:C.cajan_39776 LegumeInfo:C.cajan_09971 LegumeInfo:C.cajan_28656
+I1QJ08	LegumeInfo:C.cajan_23807
+I1QQP8	LegumeInfo:C.cajan_25001 LegumeInfo:C.cajan_25000 LegumeInfo:C.cajan_01096 LegumeInfo:C.cajan_25333 LegumeInfo:C.cajan_25334
+I3QK18	LegumeInfo:C.cajan_13059
+O04226	LegumeInfo:C.cajan_12430 LegumeInfo:C.cajan_20389 LegumeInfo:C.cajan_36043 LegumeInfo:C.cajan_42965
+O04882	LegumeInfo:C.cajan_16869
+O22105	LegumeInfo:C.cajan_32876
+O22567	LegumeInfo:C.cajan_16883 LegumeInfo:C.cajan_04221
+O24174	LegumeInfo:C.cajan_34078 LegumeInfo:C.cajan_31552
+O24210	LegumeInfo:C.cajan_38077
+O64422	LegumeInfo:C.cajan_29926
+O64437	LegumeInfo:C.cajan_32081 LegumeInfo:C.cajan_19443
+O82427	LegumeInfo:C.cajan_18847
+P0C0X5	LegumeInfo:C.cajan_23108 LegumeInfo:C.cajan_45737 LegumeInfo:C.cajan_22666 LegumeInfo:C.cajan_09433
+P0C128	LegumeInfo:C.cajan_00301 LegumeInfo:C.cajan_00437
+P0C132	LegumeInfo:C.cajan_00962 LegumeInfo:C.cajan_07132 LegumeInfo:C.cajan_10758
+P0C587	LegumeInfo:C.cajan_05160 LegumeInfo:C.cajan_02693
+P0C5A4	LegumeInfo:C.cajan_14597
+P0C5B2	LegumeInfo:C.cajan_02642
+P14654	LegumeInfo:C.cajan_38610 LegumeInfo:C.cajan_19601 LegumeInfo:C.cajan_38476
+P14655	LegumeInfo:C.cajan_05277
+P14656	LegumeInfo:C.cajan_38610 LegumeInfo:C.cajan_19601 LegumeInfo:C.cajan_38476
+P15280	LegumeInfo:C.cajan_06002
+P16081	LegumeInfo:C.cajan_45880 LegumeInfo:C.cajan_38411
+P17784	LegumeInfo:C.cajan_09875 LegumeInfo:C.cajan_22627 LegumeInfo:C.cajan_40312 LegumeInfo:C.cajan_05977 LegumeInfo:C.cajan_06281
+P17814	LegumeInfo:C.cajan_20998 LegumeInfo:C.cajan_03635 LegumeInfo:C.cajan_26252
+P18566	LegumeInfo:C.cajan_02100 LegumeInfo:C.cajan_22224 LegumeInfo:C.cajan_14474 LegumeInfo:C.cajan_03659
+P30298	LegumeInfo:C.cajan_01405 LegumeInfo:C.cajan_25024 LegumeInfo:C.cajan_37255 LegumeInfo:C.cajan_03978
+P31924	LegumeInfo:C.cajan_01405 LegumeInfo:C.cajan_25024 LegumeInfo:C.cajan_37255 LegumeInfo:C.cajan_03978
+P37833	LegumeInfo:C.cajan_11087
+P38419	LegumeInfo:C.cajan_21236 LegumeInfo:C.cajan_42248 LegumeInfo:C.cajan_21238 LegumeInfo:C.cajan_20034 LegumeInfo:C.cajan_44133
+P42862	LegumeInfo:C.cajan_18639 LegumeInfo:C.cajan_35220
+P42863	LegumeInfo:C.cajan_18639 LegumeInfo:C.cajan_35220
+P48642	LegumeInfo:C.cajan_28582
+P93438	LegumeInfo:C.cajan_14635 LegumeInfo:C.cajan_03914 LegumeInfo:C.cajan_10562 LegumeInfo:C.cajan_36461 LegumeInfo:C.cajan_10700 LegumeInfo:C.cajan_02297
+Q01KF3	LegumeInfo:C.cajan_02921
+Q01M39	LegumeInfo:C.cajan_33800 LegumeInfo:C.cajan_22318 LegumeInfo:C.cajan_22319 LegumeInfo:C.cajan_44608 LegumeInfo:C.cajan_03603 LegumeInfo:C.cajan_22316 LegumeInfo:C.cajan_21889 LegumeInfo:C.cajan_05043 LegumeInfo:C.cajan_05045 LegumeInfo:C.cajan_12268 LegumeInfo:C.cajan_22126 LegumeInfo:C.cajan_45098
+Q05JG2	LegumeInfo:C.cajan_26292 LegumeInfo:C.cajan_20006
+Q06967	LegumeInfo:C.cajan_19148 LegumeInfo:C.cajan_36153
+Q0D3B6	LegumeInfo:C.cajan_41432 LegumeInfo:C.cajan_21442
+Q0D3D2	LegumeInfo:C.cajan_31091 LegumeInfo:C.cajan_35125
+Q0D759	LegumeInfo:C.cajan_32626 LegumeInfo:C.cajan_11253 LegumeInfo:C.cajan_47317 LegumeInfo:C.cajan_40735 LegumeInfo:C.cajan_32628
+Q0D7I3	LegumeInfo:C.cajan_10665
+Q0D7J0	LegumeInfo:C.cajan_39976 LegumeInfo:C.cajan_39595 LegumeInfo:C.cajan_39974 LegumeInfo:C.cajan_39597
+Q0D7J3	LegumeInfo:C.cajan_39976 LegumeInfo:C.cajan_39595 LegumeInfo:C.cajan_39974 LegumeInfo:C.cajan_39597
+Q0D7W4	LegumeInfo:C.cajan_06932
+Q0D8I9	LegumeInfo:C.cajan_45110
+Q0D8J6	LegumeInfo:C.cajan_13995
+Q0D980	LegumeInfo:C.cajan_25508
+Q0DA35	LegumeInfo:C.cajan_13735
+Q0DAA4	LegumeInfo:C.cajan_26785 LegumeInfo:C.cajan_16389 LegumeInfo:C.cajan_22279 LegumeInfo:C.cajan_13196 LegumeInfo:C.cajan_13197
+Q0DBD3	LegumeInfo:C.cajan_11852 LegumeInfo:C.cajan_28511
+Q0DBF4	LegumeInfo:C.cajan_32132 LegumeInfo:C.cajan_26260
+Q0DBN4	LegumeInfo:C.cajan_23419
+Q0DCE9	LegumeInfo:C.cajan_07524 LegumeInfo:C.cajan_07523 LegumeInfo:C.cajan_04355
+Q0DDS1	LegumeInfo:C.cajan_15289
+Q0DEC8	LegumeInfo:C.cajan_30666
+Q0DG35	LegumeInfo:C.cajan_04622 LegumeInfo:C.cajan_08831
+Q0DGG8	LegumeInfo:C.cajan_05935
+Q0DHF6	LegumeInfo:C.cajan_31091 LegumeInfo:C.cajan_35125
+Q0DJJ9	LegumeInfo:C.cajan_17953 LegumeInfo:C.cajan_17932 LegumeInfo:C.cajan_17949
+Q0DKE8	LegumeInfo:C.cajan_09194 LegumeInfo:C.cajan_12045 LegumeInfo:C.cajan_00076
+Q0DKP3	LegumeInfo:C.cajan_41683 LegumeInfo:C.cajan_10582 LegumeInfo:C.cajan_01387 LegumeInfo:C.cajan_10459
+Q0DKY4	LegumeInfo:C.cajan_14635 LegumeInfo:C.cajan_03914 LegumeInfo:C.cajan_10562 LegumeInfo:C.cajan_36461 LegumeInfo:C.cajan_10700 LegumeInfo:C.cajan_02297
+Q0DNU1	LegumeInfo:C.cajan_22947 LegumeInfo:C.cajan_17916 LegumeInfo:C.cajan_32117
+Q0DS76	LegumeInfo:C.cajan_36319
+Q0DSM1	LegumeInfo:C.cajan_25061 LegumeInfo:C.cajan_01656
+Q0DV32	LegumeInfo:C.cajan_21571 LegumeInfo:C.cajan_25552
+Q0DWC7	LegumeInfo:C.cajan_22542 LegumeInfo:C.cajan_10804 LegumeInfo:C.cajan_07004
+Q0DWF2	LegumeInfo:C.cajan_06604 LegumeInfo:C.cajan_16460
+Q0DXA9	LegumeInfo:C.cajan_26270 LegumeInfo:C.cajan_01727 LegumeInfo:C.cajan_08712
+Q0DY86	LegumeInfo:C.cajan_16112
+Q0DYK7	LegumeInfo:C.cajan_03154 LegumeInfo:C.cajan_30872 LegumeInfo:C.cajan_40720
+Q0DZE0	LegumeInfo:C.cajan_24714 LegumeInfo:C.cajan_12910 LegumeInfo:C.cajan_48183 LegumeInfo:C.cajan_09840
+Q0E2P1	LegumeInfo:C.cajan_13356 LegumeInfo:C.cajan_00455
+Q0E2P9	LegumeInfo:C.cajan_09273 LegumeInfo:C.cajan_44446 LegumeInfo:C.cajan_44443
+Q0E2X2	LegumeInfo:C.cajan_09941 LegumeInfo:C.cajan_09943 LegumeInfo:C.cajan_08108 LegumeInfo:C.cajan_29580 LegumeInfo:C.cajan_08106 LegumeInfo:C.cajan_31065 LegumeInfo:C.cajan_29938 LegumeInfo:C.cajan_31060 LegumeInfo:C.cajan_31061 LegumeInfo:C.cajan_31062 LegumeInfo:C.cajan_29937 LegumeInfo:C.cajan_29934 LegumeInfo:C.cajan_46197 LegumeInfo:C.cajan_04352 LegumeInfo:C.cajan_04353 LegumeInfo:C.cajan_04350 LegumeInfo:C.cajan_04351 LegumeInfo:C.cajan_09953 LegumeInfo:C.cajan_09952 LegumeInfo:C.cajan_09951 LegumeInfo:C.cajan_09950 LegumeInfo:C.cajan_09957 LegumeInfo:C.cajan_09956 LegumeInfo:C.cajan_43024 LegumeInfo:C.cajan_20762 LegumeInfo:C.cajan_33327
+Q0E3F2	LegumeInfo:C.cajan_03628
+Q0E3J1	LegumeInfo:C.cajan_26785 LegumeInfo:C.cajan_16389 LegumeInfo:C.cajan_22279 LegumeInfo:C.cajan_13196 LegumeInfo:C.cajan_13197
+Q0E4F0	LegumeInfo:C.cajan_32877 LegumeInfo:C.cajan_32878 LegumeInfo:C.cajan_18984
+Q0E4N2	LegumeInfo:C.cajan_08102
+Q0ILP7	LegumeInfo:C.cajan_09073
+Q0INY7	LegumeInfo:C.cajan_02100 LegumeInfo:C.cajan_22224 LegumeInfo:C.cajan_14474 LegumeInfo:C.cajan_03659
+Q0INZ4	LegumeInfo:C.cajan_40330
+Q0IPE5	LegumeInfo:C.cajan_34366
+Q0IQQ5	LegumeInfo:C.cajan_17677
+Q0IRE6	LegumeInfo:C.cajan_10218 LegumeInfo:C.cajan_10216 LegumeInfo:C.cajan_10217 LegumeInfo:C.cajan_35889
+Q0ITU1	LegumeInfo:C.cajan_33669
+Q0IZJ9	LegumeInfo:C.cajan_25607 LegumeInfo:C.cajan_21641
+Q0IZS0	LegumeInfo:C.cajan_20419
+Q0IZX5	LegumeInfo:C.cajan_18850 LegumeInfo:C.cajan_20462 LegumeInfo:C.cajan_12556
+Q0J0L4	LegumeInfo:C.cajan_34715
+Q0J0M8	LegumeInfo:C.cajan_05642
+Q0J0N3	LegumeInfo:C.cajan_02629 LegumeInfo:C.cajan_21769 LegumeInfo:C.cajan_25995 LegumeInfo:C.cajan_48047 LegumeInfo:C.cajan_20543 LegumeInfo:C.cajan_01046
+Q0J0N7	LegumeInfo:C.cajan_02562 LegumeInfo:C.cajan_21791 LegumeInfo:C.cajan_21790
+Q0J0P9	LegumeInfo:C.cajan_02562 LegumeInfo:C.cajan_21791 LegumeInfo:C.cajan_21790
+Q0J185	LegumeInfo:C.cajan_26292 LegumeInfo:C.cajan_20006
+Q0J1C1	LegumeInfo:C.cajan_16760 LegumeInfo:C.cajan_15514 LegumeInfo:C.cajan_05632 LegumeInfo:C.cajan_04469 LegumeInfo:C.cajan_05630 LegumeInfo:C.cajan_33453
+Q0J1E1	LegumeInfo:C.cajan_29186
+Q0J270	LegumeInfo:C.cajan_13427
+Q0J2L7	LegumeInfo:C.cajan_05095 LegumeInfo:C.cajan_05107
+Q0J360	LegumeInfo:C.cajan_04686
+Q0J5Y4	LegumeInfo:C.cajan_05471
+Q0J8A4	LegumeInfo:C.cajan_08477 LegumeInfo:C.cajan_08487 LegumeInfo:C.cajan_02741 LegumeInfo:C.cajan_08478
+Q0J951	LegumeInfo:C.cajan_24332 LegumeInfo:C.cajan_31006
+Q0J9F2	LegumeInfo:C.cajan_16869
+Q0J9K2	LegumeInfo:C.cajan_33053
+Q0J9Z0	LegumeInfo:C.cajan_16830 LegumeInfo:C.cajan_04425
+Q0JA81	LegumeInfo:C.cajan_32016
+Q0JA82	LegumeInfo:C.cajan_32016
+Q0JA83	LegumeInfo:C.cajan_32016
+Q0JAI1	LegumeInfo:C.cajan_14729
+Q0JB49	LegumeInfo:C.cajan_11530
+Q0JB91	LegumeInfo:C.cajan_35092
+Q0JB99	LegumeInfo:C.cajan_01661 LegumeInfo:C.cajan_43271
+Q0JBF1	LegumeInfo:C.cajan_01573 LegumeInfo:C.cajan_13113
+Q0JC10	LegumeInfo:C.cajan_40979 LegumeInfo:C.cajan_20137
+Q0JCU7	LegumeInfo:C.cajan_12764 LegumeInfo:C.cajan_37179 LegumeInfo:C.cajan_35194 LegumeInfo:C.cajan_37176
+Q0JCZ4	LegumeInfo:C.cajan_26850
+Q0JDD2	LegumeInfo:C.cajan_32389
+Q0JDF7	LegumeInfo:C.cajan_25607 LegumeInfo:C.cajan_21641
+Q0JDT1	LegumeInfo:C.cajan_10822
+Q0JE53	LegumeInfo:C.cajan_33800 LegumeInfo:C.cajan_22318 LegumeInfo:C.cajan_22319 LegumeInfo:C.cajan_44608 LegumeInfo:C.cajan_03603 LegumeInfo:C.cajan_22316 LegumeInfo:C.cajan_21889 LegumeInfo:C.cajan_05043 LegumeInfo:C.cajan_05045 LegumeInfo:C.cajan_12268 LegumeInfo:C.cajan_22126 LegumeInfo:C.cajan_45098
+Q0JEK1	LegumeInfo:C.cajan_18514 LegumeInfo:C.cajan_18337
+Q0JEP5	LegumeInfo:C.cajan_24689 LegumeInfo:C.cajan_28780
+Q0JEZ8	LegumeInfo:C.cajan_32016
+Q0JF25	LegumeInfo:C.cajan_28912 LegumeInfo:C.cajan_32043 LegumeInfo:C.cajan_32625 LegumeInfo:C.cajan_46658 LegumeInfo:C.cajan_32044
+Q0JF26	LegumeInfo:C.cajan_28912 LegumeInfo:C.cajan_32043 LegumeInfo:C.cajan_32625 LegumeInfo:C.cajan_46658 LegumeInfo:C.cajan_32044
+Q0JF30	LegumeInfo:C.cajan_22542 LegumeInfo:C.cajan_10804 LegumeInfo:C.cajan_07004
+Q0JGK4	LegumeInfo:C.cajan_14828
+Q0JJI1	LegumeInfo:C.cajan_36966
+Q0JK57	LegumeInfo:C.cajan_11404 LegumeInfo:C.cajan_23106
+Q0JKD0	LegumeInfo:C.cajan_04622 LegumeInfo:C.cajan_08831
+Q0JKG7	LegumeInfo:C.cajan_12306 LegumeInfo:C.cajan_38103 LegumeInfo:C.cajan_40626
+Q0JKI9	LegumeInfo:C.cajan_24759 LegumeInfo:C.cajan_47721
+Q0JLT2	LegumeInfo:C.cajan_13378 LegumeInfo:C.cajan_13499 LegumeInfo:C.cajan_00492
+Q0JPT4	LegumeInfo:C.cajan_41384
+Q0JQ41	LegumeInfo:C.cajan_14067 LegumeInfo:C.cajan_38550
+Q0JRG4	LegumeInfo:C.cajan_16142
+Q109F2	LegumeInfo:C.cajan_19699 LegumeInfo:C.cajan_12817 LegumeInfo:C.cajan_19712
+Q109K4	LegumeInfo:C.cajan_25155 LegumeInfo:C.cajan_25160 LegumeInfo:C.cajan_25162
+Q109W9	LegumeInfo:C.cajan_25155 LegumeInfo:C.cajan_25160 LegumeInfo:C.cajan_25162
+Q10A30	LegumeInfo:C.cajan_09875 LegumeInfo:C.cajan_22627 LegumeInfo:C.cajan_40312 LegumeInfo:C.cajan_05977 LegumeInfo:C.cajan_06281
+Q10A97	LegumeInfo:C.cajan_34782 LegumeInfo:C.cajan_29030 LegumeInfo:C.cajan_09683 LegumeInfo:C.cajan_29026 LegumeInfo:C.cajan_29029 LegumeInfo:C.cajan_29028
+Q10BT5	LegumeInfo:C.cajan_10605 LegumeInfo:C.cajan_23310
+Q10BX9	LegumeInfo:C.cajan_08177
+Q10CE4	LegumeInfo:C.cajan_14002
+Q10CH5	LegumeInfo:C.cajan_09728 LegumeInfo:C.cajan_33239
+Q10CQ1	LegumeInfo:C.cajan_34569
+Q10CS9	LegumeInfo:C.cajan_16603
+Q10D34	LegumeInfo:C.cajan_00962 LegumeInfo:C.cajan_07132 LegumeInfo:C.cajan_10758
+Q10D68	LegumeInfo:C.cajan_38279
+Q10D87	LegumeInfo:C.cajan_10525
+Q10DK7	LegumeInfo:C.cajan_24862 LegumeInfo:C.cajan_43637
+Q10DU0	LegumeInfo:C.cajan_10650 LegumeInfo:C.cajan_03784
+Q10DZ5	LegumeInfo:C.cajan_06192
+Q10E50	LegumeInfo:C.cajan_15360
+Q10EG4	LegumeInfo:C.cajan_45110
+Q10F04	LegumeInfo:C.cajan_08829
+Q10F25	LegumeInfo:C.cajan_22947 LegumeInfo:C.cajan_17916 LegumeInfo:C.cajan_32117
+Q10FE9	LegumeInfo:C.cajan_41512
+Q10G56	LegumeInfo:C.cajan_37664
+Q10HZ6	LegumeInfo:C.cajan_28912 LegumeInfo:C.cajan_32043 LegumeInfo:C.cajan_32625 LegumeInfo:C.cajan_46658 LegumeInfo:C.cajan_32044
+Q10J20	LegumeInfo:C.cajan_10421 LegumeInfo:C.cajan_24511 LegumeInfo:C.cajan_33696
+Q10J32	LegumeInfo:C.cajan_02441
+Q10JI3	LegumeInfo:C.cajan_11619 LegumeInfo:C.cajan_30893 LegumeInfo:C.cajan_18812
+Q10L51	LegumeInfo:C.cajan_09941 LegumeInfo:C.cajan_09943 LegumeInfo:C.cajan_08108 LegumeInfo:C.cajan_29580 LegumeInfo:C.cajan_08106 LegumeInfo:C.cajan_31065 LegumeInfo:C.cajan_29938 LegumeInfo:C.cajan_31060 LegumeInfo:C.cajan_31061 LegumeInfo:C.cajan_31062 LegumeInfo:C.cajan_29937 LegumeInfo:C.cajan_29934 LegumeInfo:C.cajan_46197 LegumeInfo:C.cajan_04352 LegumeInfo:C.cajan_04353 LegumeInfo:C.cajan_04350 LegumeInfo:C.cajan_04351 LegumeInfo:C.cajan_09953 LegumeInfo:C.cajan_09952 LegumeInfo:C.cajan_09951 LegumeInfo:C.cajan_09950 LegumeInfo:C.cajan_09957 LegumeInfo:C.cajan_09956 LegumeInfo:C.cajan_43024 LegumeInfo:C.cajan_20762 LegumeInfo:C.cajan_33327
+Q10L56	LegumeInfo:C.cajan_10520 LegumeInfo:C.cajan_09636
+Q10LP5	LegumeInfo:C.cajan_01405 LegumeInfo:C.cajan_25024 LegumeInfo:C.cajan_37255 LegumeInfo:C.cajan_03978
+Q10LR4	LegumeInfo:C.cajan_34085 LegumeInfo:C.cajan_29633
+Q10LR5	LegumeInfo:C.cajan_06711
+Q10M76	LegumeInfo:C.cajan_18175
+Q10MB0	LegumeInfo:C.cajan_06744 LegumeInfo:C.cajan_10278 LegumeInfo:C.cajan_10714
+Q10MG9	LegumeInfo:C.cajan_35374
+Q10MK2	LegumeInfo:C.cajan_16506
+Q10MK5	LegumeInfo:C.cajan_09017
+Q10MQ2	LegumeInfo:C.cajan_31487 LegumeInfo:C.cajan_00677
+Q10MS2	LegumeInfo:C.cajan_30568 LegumeInfo:C.cajan_17780
+Q10MW3	LegumeInfo:C.cajan_31091 LegumeInfo:C.cajan_35125
+Q10MX3	LegumeInfo:C.cajan_44248 LegumeInfo:C.cajan_33561
+Q10MX9	LegumeInfo:C.cajan_31013 LegumeInfo:C.cajan_29215 LegumeInfo:C.cajan_38090 LegumeInfo:C.cajan_31122
+Q10N17	LegumeInfo:C.cajan_21456
+Q10N34	LegumeInfo:C.cajan_41432 LegumeInfo:C.cajan_21442
+Q10NY1	LegumeInfo:C.cajan_07189
+Q10NY2	LegumeInfo:C.cajan_33059 LegumeInfo:C.cajan_02959
+Q10P02	LegumeInfo:C.cajan_29773
+Q10P67	LegumeInfo:C.cajan_03836
+Q10P71	LegumeInfo:C.cajan_19488 LegumeInfo:C.cajan_27905 LegumeInfo:C.cajan_00108 LegumeInfo:C.cajan_00107 LegumeInfo:C.cajan_32941
+Q10PL0	LegumeInfo:C.cajan_09315
+Q10PY7	LegumeInfo:C.cajan_13501 LegumeInfo:C.cajan_19159 LegumeInfo:C.cajan_39981
+Q10QA5	LegumeInfo:C.cajan_28917
+Q10QN3	LegumeInfo:C.cajan_22912
+Q10QR9	LegumeInfo:C.cajan_18595
+Q10RP2	LegumeInfo:C.cajan_23857
+Q10S34	LegumeInfo:C.cajan_35316 LegumeInfo:C.cajan_27309
+Q10S55	LegumeInfo:C.cajan_17260
+Q10S58	LegumeInfo:C.cajan_12468
+Q10S72	LegumeInfo:C.cajan_11142
+Q10SD6	LegumeInfo:C.cajan_25351 LegumeInfo:C.cajan_48655
+Q10SL7	LegumeInfo:C.cajan_07397
+Q10SM6	LegumeInfo:C.cajan_20705 LegumeInfo:C.cajan_16415 LegumeInfo:C.cajan_12570
+Q10SP1	LegumeInfo:C.cajan_00817
+Q10SU1	LegumeInfo:C.cajan_19522 LegumeInfo:C.cajan_36040
+Q25AR2	LegumeInfo:C.cajan_07517
+Q2KNB4	LegumeInfo:C.cajan_21045 LegumeInfo:C.cajan_24021
+Q2KNB5	LegumeInfo:C.cajan_21045 LegumeInfo:C.cajan_24021
+Q2MJA7	LegumeInfo:C.cajan_02629 LegumeInfo:C.cajan_21769 LegumeInfo:C.cajan_25995 LegumeInfo:C.cajan_48047 LegumeInfo:C.cajan_20543 LegumeInfo:C.cajan_01046
+Q2MJA8	LegumeInfo:C.cajan_02629 LegumeInfo:C.cajan_21769 LegumeInfo:C.cajan_25995 LegumeInfo:C.cajan_48047 LegumeInfo:C.cajan_20543 LegumeInfo:C.cajan_01046
+Q2QLJ0	LegumeInfo:C.cajan_22031
+Q2QLQ1	LegumeInfo:C.cajan_03616
+Q2QLY5	LegumeInfo:C.cajan_14357 LegumeInfo:C.cajan_39114 LegumeInfo:C.cajan_05177
+Q2QLY6	LegumeInfo:C.cajan_04590
+Q2QM47	LegumeInfo:C.cajan_13711 LegumeInfo:C.cajan_39744
+Q2QM70	LegumeInfo:C.cajan_30382 LegumeInfo:C.cajan_20363
+Q2QM83	LegumeInfo:C.cajan_26413 LegumeInfo:C.cajan_41700 LegumeInfo:C.cajan_34132
+Q2QMD4	LegumeInfo:C.cajan_33818
+Q2QME6	LegumeInfo:C.cajan_30812 LegumeInfo:C.cajan_07492
+Q2QMK8	LegumeInfo:C.cajan_19552
+Q2QN58	LegumeInfo:C.cajan_37723 LegumeInfo:C.cajan_18759 LegumeInfo:C.cajan_17984
+Q2QN88	LegumeInfo:C.cajan_20172
+Q2QNF7	LegumeInfo:C.cajan_09757
+Q2QNM9	LegumeInfo:C.cajan_11005 LegumeInfo:C.cajan_27693
+Q2QNN5	LegumeInfo:C.cajan_21236 LegumeInfo:C.cajan_42248 LegumeInfo:C.cajan_21238 LegumeInfo:C.cajan_20034 LegumeInfo:C.cajan_44133
+Q2QNS6	LegumeInfo:C.cajan_25012
+Q2QPI2	LegumeInfo:C.cajan_10218 LegumeInfo:C.cajan_10216 LegumeInfo:C.cajan_10217 LegumeInfo:C.cajan_35889
+Q2QPR0	LegumeInfo:C.cajan_24714 LegumeInfo:C.cajan_12910 LegumeInfo:C.cajan_48183 LegumeInfo:C.cajan_09840
+Q2QQJ5	LegumeInfo:C.cajan_32016
+Q2QQX6	LegumeInfo:C.cajan_26850
+Q2QRX6	LegumeInfo:C.cajan_12023
+Q2QS13	LegumeInfo:C.cajan_43763 LegumeInfo:C.cajan_18786 LegumeInfo:C.cajan_20058 LegumeInfo:C.cajan_22129
+Q2QS14	LegumeInfo:C.cajan_43763 LegumeInfo:C.cajan_18786 LegumeInfo:C.cajan_20058 LegumeInfo:C.cajan_22129
+Q2QT32	LegumeInfo:C.cajan_01044 LegumeInfo:C.cajan_03191
+Q2QTJ1	LegumeInfo:C.cajan_02100 LegumeInfo:C.cajan_22224 LegumeInfo:C.cajan_14474 LegumeInfo:C.cajan_03659
+Q2QTL0	LegumeInfo:C.cajan_42814
+Q2QTQ1	LegumeInfo:C.cajan_37383
+Q2QUG4	LegumeInfo:C.cajan_13029
+Q2QUI0	LegumeInfo:C.cajan_10218 LegumeInfo:C.cajan_10216 LegumeInfo:C.cajan_10217 LegumeInfo:C.cajan_35889
+Q2QVC1	LegumeInfo:C.cajan_11203
+Q2QWD0	LegumeInfo:C.cajan_10971
+Q2QWK9	LegumeInfo:C.cajan_17241
+Q2QWV7	LegumeInfo:C.cajan_06475 LegumeInfo:C.cajan_10608
+Q2QX58	LegumeInfo:C.cajan_01319 LegumeInfo:C.cajan_29841
+Q2QXK5	LegumeInfo:C.cajan_32389
+Q2QXL0	LegumeInfo:C.cajan_31756 LegumeInfo:C.cajan_21735
+Q2QXP0	LegumeInfo:C.cajan_25061 LegumeInfo:C.cajan_01656
+Q2QXY1	LegumeInfo:C.cajan_14869
+Q2QXY9	LegumeInfo:C.cajan_37827 LegumeInfo:C.cajan_07899 LegumeInfo:C.cajan_46126
+Q2QXZ1	LegumeInfo:C.cajan_30146
+Q2QY34	LegumeInfo:C.cajan_23108 LegumeInfo:C.cajan_45737 LegumeInfo:C.cajan_22666 LegumeInfo:C.cajan_09433
+Q2QY63	LegumeInfo:C.cajan_18236
+Q2QYB7	LegumeInfo:C.cajan_11032
+Q2QYV3	LegumeInfo:C.cajan_33575
+Q2QYW4	LegumeInfo:C.cajan_31013 LegumeInfo:C.cajan_29215 LegumeInfo:C.cajan_38090 LegumeInfo:C.cajan_31122
+Q2QZ14	LegumeInfo:C.cajan_12124 LegumeInfo:C.cajan_12125
+Q2QZT9	LegumeInfo:C.cajan_22003
+Q2R1G8	LegumeInfo:C.cajan_32077
+Q2R1L4	LegumeInfo:C.cajan_14469 LegumeInfo:C.cajan_34448
+Q2R2Q2	LegumeInfo:C.cajan_40315 LegumeInfo:C.cajan_36090
+Q2R2W2	LegumeInfo:C.cajan_19148 LegumeInfo:C.cajan_36153
+Q2R2W3	LegumeInfo:C.cajan_15360
+Q2R2W8	LegumeInfo:C.cajan_24456 LegumeInfo:C.cajan_24486 LegumeInfo:C.cajan_24829
+Q2R339	LegumeInfo:C.cajan_14181
+Q2R3A1	LegumeInfo:C.cajan_20347 LegumeInfo:C.cajan_23441 LegumeInfo:C.cajan_38726 LegumeInfo:C.cajan_23442 LegumeInfo:C.cajan_43674 LegumeInfo:C.cajan_03204 LegumeInfo:C.cajan_24072
+Q2R3F5	LegumeInfo:C.cajan_26850
+Q2R3K3	LegumeInfo:C.cajan_16193
+Q2R3K5	LegumeInfo:C.cajan_41683 LegumeInfo:C.cajan_10582 LegumeInfo:C.cajan_01387 LegumeInfo:C.cajan_10459
+Q2R481	LegumeInfo:C.cajan_12023
+Q2R8T7	LegumeInfo:C.cajan_31439
+Q2RAM8	LegumeInfo:C.cajan_46912 LegumeInfo:C.cajan_03178
+Q2RAP0	LegumeInfo:C.cajan_14869
+Q2RAP4	LegumeInfo:C.cajan_41978 LegumeInfo:C.cajan_19499
+Q2RAP8	LegumeInfo:C.cajan_37827 LegumeInfo:C.cajan_07899 LegumeInfo:C.cajan_46126
+Q2RAP9	LegumeInfo:C.cajan_30146
+Q2RAY0	LegumeInfo:C.cajan_18236
+Q2RB02	LegumeInfo:C.cajan_19530 LegumeInfo:C.cajan_45600 LegumeInfo:C.cajan_44219 LegumeInfo:C.cajan_19527 LegumeInfo:C.cajan_19526 LegumeInfo:C.cajan_19525 LegumeInfo:C.cajan_40590 LegumeInfo:C.cajan_15293 LegumeInfo:C.cajan_31074 LegumeInfo:C.cajan_37485 LegumeInfo:C.cajan_40585 LegumeInfo:C.cajan_19528
+Q2RB23	LegumeInfo:C.cajan_11032
+Q2RBN0	LegumeInfo:C.cajan_33575
+Q2RBP2	LegumeInfo:C.cajan_15228 LegumeInfo:C.cajan_19743 LegumeInfo:C.cajan_25764
+Q336M7	LegumeInfo:C.cajan_00590
+Q336N7	LegumeInfo:C.cajan_36389
+Q336P5	LegumeInfo:C.cajan_12324
+Q336R6	LegumeInfo:C.cajan_27203 LegumeInfo:C.cajan_27201 LegumeInfo:C.cajan_13023
+Q336U3	LegumeInfo:C.cajan_20139 LegumeInfo:C.cajan_35236
+Q336V3	LegumeInfo:C.cajan_33339
+Q336X9	LegumeInfo:C.cajan_18301 LegumeInfo:C.cajan_20797
+Q337F0	LegumeInfo:C.cajan_20691 LegumeInfo:C.cajan_18462
+Q337F3	LegumeInfo:C.cajan_19522 LegumeInfo:C.cajan_36040
+Q338J0	LegumeInfo:C.cajan_16453
+Q338N8	LegumeInfo:C.cajan_32766
+Q338Z4	LegumeInfo:C.cajan_09001
+Q339V1	LegumeInfo:C.cajan_10201
+Q33AE4	LegumeInfo:C.cajan_07432
+Q40710	LegumeInfo:C.cajan_06744 LegumeInfo:C.cajan_10278 LegumeInfo:C.cajan_10714
+Q42971	LegumeInfo:C.cajan_09898
+Q42982	LegumeInfo:C.cajan_20998 LegumeInfo:C.cajan_03635 LegumeInfo:C.cajan_26252
+Q43007	LegumeInfo:C.cajan_02984 LegumeInfo:C.cajan_00206
+Q43009	LegumeInfo:C.cajan_01405 LegumeInfo:C.cajan_25024 LegumeInfo:C.cajan_37255 LegumeInfo:C.cajan_03978
+Q43011	LegumeInfo:C.cajan_19428
+Q4W8D0	LegumeInfo:C.cajan_38610 LegumeInfo:C.cajan_19601 LegumeInfo:C.cajan_38476
+Q52QH4	LegumeInfo:C.cajan_38151 LegumeInfo:C.cajan_15921 LegumeInfo:C.cajan_01304 LegumeInfo:C.cajan_29871
+Q53JG7	LegumeInfo:C.cajan_19488 LegumeInfo:C.cajan_27905 LegumeInfo:C.cajan_00108 LegumeInfo:C.cajan_00107 LegumeInfo:C.cajan_32941
+Q53JI9	LegumeInfo:C.cajan_14828
+Q53JP2	LegumeInfo:C.cajan_43296 LegumeInfo:C.cajan_29237 LegumeInfo:C.cajan_02682 LegumeInfo:C.cajan_28420 LegumeInfo:C.cajan_05536
+Q53MS9	LegumeInfo:C.cajan_15555
+Q53MU8	LegumeInfo:C.cajan_47223
+Q53NW6	LegumeInfo:C.cajan_24714 LegumeInfo:C.cajan_12910 LegumeInfo:C.cajan_48183 LegumeInfo:C.cajan_09840
+Q53P49	LegumeInfo:C.cajan_02260 LegumeInfo:C.cajan_10864
+Q53Q70	LegumeInfo:C.cajan_08200 LegumeInfo:C.cajan_32100 LegumeInfo:C.cajan_31493
+Q53QJ0	LegumeInfo:C.cajan_08520
+Q5CCK1	LegumeInfo:C.cajan_41978 LegumeInfo:C.cajan_19499
+Q5CCK3	LegumeInfo:C.cajan_12671 LegumeInfo:C.cajan_24180
+Q5JJV0	LegumeInfo:C.cajan_04686
+Q5JK18	LegumeInfo:C.cajan_32653
+Q5JK20	LegumeInfo:C.cajan_26850
+Q5JK39	LegumeInfo:C.cajan_16193
+Q5JLS4	LegumeInfo:C.cajan_07166
+Q5JMA1	LegumeInfo:C.cajan_26670
+Q5JMA6	LegumeInfo:C.cajan_30093
+Q5JMB6	LegumeInfo:C.cajan_14067 LegumeInfo:C.cajan_38550
+Q5JMC7	LegumeInfo:C.cajan_23231
+Q5JMM6	LegumeInfo:C.cajan_40571
+Q5JMX5	LegumeInfo:C.cajan_30529
+Q5JMX9	LegumeInfo:C.cajan_26633
+Q5JN19	LegumeInfo:C.cajan_37723 LegumeInfo:C.cajan_18759 LegumeInfo:C.cajan_17984
+Q5JN63	LegumeInfo:C.cajan_40962
+Q5JNB0	LegumeInfo:C.cajan_30782
+Q5MBR3	LegumeInfo:C.cajan_13995
+Q5MBR5	LegumeInfo:C.cajan_13995
+Q5N725	LegumeInfo:C.cajan_09875 LegumeInfo:C.cajan_22627 LegumeInfo:C.cajan_40312 LegumeInfo:C.cajan_05977 LegumeInfo:C.cajan_06281
+Q5N7L0	LegumeInfo:C.cajan_31884
+Q5N7Z8	LegumeInfo:C.cajan_16038 LegumeInfo:C.cajan_22785 LegumeInfo:C.cajan_08538 LegumeInfo:C.cajan_11263 LegumeInfo:C.cajan_27889
+Q5N892	LegumeInfo:C.cajan_19488 LegumeInfo:C.cajan_27905 LegumeInfo:C.cajan_00108 LegumeInfo:C.cajan_00107 LegumeInfo:C.cajan_32941
+Q5N8G1	LegumeInfo:C.cajan_47310
+Q5N8H9	LegumeInfo:C.cajan_09273 LegumeInfo:C.cajan_44446 LegumeInfo:C.cajan_44443
+Q5N9N2	LegumeInfo:C.cajan_05095 LegumeInfo:C.cajan_05107
+Q5N9Z8	LegumeInfo:C.cajan_32087 LegumeInfo:C.cajan_19472
+Q5NA81	LegumeInfo:C.cajan_13788 LegumeInfo:C.cajan_23926
+Q5NAY4	LegumeInfo:C.cajan_26654 LegumeInfo:C.cajan_25633
+Q5NAZ7	LegumeInfo:C.cajan_02260 LegumeInfo:C.cajan_10864
+Q5NB25	LegumeInfo:C.cajan_12306 LegumeInfo:C.cajan_38103 LegumeInfo:C.cajan_40626
+Q5NBQ1	LegumeInfo:C.cajan_38724 LegumeInfo:C.cajan_47234 LegumeInfo:C.cajan_17647
+Q5NBT9	LegumeInfo:C.cajan_06862 LegumeInfo:C.cajan_10234
+Q5NTH3	LegumeInfo:C.cajan_08300 LegumeInfo:C.cajan_40638
+Q5NTH4	LegumeInfo:C.cajan_08300 LegumeInfo:C.cajan_40638
+Q5QN02	LegumeInfo:C.cajan_06971
+Q5SMQ9	LegumeInfo:C.cajan_23108 LegumeInfo:C.cajan_45737 LegumeInfo:C.cajan_22666 LegumeInfo:C.cajan_09433
+Q5SMY2	LegumeInfo:C.cajan_13378 LegumeInfo:C.cajan_13499 LegumeInfo:C.cajan_00492
+Q5SND7	LegumeInfo:C.cajan_41521
+Q5U9F2	LegumeInfo:C.cajan_10084
+Q5VMP0	LegumeInfo:C.cajan_28490
+Q5VMP2	LegumeInfo:C.cajan_03151 LegumeInfo:C.cajan_20752
+Q5VN31	LegumeInfo:C.cajan_25489
+Q5VNP5	LegumeInfo:C.cajan_24160
+Q5VNW0	LegumeInfo:C.cajan_20544
+Q5VP70	LegumeInfo:C.cajan_23108 LegumeInfo:C.cajan_45737 LegumeInfo:C.cajan_22666 LegumeInfo:C.cajan_09433
+Q5VPH2	LegumeInfo:C.cajan_12799
+Q5VQG4	LegumeInfo:C.cajan_09195 LegumeInfo:C.cajan_00077 LegumeInfo:C.cajan_01015
+Q5VQG8	LegumeInfo:C.cajan_09194 LegumeInfo:C.cajan_12045 LegumeInfo:C.cajan_00076
+Q5VRB9	LegumeInfo:C.cajan_10586
+Q5VRM7	LegumeInfo:C.cajan_25672 LegumeInfo:C.cajan_25675
+Q5VRR0	LegumeInfo:C.cajan_34001
+Q5VSB8	LegumeInfo:C.cajan_39523
+Q5W670	LegumeInfo:C.cajan_00301 LegumeInfo:C.cajan_00437
+Q5W6F1	LegumeInfo:C.cajan_05462
+Q5W6F9	LegumeInfo:C.cajan_30083 LegumeInfo:C.cajan_23186
+Q5W6H5	LegumeInfo:C.cajan_31110
+Q5W6W7	LegumeInfo:C.cajan_27843
+Q5WMV3	LegumeInfo:C.cajan_23665
+Q5XLJ2	LegumeInfo:C.cajan_14181
+Q5Z5B7	LegumeInfo:C.cajan_31729 LegumeInfo:C.cajan_40761 LegumeInfo:C.cajan_29431
+Q5Z5R4	LegumeInfo:C.cajan_32132 LegumeInfo:C.cajan_26260
+Q5Z5R7	LegumeInfo:C.cajan_32132 LegumeInfo:C.cajan_26260
+Q5Z678	LegumeInfo:C.cajan_03113
+Q5Z6D3	LegumeInfo:C.cajan_07524 LegumeInfo:C.cajan_07523 LegumeInfo:C.cajan_04355
+Q5Z6E5	LegumeInfo:C.cajan_29988
+Q5Z749	LegumeInfo:C.cajan_12306 LegumeInfo:C.cajan_38103 LegumeInfo:C.cajan_40626
+Q5Z7R3	LegumeInfo:C.cajan_40315 LegumeInfo:C.cajan_36090
+Q5Z807	LegumeInfo:C.cajan_21133
+Q5Z856	LegumeInfo:C.cajan_07190
+Q5Z8K3	LegumeInfo:C.cajan_38862 LegumeInfo:C.cajan_03669
+Q5Z8S0	LegumeInfo:C.cajan_04731 LegumeInfo:C.cajan_09295
+Q5Z8T3	LegumeInfo:C.cajan_00279 LegumeInfo:C.cajan_23170 LegumeInfo:C.cajan_23169
+Q5Z8V9	LegumeInfo:C.cajan_03112
+Q5Z8Y4	LegumeInfo:C.cajan_08953
+Q5Z8Z7	LegumeInfo:C.cajan_13356 LegumeInfo:C.cajan_00455
+Q5ZCV1	LegumeInfo:C.cajan_06893 LegumeInfo:C.cajan_15659 LegumeInfo:C.cajan_35874 LegumeInfo:C.cajan_22778
+Q5ZED1	LegumeInfo:C.cajan_05644
+Q5ZEL4	LegumeInfo:C.cajan_29213 LegumeInfo:C.cajan_31120
+Q60EX6	LegumeInfo:C.cajan_10475
+Q60EY1	LegumeInfo:C.cajan_09617
+Q64MA9	LegumeInfo:C.cajan_02650 LegumeInfo:C.cajan_13161
+Q650W1	LegumeInfo:C.cajan_25607 LegumeInfo:C.cajan_21641
+Q651F0	LegumeInfo:C.cajan_12527
+Q652A8	LegumeInfo:C.cajan_24589 LegumeInfo:C.cajan_30717
+Q652S1	LegumeInfo:C.cajan_11397
+Q653D9	LegumeInfo:C.cajan_03151 LegumeInfo:C.cajan_20752
+Q653F4	LegumeInfo:C.cajan_24536
+Q653H7	LegumeInfo:C.cajan_28641 LegumeInfo:C.cajan_21533 LegumeInfo:C.cajan_09835
+Q653T6	LegumeInfo:C.cajan_39633
+Q653U3	LegumeInfo:C.cajan_24332 LegumeInfo:C.cajan_31006
+Q655T1	LegumeInfo:C.cajan_43952
+Q655W2	LegumeInfo:C.cajan_42220
+Q655Y9	LegumeInfo:C.cajan_22943
+Q656F1	LegumeInfo:C.cajan_25978 LegumeInfo:C.cajan_40915
+Q657X7	LegumeInfo:C.cajan_01586
+Q65X14	LegumeInfo:C.cajan_21991 LegumeInfo:C.cajan_03339
+Q65XC6	LegumeInfo:C.cajan_10586
+Q65XK0	LegumeInfo:C.cajan_27351 LegumeInfo:C.cajan_23877
+Q65XM9	LegumeInfo:C.cajan_16869
+Q65XR9	LegumeInfo:C.cajan_02984 LegumeInfo:C.cajan_00206
+Q67J16	LegumeInfo:C.cajan_19991
+Q67TQ5	LegumeInfo:C.cajan_18094 LegumeInfo:C.cajan_41844
+Q67TS1	LegumeInfo:C.cajan_42582
+Q67TS4	LegumeInfo:C.cajan_42582
+Q67TZ7	LegumeInfo:C.cajan_26270 LegumeInfo:C.cajan_01727 LegumeInfo:C.cajan_08712
+Q67UL3	LegumeInfo:C.cajan_23108 LegumeInfo:C.cajan_45737 LegumeInfo:C.cajan_22666 LegumeInfo:C.cajan_09433
+Q67UX0	LegumeInfo:C.cajan_38862 LegumeInfo:C.cajan_03669
+Q67UZ8	LegumeInfo:C.cajan_08970 LegumeInfo:C.cajan_31501
+Q67VM1	LegumeInfo:C.cajan_35249
+Q67VR7	LegumeInfo:C.cajan_16130 LegumeInfo:C.cajan_32369 LegumeInfo:C.cajan_01360
+Q67W29	LegumeInfo:C.cajan_03836
+Q67W82	LegumeInfo:C.cajan_20998 LegumeInfo:C.cajan_03635 LegumeInfo:C.cajan_26252
+Q67WN8	LegumeInfo:C.cajan_35343
+Q688L9	LegumeInfo:C.cajan_30083 LegumeInfo:C.cajan_23186
+Q688Q8	LegumeInfo:C.cajan_36978
+Q688Q9	LegumeInfo:C.cajan_33842 LegumeInfo:C.cajan_11537
+Q688T8	LegumeInfo:C.cajan_12009 LegumeInfo:C.cajan_28326 LegumeInfo:C.cajan_07689
+Q688Y2	LegumeInfo:C.cajan_30469
+Q689G6	LegumeInfo:C.cajan_39146 LegumeInfo:C.cajan_39868 LegumeInfo:C.cajan_10962
+Q689G9	LegumeInfo:C.cajan_08715
+Q69IM7	LegumeInfo:C.cajan_13445
+Q69J27	LegumeInfo:C.cajan_34012
+Q69JI7	LegumeInfo:C.cajan_08718
+Q69K00	LegumeInfo:C.cajan_09969
+Q69KM5	LegumeInfo:C.cajan_02629 LegumeInfo:C.cajan_21769 LegumeInfo:C.cajan_25995 LegumeInfo:C.cajan_48047 LegumeInfo:C.cajan_20543 LegumeInfo:C.cajan_01046
+Q69L93	LegumeInfo:C.cajan_12124 LegumeInfo:C.cajan_12125
+Q69LG7	LegumeInfo:C.cajan_02200 LegumeInfo:C.cajan_03180
+Q69MC9	LegumeInfo:C.cajan_17114
+Q69MH0	LegumeInfo:C.cajan_14478 LegumeInfo:C.cajan_13223
+Q69NY7	LegumeInfo:C.cajan_40782 LegumeInfo:C.cajan_31964
+Q69P51	LegumeInfo:C.cajan_33682 LegumeInfo:C.cajan_33680
+Q69P94	LegumeInfo:C.cajan_41948 LegumeInfo:C.cajan_04004 LegumeInfo:C.cajan_18969
+Q69QD7	LegumeInfo:C.cajan_44252
+Q69RG7	LegumeInfo:C.cajan_21571 LegumeInfo:C.cajan_25552
+Q69RJ0	LegumeInfo:C.cajan_30166
+Q69T90	LegumeInfo:C.cajan_00910
+Q69T99	LegumeInfo:C.cajan_06002
+Q69TF4	LegumeInfo:C.cajan_18323 LegumeInfo:C.cajan_20612
+Q69TH6	LegumeInfo:C.cajan_09637
+Q69TT1	LegumeInfo:C.cajan_13964
+Q69TV4	LegumeInfo:C.cajan_26270 LegumeInfo:C.cajan_01727 LegumeInfo:C.cajan_08712
+Q69TV6	LegumeInfo:C.cajan_26270 LegumeInfo:C.cajan_01727 LegumeInfo:C.cajan_08712
+Q69TV8	LegumeInfo:C.cajan_26270 LegumeInfo:C.cajan_01727 LegumeInfo:C.cajan_08712
+Q69TW5	LegumeInfo:C.cajan_18094 LegumeInfo:C.cajan_41844
+Q69U01	LegumeInfo:C.cajan_25268
+Q69U03	LegumeInfo:C.cajan_25268
+Q69U04	LegumeInfo:C.cajan_25268
+Q69U93	LegumeInfo:C.cajan_21034
+Q69UF5	LegumeInfo:C.cajan_46912 LegumeInfo:C.cajan_03178
+Q69UU3	LegumeInfo:C.cajan_12194
+Q69V57	LegumeInfo:C.cajan_09875 LegumeInfo:C.cajan_22627 LegumeInfo:C.cajan_40312 LegumeInfo:C.cajan_05977 LegumeInfo:C.cajan_06281
+Q69XD3	LegumeInfo:C.cajan_46912 LegumeInfo:C.cajan_03178
+Q69XS7	LegumeInfo:C.cajan_18657
+Q6AT26	LegumeInfo:C.cajan_09129
+Q6AT32	LegumeInfo:C.cajan_11075 LegumeInfo:C.cajan_02702
+Q6AT33	LegumeInfo:C.cajan_12306 LegumeInfo:C.cajan_38103 LegumeInfo:C.cajan_40626
+Q6AT41	LegumeInfo:C.cajan_15690
+Q6AT43	LegumeInfo:C.cajan_43640
+Q6AT75	LegumeInfo:C.cajan_39645 LegumeInfo:C.cajan_08156
+Q6ATR2	LegumeInfo:C.cajan_21651
+Q6AUB0	LegumeInfo:C.cajan_18222
+Q6AUJ8	LegumeInfo:C.cajan_31091 LegumeInfo:C.cajan_35125
+Q6AV34	LegumeInfo:C.cajan_11584
+Q6AVG6	LegumeInfo:C.cajan_11961
+Q6AVM5	LegumeInfo:C.cajan_28553 LegumeInfo:C.cajan_40435 LegumeInfo:C.cajan_14697
+Q6BDZ9	LegumeInfo:C.cajan_32016
+Q6EN48	LegumeInfo:C.cajan_08820
+Q6EP31	LegumeInfo:C.cajan_21311 LegumeInfo:C.cajan_30743 LegumeInfo:C.cajan_30745 LegumeInfo:C.cajan_12528 LegumeInfo:C.cajan_39076 LegumeInfo:C.cajan_23916
+Q6EP59	LegumeInfo:C.cajan_33800 LegumeInfo:C.cajan_22318 LegumeInfo:C.cajan_22319 LegumeInfo:C.cajan_44608 LegumeInfo:C.cajan_03603 LegumeInfo:C.cajan_22316 LegumeInfo:C.cajan_21889 LegumeInfo:C.cajan_05043 LegumeInfo:C.cajan_05045 LegumeInfo:C.cajan_12268 LegumeInfo:C.cajan_22126 LegumeInfo:C.cajan_45098
+Q6EP77	LegumeInfo:C.cajan_07410 LegumeInfo:C.cajan_41905 LegumeInfo:C.cajan_42051 LegumeInfo:C.cajan_13168 LegumeInfo:C.cajan_13170
+Q6EPN6	LegumeInfo:C.cajan_13236
+Q6EPY7	LegumeInfo:C.cajan_32389
+Q6EQW2	LegumeInfo:C.cajan_40326
+Q6ERL4	LegumeInfo:C.cajan_13000
+Q6ERR3	LegumeInfo:C.cajan_29356 LegumeInfo:C.cajan_26280
+Q6ES51	LegumeInfo:C.cajan_15497
+Q6ESJ0	LegumeInfo:C.cajan_11530
+Q6ESZ9	LegumeInfo:C.cajan_23071 LegumeInfo:C.cajan_17167
+Q6ET36	LegumeInfo:C.cajan_09658 LegumeInfo:C.cajan_09650
+Q6ET88	LegumeInfo:C.cajan_23000
+Q6ETD3	LegumeInfo:C.cajan_01573 LegumeInfo:C.cajan_13113
+Q6ETN3	LegumeInfo:C.cajan_20998 LegumeInfo:C.cajan_03635 LegumeInfo:C.cajan_26252
+Q6ETX4	LegumeInfo:C.cajan_02668 LegumeInfo:C.cajan_02669 LegumeInfo:C.cajan_28422 LegumeInfo:C.cajan_02681
+Q6EUF1	LegumeInfo:C.cajan_41384
+Q6EUP4	LegumeInfo:C.cajan_19148 LegumeInfo:C.cajan_36153
+Q6EUS6	LegumeInfo:C.cajan_23419
+Q6F361	LegumeInfo:C.cajan_14257
+Q6F4N6	LegumeInfo:C.cajan_40979 LegumeInfo:C.cajan_20137
+Q6H4H9	LegumeInfo:C.cajan_25268
+Q6H4V1	LegumeInfo:C.cajan_41891
+Q6H543	LegumeInfo:C.cajan_00301 LegumeInfo:C.cajan_00437
+Q6H5C7	LegumeInfo:C.cajan_14469 LegumeInfo:C.cajan_34448
+Q6H5Z4	LegumeInfo:C.cajan_04731 LegumeInfo:C.cajan_09295
+Q6H6C7	LegumeInfo:C.cajan_43952
+Q6H6D2	LegumeInfo:C.cajan_24026 LegumeInfo:C.cajan_21039
+Q6H6G1	LegumeInfo:C.cajan_03387
+Q6H6I1	LegumeInfo:C.cajan_00187
+Q6H6P8	LegumeInfo:C.cajan_10046 LegumeInfo:C.cajan_10045
+Q6H703	LegumeInfo:C.cajan_42220
+Q6H7Q6	LegumeInfo:C.cajan_21236 LegumeInfo:C.cajan_42248 LegumeInfo:C.cajan_21238 LegumeInfo:C.cajan_20034 LegumeInfo:C.cajan_44133
+Q6H819	LegumeInfo:C.cajan_41750 LegumeInfo:C.cajan_32189
+Q6H849	LegumeInfo:C.cajan_21695
+Q6H851	LegumeInfo:C.cajan_21695
+Q6H8F6	LegumeInfo:C.cajan_42582
+Q6I581	LegumeInfo:C.cajan_02260 LegumeInfo:C.cajan_10864
+Q6I5C3	LegumeInfo:C.cajan_02246 LegumeInfo:C.cajan_04601 LegumeInfo:C.cajan_13627
+Q6IVC3	LegumeInfo:C.cajan_18375 LegumeInfo:C.cajan_09379
+Q6J1A5	LegumeInfo:C.cajan_07410 LegumeInfo:C.cajan_41905 LegumeInfo:C.cajan_42051 LegumeInfo:C.cajan_13168 LegumeInfo:C.cajan_13170
+Q6K2E8	LegumeInfo:C.cajan_16995 LegumeInfo:C.cajan_08493
+Q6K306	LegumeInfo:C.cajan_05600
+Q6K3T2	LegumeInfo:C.cajan_46510 LegumeInfo:C.cajan_38533
+Q6K3Z3	LegumeInfo:C.cajan_24615 LegumeInfo:C.cajan_27159
+Q6K548	LegumeInfo:C.cajan_16952
+Q6K5G8	LegumeInfo:C.cajan_08477 LegumeInfo:C.cajan_08487 LegumeInfo:C.cajan_02741 LegumeInfo:C.cajan_08478
+Q6K5U4	LegumeInfo:C.cajan_40315 LegumeInfo:C.cajan_36090
+Q6K6Q0	LegumeInfo:C.cajan_24714 LegumeInfo:C.cajan_12910 LegumeInfo:C.cajan_48183 LegumeInfo:C.cajan_09840
+Q6K6Q1	LegumeInfo:C.cajan_24714 LegumeInfo:C.cajan_12910 LegumeInfo:C.cajan_48183 LegumeInfo:C.cajan_09840
+Q6K755	LegumeInfo:C.cajan_33800 LegumeInfo:C.cajan_22318 LegumeInfo:C.cajan_22319 LegumeInfo:C.cajan_44608 LegumeInfo:C.cajan_03603 LegumeInfo:C.cajan_22316 LegumeInfo:C.cajan_21889 LegumeInfo:C.cajan_05043 LegumeInfo:C.cajan_05045 LegumeInfo:C.cajan_12268 LegumeInfo:C.cajan_22126 LegumeInfo:C.cajan_45098
+Q6K7V6	LegumeInfo:C.cajan_11064
+Q6K846	LegumeInfo:C.cajan_34001
+Q6K8E2	LegumeInfo:C.cajan_41683 LegumeInfo:C.cajan_10582 LegumeInfo:C.cajan_01387 LegumeInfo:C.cajan_10459
+Q6K8E7	LegumeInfo:C.cajan_29773
+Q6K8J4	LegumeInfo:C.cajan_34017
+Q6K969	LegumeInfo:C.cajan_37706
+Q6K9M5	LegumeInfo:C.cajan_02629 LegumeInfo:C.cajan_21769 LegumeInfo:C.cajan_25995 LegumeInfo:C.cajan_48047 LegumeInfo:C.cajan_20543 LegumeInfo:C.cajan_01046
+Q6K9N6	LegumeInfo:C.cajan_06627
+Q6K9X3	LegumeInfo:C.cajan_37575 LegumeInfo:C.cajan_38692 LegumeInfo:C.cajan_39475
+Q6KAJ2	LegumeInfo:C.cajan_31892
+Q6L479	LegumeInfo:C.cajan_31781 LegumeInfo:C.cajan_06864
+Q6L4G2	LegumeInfo:C.cajan_31884
+Q6L4H5	LegumeInfo:C.cajan_03763
+Q6L4L4	LegumeInfo:C.cajan_21478 LegumeInfo:C.cajan_34108
+Q6L4R0	LegumeInfo:C.cajan_00513
+Q6L4R7	LegumeInfo:C.cajan_03757 LegumeInfo:C.cajan_30206 LegumeInfo:C.cajan_16285 LegumeInfo:C.cajan_39711
+Q6L540	LegumeInfo:C.cajan_45108 LegumeInfo:C.cajan_39332
+Q6L545	LegumeInfo:C.cajan_06890 LegumeInfo:C.cajan_09602
+Q6L5F6	LegumeInfo:C.cajan_29155
+Q6L5H6	LegumeInfo:C.cajan_03757 LegumeInfo:C.cajan_30206 LegumeInfo:C.cajan_16285 LegumeInfo:C.cajan_39711
+Q6Q9I2	LegumeInfo:C.cajan_34569
+Q6VMN7	LegumeInfo:C.cajan_31487 LegumeInfo:C.cajan_00677
+Q6YPG5	LegumeInfo:C.cajan_21095
+Q6YS33	LegumeInfo:C.cajan_32653
+Q6YSA1	LegumeInfo:C.cajan_23022 LegumeInfo:C.cajan_39848 LegumeInfo:C.cajan_23086
+Q6YT73	LegumeInfo:C.cajan_14002
+Q6YTI6	LegumeInfo:C.cajan_08970 LegumeInfo:C.cajan_31501
+Q6YTT3	LegumeInfo:C.cajan_17084
+Q6YU51	LegumeInfo:C.cajan_03627 LegumeInfo:C.cajan_12171 LegumeInfo:C.cajan_35908
+Q6YUI8	LegumeInfo:C.cajan_26270 LegumeInfo:C.cajan_01727 LegumeInfo:C.cajan_08712
+Q6YUS0	LegumeInfo:C.cajan_42693
+Q6YUU2	LegumeInfo:C.cajan_30162
+Q6YV23	LegumeInfo:C.cajan_08346
+Q6YVI0	LegumeInfo:C.cajan_18661
+Q6YVY0	LegumeInfo:C.cajan_17296 LegumeInfo:C.cajan_24579
+Q6YVY6	LegumeInfo:C.cajan_11619 LegumeInfo:C.cajan_30893 LegumeInfo:C.cajan_18812
+Q6YWE1	LegumeInfo:C.cajan_21651
+Q6YXI1	LegumeInfo:C.cajan_09032
+Q6YXW6	LegumeInfo:C.cajan_30862
+Q6YYB9	LegumeInfo:C.cajan_22610 LegumeInfo:C.cajan_22689
+Q6YYZ2	LegumeInfo:C.cajan_00590
+Q6YZ18	LegumeInfo:C.cajan_16453
+Q6YZ76	LegumeInfo:C.cajan_36003 LegumeInfo:C.cajan_36004 LegumeInfo:C.cajan_25621 LegumeInfo:C.cajan_39776 LegumeInfo:C.cajan_09971 LegumeInfo:C.cajan_28656
+Q6YZE2	LegumeInfo:C.cajan_23771
+Q6YZH8	LegumeInfo:C.cajan_05313
+Q6YZX6	LegumeInfo:C.cajan_35316 LegumeInfo:C.cajan_27309
+Q6Z0T7	LegumeInfo:C.cajan_03151 LegumeInfo:C.cajan_20752
+Q6Z2L5	LegumeInfo:C.cajan_19210
+Q6Z2T6	LegumeInfo:C.cajan_01719
+Q6Z312	LegumeInfo:C.cajan_18094 LegumeInfo:C.cajan_41844
+Q6Z351	LegumeInfo:C.cajan_10023 LegumeInfo:C.cajan_10022
+Q6Z368	LegumeInfo:C.cajan_32876
+Q6Z398	LegumeInfo:C.cajan_07360
+Q6Z3A3	LegumeInfo:C.cajan_33842 LegumeInfo:C.cajan_11537
+Q6Z3A4	LegumeInfo:C.cajan_37664
+Q6Z3F1	LegumeInfo:C.cajan_37122 LegumeInfo:C.cajan_37657 LegumeInfo:C.cajan_39759 LegumeInfo:C.cajan_08105
+Q6Z3F9	LegumeInfo:C.cajan_33930
+Q6Z3X5	LegumeInfo:C.cajan_07942 LegumeInfo:C.cajan_25857
+Q6Z3Y3	LegumeInfo:C.cajan_21456
+Q6Z433	LegumeInfo:C.cajan_22947 LegumeInfo:C.cajan_17916 LegumeInfo:C.cajan_32117
+Q6Z4E7	LegumeInfo:C.cajan_01586
+Q6Z4I1	LegumeInfo:C.cajan_35464
+Q6Z4U1	LegumeInfo:C.cajan_25268
+Q6Z5B5	LegumeInfo:C.cajan_25268
+Q6Z5M0	LegumeInfo:C.cajan_03950
+Q6Z5M3	LegumeInfo:C.cajan_24456 LegumeInfo:C.cajan_24486 LegumeInfo:C.cajan_24829
+Q6Z684	LegumeInfo:C.cajan_33800 LegumeInfo:C.cajan_22318 LegumeInfo:C.cajan_22319 LegumeInfo:C.cajan_44608 LegumeInfo:C.cajan_03603 LegumeInfo:C.cajan_22316 LegumeInfo:C.cajan_21889 LegumeInfo:C.cajan_05043 LegumeInfo:C.cajan_05045 LegumeInfo:C.cajan_12268 LegumeInfo:C.cajan_22126 LegumeInfo:C.cajan_45098
+Q6Z6F0	LegumeInfo:C.cajan_46912 LegumeInfo:C.cajan_03178
+Q6Z702	LegumeInfo:C.cajan_22511 LegumeInfo:C.cajan_06060
+Q6Z744	LegumeInfo:C.cajan_37916
+Q6Z795	LegumeInfo:C.cajan_33995 LegumeInfo:C.cajan_01877 LegumeInfo:C.cajan_44242 LegumeInfo:C.cajan_24968
+Q6Z7Q3	LegumeInfo:C.cajan_26270 LegumeInfo:C.cajan_01727 LegumeInfo:C.cajan_08712
+Q6Z836	LegumeInfo:C.cajan_39729
+Q6Z8F4	LegumeInfo:C.cajan_00592
+Q6Z8S2	LegumeInfo:C.cajan_13427
+Q6Z8Z7	LegumeInfo:C.cajan_32969
+Q6Z965	LegumeInfo:C.cajan_04030 LegumeInfo:C.cajan_04029
+Q6Z9A3	LegumeInfo:C.cajan_05097 LegumeInfo:C.cajan_42964
+Q6Z9E6	LegumeInfo:C.cajan_41750 LegumeInfo:C.cajan_32189
+Q6ZAC1	LegumeInfo:C.cajan_20998 LegumeInfo:C.cajan_03635 LegumeInfo:C.cajan_26252
+Q6ZAH2	LegumeInfo:C.cajan_05471
+Q6ZBE1	LegumeInfo:C.cajan_33800 LegumeInfo:C.cajan_22318 LegumeInfo:C.cajan_22319 LegumeInfo:C.cajan_44608 LegumeInfo:C.cajan_03603 LegumeInfo:C.cajan_22316 LegumeInfo:C.cajan_21889 LegumeInfo:C.cajan_05043 LegumeInfo:C.cajan_05045 LegumeInfo:C.cajan_12268 LegumeInfo:C.cajan_22126 LegumeInfo:C.cajan_45098
+Q6ZBH5	LegumeInfo:C.cajan_02650 LegumeInfo:C.cajan_13161
+Q6ZC33	LegumeInfo:C.cajan_45880 LegumeInfo:C.cajan_38411
+Q6ZC70	LegumeInfo:C.cajan_04499
+Q6ZCF0	LegumeInfo:C.cajan_21055
+Q6ZD10	LegumeInfo:C.cajan_02200 LegumeInfo:C.cajan_03180
+Q6ZD89	LegumeInfo:C.cajan_10971
+Q6ZDQ1	LegumeInfo:C.cajan_12945
+Q6ZDY8	LegumeInfo:C.cajan_24178 LegumeInfo:C.cajan_12675
+Q6ZEZ2	LegumeInfo:C.cajan_10777
+Q6ZFT5	LegumeInfo:C.cajan_38847 LegumeInfo:C.cajan_05830
+Q6ZG77	LegumeInfo:C.cajan_09836
+Q6ZG91	LegumeInfo:C.cajan_03489
+Q6ZGS9	LegumeInfo:C.cajan_12985
+Q6ZGW6	LegumeInfo:C.cajan_09557 LegumeInfo:C.cajan_08083 LegumeInfo:C.cajan_06425
+Q6ZHA3	LegumeInfo:C.cajan_21311 LegumeInfo:C.cajan_30743 LegumeInfo:C.cajan_30745 LegumeInfo:C.cajan_12528 LegumeInfo:C.cajan_39076 LegumeInfo:C.cajan_23916
+Q6ZHB2	LegumeInfo:C.cajan_27192 LegumeInfo:C.cajan_13018
+Q6ZHH7	LegumeInfo:C.cajan_45880 LegumeInfo:C.cajan_38411
+Q6ZHS4	LegumeInfo:C.cajan_07828 LegumeInfo:C.cajan_47870
+Q6ZHU3	LegumeInfo:C.cajan_05935
+Q6ZHZ1	LegumeInfo:C.cajan_35343
+Q6ZI55	LegumeInfo:C.cajan_31734 LegumeInfo:C.cajan_37716 LegumeInfo:C.cajan_12467
+Q6ZIA3	LegumeInfo:C.cajan_34715
+Q6ZIK0	LegumeInfo:C.cajan_21114 LegumeInfo:C.cajan_21112
+Q6ZIX2	LegumeInfo:C.cajan_20937 LegumeInfo:C.cajan_15340
+Q6ZJ97	LegumeInfo:C.cajan_26779
+Q6ZJK7	LegumeInfo:C.cajan_16453
+Q6ZJU3	LegumeInfo:C.cajan_15497
+Q6ZK11	LegumeInfo:C.cajan_17953 LegumeInfo:C.cajan_17932 LegumeInfo:C.cajan_17949
+Q6ZKC0	LegumeInfo:C.cajan_19148 LegumeInfo:C.cajan_36153
+Q6ZKV8	LegumeInfo:C.cajan_03629
+Q6ZL51	LegumeInfo:C.cajan_25268
+Q6ZL61	LegumeInfo:C.cajan_00959
+Q6ZL94	LegumeInfo:C.cajan_10370
+Q6ZLD3	LegumeInfo:C.cajan_30382 LegumeInfo:C.cajan_20363
+Q6ZLJ9	LegumeInfo:C.cajan_05986 LegumeInfo:C.cajan_17334 LegumeInfo:C.cajan_09487
+Q75GB1	LegumeInfo:C.cajan_12306 LegumeInfo:C.cajan_38103 LegumeInfo:C.cajan_40626
+Q75GK0	LegumeInfo:C.cajan_00962 LegumeInfo:C.cajan_07132 LegumeInfo:C.cajan_10758
+Q75HP7	LegumeInfo:C.cajan_17238
+Q75HQ7	LegumeInfo:C.cajan_24714 LegumeInfo:C.cajan_12910 LegumeInfo:C.cajan_48183 LegumeInfo:C.cajan_09840
+Q75HZ9	LegumeInfo:C.cajan_40330
+Q75II5	LegumeInfo:C.cajan_25388 LegumeInfo:C.cajan_25389
+Q75KD7	LegumeInfo:C.cajan_02370 LegumeInfo:C.cajan_18888 LegumeInfo:C.cajan_43312
+Q75KT7	LegumeInfo:C.cajan_14067 LegumeInfo:C.cajan_38550
+Q75L84	LegumeInfo:C.cajan_04204 LegumeInfo:C.cajan_09804
+Q75LL5	LegumeInfo:C.cajan_32960 LegumeInfo:C.cajan_38395
+Q75LR2	LegumeInfo:C.cajan_17084
+Q75M18	LegumeInfo:C.cajan_17304
+Q75W16	LegumeInfo:C.cajan_17084
+Q764B9	LegumeInfo:C.cajan_44395
+Q7EYE4	LegumeInfo:C.cajan_27142 LegumeInfo:C.cajan_16378
+Q7EYM8	LegumeInfo:C.cajan_01075
+Q7EZW6	LegumeInfo:C.cajan_33161
+Q7EZZ0	LegumeInfo:C.cajan_06161
+Q7F0B2	LegumeInfo:C.cajan_39976 LegumeInfo:C.cajan_39595 LegumeInfo:C.cajan_39974 LegumeInfo:C.cajan_39597
+Q7F0Q2	LegumeInfo:C.cajan_21274
+Q7F1X5	LegumeInfo:C.cajan_39028
+Q7F8K7	LegumeInfo:C.cajan_25245
+Q7F942	LegumeInfo:C.cajan_18852
+Q7FAE1	LegumeInfo:C.cajan_02686 LegumeInfo:C.cajan_15773 LegumeInfo:C.cajan_21684
+Q7FAH2	LegumeInfo:C.cajan_08477 LegumeInfo:C.cajan_08487 LegumeInfo:C.cajan_02741 LegumeInfo:C.cajan_08478
+Q7FAL6	LegumeInfo:C.cajan_16869
+Q7FAS1	LegumeInfo:C.cajan_14002
+Q7G065	LegumeInfo:C.cajan_12009 LegumeInfo:C.cajan_28326 LegumeInfo:C.cajan_07689
+Q7G1V6	LegumeInfo:C.cajan_02528 LegumeInfo:C.cajan_02892 LegumeInfo:C.cajan_21515 LegumeInfo:C.cajan_02525 LegumeInfo:C.cajan_20710 LegumeInfo:C.cajan_15964 LegumeInfo:C.cajan_37418 LegumeInfo:C.cajan_37782 LegumeInfo:C.cajan_37781 LegumeInfo:C.cajan_02878 LegumeInfo:C.cajan_37411 LegumeInfo:C.cajan_37410 LegumeInfo:C.cajan_02174 LegumeInfo:C.cajan_31021 LegumeInfo:C.cajan_15620 LegumeInfo:C.cajan_02173 LegumeInfo:C.cajan_12414 LegumeInfo:C.cajan_00254 LegumeInfo:C.cajan_42402 LegumeInfo:C.cajan_02532 LegumeInfo:C.cajan_38907 LegumeInfo:C.cajan_40292 LegumeInfo:C.cajan_03324 LegumeInfo:C.cajan_02538 LegumeInfo:C.cajan_02539 LegumeInfo:C.cajan_20262 LegumeInfo:C.cajan_38498 LegumeInfo:C.cajan_37412 LegumeInfo:C.cajan_37404 LegumeInfo:C.cajan_37406 LegumeInfo:C.cajan_20745 LegumeInfo:C.cajan_00488 LegumeInfo:C.cajan_15962 LegumeInfo:C.cajan_07556
+Q7G2F7	LegumeInfo:C.cajan_17008 LegumeInfo:C.cajan_22777
+Q7G2H3	LegumeInfo:C.cajan_11584
+Q7G4P2	LegumeInfo:C.cajan_29773
+Q7G602	LegumeInfo:C.cajan_34601 LegumeInfo:C.cajan_02864 LegumeInfo:C.cajan_02865 LegumeInfo:C.cajan_36988 LegumeInfo:C.cajan_36985 LegumeInfo:C.cajan_35325 LegumeInfo:C.cajan_08683
+Q7G6M2	LegumeInfo:C.cajan_45108 LegumeInfo:C.cajan_39332
+Q7G7J6	LegumeInfo:C.cajan_05522 LegumeInfo:C.cajan_22969 LegumeInfo:C.cajan_19583
+Q7X634	LegumeInfo:C.cajan_07025 LegumeInfo:C.cajan_34415
+Q7X720	LegumeInfo:C.cajan_24714 LegumeInfo:C.cajan_12910 LegumeInfo:C.cajan_48183 LegumeInfo:C.cajan_09840
+Q7X742	LegumeInfo:C.cajan_11771 LegumeInfo:C.cajan_20209 LegumeInfo:C.cajan_38793 LegumeInfo:C.cajan_41132
+Q7X7A1	LegumeInfo:C.cajan_33303 LegumeInfo:C.cajan_33302 LegumeInfo:C.cajan_25077 LegumeInfo:C.cajan_31260
+Q7X7H9	LegumeInfo:C.cajan_08300 LegumeInfo:C.cajan_40638
+Q7X7N2	LegumeInfo:C.cajan_20551
+Q7X7X0	LegumeInfo:C.cajan_08771
+Q7X8A1	LegumeInfo:C.cajan_42634
+Q7X8V3	LegumeInfo:C.cajan_24714 LegumeInfo:C.cajan_12910 LegumeInfo:C.cajan_48183 LegumeInfo:C.cajan_09840
+Q7XAP2	LegumeInfo:C.cajan_08820
+Q7XBY6	LegumeInfo:C.cajan_15020 LegumeInfo:C.cajan_12320
+Q7XC20	LegumeInfo:C.cajan_27192 LegumeInfo:C.cajan_13018
+Q7XCK3	LegumeInfo:C.cajan_43715 LegumeInfo:C.cajan_31732
+Q7XE48	LegumeInfo:C.cajan_37194 LegumeInfo:C.cajan_18722
+Q7XEH2	LegumeInfo:C.cajan_30812 LegumeInfo:C.cajan_07492
+Q7XEZ6	LegumeInfo:C.cajan_15585 LegumeInfo:C.cajan_03958 LegumeInfo:C.cajan_13028 LegumeInfo:C.cajan_00616 LegumeInfo:C.cajan_17386
+Q7XGU4	LegumeInfo:C.cajan_19488 LegumeInfo:C.cajan_27905 LegumeInfo:C.cajan_00108 LegumeInfo:C.cajan_00107 LegumeInfo:C.cajan_32941
+Q7XH05	LegumeInfo:C.cajan_10023 LegumeInfo:C.cajan_10022
+Q7XHL3	LegumeInfo:C.cajan_16453
+Q7XHZ2	LegumeInfo:C.cajan_24725
+Q7XI34	LegumeInfo:C.cajan_39976 LegumeInfo:C.cajan_39595 LegumeInfo:C.cajan_39974 LegumeInfo:C.cajan_39597
+Q7XI35	LegumeInfo:C.cajan_39976 LegumeInfo:C.cajan_39595 LegumeInfo:C.cajan_39974 LegumeInfo:C.cajan_39597
+Q7XI92	LegumeInfo:C.cajan_12633 LegumeInfo:C.cajan_36372
+Q7XI96	LegumeInfo:C.cajan_12636 LegumeInfo:C.cajan_04755 LegumeInfo:C.cajan_18625
+Q7XK23	LegumeInfo:C.cajan_31734 LegumeInfo:C.cajan_37716 LegumeInfo:C.cajan_12467
+Q7XKH9	LegumeInfo:C.cajan_33800 LegumeInfo:C.cajan_22318 LegumeInfo:C.cajan_22319 LegumeInfo:C.cajan_44608 LegumeInfo:C.cajan_03603 LegumeInfo:C.cajan_22316 LegumeInfo:C.cajan_21889 LegumeInfo:C.cajan_05043 LegumeInfo:C.cajan_05045 LegumeInfo:C.cajan_12268 LegumeInfo:C.cajan_22126 LegumeInfo:C.cajan_45098
+Q7XKI0	LegumeInfo:C.cajan_33800 LegumeInfo:C.cajan_22318 LegumeInfo:C.cajan_22319 LegumeInfo:C.cajan_44608 LegumeInfo:C.cajan_03603 LegumeInfo:C.cajan_22316 LegumeInfo:C.cajan_21889 LegumeInfo:C.cajan_05043 LegumeInfo:C.cajan_05045 LegumeInfo:C.cajan_12268 LegumeInfo:C.cajan_22126 LegumeInfo:C.cajan_45098
+Q7XKQ8	LegumeInfo:C.cajan_16995 LegumeInfo:C.cajan_08493
+Q7XM21	LegumeInfo:C.cajan_43594
+Q7XMA8	LegumeInfo:C.cajan_33800 LegumeInfo:C.cajan_22318 LegumeInfo:C.cajan_22319 LegumeInfo:C.cajan_44608 LegumeInfo:C.cajan_03603 LegumeInfo:C.cajan_22316 LegumeInfo:C.cajan_21889 LegumeInfo:C.cajan_05043 LegumeInfo:C.cajan_05045 LegumeInfo:C.cajan_12268 LegumeInfo:C.cajan_22126 LegumeInfo:C.cajan_45098
+Q7XMU7	LegumeInfo:C.cajan_02562 LegumeInfo:C.cajan_21791 LegumeInfo:C.cajan_21790
+Q7XPB5	LegumeInfo:C.cajan_18514 LegumeInfo:C.cajan_18337
+Q7XPW5	LegumeInfo:C.cajan_18468
+Q7XQ85	LegumeInfo:C.cajan_13237 LegumeInfo:C.cajan_13646
+Q7XR60	LegumeInfo:C.cajan_29588 LegumeInfo:C.cajan_07817
+Q7XR61	LegumeInfo:C.cajan_29588 LegumeInfo:C.cajan_07817
+Q7XRA1	LegumeInfo:C.cajan_19002
+Q7XRT0	LegumeInfo:C.cajan_19533
+Q7XRX3	LegumeInfo:C.cajan_44684
+Q7XSS9	LegumeInfo:C.cajan_42090 LegumeInfo:C.cajan_43528
+Q7XTE8	LegumeInfo:C.cajan_19148 LegumeInfo:C.cajan_36153
+Q7XTH0	LegumeInfo:C.cajan_33800 LegumeInfo:C.cajan_22318 LegumeInfo:C.cajan_22319 LegumeInfo:C.cajan_44608 LegumeInfo:C.cajan_03603 LegumeInfo:C.cajan_22316 LegumeInfo:C.cajan_21889 LegumeInfo:C.cajan_05043 LegumeInfo:C.cajan_05045 LegumeInfo:C.cajan_12268 LegumeInfo:C.cajan_22126 LegumeInfo:C.cajan_45098
+Q7XTK3	LegumeInfo:C.cajan_06830
+Q7XTX7	LegumeInfo:C.cajan_16100 LegumeInfo:C.cajan_07324
+Q7XU28	LegumeInfo:C.cajan_03387
+Q7XU29	LegumeInfo:C.cajan_46447
+Q7XUH5	LegumeInfo:C.cajan_21274
+Q7XUK6	LegumeInfo:C.cajan_45116 LegumeInfo:C.cajan_26787
+Q7XUS2	LegumeInfo:C.cajan_44395
+Q7XV13	LegumeInfo:C.cajan_11005 LegumeInfo:C.cajan_27693
+Q7XV42	LegumeInfo:C.cajan_33800 LegumeInfo:C.cajan_22318 LegumeInfo:C.cajan_22319 LegumeInfo:C.cajan_44608 LegumeInfo:C.cajan_03603 LegumeInfo:C.cajan_22316 LegumeInfo:C.cajan_21889 LegumeInfo:C.cajan_05043 LegumeInfo:C.cajan_05045 LegumeInfo:C.cajan_12268 LegumeInfo:C.cajan_22126 LegumeInfo:C.cajan_45098
+Q7XVK0	LegumeInfo:C.cajan_02562 LegumeInfo:C.cajan_21791 LegumeInfo:C.cajan_21790
+Q7XVM2	LegumeInfo:C.cajan_05901
+Q7XVM8	LegumeInfo:C.cajan_41683 LegumeInfo:C.cajan_10582 LegumeInfo:C.cajan_01387 LegumeInfo:C.cajan_10459
+Q7XVP0	LegumeInfo:C.cajan_10777
+Q7XWP9	LegumeInfo:C.cajan_29184 LegumeInfo:C.cajan_20545
+Q7XX31	LegumeInfo:C.cajan_06475 LegumeInfo:C.cajan_10608
+Q7XX32	LegumeInfo:C.cajan_06475 LegumeInfo:C.cajan_10608
+Q7XXL2	LegumeInfo:C.cajan_27989
+Q7XYS3	LegumeInfo:C.cajan_11943 LegumeInfo:C.cajan_11472
+Q7XZH5	LegumeInfo:C.cajan_02686 LegumeInfo:C.cajan_15773 LegumeInfo:C.cajan_21684
+Q7Y0C8	LegumeInfo:C.cajan_11943 LegumeInfo:C.cajan_11472
+Q7Y0W5	LegumeInfo:C.cajan_19355 LegumeInfo:C.cajan_37366 LegumeInfo:C.cajan_11822 LegumeInfo:C.cajan_15557 LegumeInfo:C.cajan_44120
+Q7Y152	LegumeInfo:C.cajan_25143
+Q7Y1H9	LegumeInfo:C.cajan_00959
+Q7Y1I6	LegumeInfo:C.cajan_00959
+Q7Y1I9	LegumeInfo:C.cajan_00959
+Q7Y1J1	LegumeInfo:C.cajan_00959
+Q84JH5	LegumeInfo:C.cajan_05097 LegumeInfo:C.cajan_42964
+Q84JI0	LegumeInfo:C.cajan_05095 LegumeInfo:C.cajan_05107
+Q84LF7	LegumeInfo:C.cajan_39645 LegumeInfo:C.cajan_08156
+Q84LK3	LegumeInfo:C.cajan_34078 LegumeInfo:C.cajan_31552
+Q84M43	LegumeInfo:C.cajan_22047 LegumeInfo:C.cajan_10358
+Q84ME6	LegumeInfo:C.cajan_38502
+Q84MN8	LegumeInfo:C.cajan_28711 LegumeInfo:C.cajan_07462
+Q84NP3	LegumeInfo:C.cajan_31013 LegumeInfo:C.cajan_29215 LegumeInfo:C.cajan_38090 LegumeInfo:C.cajan_31122
+Q84Q89	LegumeInfo:C.cajan_13427
+Q84QA7	LegumeInfo:C.cajan_19477 LegumeInfo:C.cajan_27922 LegumeInfo:C.cajan_19478
+Q84R94	LegumeInfo:C.cajan_41948 LegumeInfo:C.cajan_04004 LegumeInfo:C.cajan_18969
+Q84VC7	LegumeInfo:C.cajan_26670
+Q84YK8	LegumeInfo:C.cajan_21236 LegumeInfo:C.cajan_42248 LegumeInfo:C.cajan_21238 LegumeInfo:C.cajan_20034 LegumeInfo:C.cajan_44133
+Q84ZN6	LegumeInfo:C.cajan_22047 LegumeInfo:C.cajan_10358
+Q84ZY2	LegumeInfo:C.cajan_29184 LegumeInfo:C.cajan_20545
+Q851Z6	LegumeInfo:C.cajan_32653
+Q852C2	LegumeInfo:C.cajan_39976 LegumeInfo:C.cajan_39595 LegumeInfo:C.cajan_39974 LegumeInfo:C.cajan_39597
+Q852M1	LegumeInfo:C.cajan_10023 LegumeInfo:C.cajan_10022
+Q852M2	LegumeInfo:C.cajan_10023 LegumeInfo:C.cajan_10022
+Q8GRU7	LegumeInfo:C.cajan_09073
+Q8GSI0	LegumeInfo:C.cajan_15497
+Q8GT01	LegumeInfo:C.cajan_30160
+Q8GTK1	LegumeInfo:C.cajan_36003 LegumeInfo:C.cajan_36004 LegumeInfo:C.cajan_25621 LegumeInfo:C.cajan_39776 LegumeInfo:C.cajan_09971 LegumeInfo:C.cajan_28656
+Q8GVJ4	LegumeInfo:C.cajan_09557 LegumeInfo:C.cajan_08083 LegumeInfo:C.cajan_06425
+Q8GVZ0	LegumeInfo:C.cajan_18222
+Q8GZY1	LegumeInfo:C.cajan_19699 LegumeInfo:C.cajan_12817 LegumeInfo:C.cajan_19712
+Q8H016	LegumeInfo:C.cajan_11005 LegumeInfo:C.cajan_27693
+Q8H038	LegumeInfo:C.cajan_16456
+Q8H048	LegumeInfo:C.cajan_20571 LegumeInfo:C.cajan_25868
+Q8H051	LegumeInfo:C.cajan_02650 LegumeInfo:C.cajan_13161
+Q8H093	LegumeInfo:C.cajan_20571 LegumeInfo:C.cajan_25868
+Q8H0A1	LegumeInfo:C.cajan_04434
+Q8H0B2	LegumeInfo:C.cajan_16605 LegumeInfo:C.cajan_38522
+Q8H0B6	LegumeInfo:C.cajan_16605 LegumeInfo:C.cajan_38522
+Q8H273	LegumeInfo:C.cajan_07410 LegumeInfo:C.cajan_41905 LegumeInfo:C.cajan_42051 LegumeInfo:C.cajan_13168 LegumeInfo:C.cajan_13170
+Q8H2J9	LegumeInfo:C.cajan_05152
+Q8H395	LegumeInfo:C.cajan_41948 LegumeInfo:C.cajan_04004 LegumeInfo:C.cajan_18969
+Q8H3A4	LegumeInfo:C.cajan_43715 LegumeInfo:C.cajan_31732
+Q8H3L0	LegumeInfo:C.cajan_14478 LegumeInfo:C.cajan_13223
+Q8H3Q7	LegumeInfo:C.cajan_03618
+Q8H4L3	LegumeInfo:C.cajan_20347 LegumeInfo:C.cajan_23441 LegumeInfo:C.cajan_38726 LegumeInfo:C.cajan_23442 LegumeInfo:C.cajan_43674 LegumeInfo:C.cajan_03204 LegumeInfo:C.cajan_24072
+Q8H530	LegumeInfo:C.cajan_22940
+Q8H539	LegumeInfo:C.cajan_34306 LegumeInfo:C.cajan_34307 LegumeInfo:C.cajan_34308
+Q8H7S6	LegumeInfo:C.cajan_29339 LegumeInfo:C.cajan_07624
+Q8H7T7	LegumeInfo:C.cajan_43640
+Q8H825	LegumeInfo:C.cajan_45276
+Q8H8U0	LegumeInfo:C.cajan_29194 LegumeInfo:C.cajan_19083
+Q8H930	LegumeInfo:C.cajan_16605 LegumeInfo:C.cajan_38522
+Q8LGZ9	LegumeInfo:C.cajan_07577
+Q8LHD1	LegumeInfo:C.cajan_22930
+Q8LI89	LegumeInfo:C.cajan_34191
+Q8LJJ2	LegumeInfo:C.cajan_03763
+Q8LM92	LegumeInfo:C.cajan_34601 LegumeInfo:C.cajan_02864 LegumeInfo:C.cajan_02865 LegumeInfo:C.cajan_36988 LegumeInfo:C.cajan_36985 LegumeInfo:C.cajan_35325 LegumeInfo:C.cajan_08683
+Q8LMW8	LegumeInfo:C.cajan_28064 LegumeInfo:C.cajan_28065
+Q8LN68	LegumeInfo:C.cajan_18894 LegumeInfo:C.cajan_18887 LegumeInfo:C.cajan_07494 LegumeInfo:C.cajan_40294
+Q8LNU2	LegumeInfo:C.cajan_07586
+Q8LQ34	LegumeInfo:C.cajan_33024
+Q8RU95	LegumeInfo:C.cajan_39028
+Q8RV06	LegumeInfo:C.cajan_23071 LegumeInfo:C.cajan_17167
+Q8RV34	LegumeInfo:C.cajan_03969
+Q8RYL0	LegumeInfo:C.cajan_16193
+Q8RYY6	LegumeInfo:C.cajan_17238
+Q8S2E5	LegumeInfo:C.cajan_12192
+Q8S2G0	LegumeInfo:C.cajan_28359
+Q8S3R0	LegumeInfo:C.cajan_24160
+Q8S5M6	LegumeInfo:C.cajan_03778
+Q8S5N2	LegumeInfo:C.cajan_32081 LegumeInfo:C.cajan_19443
+Q8S5T1	LegumeInfo:C.cajan_28582
+Q8S601	LegumeInfo:C.cajan_07166
+Q8S919	LegumeInfo:C.cajan_12184 LegumeInfo:C.cajan_05454 LegumeInfo:C.cajan_05478
+Q8S920	LegumeInfo:C.cajan_12184 LegumeInfo:C.cajan_05454 LegumeInfo:C.cajan_05478
+Q8S983	LegumeInfo:C.cajan_32145
+Q8S985	LegumeInfo:C.cajan_24759 LegumeInfo:C.cajan_47721
+Q8S9S4	LegumeInfo:C.cajan_13349 LegumeInfo:C.cajan_00267 LegumeInfo:C.cajan_00265
+Q8S9Z2	LegumeInfo:C.cajan_21744 LegumeInfo:C.cajan_21623 LegumeInfo:C.cajan_25590
+Q8VWH2	LegumeInfo:C.cajan_19134 LegumeInfo:C.cajan_19156 LegumeInfo:C.cajan_42877
+Q8W0B6	LegumeInfo:C.cajan_16038 LegumeInfo:C.cajan_22785 LegumeInfo:C.cajan_08538 LegumeInfo:C.cajan_11263 LegumeInfo:C.cajan_27889
+Q8W0E4	LegumeInfo:C.cajan_05935
+Q8W1L6	LegumeInfo:C.cajan_12893
+Q8W250	LegumeInfo:C.cajan_38707 LegumeInfo:C.cajan_24988
+Q8W3F9	LegumeInfo:C.cajan_24085 LegumeInfo:C.cajan_20997
+Q8W3J0	LegumeInfo:C.cajan_21197 LegumeInfo:C.cajan_13555
+Q8W3L9	LegumeInfo:C.cajan_47080 LegumeInfo:C.cajan_13456 LegumeInfo:C.cajan_46422 LegumeInfo:C.cajan_05664 LegumeInfo:C.cajan_14707
+Q8W3M0	LegumeInfo:C.cajan_47080 LegumeInfo:C.cajan_13456 LegumeInfo:C.cajan_46422 LegumeInfo:C.cajan_05664 LegumeInfo:C.cajan_14707
+Q93VC3	LegumeInfo:C.cajan_16130 LegumeInfo:C.cajan_32369 LegumeInfo:C.cajan_01360
+Q93VD5	LegumeInfo:C.cajan_11046
+Q93WI9	LegumeInfo:C.cajan_19134 LegumeInfo:C.cajan_19156 LegumeInfo:C.cajan_42877
+Q93X08	LegumeInfo:C.cajan_29417 LegumeInfo:C.cajan_19658
+Q93XI4	LegumeInfo:C.cajan_31745
+Q93Y73	LegumeInfo:C.cajan_15547
+Q941W8	LegumeInfo:C.cajan_30568 LegumeInfo:C.cajan_17780
+Q94E75	LegumeInfo:C.cajan_30862
+Q94EE9	LegumeInfo:C.cajan_45108 LegumeInfo:C.cajan_39332
+Q94GF1	LegumeInfo:C.cajan_08172 LegumeInfo:C.cajan_19489
+Q94HG3	LegumeInfo:C.cajan_26303 LegumeInfo:C.cajan_18570
+Q94HG6	LegumeInfo:C.cajan_18580
+Q94IW5	LegumeInfo:C.cajan_00513
+Q94J90	LegumeInfo:C.cajan_17091 LegumeInfo:C.cajan_05717 LegumeInfo:C.cajan_05716
+Q94JA2	LegumeInfo:C.cajan_14257
+Q94JJ0	LegumeInfo:C.cajan_18995 LegumeInfo:C.cajan_21268
+Q94LU9	LegumeInfo:C.cajan_11549
+Q94LV4	LegumeInfo:C.cajan_43640
+Q9ASD3	LegumeInfo:C.cajan_04726
+Q9ASP4	LegumeInfo:C.cajan_25121
+Q9AUQ4	LegumeInfo:C.cajan_15601
+Q9AUV6	LegumeInfo:C.cajan_43763 LegumeInfo:C.cajan_18786 LegumeInfo:C.cajan_20058 LegumeInfo:C.cajan_22129
+Q9AV47	LegumeInfo:C.cajan_28641 LegumeInfo:C.cajan_21533 LegumeInfo:C.cajan_09835
+Q9AV71	LegumeInfo:C.cajan_33682 LegumeInfo:C.cajan_33680
+Q9AWL7	LegumeInfo:C.cajan_32892 LegumeInfo:C.cajan_14938
+Q9AWZ7	LegumeInfo:C.cajan_20858
+Q9AWZ8	LegumeInfo:C.cajan_20858
+Q9FDX8	LegumeInfo:C.cajan_20131 LegumeInfo:C.cajan_03622 LegumeInfo:C.cajan_26721
+Q9FTN5	LegumeInfo:C.cajan_18657
+Q9FTN6	LegumeInfo:C.cajan_18657
+Q9FTR6	LegumeInfo:C.cajan_14469 LegumeInfo:C.cajan_34448
+Q9FTZ2	LegumeInfo:C.cajan_36122
+Q9FU67	LegumeInfo:C.cajan_09941 LegumeInfo:C.cajan_09943 LegumeInfo:C.cajan_08108 LegumeInfo:C.cajan_29580 LegumeInfo:C.cajan_08106 LegumeInfo:C.cajan_31065 LegumeInfo:C.cajan_29938 LegumeInfo:C.cajan_31060 LegumeInfo:C.cajan_31061 LegumeInfo:C.cajan_31062 LegumeInfo:C.cajan_29937 LegumeInfo:C.cajan_29934 LegumeInfo:C.cajan_46197 LegumeInfo:C.cajan_04352 LegumeInfo:C.cajan_04353 LegumeInfo:C.cajan_04350 LegumeInfo:C.cajan_04351 LegumeInfo:C.cajan_09953 LegumeInfo:C.cajan_09952 LegumeInfo:C.cajan_09951 LegumeInfo:C.cajan_09950 LegumeInfo:C.cajan_09957 LegumeInfo:C.cajan_09956 LegumeInfo:C.cajan_43024 LegumeInfo:C.cajan_20762 LegumeInfo:C.cajan_33327
+Q9FU68	LegumeInfo:C.cajan_09941 LegumeInfo:C.cajan_09943 LegumeInfo:C.cajan_08108 LegumeInfo:C.cajan_29580 LegumeInfo:C.cajan_08106 LegumeInfo:C.cajan_31065 LegumeInfo:C.cajan_29938 LegumeInfo:C.cajan_31060 LegumeInfo:C.cajan_31061 LegumeInfo:C.cajan_31062 LegumeInfo:C.cajan_29937 LegumeInfo:C.cajan_29934 LegumeInfo:C.cajan_46197 LegumeInfo:C.cajan_04352 LegumeInfo:C.cajan_04353 LegumeInfo:C.cajan_04350 LegumeInfo:C.cajan_04351 LegumeInfo:C.cajan_09953 LegumeInfo:C.cajan_09952 LegumeInfo:C.cajan_09951 LegumeInfo:C.cajan_09950 LegumeInfo:C.cajan_09957 LegumeInfo:C.cajan_09956 LegumeInfo:C.cajan_43024 LegumeInfo:C.cajan_20762 LegumeInfo:C.cajan_33327
+Q9FU69	LegumeInfo:C.cajan_09941 LegumeInfo:C.cajan_09943 LegumeInfo:C.cajan_08108 LegumeInfo:C.cajan_29580 LegumeInfo:C.cajan_08106 LegumeInfo:C.cajan_31065 LegumeInfo:C.cajan_29938 LegumeInfo:C.cajan_31060 LegumeInfo:C.cajan_31061 LegumeInfo:C.cajan_31062 LegumeInfo:C.cajan_29937 LegumeInfo:C.cajan_29934 LegumeInfo:C.cajan_46197 LegumeInfo:C.cajan_04352 LegumeInfo:C.cajan_04353 LegumeInfo:C.cajan_04350 LegumeInfo:C.cajan_04351 LegumeInfo:C.cajan_09953 LegumeInfo:C.cajan_09952 LegumeInfo:C.cajan_09951 LegumeInfo:C.cajan_09950 LegumeInfo:C.cajan_09957 LegumeInfo:C.cajan_09956 LegumeInfo:C.cajan_43024 LegumeInfo:C.cajan_20762 LegumeInfo:C.cajan_33327
+Q9FWC1	LegumeInfo:C.cajan_34194
+Q9FWK4	LegumeInfo:C.cajan_03724
+Q9FWQ2	LegumeInfo:C.cajan_39626 LegumeInfo:C.cajan_34155 LegumeInfo:C.cajan_25698 LegumeInfo:C.cajan_34163 LegumeInfo:C.cajan_01575 LegumeInfo:C.cajan_34164 LegumeInfo:C.cajan_39477 LegumeInfo:C.cajan_20895 LegumeInfo:C.cajan_19440 LegumeInfo:C.cajan_05013
+Q9FXQ3	LegumeInfo:C.cajan_03154 LegumeInfo:C.cajan_30872 LegumeInfo:C.cajan_40720
+Q9LD61	LegumeInfo:C.cajan_05914
+Q9LDB7	LegumeInfo:C.cajan_39680
+Q9LG86	LegumeInfo:C.cajan_00301 LegumeInfo:C.cajan_00437
+Q9LGL5	LegumeInfo:C.cajan_31091 LegumeInfo:C.cajan_35125
+Q9LGU6	LegumeInfo:C.cajan_14635 LegumeInfo:C.cajan_03914 LegumeInfo:C.cajan_10562 LegumeInfo:C.cajan_36461 LegumeInfo:C.cajan_10700 LegumeInfo:C.cajan_02297
+Q9LHZ0	LegumeInfo:C.cajan_19024 LegumeInfo:C.cajan_19025
+Q9LHZ7	LegumeInfo:C.cajan_24085 LegumeInfo:C.cajan_20997
+Q9LIZ8	LegumeInfo:C.cajan_03778
+Q9LWJ2	LegumeInfo:C.cajan_30152
+Q9LWV3	LegumeInfo:C.cajan_29134 LegumeInfo:C.cajan_25793 LegumeInfo:C.cajan_11049 LegumeInfo:C.cajan_21776 LegumeInfo:C.cajan_00328 LegumeInfo:C.cajan_35234 LegumeInfo:C.cajan_00417 LegumeInfo:C.cajan_40070
+Q9S7D3	LegumeInfo:C.cajan_29396
+Q9SDG5	LegumeInfo:C.cajan_12911
+Q9SMB1	LegumeInfo:C.cajan_01056 LegumeInfo:C.cajan_12087 LegumeInfo:C.cajan_02467
+Q9SNK3	LegumeInfo:C.cajan_18936
+Q9SNN0	LegumeInfo:C.cajan_19002
+Q9XEA6	LegumeInfo:C.cajan_07514 LegumeInfo:C.cajan_43031 LegumeInfo:C.cajan_15838
+Q9XEA8	LegumeInfo:C.cajan_07514 LegumeInfo:C.cajan_43031 LegumeInfo:C.cajan_15838
+Q9XFE5	LegumeInfo:C.cajan_27142 LegumeInfo:C.cajan_16378
+Q9XG80	LegumeInfo:C.cajan_30080
+Q9XHL5	LegumeInfo:C.cajan_05642
+Q9XJ03	LegumeInfo:C.cajan_34012
+Q9XJ29	LegumeInfo:C.cajan_08172 LegumeInfo:C.cajan_19489
+Q9XJ60	LegumeInfo:C.cajan_02642
+Q9ZTP5	LegumeInfo:C.cajan_01728
+UPI00000AA151	LegumeInfo:C.cajan_39680
+UPI0001C7A9C3	LegumeInfo:C.cajan_11417 LegumeInfo:C.cajan_06275 LegumeInfo:C.cajan_09886

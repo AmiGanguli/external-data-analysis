@@ -1,0 +1,1009 @@
+A2X747	Jaiswal:Cc06_g14760 Jaiswal:Cc04_g05230
+A2XPN8	Jaiswal:Cc03_g04380
+A2Y626	Jaiswal:Cc06_g20390 Jaiswal:Cc00_g08150
+A2Y8A8	Jaiswal:Cc08_g12940
+A2ZW27	Jaiswal:Cc05_g08250
+A2ZWY3	Jaiswal:Cc08_g10820
+A2ZWY7	Jaiswal:Cc08_g10820
+A3AAR2	Jaiswal:Cc03_g11090
+A3AQC6	Jaiswal:Cc00_g15590
+A3AZW5	Jaiswal:Cc06_g06940
+A3B7R7	Jaiswal:Cc00_g10050 Jaiswal:Cc00_g05190 Jaiswal:Cc01_g15360
+A3B9A0	Jaiswal:Cc00_g00210 Jaiswal:Cc06_g12540
+A3BI64	Jaiswal:Cc11_g03130 Jaiswal:Cc11_g03080 Jaiswal:Cc01_g06490 Jaiswal:Cc03_g09630 Jaiswal:Cc02_g30770 Jaiswal:Cc03_g09610 Jaiswal:Cc11_g03140 Jaiswal:Cc01_g13570 Jaiswal:Cc11_g03100 Jaiswal:Cc09_g08130
+A3BIR7	Jaiswal:Cc04_g11270 Jaiswal:Cc00_g02640 Jaiswal:Cc04_g11210 Jaiswal:Cc00_g02660 Jaiswal:Cc00_g27670 Jaiswal:Cc04_g11250 Jaiswal:Cc06_g22460 Jaiswal:Cc06_g22120 Jaiswal:Cc00_g17240 Jaiswal:Cc05_g06770 Jaiswal:Cc00_g33270 Jaiswal:Cc05_g14770 Jaiswal:Cc08_g07330 Jaiswal:Cc06_g22450 Jaiswal:Cc08_g07950 Jaiswal:Cc00_g18540 Jaiswal:Cc08_g07520 Jaiswal:Cc00_g17250 Jaiswal:Cc06_g22430 Jaiswal:Cc08_g07400 Jaiswal:Cc05_g04010 Jaiswal:Cc03_g15170 Jaiswal:Cc08_g07460 Jaiswal:Cc08_g07370 Jaiswal:Cc05_g05090 Jaiswal:Cc05_g04020 Jaiswal:Cc03_g15150 Jaiswal:Cc06_g22090 Jaiswal:Cc01_g05620 Jaiswal:Cc04_g11300 Jaiswal:Cc00_g02650 Jaiswal:Cc03_g10930 Jaiswal:Cc00_g30530 Jaiswal:Cc08_g07320 Jaiswal:Cc08_g07360 Jaiswal:Cc02_g28250 Jaiswal:Cc08_g07340 Jaiswal:Cc06_g22050 Jaiswal:Cc05_g06760 Jaiswal:Cc06_g22070 Jaiswal:Cc05_g05100 Jaiswal:Cc03_g10990 Jaiswal:Cc00_g06410 Jaiswal:Cc08_g07410 Jaiswal:Cc01_g02610 Jaiswal:Cc00_g06430 Jaiswal:Cc00_g09200 Jaiswal:Cc06_g22080 Jaiswal:Cc00_g17260 Jaiswal:Cc11_g16380 Jaiswal:Cc05_g04040 Jaiswal:Cc00_g06370 Jaiswal:Cc00_g31730 Jaiswal:Cc03_g10940 Jaiswal:Cc05_g05080 Jaiswal:Cc01_g05630 Jaiswal:Cc03_g14110 Jaiswal:Cc03_g10960
+A3BJI8	Jaiswal:Cc11_g14940
+A3C4N5	Jaiswal:Cc01_g02510 Jaiswal:Cc02_g26810
+A3C6G9	Jaiswal:Cc08_g02390
+A4LBC0	Jaiswal:Cc06_g06260
+B7E8M5	Jaiswal:Cc02_g37880
+B7EA04	Jaiswal:Cc00_g22880
+B7EJ81	Jaiswal:Cc11_g11510
+B7F4K3	Jaiswal:Cc06_g05220 Jaiswal:Cc06_g05210 Jaiswal:Cc04_g00180
+B7F7B9	Jaiswal:Cc06_g07910
+B7F8T0	Jaiswal:Cc09_g02090
+B7F956	Jaiswal:Cc06_g15020 Jaiswal:Cc10_g05370 Jaiswal:Cc06_g22100 Jaiswal:Cc01_g01880
+B7F9K3	Jaiswal:Cc06_g05220 Jaiswal:Cc06_g05210 Jaiswal:Cc04_g00180
+B7FA34	Jaiswal:Cc04_g06300
+B7FA90	Jaiswal:Cc06_g13050
+B7FA99	Jaiswal:Cc05_g11710
+B7FAE9	Jaiswal:Cc08_g07250
+B7FAP2	Jaiswal:Cc00_g14440 Jaiswal:Cc00_g14420 Jaiswal:Cc03_g09220 Jaiswal:Cc00_g28340 Jaiswal:Cc03_g09300 Jaiswal:Cc00_g28330 Jaiswal:Cc03_g09270 Jaiswal:Cc03_g09230 Jaiswal:Cc03_g09310 Jaiswal:Cc03_g09290 Jaiswal:Cc00_g28270 Jaiswal:Cc00_g14400
+B8AG62	Jaiswal:Cc02_g09750
+B8AHI9	Jaiswal:Cc02_g33710
+B8AZ97	Jaiswal:Cc07_g15820 Jaiswal:Cc01_g15030
+B8B8K7	Jaiswal:Cc04_g00730
+B8BB38	Jaiswal:Cc04_g05040
+B8BF84	Jaiswal:Cc11_g06690
+B9EUK4	Jaiswal:Cc08_g16330 Jaiswal:Cc02_g39520
+B9EXM2	Jaiswal:Cc10_g16400
+B9EZJ8	Jaiswal:Cc01_g20250 Jaiswal:Cc01_g20210
+B9F3B6	Jaiswal:Cc05_g16560
+B9FDB8	Jaiswal:Cc02_g13200
+B9FML1	Jaiswal:Cc03_g00430
+B9FRT6	Jaiswal:Cc06_g18900
+B9FYX6	Jaiswal:Cc09_g08720
+B9FZ46	Jaiswal:Cc08_g12940
+B9G3A7	Jaiswal:Cc11_g14470
+C7IYK7	Jaiswal:Cc05_g11710
+C7J0P3	Jaiswal:Cc00_g25840
+C7J5F5	Jaiswal:Cc07_g19850 Jaiswal:Cc01_g10860
+C7J5T9	Jaiswal:Cc07_g19850 Jaiswal:Cc01_g10860
+I1QJ08	Jaiswal:Cc06_g15100
+I1QQP8	Jaiswal:Cc11_g15230 Jaiswal:Cc04_g14200
+I3QK18	Jaiswal:Cc08_g12070
+O04226	Jaiswal:Cc06_g02210 Jaiswal:Cc02_g07340
+O04882	Jaiswal:Cc05_g15270 Jaiswal:Cc09_g00220
+O22105	Jaiswal:Cc00_g22310
+O22567	Jaiswal:Cc03_g02540
+O24174	Jaiswal:Cc04_g13600
+O24210	Jaiswal:Cc01_g17220
+O64422	Jaiswal:Cc06_g01860
+O64437	Jaiswal:Cc07_g15530
+O82117	Jaiswal:Cc06_g13690 Jaiswal:Cc08_g06390 Jaiswal:Cc07_g04750
+P0C0X5	Jaiswal:Cc10_g14830 Jaiswal:Cc09_g03480 Jaiswal:Cc03_g13040 Jaiswal:Cc11_g08680
+P0C128	Jaiswal:Cc04_g02510
+P0C132	Jaiswal:Cc03_g04670 Jaiswal:Cc02_g30730
+P0C587	Jaiswal:Cc02_g20500 Jaiswal:Cc10_g08170
+P0C5A4	Jaiswal:Cc04_g04040
+P0C5B2	Jaiswal:Cc02_g37000 Jaiswal:Cc02_g03570
+P14654	Jaiswal:Cc07_g13290 Jaiswal:Cc04_g05960
+P14655	Jaiswal:Cc03_g02940
+P14656	Jaiswal:Cc07_g13290 Jaiswal:Cc04_g05960
+P15280	Jaiswal:Cc05_g09820
+P16081	Jaiswal:Cc00_g12040 Jaiswal:Cc10_g14390
+P17784	Jaiswal:Cc05_g15430 Jaiswal:Cc09_g08630 Jaiswal:Cc06_g05320
+P17814	Jaiswal:Cc06_g13370 Jaiswal:Cc04_g05510
+P18566	Jaiswal:Cc06_g13150 Jaiswal:Cc00_g15710
+P30298	Jaiswal:Cc06_g12680
+P31924	Jaiswal:Cc06_g12680
+P37833	Jaiswal:Cc08_g09040 Jaiswal:Cc06_g09870
+P38419	Jaiswal:Cc01_g04060
+P42862	Jaiswal:Cc10_g02960
+P42863	Jaiswal:Cc10_g02960
+P48642	Jaiswal:Cc03_g07600
+P93438	Jaiswal:Cc03_g00230
+Q01KF3	Jaiswal:Cc04_g07930
+Q01M39	Jaiswal:Cc10_g06970 Jaiswal:Cc00_g31530 Jaiswal:Cc07_g14930 Jaiswal:Cc07_g14880 Jaiswal:Cc02_g21310 Jaiswal:Cc10_g07030 Jaiswal:Cc01_g01130 Jaiswal:Cc00_g17110 Jaiswal:Cc07_g14950 Jaiswal:Cc10_g06890 Jaiswal:Cc11_g01640 Jaiswal:Cc10_g06960 Jaiswal:Cc10_g11220 Jaiswal:Cc10_g06940 Jaiswal:Cc10_g06980 Jaiswal:Cc02_g21300 Jaiswal:Cc01_g01120 Jaiswal:Cc02_g21360 Jaiswal:Cc10_g07040 Jaiswal:Cc10_g07000 Jaiswal:Cc10_g06910 Jaiswal:Cc10_g06930 Jaiswal:Cc07_g14940
+Q05JG2	Jaiswal:Cc02_g18810 Jaiswal:Cc10_g04140
+Q0D3B6	Jaiswal:Cc09_g02330 Jaiswal:Cc06_g03460
+Q0D3D2	Jaiswal:Cc06_g01070 Jaiswal:Cc03_g06870
+Q0D3F2	Jaiswal:Cc02_g35040
+Q0D4G3	Jaiswal:Cc11_g13090 Jaiswal:Cc10_g06330
+Q0D759	Jaiswal:Cc04_g11270 Jaiswal:Cc00_g02640 Jaiswal:Cc04_g11210 Jaiswal:Cc00_g02660 Jaiswal:Cc00_g27670 Jaiswal:Cc04_g11250 Jaiswal:Cc06_g22460 Jaiswal:Cc06_g22120 Jaiswal:Cc00_g17240 Jaiswal:Cc05_g06770 Jaiswal:Cc00_g33270 Jaiswal:Cc05_g14770 Jaiswal:Cc08_g07330 Jaiswal:Cc06_g22450 Jaiswal:Cc08_g07950 Jaiswal:Cc00_g18540 Jaiswal:Cc08_g07520 Jaiswal:Cc00_g17250 Jaiswal:Cc06_g22430 Jaiswal:Cc08_g07400 Jaiswal:Cc05_g04010 Jaiswal:Cc03_g15170 Jaiswal:Cc08_g07460 Jaiswal:Cc08_g07370 Jaiswal:Cc05_g05090 Jaiswal:Cc05_g04020 Jaiswal:Cc03_g15150 Jaiswal:Cc06_g22090 Jaiswal:Cc01_g05620 Jaiswal:Cc04_g11300 Jaiswal:Cc00_g02650 Jaiswal:Cc03_g10930 Jaiswal:Cc00_g30530 Jaiswal:Cc08_g07320 Jaiswal:Cc08_g07360 Jaiswal:Cc02_g28250 Jaiswal:Cc08_g07340 Jaiswal:Cc06_g22050 Jaiswal:Cc05_g06760 Jaiswal:Cc06_g22070 Jaiswal:Cc05_g05100 Jaiswal:Cc03_g10990 Jaiswal:Cc00_g06410 Jaiswal:Cc08_g07410 Jaiswal:Cc01_g02610 Jaiswal:Cc00_g06430 Jaiswal:Cc00_g09200 Jaiswal:Cc06_g22080 Jaiswal:Cc00_g17260 Jaiswal:Cc11_g16380 Jaiswal:Cc05_g04040 Jaiswal:Cc00_g06370 Jaiswal:Cc00_g31730 Jaiswal:Cc03_g10940 Jaiswal:Cc05_g05080 Jaiswal:Cc01_g05630 Jaiswal:Cc03_g14110 Jaiswal:Cc03_g10960
+Q0D7E4	Jaiswal:Cc00_g16360 Jaiswal:Cc10_g12410 Jaiswal:Cc04_g05050 Jaiswal:Cc10_g12390 Jaiswal:Cc10_g12370
+Q0D7J0	Jaiswal:Cc11_g03130 Jaiswal:Cc11_g03080 Jaiswal:Cc01_g06490 Jaiswal:Cc03_g09630 Jaiswal:Cc02_g30770 Jaiswal:Cc03_g09610 Jaiswal:Cc11_g03140 Jaiswal:Cc01_g13570 Jaiswal:Cc11_g03100 Jaiswal:Cc09_g08130
+Q0D7J3	Jaiswal:Cc11_g03130 Jaiswal:Cc11_g03080 Jaiswal:Cc01_g06490 Jaiswal:Cc03_g09630 Jaiswal:Cc02_g30770 Jaiswal:Cc03_g09610 Jaiswal:Cc11_g03140 Jaiswal:Cc01_g13570 Jaiswal:Cc11_g03100 Jaiswal:Cc09_g08130
+Q0D7W4	Jaiswal:Cc02_g31750
+Q0D8I9	Jaiswal:Cc00_g20760
+Q0D8J6	Jaiswal:Cc05_g10210
+Q0D980	Jaiswal:Cc05_g13940
+Q0DA35	Jaiswal:Cc05_g04850
+Q0DAA4	Jaiswal:Cc09_g05420 Jaiswal:Cc00_g29250
+Q0DBD3	Jaiswal:Cc11_g13900
+Q0DBF4	Jaiswal:Cc10_g03710 Jaiswal:Cc00_g28260
+Q0DBN4	Jaiswal:Cc05_g08500
+Q0DCE9	Jaiswal:Cc03_g03670 Jaiswal:Cc03_g03660
+Q0DDS1	Jaiswal:Cc11_g11100
+Q0DEC8	Jaiswal:Cc02_g01480
+Q0DG35	Jaiswal:Cc02_g01700
+Q0DGG8	Jaiswal:Cc05_g14780 Jaiswal:Cc06_g11160
+Q0DHF6	Jaiswal:Cc06_g01070 Jaiswal:Cc03_g06870
+Q0DJJ9	Jaiswal:Cc09_g05060 Jaiswal:Cc09_g05080
+Q0DJT2	Jaiswal:Cc06_g10140
+Q0DKE8	Jaiswal:Cc11_g15530 Jaiswal:Cc04_g11870
+Q0DKP3	Jaiswal:Cc07_g01170 Jaiswal:Cc01_g20300
+Q0DKY4	Jaiswal:Cc03_g00230
+Q0DNU1	Jaiswal:Cc04_g00300 Jaiswal:Cc10_g08500 Jaiswal:Cc02_g20830 Jaiswal:Cc02_g20800
+Q0DS76	Jaiswal:Cc03_g16320
+Q0DSM1	Jaiswal:Cc00_g25840
+Q0DV32	Jaiswal:Cc06_g04280
+Q0DWC7	Jaiswal:Cc03_g05070 Jaiswal:Cc02_g09070
+Q0DWF2	Jaiswal:Cc03_g06400 Jaiswal:Cc01_g17790
+Q0DWH1	Jaiswal:Cc01_g17660
+Q0DXA9	Jaiswal:Cc00_g08410 Jaiswal:Cc04_g15100 Jaiswal:Cc04_g15110 Jaiswal:Cc00_g08400 Jaiswal:Cc00_g15300
+Q0DY86	Jaiswal:Cc02_g14680
+Q0DYK7	Jaiswal:Cc06_g06880 Jaiswal:Cc02_g09250 Jaiswal:Cc09_g10860
+Q0DZE0	Jaiswal:Cc02_g11230 Jaiswal:Cc00_g20750 Jaiswal:Cc01_g10880 Jaiswal:Cc06_g03980
+Q0E2P1	Jaiswal:Cc04_g02130
+Q0E2P9	Jaiswal:Cc08_g10820
+Q0E2X2	Jaiswal:Cc06_g04650 Jaiswal:Cc08_g07140 Jaiswal:Cc02_g19070 Jaiswal:Cc06_g04640 Jaiswal:Cc06_g04680 Jaiswal:Cc02_g24770 Jaiswal:Cc03_g10580
+Q0E3F2	Jaiswal:Cc06_g13490
+Q0E3J1	Jaiswal:Cc09_g05420 Jaiswal:Cc00_g29250
+Q0E3L4	Jaiswal:Cc05_g01440
+Q0E4F0	Jaiswal:Cc02_g17020 Jaiswal:Cc09_g09420
+Q0E4N2	Jaiswal:Cc02_g09750
+Q0ILP7	Jaiswal:Cc10_g08010 Jaiswal:Cc10_g08000
+Q0INY7	Jaiswal:Cc06_g13150 Jaiswal:Cc00_g15710
+Q0INZ4	Jaiswal:Cc05_g10510
+Q0IPE5	Jaiswal:Cc11_g02350
+Q0IQ89	Jaiswal:Cc01_g02130
+Q0IQA5	Jaiswal:Cc10_g14830 Jaiswal:Cc09_g03480 Jaiswal:Cc03_g13040 Jaiswal:Cc11_g08680
+Q0IQQ5	Jaiswal:Cc06_g00800 Jaiswal:Cc06_g00790
+Q0IRE6	Jaiswal:Cc02_g32590
+Q0IS70	Jaiswal:Cc05_g11710
+Q0ITU1	Jaiswal:Cc06_g12340
+Q0ITW7	Jaiswal:Cc07_g18190 Jaiswal:Cc01_g17340 Jaiswal:Cc07_g18150 Jaiswal:Cc10_g12960
+Q0IZJ9	Jaiswal:Cc01_g09780
+Q0IZS0	Jaiswal:Cc11_g08770
+Q0IZX5	Jaiswal:Cc07_g11360 Jaiswal:Cc10_g01090
+Q0J0M8	Jaiswal:Cc10_g00230 Jaiswal:Cc07_g12220
+Q0J0N3	Jaiswal:Cc02_g24030 Jaiswal:Cc08_g13180 Jaiswal:Cc00_g27010
+Q0J185	Jaiswal:Cc02_g18810 Jaiswal:Cc10_g04140
+Q0J1C1	Jaiswal:Cc09_g01110 Jaiswal:Cc00_g25170 Jaiswal:Cc05_g02900 Jaiswal:Cc05_g02890
+Q0J1E1	Jaiswal:Cc01_g02770
+Q0J270	Jaiswal:Cc02_g23640 Jaiswal:Cc00_g15900 Jaiswal:Cc00_g15920
+Q0J2L7	Jaiswal:Cc01_g13400
+Q0J360	Jaiswal:Cc08_g10760 Jaiswal:Cc08_g10740 Jaiswal:Cc06_g06110 Jaiswal:Cc04_g13060 Jaiswal:Cc06_g06080 Jaiswal:Cc08_g10750
+Q0J5Y4	Jaiswal:Cc04_g15800 Jaiswal:Cc04_g13930 Jaiswal:Cc00_g30150
+Q0J7P4	Jaiswal:Cc06_g03510
+Q0J8A4	Jaiswal:Cc11_g16510 Jaiswal:Cc07_g00460
+Q0J951	Jaiswal:Cc05_g00510 Jaiswal:Cc09_g08740
+Q0J9F2	Jaiswal:Cc05_g15270 Jaiswal:Cc09_g00220
+Q0J9K2	Jaiswal:Cc04_g04590
+Q0J9Z0	Jaiswal:Cc09_g01640
+Q0JA81	Jaiswal:Cc08_g07540 Jaiswal:Cc08_g07420
+Q0JA82	Jaiswal:Cc08_g07540 Jaiswal:Cc08_g07420
+Q0JAI1	Jaiswal:Cc04_g05820
+Q0JB49	Jaiswal:Cc08_g14600
+Q0JB91	Jaiswal:Cc02_g04590
+Q0JB99	Jaiswal:Cc02_g04740 Jaiswal:Cc08_g11910
+Q0JBF1	Jaiswal:Cc08_g12930
+Q0JC10	Jaiswal:Cc07_g04840 Jaiswal:Cc06_g14280
+Q0JCU7	Jaiswal:Cc07_g06010
+Q0JCZ4	Jaiswal:Cc00_g12260
+Q0JDD2	Jaiswal:Cc06_g05880
+Q0JDF7	Jaiswal:Cc01_g09780
+Q0JDN5	Jaiswal:Cc02_g08270
+Q0JDT1	Jaiswal:Cc09_g03200
+Q0JE53	Jaiswal:Cc10_g06970 Jaiswal:Cc00_g31530 Jaiswal:Cc07_g14930 Jaiswal:Cc07_g14880 Jaiswal:Cc02_g21310 Jaiswal:Cc10_g07030 Jaiswal:Cc01_g01130 Jaiswal:Cc00_g17110 Jaiswal:Cc07_g14950 Jaiswal:Cc10_g06890 Jaiswal:Cc11_g01640 Jaiswal:Cc10_g06960 Jaiswal:Cc10_g11220 Jaiswal:Cc10_g06940 Jaiswal:Cc10_g06980 Jaiswal:Cc02_g21300 Jaiswal:Cc01_g01120 Jaiswal:Cc02_g21360 Jaiswal:Cc10_g07040 Jaiswal:Cc10_g07000 Jaiswal:Cc10_g06910 Jaiswal:Cc10_g06930 Jaiswal:Cc07_g14940
+Q0JEK1	Jaiswal:Cc00_g10470
+Q0JEP5	Jaiswal:Cc02_g10950
+Q0JEZ8	Jaiswal:Cc08_g07540 Jaiswal:Cc08_g07420
+Q0JF02	Jaiswal:Cc00_g17280 Jaiswal:Cc00_g16820 Jaiswal:Cc00_g31970 Jaiswal:Cc08_g07480 Jaiswal:Cc08_g07530
+Q0JF25	Jaiswal:Cc08_g08420 Jaiswal:Cc00_g29870 Jaiswal:Cc00_g18060 Jaiswal:Cc08_g06630 Jaiswal:Cc08_g08060 Jaiswal:Cc08_g08080 Jaiswal:Cc08_g06130 Jaiswal:Cc02_g05380 Jaiswal:Cc08_g08430
+Q0JF26	Jaiswal:Cc08_g08420 Jaiswal:Cc00_g29870 Jaiswal:Cc00_g18060 Jaiswal:Cc08_g06630 Jaiswal:Cc08_g08060 Jaiswal:Cc08_g08080 Jaiswal:Cc08_g06130 Jaiswal:Cc02_g05380 Jaiswal:Cc08_g08430
+Q0JF30	Jaiswal:Cc03_g05070 Jaiswal:Cc02_g09070
+Q0JGK4	Jaiswal:Cc10_g16060
+Q0JIC2	Jaiswal:Cc01_g13090 Jaiswal:Cc01_g07440
+Q0JIR6	Jaiswal:Cc02_g17890 Jaiswal:Cc10_g03380
+Q0JJ01	Jaiswal:Cc05_g01250 Jaiswal:Cc09_g06750
+Q0JJI1	Jaiswal:Cc07_g02250
+Q0JJV0	Jaiswal:Cc07_g03020
+Q0JK57	Jaiswal:Cc04_g06300
+Q0JKD0	Jaiswal:Cc02_g01700
+Q0JKG7	Jaiswal:Cc06_g10040 Jaiswal:Cc04_g02890 Jaiswal:Cc07_g07780 Jaiswal:Cc10_g08190
+Q0JKI9	Jaiswal:Cc02_g14070
+Q0JKY8	Jaiswal:Cc11_g14720 Jaiswal:Cc07_g02160
+Q0JLT2	Jaiswal:Cc04_g01870
+Q0JPT4	Jaiswal:Cc05_g10900 Jaiswal:Cc02_g15790
+Q0JQ41	Jaiswal:Cc09_g07310
+Q0JR55	Jaiswal:Cc11_g09310
+Q0JRG4	Jaiswal:Cc07_g01110
+Q109F2	Jaiswal:Cc11_g06200 Jaiswal:Cc07_g10360
+Q109K4	Jaiswal:Cc02_g12460
+Q109W9	Jaiswal:Cc02_g12460
+Q10A30	Jaiswal:Cc05_g15430 Jaiswal:Cc09_g08630 Jaiswal:Cc06_g05320
+Q10B63	Jaiswal:Cc03_g01580
+Q10BA5	Jaiswal:Cc06_g01690
+Q10BT5	Jaiswal:Cc01_g02510 Jaiswal:Cc02_g26810
+Q10BX9	Jaiswal:Cc00_g09970
+Q10CE4	Jaiswal:Cc05_g10170
+Q10CH5	Jaiswal:Cc01_g17430
+Q10CQ1	Jaiswal:Cc00_g02800 Jaiswal:Cc07_g04450 Jaiswal:Cc11_g11710
+Q10CS9	Jaiswal:Cc09_g07140
+Q10CU7	Jaiswal:Cc04_g12410
+Q10D34	Jaiswal:Cc03_g04670 Jaiswal:Cc02_g30730
+Q10D68	Jaiswal:Cc00_g10930
+Q10D87	Jaiswal:Cc01_g15650
+Q10DK7	Jaiswal:Cc07_g07490
+Q10DU0	Jaiswal:Cc02_g36930
+Q10E50	Jaiswal:Cc06_g22200
+Q10EG4	Jaiswal:Cc00_g20760
+Q10F04	Jaiswal:Cc08_g03790
+Q10F25	Jaiswal:Cc04_g00300 Jaiswal:Cc10_g08500 Jaiswal:Cc02_g20830 Jaiswal:Cc02_g20800
+Q10FE9	Jaiswal:Cc07_g11450
+Q10G56	Jaiswal:Cc00_g12600
+Q10HZ6	Jaiswal:Cc08_g08420 Jaiswal:Cc00_g29870 Jaiswal:Cc00_g18060 Jaiswal:Cc08_g06630 Jaiswal:Cc08_g08060 Jaiswal:Cc08_g08080 Jaiswal:Cc08_g06130 Jaiswal:Cc02_g05380 Jaiswal:Cc08_g08430
+Q10J20	Jaiswal:Cc07_g06720 Jaiswal:Cc07_g06710
+Q10J32	Jaiswal:Cc04_g13390 Jaiswal:Cc04_g13430
+Q10JI3	Jaiswal:Cc07_g04270 Jaiswal:Cc11_g11930
+Q10L51	Jaiswal:Cc06_g04650 Jaiswal:Cc08_g07140 Jaiswal:Cc02_g19070 Jaiswal:Cc06_g04640 Jaiswal:Cc06_g04680 Jaiswal:Cc02_g24770 Jaiswal:Cc03_g10580
+Q10L56	Jaiswal:Cc01_g19740
+Q10LP5	Jaiswal:Cc06_g12680
+Q10LR4	Jaiswal:Cc07_g15820 Jaiswal:Cc01_g15030
+Q10LR5	Jaiswal:Cc01_g21120
+Q10M76	Jaiswal:Cc00_g08990
+Q10MB0	Jaiswal:Cc02_g35340 Jaiswal:Cc02_g35330 Jaiswal:Cc02_g35360 Jaiswal:Cc02_g35350 Jaiswal:Cc11_g15250 Jaiswal:Cc03_g00450
+Q10MB4	Jaiswal:Cc00_g21210 Jaiswal:Cc02_g12210
+Q10ME8	Jaiswal:Cc02_g35200
+Q10MG9	Jaiswal:Cc03_g00790
+Q10MK2	Jaiswal:Cc03_g01930
+Q10MK5	Jaiswal:Cc10_g15890
+Q10MQ2	Jaiswal:Cc10_g06220
+Q10MS2	Jaiswal:Cc02_g05990
+Q10MW3	Jaiswal:Cc06_g01070 Jaiswal:Cc03_g06870
+Q10MX3	Jaiswal:Cc01_g14420
+Q10MX9	Jaiswal:Cc02_g06400
+Q10N17	Jaiswal:Cc01_g11680
+Q10N34	Jaiswal:Cc09_g02330 Jaiswal:Cc06_g03460
+Q10NY1	Jaiswal:Cc09_g02040 Jaiswal:Cc09_g02030
+Q10NY2	Jaiswal:Cc04_g04670
+Q10P01	Jaiswal:Cc11_g04320 Jaiswal:Cc08_g11730
+Q10P67	Jaiswal:Cc03_g11000
+Q10PL0	Jaiswal:Cc07_g07510 Jaiswal:Cc10_g07820
+Q10PY7	Jaiswal:Cc06_g16970
+Q10QA5	Jaiswal:Cc10_g05740
+Q10QN3	Jaiswal:Cc02_g21250
+Q10QR9	Jaiswal:Cc10_g03990
+Q10RP2	Jaiswal:Cc02_g11190 Jaiswal:Cc02_g11200
+Q10S34	Jaiswal:Cc05_g13840 Jaiswal:Cc05_g04630
+Q10S55	Jaiswal:Cc02_g22990
+Q10S58	Jaiswal:Cc07_g11640
+Q10S72	Jaiswal:Cc10_g00840
+Q10SD6	Jaiswal:Cc04_g12170 Jaiswal:Cc07_g01950
+Q10SL7	Jaiswal:Cc00_g24160
+Q10SM6	Jaiswal:Cc02_g37880
+Q10SP1	Jaiswal:Cc02_g39620
+Q10SU1	Jaiswal:Cc02_g07310
+Q10T43	Jaiswal:Cc08_g12250
+Q25AR2	Jaiswal:Cc03_g03750
+Q2KNB4	Jaiswal:Cc01_g06200
+Q2KNB5	Jaiswal:Cc01_g06200
+Q2MJA7	Jaiswal:Cc02_g24030 Jaiswal:Cc08_g13180 Jaiswal:Cc00_g27010
+Q2MJA8	Jaiswal:Cc02_g24030 Jaiswal:Cc08_g13180 Jaiswal:Cc00_g27010
+Q2QLJ0	Jaiswal:Cc02_g28080
+Q2QLQ1	Jaiswal:Cc06_g13590 Jaiswal:Cc06_g13600
+Q2QLY5	Jaiswal:Cc06_g07310
+Q2QLY6	Jaiswal:Cc02_g01880 Jaiswal:Cc02_g01890
+Q2QM47	Jaiswal:Cc01_g07810
+Q2QM70	Jaiswal:Cc01_g18950 Jaiswal:Cc03_g04440
+Q2QM83	Jaiswal:Cc11_g13750 Jaiswal:Cc04_g17240
+Q2QMD4	Jaiswal:Cc05_g16310
+Q2QME6	Jaiswal:Cc01_g19150 Jaiswal:Cc03_g04100
+Q2QMK8	Jaiswal:Cc07_g08210
+Q2QN06	Jaiswal:Cc10_g05650
+Q2QN58	Jaiswal:Cc07_g03760
+Q2QN88	Jaiswal:Cc11_g11910 Jaiswal:Cc03_g11190
+Q2QNF7	Jaiswal:Cc06_g03070
+Q2QNM9	Jaiswal:Cc00_g30760
+Q2QNN5	Jaiswal:Cc01_g04060
+Q2QNS6	Jaiswal:Cc03_g16110
+Q2QPI2	Jaiswal:Cc02_g32590
+Q2QPR0	Jaiswal:Cc02_g11230 Jaiswal:Cc00_g20750 Jaiswal:Cc01_g10880 Jaiswal:Cc06_g03980
+Q2QQJ5	Jaiswal:Cc08_g07540 Jaiswal:Cc08_g07420
+Q2QQX6	Jaiswal:Cc00_g12260
+Q2QR54	Jaiswal:Cc00_g35920 Jaiswal:Cc03_g00850 Jaiswal:Cc09_g00540
+Q2QRX6	Jaiswal:Cc10_g02530
+Q2QS13	Jaiswal:Cc07_g03990 Jaiswal:Cc11_g12180 Jaiswal:Cc00_g28540
+Q2QS14	Jaiswal:Cc07_g03990 Jaiswal:Cc11_g12180 Jaiswal:Cc00_g28540
+Q2QTJ1	Jaiswal:Cc06_g13150 Jaiswal:Cc00_g15710
+Q2QTL0	Jaiswal:Cc04_g11340
+Q2QTQ1	Jaiswal:Cc02_g08840
+Q2QUG4	Jaiswal:Cc06_g13160
+Q2QUI0	Jaiswal:Cc02_g32590
+Q2QVC1	Jaiswal:Cc00_g12840
+Q2QWD0	Jaiswal:Cc00_g12170 Jaiswal:Cc00_g12180 Jaiswal:Cc00_g20770 Jaiswal:Cc01_g04660 Jaiswal:Cc08_g08370 Jaiswal:Cc00_g12160 Jaiswal:Cc05_g01360 Jaiswal:Cc01_g04680
+Q2QWK9	Jaiswal:Cc02_g22780
+Q2QWV7	Jaiswal:Cc09_g02090
+Q2QX49	Jaiswal:Cc07_g19540
+Q2QX58	Jaiswal:Cc10_g11850
+Q2QXB1	Jaiswal:Cc03_g13070
+Q2QXK5	Jaiswal:Cc06_g05880
+Q2QXL0	Jaiswal:Cc01_g09290
+Q2QXP0	Jaiswal:Cc00_g25840
+Q2QXY1	Jaiswal:Cc06_g18590
+Q2QXY9	Jaiswal:Cc04_g12930
+Q2QXZ1	Jaiswal:Cc02_g28370 Jaiswal:Cc06_g18940 Jaiswal:Cc02_g28400 Jaiswal:Cc02_g28420 Jaiswal:Cc02_g28390 Jaiswal:Cc06_g18950 Jaiswal:Cc00_g02190 Jaiswal:Cc04_g16960
+Q2QY63	Jaiswal:Cc00_g28470 Jaiswal:Cc02_g28770 Jaiswal:Cc00_g27460
+Q2QYB7	Jaiswal:Cc01_g07600
+Q2QYW4	Jaiswal:Cc02_g06400
+Q2QZ14	Jaiswal:Cc01_g13410
+Q2R0P3	Jaiswal:Cc06_g16600 Jaiswal:Cc00_g04860
+Q2R1G8	Jaiswal:Cc07_g15410
+Q2R1L4	Jaiswal:Cc07_g08780
+Q2R2W1	Jaiswal:Cc11_g07690
+Q2R2W3	Jaiswal:Cc06_g22200
+Q2R2W8	Jaiswal:Cc07_g07230 Jaiswal:Cc07_g07240 Jaiswal:Cc07_g07210 Jaiswal:Cc07_g07220
+Q2R339	Jaiswal:Cc02_g26940
+Q2R3A1	Jaiswal:Cc00_g19010 Jaiswal:Cc00_g32030
+Q2R3F5	Jaiswal:Cc00_g12260
+Q2R3K3	Jaiswal:Cc04_g09460
+Q2R3K5	Jaiswal:Cc07_g01170 Jaiswal:Cc01_g20300
+Q2R3Y4	Jaiswal:Cc07_g19540
+Q2R481	Jaiswal:Cc10_g02530
+Q2R8T7	Jaiswal:Cc09_g04510
+Q2RA11	Jaiswal:Cc07_g19540
+Q2RAM8	Jaiswal:Cc00_g14440 Jaiswal:Cc00_g14420 Jaiswal:Cc03_g09220 Jaiswal:Cc00_g28340 Jaiswal:Cc03_g09300 Jaiswal:Cc00_g28330 Jaiswal:Cc03_g09270 Jaiswal:Cc03_g09230 Jaiswal:Cc03_g09310 Jaiswal:Cc03_g09290 Jaiswal:Cc00_g28270 Jaiswal:Cc00_g14400
+Q2RAP0	Jaiswal:Cc06_g18590
+Q2RAP4	Jaiswal:Cc02_g06630
+Q2RAP8	Jaiswal:Cc04_g12930
+Q2RAP9	Jaiswal:Cc02_g28370 Jaiswal:Cc06_g18940 Jaiswal:Cc02_g28400 Jaiswal:Cc02_g28420 Jaiswal:Cc02_g28390 Jaiswal:Cc06_g18950 Jaiswal:Cc00_g02190 Jaiswal:Cc04_g16960
+Q2RAW4	Jaiswal:Cc06_g21170 Jaiswal:Cc00_g07000
+Q2RAW8	Jaiswal:Cc06_g21170 Jaiswal:Cc00_g07000
+Q2RAY0	Jaiswal:Cc00_g28470 Jaiswal:Cc02_g28770 Jaiswal:Cc00_g27460
+Q2RB23	Jaiswal:Cc01_g07600
+Q2RBN0	Jaiswal:Cc01_g14570
+Q2RBP2	Jaiswal:Cc01_g14300 Jaiswal:Cc02_g06450
+Q2V0P1	Jaiswal:Cc02_g16110 Jaiswal:Cc05_g09250
+Q336M7	Jaiswal:Cc08_g03990
+Q336N7	Jaiswal:Cc08_g03270
+Q336R6	Jaiswal:Cc02_g25430 Jaiswal:Cc08_g11150
+Q336U3	Jaiswal:Cc07_g04870
+Q336V3	Jaiswal:Cc06_g04720
+Q336X9	Jaiswal:Cc08_g15160 Jaiswal:Cc00_g17870
+Q337F0	Jaiswal:Cc02_g37470
+Q337F3	Jaiswal:Cc02_g07310
+Q337H3	Jaiswal:Cc06_g14900
+Q338J0	Jaiswal:Cc00_g21470 Jaiswal:Cc01_g17720 Jaiswal:Cc05_g04740
+Q338N8	Jaiswal:Cc04_g00730
+Q338Z4	Jaiswal:Cc04_g13590 Jaiswal:Cc07_g19270
+Q339V1	Jaiswal:Cc00_g15600
+Q33AE4	Jaiswal:Cc02_g03610
+Q33AP0	Jaiswal:Cc08_g09530
+Q40704	Jaiswal:Cc02_g16110 Jaiswal:Cc05_g09250
+Q40710	Jaiswal:Cc02_g35340 Jaiswal:Cc02_g35330 Jaiswal:Cc02_g35360 Jaiswal:Cc02_g35350 Jaiswal:Cc11_g15250 Jaiswal:Cc03_g00450
+Q42971	Jaiswal:Cc06_g05150
+Q42982	Jaiswal:Cc06_g13370 Jaiswal:Cc04_g05510
+Q43007	Jaiswal:Cc04_g04260
+Q43009	Jaiswal:Cc06_g12680
+Q43011	Jaiswal:Cc07_g15230
+Q4W8D0	Jaiswal:Cc07_g13290 Jaiswal:Cc04_g05960
+Q52QH4	Jaiswal:Cc10_g12200 Jaiswal:Cc02_g33930
+Q52RG7	Jaiswal:Cc11_g17180
+Q53JI9	Jaiswal:Cc10_g16060
+Q53JP2	Jaiswal:Cc02_g06430 Jaiswal:Cc06_g01260
+Q53L28	Jaiswal:Cc09_g04290
+Q53M09	Jaiswal:Cc02_g36750 Jaiswal:Cc02_g36740 Jaiswal:Cc02_g36760
+Q53MS9	Jaiswal:Cc00_g03790
+Q53MU1	Jaiswal:Cc03_g13880 Jaiswal:Cc09_g07740
+Q53MU8	Jaiswal:Cc03_g13920
+Q53NW6	Jaiswal:Cc02_g11230 Jaiswal:Cc00_g20750 Jaiswal:Cc01_g10880 Jaiswal:Cc06_g03980
+Q53P49	Jaiswal:Cc05_g06700 Jaiswal:Cc02_g39050
+Q53Q70	Jaiswal:Cc10_g06050
+Q53QJ0	Jaiswal:Cc00_g03610 Jaiswal:Cc07_g17610
+Q53RH0	Jaiswal:Cc01_g21110 Jaiswal:Cc05_g10220
+Q5CCK1	Jaiswal:Cc02_g06630
+Q5CCK3	Jaiswal:Cc07_g09440
+Q5JJV0	Jaiswal:Cc08_g10760 Jaiswal:Cc08_g10740 Jaiswal:Cc06_g06110 Jaiswal:Cc04_g13060 Jaiswal:Cc06_g06080 Jaiswal:Cc08_g10750
+Q5JK18	Jaiswal:Cc07_g01220
+Q5JK20	Jaiswal:Cc00_g12260
+Q5JK39	Jaiswal:Cc04_g09460
+Q5JLS4	Jaiswal:Cc05_g14310 Jaiswal:Cc03_g04790
+Q5JMA1	Jaiswal:Cc09_g09040
+Q5JMA6	Jaiswal:Cc06_g11190
+Q5JMB6	Jaiswal:Cc09_g07310
+Q5JMC7	Jaiswal:Cc07_g16470 Jaiswal:Cc04_g11230
+Q5JME6	Jaiswal:Cc07_g00150
+Q5JMX5	Jaiswal:Cc05_g03680
+Q5JMX9	Jaiswal:Cc05_g09740
+Q5JN19	Jaiswal:Cc07_g03760
+Q5JN42	Jaiswal:Cc02_g21930 Jaiswal:Cc02_g21940
+Q5JN63	Jaiswal:Cc02_g15480
+Q5JNB0	Jaiswal:Cc03_g14430
+Q5MBR3	Jaiswal:Cc05_g10210
+Q5MBR5	Jaiswal:Cc05_g10210
+Q5N725	Jaiswal:Cc05_g15430 Jaiswal:Cc09_g08630 Jaiswal:Cc06_g05320
+Q5N7C7	Jaiswal:Cc01_g09290
+Q5N7L0	Jaiswal:Cc03_g03080 Jaiswal:Cc02_g17870 Jaiswal:Cc11_g10030
+Q5N7Z8	Jaiswal:Cc03_g15180 Jaiswal:Cc03_g10910
+Q5N8G1	Jaiswal:Cc02_g23630
+Q5N8H9	Jaiswal:Cc08_g10820
+Q5N8Q3	Jaiswal:Cc11_g09310
+Q5N9N2	Jaiswal:Cc01_g13400
+Q5N9Z8	Jaiswal:Cc07_g15560
+Q5NA81	Jaiswal:Cc05_g07790
+Q5NAY4	Jaiswal:Cc02_g32120
+Q5NAZ7	Jaiswal:Cc05_g06700 Jaiswal:Cc02_g39050
+Q5NB25	Jaiswal:Cc06_g10040 Jaiswal:Cc04_g02890 Jaiswal:Cc07_g07780 Jaiswal:Cc10_g08190
+Q5NBQ1	Jaiswal:Cc02_g08450 Jaiswal:Cc00_g25400
+Q5NBT9	Jaiswal:Cc02_g34530
+Q5NTH3	Jaiswal:Cc07_g16270
+Q5NTH4	Jaiswal:Cc07_g16270
+Q5QN02	Jaiswal:Cc02_g09140
+Q5SMQ9	Jaiswal:Cc10_g14830 Jaiswal:Cc09_g03480 Jaiswal:Cc03_g13040 Jaiswal:Cc11_g08680
+Q5SMY2	Jaiswal:Cc04_g01870
+Q5SND7	Jaiswal:Cc06_g10400 Jaiswal:Cc00_g34320
+Q5U9F2	Jaiswal:Cc03_g11090
+Q5VMP0	Jaiswal:Cc05_g08390 Jaiswal:Cc00_g28410
+Q5VMP2	Jaiswal:Cc06_g20890 Jaiswal:Cc06_g06820
+Q5VN31	Jaiswal:Cc05_g14070
+Q5VNP5	Jaiswal:Cc07_g09580
+Q5VNW0	Jaiswal:Cc02_g24040
+Q5VP70	Jaiswal:Cc10_g14830 Jaiswal:Cc09_g03480 Jaiswal:Cc03_g13040 Jaiswal:Cc11_g08680
+Q5VPH2	Jaiswal:Cc07_g10580
+Q5VQG4	Jaiswal:Cc07_g01840 Jaiswal:Cc00_g10830
+Q5VQG8	Jaiswal:Cc11_g15530 Jaiswal:Cc04_g11870
+Q5VRB9	Jaiswal:Cc01_g20250 Jaiswal:Cc01_g20210
+Q5VRH4	Jaiswal:Cc05_g11510
+Q5VRM7	Jaiswal:Cc02_g26030 Jaiswal:Cc02_g26040 Jaiswal:Cc00_g32940 Jaiswal:Cc02_g26070 Jaiswal:Cc02_g26050
+Q5VRR0	Jaiswal:Cc08_g00560 Jaiswal:Cc06_g08150
+Q5VSB8	Jaiswal:Cc11_g01700
+Q5W670	Jaiswal:Cc04_g02510
+Q5W6F1	Jaiswal:Cc00_g10050 Jaiswal:Cc00_g05190 Jaiswal:Cc01_g15360
+Q5W6H5	Jaiswal:Cc06_g01120
+Q5W6W7	Jaiswal:Cc00_g01010
+Q5XLJ2	Jaiswal:Cc02_g26940
+Q5Z5B7	Jaiswal:Cc08_g11740 Jaiswal:Cc00_g26180
+Q5Z5R4	Jaiswal:Cc10_g03710 Jaiswal:Cc00_g28260
+Q5Z5R7	Jaiswal:Cc10_g03710 Jaiswal:Cc00_g28260
+Q5Z678	Jaiswal:Cc10_g12030
+Q5Z6D3	Jaiswal:Cc03_g03670 Jaiswal:Cc03_g03660
+Q5Z6E5	Jaiswal:Cc03_g07460
+Q5Z749	Jaiswal:Cc06_g10040 Jaiswal:Cc04_g02890 Jaiswal:Cc07_g07780 Jaiswal:Cc10_g08190
+Q5Z7R3	Jaiswal:Cc05_g11710
+Q5Z807	Jaiswal:Cc06_g23490
+Q5Z856	Jaiswal:Cc09_g02020
+Q5Z8K3	Jaiswal:Cc06_g13030
+Q5Z8S0	Jaiswal:Cc08_g10450
+Q5Z8T3	Jaiswal:Cc04_g02360 Jaiswal:Cc06_g10840
+Q5Z8V9	Jaiswal:Cc08_g06800
+Q5Z8Y4	Jaiswal:Cc10_g13640
+Q5Z8Z7	Jaiswal:Cc04_g02130
+Q5ZCV1	Jaiswal:Cc03_g02470
+Q5ZED1	Jaiswal:Cc02_g07900
+Q5ZEL4	Jaiswal:Cc06_g01200
+Q60EI7	Jaiswal:Cc02_g17890 Jaiswal:Cc10_g03380
+Q60EX6	Jaiswal:Cc01_g20060
+Q64MA9	Jaiswal:Cc08_g13850
+Q650W1	Jaiswal:Cc01_g09780
+Q651F0	Jaiswal:Cc07_g11060
+Q652A8	Jaiswal:Cc08_g14210
+Q652S1	Jaiswal:Cc04_g06160 Jaiswal:Cc04_g06150
+Q653D9	Jaiswal:Cc06_g20890 Jaiswal:Cc06_g06820
+Q653F4	Jaiswal:Cc07_g06350
+Q653H7	Jaiswal:Cc01_g11020 Jaiswal:Cc02_g11300 Jaiswal:Cc06_g03950
+Q653T6	Jaiswal:Cc09_g03060
+Q653U3	Jaiswal:Cc05_g00510 Jaiswal:Cc09_g08740
+Q655T1	Jaiswal:Cc11_g00340 Jaiswal:Cc05_g16350
+Q655W2	Jaiswal:Cc05_g16480
+Q655Y9	Jaiswal:Cc02_g20870
+Q656F1	Jaiswal:Cc06_g14010
+Q657X7	Jaiswal:Cc08_g12190
+Q65X14	Jaiswal:Cc09_g10130
+Q65X70	Jaiswal:Cc02_g30060 Jaiswal:Cc06_g18090
+Q65XC6	Jaiswal:Cc01_g20250 Jaiswal:Cc01_g20210
+Q65XK0	Jaiswal:Cc05_g08250
+Q65XM9	Jaiswal:Cc05_g15270 Jaiswal:Cc09_g00220
+Q65XR9	Jaiswal:Cc04_g04260
+Q67J19	Jaiswal:Cc10_g04260
+Q67TQ5	Jaiswal:Cc02_g18860 Jaiswal:Cc10_g04070
+Q67TZ7	Jaiswal:Cc00_g08410 Jaiswal:Cc04_g15100 Jaiswal:Cc04_g15110 Jaiswal:Cc00_g08400 Jaiswal:Cc00_g15300
+Q67UL3	Jaiswal:Cc10_g14830 Jaiswal:Cc09_g03480 Jaiswal:Cc03_g13040 Jaiswal:Cc11_g08680
+Q67UX0	Jaiswal:Cc06_g13030
+Q67UZ8	Jaiswal:Cc00_g04200
+Q67V61	Jaiswal:Cc11_g05640
+Q67VM1	Jaiswal:Cc07_g20900
+Q67VR7	Jaiswal:Cc10_g11070
+Q67W29	Jaiswal:Cc03_g11000
+Q67W82	Jaiswal:Cc06_g13370 Jaiswal:Cc04_g05510
+Q67WK8	Jaiswal:Cc11_g13090 Jaiswal:Cc10_g06330
+Q67WN8	Jaiswal:Cc06_g07910
+Q67WR2	Jaiswal:Cc06_g14220
+Q688Q8	Jaiswal:Cc11_g02220 Jaiswal:Cc04_g04810
+Q688Q9	Jaiswal:Cc08_g14690
+Q688T8	Jaiswal:Cc02_g17340 Jaiswal:Cc10_g02590
+Q688Y2	Jaiswal:Cc05_g12120
+Q689G6	Jaiswal:Cc02_g00820
+Q689G9	Jaiswal:Cc04_g14990
+Q69IM7	Jaiswal:Cc08_g05980 Jaiswal:Cc05_g03950 Jaiswal:Cc05_g13970
+Q69J27	Jaiswal:Cc00_g03060 Jaiswal:Cc11_g00620 Jaiswal:Cc00_g32320
+Q69JI7	Jaiswal:Cc11_g11510
+Q69K00	Jaiswal:Cc02_g16530
+Q69KM5	Jaiswal:Cc02_g24030 Jaiswal:Cc08_g13180 Jaiswal:Cc00_g27010
+Q69L93	Jaiswal:Cc01_g13410
+Q69LG7	Jaiswal:Cc10_g08630
+Q69MC9	Jaiswal:Cc02_g20970
+Q69MH0	Jaiswal:Cc00_g28890
+Q69NY7	Jaiswal:Cc02_g30950 Jaiswal:Cc00_g01970
+Q69P51	Jaiswal:Cc01_g17930
+Q69P84	Jaiswal:Cc00_g19070
+Q69P94	Jaiswal:Cc06_g12500
+Q69QD7	Jaiswal:Cc06_g08690
+Q69RC6	Jaiswal:Cc02_g15610
+Q69RG7	Jaiswal:Cc06_g04280
+Q69RJ0	Jaiswal:Cc06_g19130
+Q69T90	Jaiswal:Cc09_g10890
+Q69T99	Jaiswal:Cc05_g09820
+Q69TF4	Jaiswal:Cc06_g20670 Jaiswal:Cc05_g01460
+Q69TH6	Jaiswal:Cc10_g09300 Jaiswal:Cc10_g16530
+Q69TT1	Jaiswal:Cc11_g08330
+Q69TV4	Jaiswal:Cc00_g08410 Jaiswal:Cc04_g15100 Jaiswal:Cc04_g15110 Jaiswal:Cc00_g08400 Jaiswal:Cc00_g15300
+Q69TV6	Jaiswal:Cc00_g08410 Jaiswal:Cc04_g15100 Jaiswal:Cc04_g15110 Jaiswal:Cc00_g08400 Jaiswal:Cc00_g15300
+Q69TV8	Jaiswal:Cc00_g08410 Jaiswal:Cc04_g15100 Jaiswal:Cc04_g15110 Jaiswal:Cc00_g08400 Jaiswal:Cc00_g15300
+Q69TW5	Jaiswal:Cc02_g18860 Jaiswal:Cc10_g04070
+Q69U93	Jaiswal:Cc03_g13240
+Q69UF5	Jaiswal:Cc00_g14440 Jaiswal:Cc00_g14420 Jaiswal:Cc03_g09220 Jaiswal:Cc00_g28340 Jaiswal:Cc03_g09300 Jaiswal:Cc00_g28330 Jaiswal:Cc03_g09270 Jaiswal:Cc03_g09230 Jaiswal:Cc03_g09310 Jaiswal:Cc03_g09290 Jaiswal:Cc00_g28270 Jaiswal:Cc00_g14400
+Q69UU3	Jaiswal:Cc11_g15580
+Q69V57	Jaiswal:Cc05_g15430 Jaiswal:Cc09_g08630 Jaiswal:Cc06_g05320
+Q69XD3	Jaiswal:Cc00_g14440 Jaiswal:Cc00_g14420 Jaiswal:Cc03_g09220 Jaiswal:Cc00_g28340 Jaiswal:Cc03_g09300 Jaiswal:Cc00_g28330 Jaiswal:Cc03_g09270 Jaiswal:Cc03_g09230 Jaiswal:Cc03_g09310 Jaiswal:Cc03_g09290 Jaiswal:Cc00_g28270 Jaiswal:Cc00_g14400
+Q69XJ0	Jaiswal:Cc06_g08450
+Q69XS7	Jaiswal:Cc01_g03990 Jaiswal:Cc07_g09760 Jaiswal:Cc01_g03970 Jaiswal:Cc07_g09750 Jaiswal:Cc00_g08270 Jaiswal:Cc00_g23750 Jaiswal:Cc10_g02660 Jaiswal:Cc00_g23580 Jaiswal:Cc02_g17380
+Q6AT26	Jaiswal:Cc08_g00920
+Q6AT32	Jaiswal:Cc10_g08120 Jaiswal:Cc08_g09220 Jaiswal:Cc10_g08110
+Q6AT33	Jaiswal:Cc06_g10040 Jaiswal:Cc04_g02890 Jaiswal:Cc07_g07780 Jaiswal:Cc10_g08190
+Q6AT41	Jaiswal:Cc06_g10170
+Q6AT75	Jaiswal:Cc11_g14940
+Q6ATR2	Jaiswal:Cc01_g09670
+Q6AUB0	Jaiswal:Cc09_g03670
+Q6AUJ8	Jaiswal:Cc06_g01070 Jaiswal:Cc03_g06870
+Q6AUV1	Jaiswal:Cc07_g19610
+Q6AV34	Jaiswal:Cc07_g19550
+Q6AVG6	Jaiswal:Cc02_g17960
+Q6AVM5	Jaiswal:Cc00_g02380
+Q6AVT2	Jaiswal:Cc03_g03330
+Q6BDZ9	Jaiswal:Cc08_g07540 Jaiswal:Cc08_g07420
+Q6EN48	Jaiswal:Cc02_g01740
+Q6EP31	Jaiswal:Cc02_g16210 Jaiswal:Cc02_g14230 Jaiswal:Cc07_g11070
+Q6EP59	Jaiswal:Cc10_g06970 Jaiswal:Cc00_g31530 Jaiswal:Cc07_g14930 Jaiswal:Cc07_g14880 Jaiswal:Cc02_g21310 Jaiswal:Cc10_g07030 Jaiswal:Cc01_g01130 Jaiswal:Cc00_g17110 Jaiswal:Cc07_g14950 Jaiswal:Cc10_g06890 Jaiswal:Cc11_g01640 Jaiswal:Cc10_g06960 Jaiswal:Cc10_g11220 Jaiswal:Cc10_g06940 Jaiswal:Cc10_g06980 Jaiswal:Cc02_g21300 Jaiswal:Cc01_g01120 Jaiswal:Cc02_g21360 Jaiswal:Cc10_g07040 Jaiswal:Cc10_g07000 Jaiswal:Cc10_g06910 Jaiswal:Cc10_g06930 Jaiswal:Cc07_g14940
+Q6EP77	Jaiswal:Cc08_g13960 Jaiswal:Cc01_g09680 Jaiswal:Cc02_g03430
+Q6EPN6	Jaiswal:Cc08_g15230
+Q6EPY7	Jaiswal:Cc06_g05880
+Q6EQW2	Jaiswal:Cc05_g10530 Jaiswal:Cc00_g00040
+Q6ERL4	Jaiswal:Cc07_g07590
+Q6ERR3	Jaiswal:Cc04_g05040
+Q6ES51	Jaiswal:Cc04_g06060 Jaiswal:Cc11_g08030
+Q6ESJ0	Jaiswal:Cc08_g14600
+Q6ESZ9	Jaiswal:Cc10_g14560
+Q6ET36	Jaiswal:Cc01_g19400
+Q6ET88	Jaiswal:Cc00_g32770
+Q6ETD3	Jaiswal:Cc08_g12930
+Q6ETN3	Jaiswal:Cc06_g13370 Jaiswal:Cc04_g05510
+Q6ETX4	Jaiswal:Cc02_g06410
+Q6EUF1	Jaiswal:Cc05_g10900 Jaiswal:Cc02_g15790
+Q6EUNO	Jaiswal:Cc04_g07950 Jaiswal:Cc11_g11210
+Q6EUS6	Jaiswal:Cc05_g08500
+Q6F361	Jaiswal:Cc02_g32320 Jaiswal:Cc05_g11390
+Q6F4N6	Jaiswal:Cc07_g04840 Jaiswal:Cc06_g14280
+Q6H543	Jaiswal:Cc04_g02510
+Q6H5C7	Jaiswal:Cc07_g08780
+Q6H5U3	Jaiswal:Cc02_g13170
+Q6H5Z4	Jaiswal:Cc08_g10450
+Q6H6C7	Jaiswal:Cc11_g00340 Jaiswal:Cc05_g16350
+Q6H6D2	Jaiswal:Cc05_g16090
+Q6H6G1	Jaiswal:Cc07_g17450 Jaiswal:Cc00_g30070
+Q6H6I1	Jaiswal:Cc08_g12220
+Q6H6P8	Jaiswal:Cc06_g05400 Jaiswal:Cc05_g15390
+Q6H703	Jaiswal:Cc05_g16480
+Q6H7M1	Jaiswal:Cc09_g00910
+Q6H7Q6	Jaiswal:Cc01_g04060
+Q6H819	Jaiswal:Cc08_g07910
+Q6H849	Jaiswal:Cc01_g08760
+Q6H851	Jaiswal:Cc01_g08760
+Q6I581	Jaiswal:Cc05_g06700 Jaiswal:Cc02_g39050
+Q6I5C3	Jaiswal:Cc02_g01800 Jaiswal:Cc08_g15960
+Q6I628	Jaiswal:Cc11_g09310
+Q6IVC3	Jaiswal:Cc01_g05110 Jaiswal:Cc06_g19350
+Q6J1A5	Jaiswal:Cc08_g13960 Jaiswal:Cc01_g09680 Jaiswal:Cc02_g03430
+Q6K1S6	Jaiswal:Cc02_g08940 Jaiswal:Cc02_g37750
+Q6K1X7	Jaiswal:Cc09_g04290
+Q6K2E8	Jaiswal:Cc10_g00510
+Q6K306	Jaiswal:Cc04_g11110
+Q6K3T2	Jaiswal:Cc00_g08420
+Q6K3Z3	Jaiswal:Cc05_g01610 Jaiswal:Cc09_g00280
+Q6K548	Jaiswal:Cc04_g15460
+Q6K5G8	Jaiswal:Cc11_g16510 Jaiswal:Cc07_g00460
+Q6K5U4	Jaiswal:Cc05_g11710
+Q6K678	Jaiswal:Cc04_g05300
+Q6K6Q0	Jaiswal:Cc02_g11230 Jaiswal:Cc00_g20750 Jaiswal:Cc01_g10880 Jaiswal:Cc06_g03980
+Q6K6Q1	Jaiswal:Cc02_g11230 Jaiswal:Cc00_g20750 Jaiswal:Cc01_g10880 Jaiswal:Cc06_g03980
+Q6K755	Jaiswal:Cc10_g06970 Jaiswal:Cc00_g31530 Jaiswal:Cc07_g14930 Jaiswal:Cc07_g14880 Jaiswal:Cc02_g21310 Jaiswal:Cc10_g07030 Jaiswal:Cc01_g01130 Jaiswal:Cc00_g17110 Jaiswal:Cc07_g14950 Jaiswal:Cc10_g06890 Jaiswal:Cc11_g01640 Jaiswal:Cc10_g06960 Jaiswal:Cc10_g11220 Jaiswal:Cc10_g06940 Jaiswal:Cc10_g06980 Jaiswal:Cc02_g21300 Jaiswal:Cc01_g01120 Jaiswal:Cc02_g21360 Jaiswal:Cc10_g07040 Jaiswal:Cc10_g07000 Jaiswal:Cc10_g06910 Jaiswal:Cc10_g06930 Jaiswal:Cc07_g14940
+Q6K7V6	Jaiswal:Cc08_g09240 Jaiswal:Cc07_g15020
+Q6K846	Jaiswal:Cc08_g00560 Jaiswal:Cc06_g08150
+Q6K8E2	Jaiswal:Cc07_g01170 Jaiswal:Cc01_g20300
+Q6K8E7	Jaiswal:Cc11_g04320 Jaiswal:Cc08_g11730
+Q6K8J4	Jaiswal:Cc01_g11160
+Q6K969	Jaiswal:Cc11_g00240
+Q6K9B8	Jaiswal:Cc11_g11130
+Q6K9M5	Jaiswal:Cc02_g24030 Jaiswal:Cc08_g13180 Jaiswal:Cc00_g27010
+Q6K9N6	Jaiswal:Cc01_g18040
+Q6KAJ2	Jaiswal:Cc08_g00120
+Q6L479	Jaiswal:Cc02_g34510 Jaiswal:Cc03_g01430
+Q6L4G2	Jaiswal:Cc03_g03080 Jaiswal:Cc02_g17870 Jaiswal:Cc11_g10030
+Q6L4H5	Jaiswal:Cc04_g01530 Jaiswal:Cc06_g11830
+Q6L4L4	Jaiswal:Cc01_g11440
+Q6L4R0	Jaiswal:Cc04_g02020
+Q6L4R7	Jaiswal:Cc06_g11740 Jaiswal:Cc04_g01620 Jaiswal:Cc08_g11010
+Q6L540	Jaiswal:Cc09_g08440 Jaiswal:Cc11_g06290 Jaiswal:Cc09_g08450
+Q6L545	Jaiswal:Cc02_g32760
+Q6L5F6	Jaiswal:Cc09_g03470
+Q6L5H6	Jaiswal:Cc06_g11740 Jaiswal:Cc04_g01620 Jaiswal:Cc08_g11010
+Q6Q9I2	Jaiswal:Cc00_g02800 Jaiswal:Cc07_g04450 Jaiswal:Cc11_g11710
+Q6VMN7	Jaiswal:Cc10_g06220
+Q6YPG5	Jaiswal:Cc02_g04350
+Q6YS33	Jaiswal:Cc07_g01220
+Q6YSA1	Jaiswal:Cc07_g12980 Jaiswal:Cc11_g05630 Jaiswal:Cc04_g09130
+Q6YT73	Jaiswal:Cc05_g10170
+Q6YTI6	Jaiswal:Cc00_g04200
+Q6YTT3	Jaiswal:Cc10_g06820 Jaiswal:Cc07_g14820
+Q6YU51	Jaiswal:Cc07_g13880
+Q6YUI8	Jaiswal:Cc00_g08410 Jaiswal:Cc04_g15100 Jaiswal:Cc04_g15110 Jaiswal:Cc00_g08400 Jaiswal:Cc00_g15300
+Q6YUS0	Jaiswal:Cc09_g10910
+Q6YUS3	Jaiswal:Cc04_g12140
+Q6YUU2	Jaiswal:Cc07_g16620
+Q6YV04	Jaiswal:Cc07_g18850
+Q6YV23	Jaiswal:Cc07_g17390
+Q6YVI0	Jaiswal:Cc01_g07560
+Q6YVY6	Jaiswal:Cc07_g04270 Jaiswal:Cc11_g11930
+Q6YWE1	Jaiswal:Cc01_g09670
+Q6YWS8	Jaiswal:Cc04_g07950 Jaiswal:Cc11_g11210
+Q6YWY7	Jaiswal:Cc11_g13090 Jaiswal:Cc10_g06330
+Q6YXI1	Jaiswal:Cc10_g15670
+Q6YXW6	Jaiswal:Cc06_g06940
+Q6YYB9	Jaiswal:Cc05_g13460
+Q6YYZ2	Jaiswal:Cc08_g03990
+Q6YZ18	Jaiswal:Cc00_g21470 Jaiswal:Cc01_g17720 Jaiswal:Cc05_g04740
+Q6YZ76	Jaiswal:Cc07_g19850 Jaiswal:Cc01_g10860
+Q6YZE2	Jaiswal:Cc10_g12640
+Q6YZH8	Jaiswal:Cc02_g25590 Jaiswal:Cc03_g07310
+Q6YZX6	Jaiswal:Cc05_g13840 Jaiswal:Cc05_g04630
+Q6Z0T7	Jaiswal:Cc06_g20890 Jaiswal:Cc06_g06820
+Q6Z156	Jaiswal:Cc09_g02840 Jaiswal:Cc01_g17920
+Q6Z1Z3	Jaiswal:Cc11_g10560
+Q6Z2L5	Jaiswal:Cc02_g25840
+Q6Z2T6	Jaiswal:Cc04_g16560
+Q6Z312	Jaiswal:Cc02_g18860 Jaiswal:Cc10_g04070
+Q6Z351	Jaiswal:Cc01_g08420 Jaiswal:Cc01_g08440 Jaiswal:Cc00_g06160 Jaiswal:Cc01_g08430 Jaiswal:Cc00_g06140 Jaiswal:Cc04_g10220 Jaiswal:Cc00_g06180 Jaiswal:Cc00_g06170
+Q6Z368	Jaiswal:Cc00_g22310
+Q6Z398	Jaiswal:Cc10_g01720
+Q6Z3A3	Jaiswal:Cc08_g14690
+Q6Z3A4	Jaiswal:Cc00_g12600
+Q6Z3F9	Jaiswal:Cc09_g10590 Jaiswal:Cc09_g10600
+Q6Z3X5	Jaiswal:Cc02_g08270
+Q6Z3Y3	Jaiswal:Cc01_g11680
+Q6Z433	Jaiswal:Cc04_g00300 Jaiswal:Cc10_g08500 Jaiswal:Cc02_g20830 Jaiswal:Cc02_g20800
+Q6Z4E7	Jaiswal:Cc08_g12190
+Q6Z4I1	Jaiswal:Cc02_g17240
+Q6Z5M3	Jaiswal:Cc07_g07230 Jaiswal:Cc07_g07240 Jaiswal:Cc07_g07210 Jaiswal:Cc07_g07220
+Q6Z684	Jaiswal:Cc10_g06970 Jaiswal:Cc00_g31530 Jaiswal:Cc07_g14930 Jaiswal:Cc07_g14880 Jaiswal:Cc02_g21310 Jaiswal:Cc10_g07030 Jaiswal:Cc01_g01130 Jaiswal:Cc00_g17110 Jaiswal:Cc07_g14950 Jaiswal:Cc10_g06890 Jaiswal:Cc11_g01640 Jaiswal:Cc10_g06960 Jaiswal:Cc10_g11220 Jaiswal:Cc10_g06940 Jaiswal:Cc10_g06980 Jaiswal:Cc02_g21300 Jaiswal:Cc01_g01120 Jaiswal:Cc02_g21360 Jaiswal:Cc10_g07040 Jaiswal:Cc10_g07000 Jaiswal:Cc10_g06910 Jaiswal:Cc10_g06930 Jaiswal:Cc07_g14940
+Q6Z6F0	Jaiswal:Cc00_g14440 Jaiswal:Cc00_g14420 Jaiswal:Cc03_g09220 Jaiswal:Cc00_g28340 Jaiswal:Cc03_g09300 Jaiswal:Cc00_g28330 Jaiswal:Cc03_g09270 Jaiswal:Cc03_g09230 Jaiswal:Cc03_g09310 Jaiswal:Cc03_g09290 Jaiswal:Cc00_g28270 Jaiswal:Cc00_g14400
+Q6Z702	Jaiswal:Cc03_g06410
+Q6Z744	Jaiswal:Cc04_g09360
+Q6Z795	Jaiswal:Cc08_g00670 Jaiswal:Cc06_g08370
+Q6Z7F5	Jaiswal:Cc02_g36750 Jaiswal:Cc02_g36740 Jaiswal:Cc02_g36760
+Q6Z7Q3	Jaiswal:Cc00_g08410 Jaiswal:Cc04_g15100 Jaiswal:Cc04_g15110 Jaiswal:Cc00_g08400 Jaiswal:Cc00_g15300
+Q6Z836	Jaiswal:Cc07_g02190
+Q6Z8F4	Jaiswal:Cc08_g03960
+Q6Z8S2	Jaiswal:Cc02_g23640 Jaiswal:Cc00_g15900 Jaiswal:Cc00_g15920
+Q6Z8Z7	Jaiswal:Cc05_g03650
+Q6Z965	Jaiswal:Cc06_g12110
+Q6Z9A3	Jaiswal:Cc02_g07370 Jaiswal:Cc05_g00320
+Q6Z9E6	Jaiswal:Cc08_g07910
+Q6ZAC1	Jaiswal:Cc06_g13370 Jaiswal:Cc04_g05510
+Q6ZAH2	Jaiswal:Cc04_g15800 Jaiswal:Cc04_g13930 Jaiswal:Cc00_g30150
+Q6ZBE1	Jaiswal:Cc10_g06970 Jaiswal:Cc00_g31530 Jaiswal:Cc07_g14930 Jaiswal:Cc07_g14880 Jaiswal:Cc02_g21310 Jaiswal:Cc10_g07030 Jaiswal:Cc01_g01130 Jaiswal:Cc00_g17110 Jaiswal:Cc07_g14950 Jaiswal:Cc10_g06890 Jaiswal:Cc11_g01640 Jaiswal:Cc10_g06960 Jaiswal:Cc10_g11220 Jaiswal:Cc10_g06940 Jaiswal:Cc10_g06980 Jaiswal:Cc02_g21300 Jaiswal:Cc01_g01120 Jaiswal:Cc02_g21360 Jaiswal:Cc10_g07040 Jaiswal:Cc10_g07000 Jaiswal:Cc10_g06910 Jaiswal:Cc10_g06930 Jaiswal:Cc07_g14940
+Q6ZBH5	Jaiswal:Cc08_g13850
+Q6ZC33	Jaiswal:Cc00_g12040 Jaiswal:Cc10_g14390
+Q6ZCF0	Jaiswal:Cc05_g00030
+Q6ZD10	Jaiswal:Cc10_g08630
+Q6ZD89	Jaiswal:Cc00_g12170 Jaiswal:Cc00_g12180 Jaiswal:Cc00_g20770 Jaiswal:Cc01_g04660 Jaiswal:Cc08_g08370 Jaiswal:Cc00_g12160 Jaiswal:Cc05_g01360 Jaiswal:Cc01_g04680
+Q6ZDQ1	Jaiswal:Cc05_g03300
+Q6ZDY8	Jaiswal:Cc07_g09450
+Q6ZEZ2	Jaiswal:Cc01_g03210
+Q6ZFT5	Jaiswal:Cc05_g09480
+Q6ZG77	Jaiswal:Cc02_g17290
+Q6ZG91	Jaiswal:Cc04_g11160
+Q6ZGS9	Jaiswal:Cc11_g03830 Jaiswal:Cc00_g30170
+Q6ZGW6	Jaiswal:Cc01_g03650 Jaiswal:Cc01_g05170 Jaiswal:Cc06_g15960 Jaiswal:Cc01_g05180 Jaiswal:Cc00_g34300 Jaiswal:Cc00_g33930 Jaiswal:Cc01_g03680 Jaiswal:Cc01_g05140
+Q6ZHA3	Jaiswal:Cc02_g16210 Jaiswal:Cc02_g14230 Jaiswal:Cc07_g11070
+Q6ZHB2	Jaiswal:Cc08_g01570
+Q6ZHH7	Jaiswal:Cc00_g12040 Jaiswal:Cc10_g14390
+Q6ZHS4	Jaiswal:Cc02_g19270
+Q6ZHU3	Jaiswal:Cc05_g14780 Jaiswal:Cc06_g11160
+Q6ZHZ1	Jaiswal:Cc06_g07910
+Q6ZI39	Jaiswal:Cc10_g15920
+Q6ZI55	Jaiswal:Cc09_g10650
+Q6ZIK0	Jaiswal:Cc11_g00040
+Q6ZIX2	Jaiswal:Cc02_g28350
+Q6ZJ97	Jaiswal:Cc00_g22880
+Q6ZJK7	Jaiswal:Cc00_g21470 Jaiswal:Cc01_g17720 Jaiswal:Cc05_g04740
+Q6ZJM9	Jaiswal:Cc10_g13570
+Q6ZJU3	Jaiswal:Cc04_g06060 Jaiswal:Cc11_g08030
+Q6ZK11	Jaiswal:Cc09_g05060 Jaiswal:Cc09_g05080
+Q6ZKV8	Jaiswal:Cc06_g13470 Jaiswal:Cc06_g13480
+Q6ZL61	Jaiswal:Cc11_g09840
+Q6ZL94	Jaiswal:Cc11_g03450
+Q6ZLD3	Jaiswal:Cc01_g18950 Jaiswal:Cc03_g04440
+Q6ZLJ9	Jaiswal:Cc06_g16860 Jaiswal:Cc05_g15530
+Q75GB1	Jaiswal:Cc06_g10040 Jaiswal:Cc04_g02890 Jaiswal:Cc07_g07780 Jaiswal:Cc10_g08190
+Q75GK0	Jaiswal:Cc03_g04670 Jaiswal:Cc02_g30730
+Q75H77	Jaiswal:Cc02_g18420 Jaiswal:Cc07_g05710
+Q75HB1	Jaiswal:Cc09_g06810
+Q75HP7	Jaiswal:Cc02_g22730
+Q75HQ7	Jaiswal:Cc02_g11230 Jaiswal:Cc00_g20750 Jaiswal:Cc01_g10880 Jaiswal:Cc06_g03980
+Q75HZ9	Jaiswal:Cc05_g10510
+Q75I93	Jaiswal:Cc04_g06590
+Q75II5	Jaiswal:Cc05_g10920
+Q75KD7	Jaiswal:Cc11_g10540 Jaiswal:Cc07_g09040
+Q75KT7	Jaiswal:Cc09_g07310
+Q75L84	Jaiswal:Cc06_g03600
+Q75LL5	Jaiswal:Cc00_g26810
+Q75LR2	Jaiswal:Cc10_g06820 Jaiswal:Cc07_g14820
+Q75M18	Jaiswal:Cc02_g23660
+Q75V57	Jaiswal:Cc02_g18420 Jaiswal:Cc07_g05710
+Q75W16	Jaiswal:Cc10_g06820 Jaiswal:Cc07_g14820
+Q764B9	Jaiswal:Cc11_g05880 Jaiswal:Cc00_g17040
+Q7EXZ2	Jaiswal:Cc00_g14640
+Q7EYE4	Jaiswal:Cc03_g08220
+Q7EZW6	Jaiswal:Cc09_g10930
+Q7EZZ0	Jaiswal:Cc06_g18360
+Q7F0B2	Jaiswal:Cc11_g03130 Jaiswal:Cc11_g03080 Jaiswal:Cc01_g06490 Jaiswal:Cc03_g09630 Jaiswal:Cc02_g30770 Jaiswal:Cc03_g09610 Jaiswal:Cc11_g03140 Jaiswal:Cc01_g13570 Jaiswal:Cc11_g03100 Jaiswal:Cc09_g08130
+Q7F0Q2	Jaiswal:Cc02_g16850
+Q7F190	Jaiswal:Cc02_g25700
+Q7F1X5	Jaiswal:Cc04_g09970
+Q7F8K7	Jaiswal:Cc06_g07880 Jaiswal:Cc11_g07160
+Q7F8U7	Jaiswal:Cc02_g17720 Jaiswal:Cc06_g18690 Jaiswal:Cc07_g14580 Jaiswal:Cc00_g27510
+Q7FAE1	Jaiswal:Cc06_g14660 Jaiswal:Cc11_g04610 Jaiswal:Cc01_g08680 Jaiswal:Cc01_g08700 Jaiswal:Cc01_g08720 Jaiswal:Cc01_g08690 Jaiswal:Cc04_g04690
+Q7FAH2	Jaiswal:Cc11_g16510 Jaiswal:Cc07_g00460
+Q7FAL6	Jaiswal:Cc05_g15270 Jaiswal:Cc09_g00220
+Q7FAS1	Jaiswal:Cc05_g10170
+Q7G065	Jaiswal:Cc02_g17340 Jaiswal:Cc10_g02590
+Q7G1V6	Jaiswal:Cc01_g01330 Jaiswal:Cc05_g09460 Jaiswal:Cc00_g15990 Jaiswal:Cc01_g01350 Jaiswal:Cc01_g01370 Jaiswal:Cc05_g12180 Jaiswal:Cc05_g01220 Jaiswal:Cc01_g01520 Jaiswal:Cc09_g09330 Jaiswal:Cc01_g01400 Jaiswal:Cc02_g36480 Jaiswal:Cc01_g01420 Jaiswal:Cc01_g01390 Jaiswal:Cc03_g02850 Jaiswal:Cc10_g09940 Jaiswal:Cc02_g29190 Jaiswal:Cc11_g11170 Jaiswal:Cc08_g00360 Jaiswal:Cc01_g01970 Jaiswal:Cc09_g05350 Jaiswal:Cc01_g05740 Jaiswal:Cc05_g13410 Jaiswal:Cc09_g08750 Jaiswal:Cc08_g15490 Jaiswal:Cc10_g11080 Jaiswal:Cc02_g27910 Jaiswal:Cc05_g03460 Jaiswal:Cc00_g21680 Jaiswal:Cc01_g01510 Jaiswal:Cc11_g11160 Jaiswal:Cc05_g13420 Jaiswal:Cc05_g13440 Jaiswal:Cc01_g12550 Jaiswal:Cc03_g00060 Jaiswal:Cc05_g03790
+Q7G2F7	Jaiswal:Cc02_g13070
+Q7G2H3	Jaiswal:Cc07_g19550
+Q7G4P2	Jaiswal:Cc11_g04320 Jaiswal:Cc08_g11730
+Q7G602	Jaiswal:Cc00_g07110 Jaiswal:Cc02_g28870 Jaiswal:Cc04_g13260 Jaiswal:Cc00_g07120
+Q7G6M2	Jaiswal:Cc09_g08440 Jaiswal:Cc11_g06290 Jaiswal:Cc09_g08450
+Q7G7J6	Jaiswal:Cc11_g08290 Jaiswal:Cc07_g13590
+Q7X634	Jaiswal:Cc02_g08890
+Q7X720	Jaiswal:Cc02_g11230 Jaiswal:Cc00_g20750 Jaiswal:Cc01_g10880 Jaiswal:Cc06_g03980
+Q7X742	Jaiswal:Cc04_g17160 Jaiswal:Cc07_g03240 Jaiswal:Cc11_g13270
+Q7X7A1	Jaiswal:Cc05_g05970 Jaiswal:Cc05_g06050 Jaiswal:Cc05_g05980 Jaiswal:Cc05_g06030
+Q7X7H9	Jaiswal:Cc07_g16270
+Q7X7N2	Jaiswal:Cc02_g24110
+Q7X7X0	Jaiswal:Cc11_g11810
+Q7X8A1	Jaiswal:Cc11_g00610
+Q7X8R0	Jaiswal:Cc02_g26300
+Q7X8V3	Jaiswal:Cc02_g11230 Jaiswal:Cc00_g20750 Jaiswal:Cc01_g10880 Jaiswal:Cc06_g03980
+Q7X993	Jaiswal:Cc01_g05110 Jaiswal:Cc06_g19350
+Q7XAP2	Jaiswal:Cc02_g01740
+Q7XBY6	Jaiswal:Cc08_g02750
+Q7XC20	Jaiswal:Cc08_g01570
+Q7XCK3	Jaiswal:Cc07_g11620 Jaiswal:Cc06_g12300 Jaiswal:Cc07_g11610
+Q7XE48	Jaiswal:Cc07_g03430
+Q7XEH2	Jaiswal:Cc01_g19150 Jaiswal:Cc03_g04100
+Q7XEZ6	Jaiswal:Cc04_g01080 Jaiswal:Cc02_g23080
+Q7XH05	Jaiswal:Cc01_g08420 Jaiswal:Cc01_g08440 Jaiswal:Cc00_g06160 Jaiswal:Cc01_g08430 Jaiswal:Cc00_g06140 Jaiswal:Cc04_g10220 Jaiswal:Cc00_g06180 Jaiswal:Cc00_g06170
+Q7XHL3	Jaiswal:Cc00_g21470 Jaiswal:Cc01_g17720 Jaiswal:Cc05_g04740
+Q7XHZ2	Jaiswal:Cc02_g11310
+Q7XI34	Jaiswal:Cc11_g03130 Jaiswal:Cc11_g03080 Jaiswal:Cc01_g06490 Jaiswal:Cc03_g09630 Jaiswal:Cc02_g30770 Jaiswal:Cc03_g09610 Jaiswal:Cc11_g03140 Jaiswal:Cc01_g13570 Jaiswal:Cc11_g03100 Jaiswal:Cc09_g08130
+Q7XI35	Jaiswal:Cc11_g03130 Jaiswal:Cc11_g03080 Jaiswal:Cc01_g06490 Jaiswal:Cc03_g09630 Jaiswal:Cc02_g30770 Jaiswal:Cc03_g09610 Jaiswal:Cc11_g03140 Jaiswal:Cc01_g13570 Jaiswal:Cc11_g03100 Jaiswal:Cc09_g08130
+Q7XI45	Jaiswal:Cc10_g07180
+Q7XI92	Jaiswal:Cc07_g09060 Jaiswal:Cc07_g13570 Jaiswal:Cc10_g03310
+Q7XI96	Jaiswal:Cc07_g09100 Jaiswal:Cc10_g03290
+Q7XK23	Jaiswal:Cc09_g10650
+Q7XKH9	Jaiswal:Cc10_g06970 Jaiswal:Cc00_g31530 Jaiswal:Cc07_g14930 Jaiswal:Cc07_g14880 Jaiswal:Cc02_g21310 Jaiswal:Cc10_g07030 Jaiswal:Cc01_g01130 Jaiswal:Cc00_g17110 Jaiswal:Cc07_g14950 Jaiswal:Cc10_g06890 Jaiswal:Cc11_g01640 Jaiswal:Cc10_g06960 Jaiswal:Cc10_g11220 Jaiswal:Cc10_g06940 Jaiswal:Cc10_g06980 Jaiswal:Cc02_g21300 Jaiswal:Cc01_g01120 Jaiswal:Cc02_g21360 Jaiswal:Cc10_g07040 Jaiswal:Cc10_g07000 Jaiswal:Cc10_g06910 Jaiswal:Cc10_g06930 Jaiswal:Cc07_g14940
+Q7XKI0	Jaiswal:Cc10_g06970 Jaiswal:Cc00_g31530 Jaiswal:Cc07_g14930 Jaiswal:Cc07_g14880 Jaiswal:Cc02_g21310 Jaiswal:Cc10_g07030 Jaiswal:Cc01_g01130 Jaiswal:Cc00_g17110 Jaiswal:Cc07_g14950 Jaiswal:Cc10_g06890 Jaiswal:Cc11_g01640 Jaiswal:Cc10_g06960 Jaiswal:Cc10_g11220 Jaiswal:Cc10_g06940 Jaiswal:Cc10_g06980 Jaiswal:Cc02_g21300 Jaiswal:Cc01_g01120 Jaiswal:Cc02_g21360 Jaiswal:Cc10_g07040 Jaiswal:Cc10_g07000 Jaiswal:Cc10_g06910 Jaiswal:Cc10_g06930 Jaiswal:Cc07_g14940
+Q7XKQ8	Jaiswal:Cc10_g00510
+Q7XM21	Jaiswal:Cc07_g10740
+Q7XMA8	Jaiswal:Cc10_g06970 Jaiswal:Cc00_g31530 Jaiswal:Cc07_g14930 Jaiswal:Cc07_g14880 Jaiswal:Cc02_g21310 Jaiswal:Cc10_g07030 Jaiswal:Cc01_g01130 Jaiswal:Cc00_g17110 Jaiswal:Cc07_g14950 Jaiswal:Cc10_g06890 Jaiswal:Cc11_g01640 Jaiswal:Cc10_g06960 Jaiswal:Cc10_g11220 Jaiswal:Cc10_g06940 Jaiswal:Cc10_g06980 Jaiswal:Cc02_g21300 Jaiswal:Cc01_g01120 Jaiswal:Cc02_g21360 Jaiswal:Cc10_g07040 Jaiswal:Cc10_g07000 Jaiswal:Cc10_g06910 Jaiswal:Cc10_g06930 Jaiswal:Cc07_g14940
+Q7XN11	Jaiswal:Cc05_g00030
+Q7XPB5	Jaiswal:Cc00_g10470
+Q7XPW5	Jaiswal:Cc02_g37580
+Q7XQ85	Jaiswal:Cc08_g15220 Jaiswal:Cc10_g07780
+Q7XQN1	Jaiswal:Cc05_g15570
+Q7XR02	Jaiswal:Cc01_g16110
+Q7XR52	Jaiswal:Cc10_g04820
+Q7XR60	Jaiswal:Cc02_g19320
+Q7XR61	Jaiswal:Cc02_g19320
+Q7XRA1	Jaiswal:Cc02_g16860
+Q7XRT0	Jaiswal:Cc02_g06960
+Q7XSS9	Jaiswal:Cc02_g23580 Jaiswal:Cc03_g13510 Jaiswal:Cc03_g11270
+Q7XTH0	Jaiswal:Cc10_g06970 Jaiswal:Cc00_g31530 Jaiswal:Cc07_g14930 Jaiswal:Cc07_g14880 Jaiswal:Cc02_g21310 Jaiswal:Cc10_g07030 Jaiswal:Cc01_g01130 Jaiswal:Cc00_g17110 Jaiswal:Cc07_g14950 Jaiswal:Cc10_g06890 Jaiswal:Cc11_g01640 Jaiswal:Cc10_g06960 Jaiswal:Cc10_g11220 Jaiswal:Cc10_g06940 Jaiswal:Cc10_g06980 Jaiswal:Cc02_g21300 Jaiswal:Cc01_g01120 Jaiswal:Cc02_g21360 Jaiswal:Cc10_g07040 Jaiswal:Cc10_g07000 Jaiswal:Cc10_g06910 Jaiswal:Cc10_g06930 Jaiswal:Cc07_g14940
+Q7XTK3	Jaiswal:Cc00_g15590
+Q7XTX7	Jaiswal:Cc00_g08910
+Q7XU28	Jaiswal:Cc07_g17450 Jaiswal:Cc00_g30070
+Q7XU29	Jaiswal:Cc02_g24750
+Q7XUA8	Jaiswal:Cc06_g06300
+Q7XUH5	Jaiswal:Cc02_g16850
+Q7XUK6	Jaiswal:Cc05_g03580 Jaiswal:Cc00_g16880 Jaiswal:Cc00_g23590
+Q7XUS2	Jaiswal:Cc11_g05880 Jaiswal:Cc00_g17040
+Q7XV13	Jaiswal:Cc00_g30760
+Q7XV18	Jaiswal:Cc11_g05190
+Q7XV42	Jaiswal:Cc10_g06970 Jaiswal:Cc00_g31530 Jaiswal:Cc07_g14930 Jaiswal:Cc07_g14880 Jaiswal:Cc02_g21310 Jaiswal:Cc10_g07030 Jaiswal:Cc01_g01130 Jaiswal:Cc00_g17110 Jaiswal:Cc07_g14950 Jaiswal:Cc10_g06890 Jaiswal:Cc11_g01640 Jaiswal:Cc10_g06960 Jaiswal:Cc10_g11220 Jaiswal:Cc10_g06940 Jaiswal:Cc10_g06980 Jaiswal:Cc02_g21300 Jaiswal:Cc01_g01120 Jaiswal:Cc02_g21360 Jaiswal:Cc10_g07040 Jaiswal:Cc10_g07000 Jaiswal:Cc10_g06910 Jaiswal:Cc10_g06930 Jaiswal:Cc07_g14940
+Q7XVM8	Jaiswal:Cc07_g01170 Jaiswal:Cc01_g20300
+Q7XVP0	Jaiswal:Cc01_g03210
+Q7XWP9	Jaiswal:Cc02_g24060
+Q7XX31	Jaiswal:Cc09_g02090
+Q7XX32	Jaiswal:Cc09_g02090
+Q7XXL2	Jaiswal:Cc07_g03940
+Q7XXQ9	Jaiswal:Cc02_g26120
+Q7XYS3	Jaiswal:Cc02_g18130 Jaiswal:Cc02_g18120 Jaiswal:Cc10_g03570
+Q7XZH5	Jaiswal:Cc06_g14660 Jaiswal:Cc11_g04610 Jaiswal:Cc01_g08680 Jaiswal:Cc01_g08700 Jaiswal:Cc01_g08720 Jaiswal:Cc01_g08690 Jaiswal:Cc04_g04690
+Q7Y0B9	Jaiswal:Cc02_g18420 Jaiswal:Cc07_g05710
+Q7Y0C8	Jaiswal:Cc02_g18130 Jaiswal:Cc02_g18120 Jaiswal:Cc10_g03570
+Q7Y0W5	Jaiswal:Cc11_g07710 Jaiswal:Cc06_g07680
+Q7Y0Y6	Jaiswal:Cc07_g18850
+Q7Y0Y8	Jaiswal:Cc07_g18850
+Q7Y152	Jaiswal:Cc03_g00640
+Q7Y1H9	Jaiswal:Cc11_g09840
+Q7Y1I6	Jaiswal:Cc11_g09840
+Q7Y1I9	Jaiswal:Cc11_g09840
+Q7Y1J1	Jaiswal:Cc11_g09840
+Q84JH5	Jaiswal:Cc02_g07370 Jaiswal:Cc05_g00320
+Q84JI0	Jaiswal:Cc01_g13400
+Q84LF7	Jaiswal:Cc11_g14940
+Q84LK3	Jaiswal:Cc04_g13600
+Q84M43	Jaiswal:Cc02_g28020
+Q84ME6	Jaiswal:Cc06_g17960
+Q84MN8	Jaiswal:Cc03_g04380
+Q84NP3	Jaiswal:Cc02_g06400
+Q84Q89	Jaiswal:Cc02_g23640 Jaiswal:Cc00_g15900 Jaiswal:Cc00_g15920
+Q84QA7	Jaiswal:Cc02_g06930
+Q84QC0	Jaiswal:Cc04_g07950 Jaiswal:Cc11_g11210
+Q84R94	Jaiswal:Cc06_g12500
+Q84VC7	Jaiswal:Cc09_g09040
+Q84YK8	Jaiswal:Cc01_g04060
+Q84ZN6	Jaiswal:Cc02_g28020
+Q84ZY2	Jaiswal:Cc02_g24060
+Q851L5	Jaiswal:Cc06_g06300
+Q851L6	Jaiswal:Cc06_g06300
+Q851Z6	Jaiswal:Cc07_g01220
+Q852C2	Jaiswal:Cc11_g03130 Jaiswal:Cc11_g03080 Jaiswal:Cc01_g06490 Jaiswal:Cc03_g09630 Jaiswal:Cc02_g30770 Jaiswal:Cc03_g09610 Jaiswal:Cc11_g03140 Jaiswal:Cc01_g13570 Jaiswal:Cc11_g03100 Jaiswal:Cc09_g08130
+Q852M1	Jaiswal:Cc01_g08420 Jaiswal:Cc01_g08440 Jaiswal:Cc00_g06160 Jaiswal:Cc01_g08430 Jaiswal:Cc00_g06140 Jaiswal:Cc04_g10220 Jaiswal:Cc00_g06180 Jaiswal:Cc00_g06170
+Q852M2	Jaiswal:Cc01_g08420 Jaiswal:Cc01_g08440 Jaiswal:Cc00_g06160 Jaiswal:Cc01_g08430 Jaiswal:Cc00_g06140 Jaiswal:Cc04_g10220 Jaiswal:Cc00_g06180 Jaiswal:Cc00_g06170
+Q852Q1	Jaiswal:Cc04_g14370 Jaiswal:Cc06_g20520 Jaiswal:Cc07_g03680
+Q8GRU7	Jaiswal:Cc10_g08010 Jaiswal:Cc10_g08000
+Q8GSD9	Jaiswal:Cc00_g27780 Jaiswal:Cc03_g05450
+Q8GSI0	Jaiswal:Cc04_g06060 Jaiswal:Cc11_g08030
+Q8GT01	Jaiswal:Cc06_g18620
+Q8GTK1	Jaiswal:Cc07_g19850 Jaiswal:Cc01_g10860
+Q8GVJ4	Jaiswal:Cc01_g03650 Jaiswal:Cc01_g05170 Jaiswal:Cc06_g15960 Jaiswal:Cc01_g05180 Jaiswal:Cc00_g34300 Jaiswal:Cc00_g33930 Jaiswal:Cc01_g03680 Jaiswal:Cc01_g05140
+Q8GVN6	Jaiswal:Cc08_g00700 Jaiswal:Cc09_g10610
+Q8GVZ0	Jaiswal:Cc09_g03670
+Q8GZY1	Jaiswal:Cc11_g06200 Jaiswal:Cc07_g10360
+Q8H016	Jaiswal:Cc00_g30760
+Q8H048	Jaiswal:Cc08_g13820 Jaiswal:Cc02_g37050
+Q8H051	Jaiswal:Cc08_g13850
+Q8H093	Jaiswal:Cc08_g13820 Jaiswal:Cc02_g37050
+Q8H0A1	Jaiswal:Cc09_g01580
+Q8H0B2	Jaiswal:Cc09_g07050
+Q8H0B6	Jaiswal:Cc09_g07050
+Q8H273	Jaiswal:Cc08_g13960 Jaiswal:Cc01_g09680 Jaiswal:Cc02_g03430
+Q8H2J9	Jaiswal:Cc02_g05320
+Q8H395	Jaiswal:Cc06_g12500
+Q8H3A4	Jaiswal:Cc07_g11620 Jaiswal:Cc06_g12300 Jaiswal:Cc07_g11610
+Q8H3C8	Jaiswal:Cc06_g06300
+Q8H3C9	Jaiswal:Cc06_g06300
+Q8H3L0	Jaiswal:Cc00_g28890
+Q8H3Q7	Jaiswal:Cc06_g13640
+Q8H4L3	Jaiswal:Cc00_g19010 Jaiswal:Cc00_g32030
+Q8H530	Jaiswal:Cc02_g20900
+Q8H539	Jaiswal:Cc02_g09160 Jaiswal:Cc02_g09180 Jaiswal:Cc02_g09170
+Q8H6G8	Jaiswal:Cc00_g27780 Jaiswal:Cc03_g05450
+Q8H7S6	Jaiswal:Cc11_g06690
+Q8H825	Jaiswal:Cc11_g10170
+Q8H8U0	Jaiswal:Cc09_g02290
+Q8H930	Jaiswal:Cc09_g07050
+Q8LGZ9	Jaiswal:Cc00_g17910
+Q8LHD1	Jaiswal:Cc09_g08410
+Q8LI89	Jaiswal:Cc05_g02370 Jaiswal:Cc08_g16460
+Q8LJJ2	Jaiswal:Cc04_g01530 Jaiswal:Cc06_g11830
+Q8LM92	Jaiswal:Cc00_g07110 Jaiswal:Cc02_g28870 Jaiswal:Cc04_g13260 Jaiswal:Cc00_g07120
+Q8LN68	Jaiswal:Cc07_g05080
+Q8LNU2	Jaiswal:Cc11_g09150
+Q8LQ34	Jaiswal:Cc06_g01710
+Q8RU95	Jaiswal:Cc04_g09970
+Q8RV06	Jaiswal:Cc10_g14560
+Q8RV34	Jaiswal:Cc06_g12790
+Q8RYL0	Jaiswal:Cc04_g09460
+Q8RZV7	Jaiswal:Cc02_g03230 Jaiswal:Cc03_g10840
+Q8S0G4	Jaiswal:Cc02_g30060 Jaiswal:Cc06_g18090
+Q8S2E5	Jaiswal:Cc11_g15570
+Q8S2G0	Jaiswal:Cc01_g07140
+Q8S2G5	Jaiswal:Cc02_g30060 Jaiswal:Cc06_g18090
+Q8S3R0	Jaiswal:Cc07_g09580
+Q8S5M6	Jaiswal:Cc02_g36940
+Q8S5N2	Jaiswal:Cc07_g15530
+Q8S5T1	Jaiswal:Cc03_g07600
+Q8S601	Jaiswal:Cc05_g14310 Jaiswal:Cc03_g04790
+Q8S7T9	Jaiswal:Cc01_g09450
+Q8S919	Jaiswal:Cc02_g38940
+Q8S920	Jaiswal:Cc02_g38940
+Q8S983	Jaiswal:Cc10_g01900
+Q8S985	Jaiswal:Cc02_g14070
+Q8S9S4	Jaiswal:Cc04_g02290
+Q8S9Z2	Jaiswal:Cc01_g09970
+Q8VWH2	Jaiswal:Cc10_g08600 Jaiswal:Cc00_g15660 Jaiswal:Cc08_g04690
+Q8W0B6	Jaiswal:Cc03_g15180 Jaiswal:Cc03_g10910
+Q8W0E4	Jaiswal:Cc05_g14780 Jaiswal:Cc06_g11160
+Q8W1L6	Jaiswal:Cc06_g09910
+Q8W250	Jaiswal:Cc04_g14010 Jaiswal:Cc00_g09910
+Q8W3F9	Jaiswal:Cc02_g17300
+Q8W3G2	Jaiswal:Cc08_g03490
+Q8W3J0	Jaiswal:Cc02_g08080 Jaiswal:Cc01_g12580
+Q8W3L9	Jaiswal:Cc01_g07490 Jaiswal:Cc07_g21390
+Q8W3M0	Jaiswal:Cc01_g07490 Jaiswal:Cc07_g21390
+Q93VC3	Jaiswal:Cc10_g11070
+Q93VD5	Jaiswal:Cc08_g09540
+Q93WI9	Jaiswal:Cc10_g08600 Jaiswal:Cc00_g15660 Jaiswal:Cc08_g04690
+Q93X08	Jaiswal:Cc07_g12830
+Q93XI4	Jaiswal:Cc01_g08990
+Q93Y73	Jaiswal:Cc11_g06980
+Q941W8	Jaiswal:Cc02_g05990
+Q945X3	Jaiswal:Cc02_g36750 Jaiswal:Cc02_g36740 Jaiswal:Cc02_g36760
+Q948T6	Jaiswal:Cc09_g01570
+Q94E75	Jaiswal:Cc06_g06940
+Q94EE9	Jaiswal:Cc09_g08440 Jaiswal:Cc11_g06290 Jaiswal:Cc09_g08450
+Q94GF1	Jaiswal:Cc01_g14070 Jaiswal:Cc02_g06730
+Q94HG3	Jaiswal:Cc10_g04210
+Q94HG6	Jaiswal:Cc10_g04290
+Q94IW5	Jaiswal:Cc04_g02020
+Q94J90	Jaiswal:Cc00_g05720 Jaiswal:Cc00_g05700
+Q94JA2	Jaiswal:Cc02_g32320 Jaiswal:Cc05_g11390
+Q94JJ0	Jaiswal:Cc11_g09330 Jaiswal:Cc07_g10450 Jaiswal:Cc02_g16950
+Q94LU9	Jaiswal:Cc08_g14820
+Q9ASD3	Jaiswal:Cc08_g10560
+Q9ASP4	Jaiswal:Cc03_g00430
+Q9AUQ4	Jaiswal:Cc11_g08200 Jaiswal:Cc11_g07350
+Q9AUV6	Jaiswal:Cc07_g03990 Jaiswal:Cc11_g12180 Jaiswal:Cc00_g28540
+Q9AV47	Jaiswal:Cc01_g11020 Jaiswal:Cc02_g11300 Jaiswal:Cc06_g03950
+Q9AV71	Jaiswal:Cc01_g17930
+Q9AWL7	Jaiswal:Cc10_g15270
+Q9AWZ7	Jaiswal:Cc02_g21240
+Q9AWZ8	Jaiswal:Cc02_g21240
+Q9AY73	Jaiswal:Cc09_g07510
+Q9FDX8	Jaiswal:Cc06_g13690 Jaiswal:Cc08_g06390 Jaiswal:Cc07_g04750
+Q9FDY4	Jaiswal:Cc06_g11580
+Q9FRX7	Jaiswal:Cc04_g12820 Jaiswal:Cc11_g14550
+Q9FTN5	Jaiswal:Cc01_g03990 Jaiswal:Cc07_g09760 Jaiswal:Cc01_g03970 Jaiswal:Cc07_g09750 Jaiswal:Cc00_g08270 Jaiswal:Cc00_g23750 Jaiswal:Cc10_g02660 Jaiswal:Cc00_g23580 Jaiswal:Cc02_g17380
+Q9FTN6	Jaiswal:Cc01_g03990 Jaiswal:Cc07_g09760 Jaiswal:Cc01_g03970 Jaiswal:Cc07_g09750 Jaiswal:Cc00_g08270 Jaiswal:Cc00_g23750 Jaiswal:Cc10_g02660 Jaiswal:Cc00_g23580 Jaiswal:Cc02_g17380
+Q9FTR6	Jaiswal:Cc07_g08780
+Q9FTZ2	Jaiswal:Cc01_g15960
+Q9FU67	Jaiswal:Cc06_g04650 Jaiswal:Cc08_g07140 Jaiswal:Cc02_g19070 Jaiswal:Cc06_g04640 Jaiswal:Cc06_g04680 Jaiswal:Cc02_g24770 Jaiswal:Cc03_g10580
+Q9FU68	Jaiswal:Cc06_g04650 Jaiswal:Cc08_g07140 Jaiswal:Cc02_g19070 Jaiswal:Cc06_g04640 Jaiswal:Cc06_g04680 Jaiswal:Cc02_g24770 Jaiswal:Cc03_g10580
+Q9FU69	Jaiswal:Cc06_g04650 Jaiswal:Cc08_g07140 Jaiswal:Cc02_g19070 Jaiswal:Cc06_g04640 Jaiswal:Cc06_g04680 Jaiswal:Cc02_g24770 Jaiswal:Cc03_g10580
+Q9FUE1	Jaiswal:Cc02_g36750 Jaiswal:Cc02_g36740 Jaiswal:Cc02_g36760
+Q9FWC1	Jaiswal:Cc08_g16500
+Q9FWK4	Jaiswal:Cc03_g05940
+Q9FWQ2	Jaiswal:Cc02_g04190 Jaiswal:Cc07_g15380 Jaiswal:Cc10_g07410
+Q9FXQ3	Jaiswal:Cc06_g06880 Jaiswal:Cc02_g09250 Jaiswal:Cc09_g10860
+Q9LD61	Jaiswal:Cc05_g14160
+Q9LDB7	Jaiswal:Cc08_g00400
+Q9LG86	Jaiswal:Cc04_g02510
+Q9LGL5	Jaiswal:Cc06_g01070 Jaiswal:Cc03_g06870
+Q9LGU6	Jaiswal:Cc03_g00230
+Q9LHZ0	Jaiswal:Cc02_g16620
+Q9LHZ7	Jaiswal:Cc02_g17300
+Q9LIZ8	Jaiswal:Cc02_g36940
+Q9LRI6	Jaiswal:Cc04_g12820 Jaiswal:Cc11_g14550
+Q9LWJ2	Jaiswal:Cc06_g18900
+Q9LWU9	Jaiswal:Cc08_g14050
+Q9LWV3	Jaiswal:Cc02_g39490 Jaiswal:Cc06_g10260 Jaiswal:Cc08_g09520
+Q9S7D3	Jaiswal:Cc07_g20970 Jaiswal:Cc06_g20970
+Q9SDG5	Jaiswal:Cc06_g04000
+Q9SMB1	Jaiswal:Cc11_g14530
+Q9SNK3	Jaiswal:Cc10_g00410
+Q9SNN0	Jaiswal:Cc02_g16860
+Q9SNQ6	Jaiswal:Cc08_g10110
+Q9XEA6	Jaiswal:Cc03_g03820
+Q9XEA8	Jaiswal:Cc03_g03820
+Q9XFE5	Jaiswal:Cc03_g08220
+Q9XG80	Jaiswal:Cc06_g11030
+Q9XHL5	Jaiswal:Cc10_g00230 Jaiswal:Cc07_g12220
+Q9XJ03	Jaiswal:Cc00_g03060 Jaiswal:Cc11_g00620 Jaiswal:Cc00_g32320
+Q9XJ29	Jaiswal:Cc01_g14070 Jaiswal:Cc02_g06730
+Q9XJ60	Jaiswal:Cc02_g37000 Jaiswal:Cc02_g03570
+Q9ZTP5	Jaiswal:Cc04_g15130
+UPI00000AA151	Jaiswal:Cc08_g00400
+UPI0001C7A9C3	Jaiswal:Cc06_g05240

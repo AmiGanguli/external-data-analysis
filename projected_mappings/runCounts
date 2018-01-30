@@ -1,0 +1,3 @@
+#!/bin/bash
+python mapCounts.py /mnt/c/Users/preki/Research/projected_mappings/fnames /mnt/c/Users/preki/Research/projected_mappings/slice_14/
+python mapCounts.py /mnt/c/Users/preki/Research/projected_mappings/fnames /mnt/c/Users/preki/Research/projected_mappings/slice_15/

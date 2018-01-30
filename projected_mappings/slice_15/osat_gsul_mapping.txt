@@ -1,0 +1,352 @@
+A0A0P0X5U4	Ensembl:Gasu_62290 Ensembl:Gasu_03900
+A2ZW27	Ensembl:Gasu_39250
+A3BZ14	Ensembl:Gasu_10960
+A3C4N5	Ensembl:Gasu_32010
+A3C6G9	Ensembl:Gasu_23250
+B7F4K3	Ensembl:Gasu_18960
+B7F9K3	Ensembl:Gasu_18960
+B7FA90	Ensembl:Gasu_32880
+B7FA99	Ensembl:Gasu_56640 Ensembl:Gasu_47920
+B7FAE9	Ensembl:Gasu_56810
+B8B8K7	Ensembl:Gasu_03270
+B8BF84	Ensembl:Gasu_10960
+B9FRT6	Ensembl:Gasu_38670
+C7IY93	Ensembl:Gasu_23250
+O04882	Ensembl:Gasu_30210
+O22567	Ensembl:Gasu_42090
+O24210	Ensembl:Gasu_09660
+O64422	Ensembl:Gasu_54210 Ensembl:Gasu_54930
+O64437	Ensembl:Gasu_30560
+O82427	Ensembl:Gasu_60150 Ensembl:Gasu_26310
+P0C587	Ensembl:Gasu_39730
+P14654	Ensembl:Gasu_37790
+P14655	Ensembl:Gasu_37790
+P14656	Ensembl:Gasu_37790
+P17784	Ensembl:Gasu_01050
+P37833	Ensembl:Gasu_31800
+P42862	Ensembl:Gasu_55050 Ensembl:Gasu_20100
+P42863	Ensembl:Gasu_55050 Ensembl:Gasu_20100
+P48642	Ensembl:Gasu_10030
+P93438	Ensembl:Gasu_57820 Ensembl:Gasu_03900
+Q01KF3	Ensembl:Gasu_62410 Ensembl:Gasu_00060 Ensembl:Gasu_64120 Ensembl:Gasu_23040 Ensembl:Gasu_54620
+Q06967	Ensembl:Gasu_59170 Ensembl:Gasu_38270 Ensembl:Gasu_35850
+Q0D7E4	Ensembl:Gasu_06870 Ensembl:Gasu_28670 Ensembl:Gasu_26760
+Q0DAZ7	Ensembl:Gasu_61820
+Q0DBD3	Ensembl:Gasu_32010
+Q0DGG8	Ensembl:Gasu_48740 Ensembl:Gasu_43310
+Q0DKY4	Ensembl:Gasu_57820 Ensembl:Gasu_03900
+Q0DUI1	Ensembl:Gasu_48740 Ensembl:Gasu_43310
+Q0DY86	Ensembl:Gasu_20860
+Q0E079	Ensembl:Gasu_29560
+Q0E2P1	Ensembl:Gasu_44100
+Q0E4H0	Ensembl:Gasu_53390
+Q0E4N2	Ensembl:Gasu_11870
+Q0ILP7	Ensembl:Gasu_46540
+Q0INZ4	Ensembl:Gasu_40500
+Q0IPF7	Ensembl:Gasu_40760
+Q0ITU1	Ensembl:Gasu_44120
+Q0IZJ9	Ensembl:Gasu_15490
+Q0J0M8	Ensembl:Gasu_35770
+Q0J0N3	Ensembl:Gasu_34330
+Q0J1E1	Ensembl:Gasu_39810
+Q0J8A4	Ensembl:Gasu_04650
+Q0J9F2	Ensembl:Gasu_30210
+Q0J9K2	Ensembl:Gasu_03170 Ensembl:Gasu_60010
+Q0JB49	Ensembl:Gasu_56810
+Q0JDF7	Ensembl:Gasu_15490
+Q0JEP5	Ensembl:Gasu_14410
+Q0JJI1	Ensembl:Gasu_19270
+Q0JPS3	Ensembl:Gasu_12710
+Q10A30	Ensembl:Gasu_01050
+Q10B63	Ensembl:Gasu_60660 Ensembl:Gasu_27240
+Q10BT5	Ensembl:Gasu_32010
+Q10CE4	Ensembl:Gasu_11210 Ensembl:Gasu_09130 Ensembl:Gasu_58490
+Q10CU7	Ensembl:Gasu_58430
+Q10D87	Ensembl:Gasu_05610
+Q10DK7	Ensembl:Gasu_16050
+Q10DZ5	Ensembl:Gasu_26990
+Q10G56	Ensembl:Gasu_27980
+Q10H87	Ensembl:Gasu_36430
+Q10L56	Ensembl:Gasu_56810
+Q10LR5	Ensembl:Gasu_00620
+Q10MQ2	Ensembl:Gasu_26260
+Q10MX3	Ensembl:Gasu_31420
+Q10MX9	Ensembl:Gasu_25760
+Q10N17	Ensembl:Gasu_15490
+Q10NY1	Ensembl:Gasu_21930
+Q10P01	Ensembl:Gasu_30970
+Q10P67	Ensembl:Gasu_11580
+Q10PL0	Ensembl:Gasu_03710
+Q10QH1	Ensembl:Gasu_48740 Ensembl:Gasu_43310
+Q10QT9	Ensembl:Gasu_03270
+Q10R90	Ensembl:Gasu_32010
+Q10S55	Ensembl:Gasu_17210
+Q10S58	Ensembl:Gasu_48740 Ensembl:Gasu_43310
+Q10SD6	Ensembl:Gasu_43930
+Q2MJA7	Ensembl:Gasu_34330
+Q2MJA8	Ensembl:Gasu_34330
+Q2QLY5	Ensembl:Gasu_34920
+Q2QM70	Ensembl:Gasu_48400
+Q2QME6	Ensembl:Gasu_25460
+Q2QN58	Ensembl:Gasu_24200
+Q2QRX6	Ensembl:Gasu_03410
+Q2QS13	Ensembl:Gasu_50150 Ensembl:Gasu_58190
+Q2QS14	Ensembl:Gasu_50150 Ensembl:Gasu_58190
+Q2QTQ1	Ensembl:Gasu_18770
+Q2QUG4	Ensembl:Gasu_21730
+Q2QVC1	Ensembl:Gasu_30780
+Q2QXY9	Ensembl:Gasu_48120
+Q2QYW4	Ensembl:Gasu_25760
+Q2QZ14	Ensembl:Gasu_60480
+Q2R2W2	Ensembl:Gasu_59170 Ensembl:Gasu_38270 Ensembl:Gasu_35850
+Q2R3K3	Ensembl:Gasu_24950
+Q2R481	Ensembl:Gasu_03410
+Q2R4Y8	Ensembl:Gasu_07910
+Q2RAP8	Ensembl:Gasu_48120
+Q2RBP1	Ensembl:Gasu_25760
+Q336R6	Ensembl:Gasu_11450
+Q336R7	Ensembl:Gasu_22040 Ensembl:Gasu_45380
+Q336X9	Ensembl:Gasu_30110
+Q337F0	Ensembl:Gasu_24070
+Q337H3	Ensembl:Gasu_44870
+Q338N7	Ensembl:Gasu_03270
+Q338N8	Ensembl:Gasu_03270
+Q33AE4	Ensembl:Gasu_08170
+Q42971	Ensembl:Gasu_21490
+Q43011	Ensembl:Gasu_31420
+Q4W8D0	Ensembl:Gasu_37790
+Q53M09	Ensembl:Gasu_17300
+Q53MS9	Ensembl:Gasu_56810
+Q5JK18	Ensembl:Gasu_13460
+Q5JK39	Ensembl:Gasu_24950
+Q5JLS4	Ensembl:Gasu_26040
+Q5JMA6	Ensembl:Gasu_63160
+Q5JME6	Ensembl:Gasu_44860
+Q5JMX9	Ensembl:Gasu_21730
+Q5JN19	Ensembl:Gasu_24200
+Q5JNB0	Ensembl:Gasu_24750
+Q5N725	Ensembl:Gasu_01050
+Q5N8G1	Ensembl:Gasu_37730
+Q5N9Z8	Ensembl:Gasu_39510
+Q5NAY4	Ensembl:Gasu_22460
+Q5QLG3	Ensembl:Gasu_01520
+Q5VN31	Ensembl:Gasu_50970
+Q5VNT9	Ensembl:Gasu_21490
+Q5VNW0	Ensembl:Gasu_04180
+Q5VRH4	Ensembl:Gasu_31150
+Q5W6F9	Ensembl:Gasu_16050
+Q5W6H5	Ensembl:Gasu_27160
+Q5Z7R3	Ensembl:Gasu_56640 Ensembl:Gasu_47920
+Q5Z8V9	Ensembl:Gasu_54890
+Q5ZCV1	Ensembl:Gasu_01510
+Q5ZEL4	Ensembl:Gasu_45590
+Q64MA9	Ensembl:Gasu_03040
+Q650W1	Ensembl:Gasu_15490
+Q652A8	Ensembl:Gasu_12030
+Q653T6	Ensembl:Gasu_10400
+Q655T1	Ensembl:Gasu_00270
+Q655T6	Ensembl:Gasu_23250
+Q655W2	Ensembl:Gasu_04650
+Q65XK0	Ensembl:Gasu_39250
+Q65XM9	Ensembl:Gasu_30210
+Q67W29	Ensembl:Gasu_11580
+Q688L9	Ensembl:Gasu_16050
+Q688Y2	Ensembl:Gasu_31220
+Q69K00	Ensembl:Gasu_29840
+Q69KM5	Ensembl:Gasu_34330
+Q69L93	Ensembl:Gasu_60480
+Q69LG7	Ensembl:Gasu_45520
+Q69P84	Ensembl:Gasu_48300
+Q69RJ0	Ensembl:Gasu_40050
+Q69TF4	Ensembl:Gasu_05620
+Q69U93	Ensembl:Gasu_09530
+Q69UU3	Ensembl:Gasu_03270
+Q69V57	Ensembl:Gasu_01050
+Q69XQ6	Ensembl:Gasu_14260
+Q6ASV4	Ensembl:Gasu_16100
+Q6AT43	Ensembl:Gasu_03710
+Q6AT75	Ensembl:Gasu_06490
+Q6AUB0	Ensembl:Gasu_49040
+Q6AUV1	Ensembl:Gasu_62880
+Q6AV34	Ensembl:Gasu_25400
+Q6AVG6	Ensembl:Gasu_18090
+Q6EP31	Ensembl:Gasu_25940
+Q6EP66	Ensembl:Gasu_39450
+Q6EPN6	Ensembl:Gasu_00190
+Q6EPR6	Ensembl:Gasu_38260
+Q6ERL4	Ensembl:Gasu_51770
+Q6ESJ0	Ensembl:Gasu_56810
+Q6EUP4	Ensembl:Gasu_59170 Ensembl:Gasu_38270 Ensembl:Gasu_35850
+Q6H4G3	Ensembl:Gasu_20110
+Q6H5U3	Ensembl:Gasu_65890
+Q6H6C7	Ensembl:Gasu_00270
+Q6H6D2	Ensembl:Gasu_43810
+Q6H6G1	Ensembl:Gasu_40250
+Q6H6I1	Ensembl:Gasu_43500
+Q6H6P8	Ensembl:Gasu_50970
+Q6H703	Ensembl:Gasu_04650
+Q6H713	Ensembl:Gasu_23250
+Q6H7M1	Ensembl:Gasu_41040
+Q6H819	Ensembl:Gasu_24200
+Q6K2E1	Ensembl:Gasu_12030
+Q6K2E8	Ensembl:Gasu_40240
+Q6K3Z3	Ensembl:Gasu_26380
+Q6K5G8	Ensembl:Gasu_04650
+Q6K5U4	Ensembl:Gasu_56640 Ensembl:Gasu_47920
+Q6K7V6	Ensembl:Gasu_59390
+Q6K8E7	Ensembl:Gasu_30970
+Q6K9M5	Ensembl:Gasu_34330
+Q6K9N6	Ensembl:Gasu_22120
+Q6KAJ2	Ensembl:Gasu_31800
+Q6L4H5	Ensembl:Gasu_54140
+Q6L506	Ensembl:Gasu_29560
+Q6VMN7	Ensembl:Gasu_26260
+Q6YPF1	Ensembl:Gasu_01050
+Q6YS33	Ensembl:Gasu_13460
+Q6YT73	Ensembl:Gasu_11210 Ensembl:Gasu_09130 Ensembl:Gasu_58490
+Q6YTT3	Ensembl:Gasu_22040 Ensembl:Gasu_45380
+Q6YU51	Ensembl:Gasu_42090
+Q6YU90	Ensembl:Gasu_26840
+Q6YUS0	Ensembl:Gasu_27890
+Q6YUU2	Ensembl:Gasu_12490
+Q6YV04	Ensembl:Gasu_08740
+Q6YV23	Ensembl:Gasu_39960
+Q6YVI0	Ensembl:Gasu_00120
+Q6YYB9	Ensembl:Gasu_56660
+Q6YZE2	Ensembl:Gasu_02530
+Q6YZH8	Ensembl:Gasu_53750
+Q6Z2L5	Ensembl:Gasu_14260
+Q6Z2T6	Ensembl:Gasu_07190
+Q6Z3F9	Ensembl:Gasu_40650
+Q6Z3Y3	Ensembl:Gasu_15490
+Q6Z702	Ensembl:Gasu_04390
+Q6Z7F5	Ensembl:Gasu_17300
+Q6Z8F4	Ensembl:Gasu_20140
+Q6Z965	Ensembl:Gasu_54250
+Q6Z9A3	Ensembl:Gasu_27870
+Q6Z9E6	Ensembl:Gasu_24200
+Q6ZAH2	Ensembl:Gasu_03980
+Q6ZB59	Ensembl:Gasu_08740
+Q6ZBH5	Ensembl:Gasu_03040
+Q6ZD10	Ensembl:Gasu_45520
+Q6ZDJ7	Ensembl:Gasu_12030
+Q6ZDQ1	Ensembl:Gasu_42510
+Q6ZDY8	Ensembl:Gasu_13120
+Q6ZEZ2	Ensembl:Gasu_37650 Ensembl:Gasu_51780
+Q6ZFI6	Ensembl:Gasu_01160
+Q6ZG77	Ensembl:Gasu_05900
+Q6ZHA3	Ensembl:Gasu_25940
+Q6ZHH4	Ensembl:Gasu_43290
+Q6ZHJ6	Ensembl:Gasu_07380
+Q6ZHS4	Ensembl:Gasu_53790
+Q6ZI55	Ensembl:Gasu_48810
+Q6ZIK0	Ensembl:Gasu_24450
+Q6ZKC0	Ensembl:Gasu_59170 Ensembl:Gasu_38270 Ensembl:Gasu_35850
+Q6ZKV8	Ensembl:Gasu_42400
+Q6ZL61	Ensembl:Gasu_40690
+Q6ZL94	Ensembl:Gasu_11120
+Q6ZLD3	Ensembl:Gasu_48400
+Q75HP7	Ensembl:Gasu_21520
+Q75HZ9	Ensembl:Gasu_40500
+Q75LR2	Ensembl:Gasu_22040 Ensembl:Gasu_45380
+Q75W16	Ensembl:Gasu_22040 Ensembl:Gasu_45380
+Q7EZZ0	Ensembl:Gasu_28560
+Q7F190	Ensembl:Gasu_24070
+Q7FAH2	Ensembl:Gasu_04650
+Q7FAS1	Ensembl:Gasu_11210 Ensembl:Gasu_09130 Ensembl:Gasu_58490
+Q7G2H3	Ensembl:Gasu_25400
+Q7G4P2	Ensembl:Gasu_30970
+Q7X7H3	Ensembl:Gasu_39450
+Q7X7X0	Ensembl:Gasu_52790
+Q7X8A1	Ensembl:Gasu_48130
+Q7XAP2	Ensembl:Gasu_60030
+Q7XDE0	Ensembl:Gasu_51600
+Q7XEH2	Ensembl:Gasu_25460
+Q7XI92	Ensembl:Gasu_12630
+Q7XK23	Ensembl:Gasu_48810
+Q7XKQ8	Ensembl:Gasu_40240
+Q7XMP7	Ensembl:Gasu_36430
+Q7XPR2	Ensembl:Gasu_57610 Ensembl:Gasu_62600
+Q7XPR5	Ensembl:Gasu_03710
+Q7XPW5	Ensembl:Gasu_47860
+Q7XQ85	Ensembl:Gasu_16050
+Q7XRT0	Ensembl:Gasu_60820 Ensembl:Gasu_51920
+Q7XTE8	Ensembl:Gasu_59170 Ensembl:Gasu_38270 Ensembl:Gasu_35850
+Q7XU28	Ensembl:Gasu_40250
+Q7XV18	Ensembl:Gasu_16100
+Q7XVM2	Ensembl:Gasu_32380
+Q7XWP9	Ensembl:Gasu_55180 Ensembl:Gasu_20090
+Q7Y0Y6	Ensembl:Gasu_08740
+Q7Y0Y8	Ensembl:Gasu_08740
+Q7Y1H9	Ensembl:Gasu_40690
+Q84J55	Ensembl:Gasu_59170 Ensembl:Gasu_38270 Ensembl:Gasu_35850
+Q84JH5	Ensembl:Gasu_27870
+Q84LF7	Ensembl:Gasu_06490
+Q84MN8	Ensembl:Gasu_08490
+Q84NP3	Ensembl:Gasu_25760
+Q84RS4	Ensembl:Gasu_11450
+Q84U04	Ensembl:Gasu_16100
+Q84ZY2	Ensembl:Gasu_55180 Ensembl:Gasu_20090
+Q851Z6	Ensembl:Gasu_13460
+Q852Q1	Ensembl:Gasu_35670 Ensembl:Gasu_30650
+Q8GRU7	Ensembl:Gasu_46540
+Q8GT01	Ensembl:Gasu_12380
+Q8GVN6	Ensembl:Gasu_56890
+Q8GVZ0	Ensembl:Gasu_49040
+Q8H051	Ensembl:Gasu_03040
+Q8H0A1	Ensembl:Gasu_15490
+Q8H3I4	Ensembl:Gasu_11210 Ensembl:Gasu_09130 Ensembl:Gasu_58490
+Q8H7S6	Ensembl:Gasu_10960
+Q8H7T7	Ensembl:Gasu_03710
+Q8H825	Ensembl:Gasu_25460
+Q8LHD1	Ensembl:Gasu_27340
+Q8LI89	Ensembl:Gasu_23340
+Q8LJJ2	Ensembl:Gasu_54140
+Q8LQ34	Ensembl:Gasu_36870
+Q8LR75	Ensembl:Gasu_29840
+Q8LRJ3	Ensembl:Gasu_62290
+Q8RV34	Ensembl:Gasu_42740
+Q8RYL0	Ensembl:Gasu_24950
+Q8RYL1	Ensembl:Gasu_24950
+Q8RZZ3	Ensembl:Gasu_39900
+Q8S2G0	Ensembl:Gasu_28410
+Q8S5M6	Ensembl:Gasu_18280
+Q8S5N2	Ensembl:Gasu_30560
+Q8S5T1	Ensembl:Gasu_10030
+Q8S601	Ensembl:Gasu_26040
+Q8S6F2	Ensembl:Gasu_40760
+Q8S919	Ensembl:Gasu_60520
+Q8S920	Ensembl:Gasu_60520
+Q8W250	Ensembl:Gasu_57430
+Q8W3G2	Ensembl:Gasu_33910
+Q8W3J0	Ensembl:Gasu_59080 Ensembl:Gasu_46450
+Q8W5G9	Ensembl:Gasu_59750
+Q93X08	Ensembl:Gasu_00860
+Q93XI4	Ensembl:Gasu_36490
+Q941T9	Ensembl:Gasu_27870
+Q945X3	Ensembl:Gasu_17300
+Q94CU3	Ensembl:Gasu_65630
+Q94GF1	Ensembl:Gasu_16620
+Q94JJ0	Ensembl:Gasu_51810 Ensembl:Gasu_63700
+Q94LV4	Ensembl:Gasu_03710
+Q9AQU4	Ensembl:Gasu_16100
+Q9ASK5	Ensembl:Gasu_26380
+Q9ASP4	Ensembl:Gasu_15110
+Q9AUQ4	Ensembl:Gasu_08170
+Q9AUV6	Ensembl:Gasu_50150 Ensembl:Gasu_58190
+Q9FTR6	Ensembl:Gasu_38450
+Q9FUE1	Ensembl:Gasu_17300
+Q9FWC1	Ensembl:Gasu_29340
+Q9FWK4	Ensembl:Gasu_41020
+Q9FWQ2	Ensembl:Gasu_55870 Ensembl:Gasu_25840
+Q9LGU6	Ensembl:Gasu_57820 Ensembl:Gasu_03900
+Q9LIZ8	Ensembl:Gasu_18280
+Q9S7D3	Ensembl:Gasu_20110
+Q9SDG5	Ensembl:Gasu_55090
+Q9SMB1	Ensembl:Gasu_60030
+Q9SNK3	Ensembl:Gasu_48130
+Q9XEA6	Ensembl:Gasu_24750
+Q9XEA8	Ensembl:Gasu_24750
+Q9XHL5	Ensembl:Gasu_35770
+Q9XJ29	Ensembl:Gasu_16620
+Q9ZTP5	Ensembl:Gasu_18200

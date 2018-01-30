@@ -1,0 +1,662 @@
+A2X747	Ensembl:TanjilG_01167
+A2XPN8	Ensembl:TanjilG_32442
+A2Y626	Ensembl:TanjilG_09545
+A2Y8A8	Ensembl:TanjilG_19362 Ensembl:TanjilG_25752
+A2ZW27	Ensembl:TanjilG_31841 Ensembl:TanjilG_11671
+A3AQC6	Ensembl:TanjilG_10097 Ensembl:TanjilG_17595
+A3B9A0	Ensembl:TanjilG_03477 Ensembl:TanjilG_29201
+A3C6G9	Ensembl:TanjilG_02951
+A9CM06	Ensembl:TanjilG_22712 Ensembl:TanjilG_06554 Ensembl:TanjilG_27445
+B1B534	Ensembl:TanjilG_11458
+B7EM10	Ensembl:TanjilG_15231 Ensembl:TanjilG_16246
+B7ERE7	Ensembl:TanjilG_07152 Ensembl:TanjilG_11510 Ensembl:TanjilG_01813
+B7F4K3	Ensembl:TanjilG_19774
+B7F8P7	Ensembl:TanjilG_30771 Ensembl:TanjilG_01202
+B7F956	Ensembl:TanjilG_07185 Ensembl:TanjilG_00341
+B7F9K3	Ensembl:TanjilG_19774
+B7FA24	Ensembl:TanjilG_23060 Ensembl:TanjilG_06342 Ensembl:TanjilG_06343
+B7FA90	Ensembl:TanjilG_08841 Ensembl:TanjilG_22716
+B7FA99	Ensembl:TanjilG_06554 Ensembl:TanjilG_27445
+B7FAP2	Ensembl:TanjilG_10993
+B8AG62	Ensembl:TanjilG_14338
+B8AZ97	Ensembl:TanjilG_12137 Ensembl:TanjilG_20886 Ensembl:TanjilG_12902
+B8B8K7	Ensembl:TanjilG_13931 Ensembl:TanjilG_29265
+B8BB38	Ensembl:TanjilG_01173
+B8BF84	Ensembl:TanjilG_15224 Ensembl:TanjilG_31566 Ensembl:TanjilG_21932
+B9EUK4	Ensembl:TanjilG_29238 Ensembl:TanjilG_12751 Ensembl:TanjilG_10879 Ensembl:TanjilG_14434 Ensembl:TanjilG_02516
+B9EZJ8	Ensembl:TanjilG_30742 Ensembl:TanjilG_24202
+B9F3B6	Ensembl:TanjilG_12219
+B9FRT6	Ensembl:TanjilG_09971
+B9FYX6	Ensembl:TanjilG_16513
+B9FZ46	Ensembl:TanjilG_19362 Ensembl:TanjilG_25752
+B9G3A7	Ensembl:TanjilG_16585
+B9G6J6	Ensembl:TanjilG_19362 Ensembl:TanjilG_25752
+B9G942	Ensembl:TanjilG_25247
+C7IWK8	Ensembl:TanjilG_06659 Ensembl:TanjilG_22352
+C7IXG8	Ensembl:TanjilG_12206
+C7IY93	Ensembl:TanjilG_23284 Ensembl:TanjilG_28148
+D5A7J1	Ensembl:TanjilG_13113
+H6TFZ4	Ensembl:TanjilG_31002
+I1QJ08	Ensembl:TanjilG_13715
+I1QQP8	Ensembl:TanjilG_28721
+I3QK18	Ensembl:TanjilG_25846
+O04226	Ensembl:TanjilG_14196 Ensembl:TanjilG_14445 Ensembl:TanjilG_12745
+O22105	Ensembl:TanjilG_05362
+O22567	Ensembl:TanjilG_20258
+O64437	Ensembl:TanjilG_11044
+O82117	Ensembl:TanjilG_12039 Ensembl:TanjilG_11967
+O82427	Ensembl:TanjilG_05425
+P0C132	Ensembl:TanjilG_15108
+P0C587	Ensembl:TanjilG_15659 Ensembl:TanjilG_08403
+P0C5A4	Ensembl:TanjilG_24006
+P14654	Ensembl:TanjilG_09916
+P14655	Ensembl:TanjilG_23221
+P14717	Ensembl:TanjilG_14620 Ensembl:TanjilG_19391 Ensembl:TanjilG_20439 Ensembl:TanjilG_31219 Ensembl:TanjilG_11449
+P17784	Ensembl:TanjilG_32201 Ensembl:TanjilG_20478 Ensembl:TanjilG_30896
+P17814	Ensembl:TanjilG_26758
+P18566	Ensembl:TanjilG_15157 Ensembl:TanjilG_07808
+P30298	Ensembl:TanjilG_27459 Ensembl:TanjilG_26026 Ensembl:TanjilG_29195 Ensembl:TanjilG_27455
+P31924	Ensembl:TanjilG_27459 Ensembl:TanjilG_26026 Ensembl:TanjilG_29195 Ensembl:TanjilG_27455
+P38419	Ensembl:TanjilG_12121
+P48642	Ensembl:TanjilG_30920
+Q01M39	Ensembl:TanjilG_02805 Ensembl:TanjilG_28488
+Q06967	Ensembl:TanjilG_27644
+Q0D3D2	Ensembl:TanjilG_12161 Ensembl:TanjilG_10837
+Q0D3F2	Ensembl:TanjilG_22255
+Q0D3H8	Ensembl:TanjilG_01773 Ensembl:TanjilG_06681 Ensembl:TanjilG_21779
+Q0D5H9	Ensembl:TanjilG_03641
+Q0D7W4	Ensembl:TanjilG_10118
+Q0D8I9	Ensembl:TanjilG_09955
+Q0D8J6	Ensembl:TanjilG_24858
+Q0DAJ3	Ensembl:TanjilG_24141
+Q0DAZ7	Ensembl:TanjilG_28262
+Q0DBF4	Ensembl:TanjilG_24447 Ensembl:TanjilG_24446
+Q0DBN4	Ensembl:TanjilG_19670 Ensembl:TanjilG_11667
+Q0DDD2	Ensembl:TanjilG_05136
+Q0DDS1	Ensembl:TanjilG_00116
+Q0DEC8	Ensembl:TanjilG_16855
+Q0DFL6	Ensembl:TanjilG_22278
+Q0DG18	Ensembl:TanjilG_24415
+Q0DGG8	Ensembl:TanjilG_30521 Ensembl:TanjilG_11225
+Q0DHF6	Ensembl:TanjilG_12161 Ensembl:TanjilG_10837
+Q0DJJ9	Ensembl:TanjilG_20568
+Q0DKP3	Ensembl:TanjilG_06259
+Q0DNU1	Ensembl:TanjilG_14946
+Q0DSM1	Ensembl:TanjilG_14520
+Q0DUI1	Ensembl:TanjilG_15269 Ensembl:TanjilG_25015 Ensembl:TanjilG_11643
+Q0DWC7	Ensembl:TanjilG_10852 Ensembl:TanjilG_07733
+Q0DWF2	Ensembl:TanjilG_27247
+Q0DWH1	Ensembl:TanjilG_27256
+Q0DXM9	Ensembl:TanjilG_05136
+Q0DY86	Ensembl:TanjilG_25048
+Q0DZE0	Ensembl:TanjilG_14620 Ensembl:TanjilG_19391 Ensembl:TanjilG_20439 Ensembl:TanjilG_31219 Ensembl:TanjilG_11449
+Q0E079	Ensembl:TanjilG_00383
+Q0E0S0	Ensembl:TanjilG_20474 Ensembl:TanjilG_19773
+Q0E2P1	Ensembl:TanjilG_15683
+Q0E4H0	Ensembl:TanjilG_00116
+Q0E4N2	Ensembl:TanjilG_14338
+Q0ILR7	Ensembl:TanjilG_09160 Ensembl:TanjilG_07264 Ensembl:TanjilG_19586 Ensembl:TanjilG_14386
+Q0INY7	Ensembl:TanjilG_15157 Ensembl:TanjilG_07808
+Q0INZ4	Ensembl:TanjilG_03702
+Q0IPE5	Ensembl:TanjilG_17702
+Q0IQQ5	Ensembl:TanjilG_20526
+Q0IRE6	Ensembl:TanjilG_29294
+Q0ITW7	Ensembl:TanjilG_01876 Ensembl:TanjilG_01875 Ensembl:TanjilG_18765 Ensembl:TanjilG_09880 Ensembl:TanjilG_22718 Ensembl:TanjilG_18096 Ensembl:TanjilG_23100 Ensembl:TanjilG_19889
+Q0IZJ9	Ensembl:TanjilG_16270
+Q0IZX5	Ensembl:TanjilG_05423
+Q0J0L4	Ensembl:TanjilG_14580
+Q0J0M8	Ensembl:TanjilG_16528 Ensembl:TanjilG_03780
+Q0J0N3	Ensembl:TanjilG_10988
+Q0J185	Ensembl:TanjilG_23125 Ensembl:TanjilG_08229
+Q0J2S0	Ensembl:TanjilG_22287
+Q0J484	Ensembl:TanjilG_25247
+Q0J8A4	Ensembl:TanjilG_11573 Ensembl:TanjilG_24222
+Q0J8X6	Ensembl:TanjilG_21113
+Q0J9K2	Ensembl:TanjilG_02185 Ensembl:TanjilG_01144 Ensembl:TanjilG_01143 Ensembl:TanjilG_04919
+Q0JAI1	Ensembl:TanjilG_12189 Ensembl:TanjilG_06312
+Q0JB49	Ensembl:TanjilG_15332
+Q0JB91	Ensembl:TanjilG_25756
+Q0JB99	Ensembl:TanjilG_25848 Ensembl:TanjilG_21081
+Q0JBF1	Ensembl:TanjilG_19363
+Q0JBZ8	Ensembl:TanjilG_01167
+Q0JC10	Ensembl:TanjilG_00117 Ensembl:TanjilG_23933 Ensembl:TanjilG_29974 Ensembl:TanjilG_12043 Ensembl:TanjilG_30825
+Q0JCU7	Ensembl:TanjilG_24341
+Q0JDF7	Ensembl:TanjilG_16270
+Q0JDN5	Ensembl:TanjilG_12078 Ensembl:TanjilG_12077 Ensembl:TanjilG_11922
+Q0JDT1	Ensembl:TanjilG_10857
+Q0JE53	Ensembl:TanjilG_02805 Ensembl:TanjilG_28488
+Q0JEK1	Ensembl:TanjilG_17658 Ensembl:TanjilG_07284 Ensembl:TanjilG_20268
+Q0JEP5	Ensembl:TanjilG_10652 Ensembl:TanjilG_02550
+Q0JEX4	Ensembl:TanjilG_19568
+Q0JF25	Ensembl:TanjilG_19478
+Q0JF26	Ensembl:TanjilG_19478
+Q0JF30	Ensembl:TanjilG_10852 Ensembl:TanjilG_07733
+Q0JI87	Ensembl:TanjilG_12925
+Q0JIC2	Ensembl:TanjilG_06678 Ensembl:TanjilG_22338
+Q0JIJ8	Ensembl:TanjilG_27631
+Q0JIR6	Ensembl:TanjilG_14689
+Q0JJI1	Ensembl:TanjilG_18740 Ensembl:TanjilG_18745
+Q0JKG7	Ensembl:TanjilG_30758
+Q0JKX2	Ensembl:TanjilG_13113
+Q0JKY8	Ensembl:TanjilG_14742 Ensembl:TanjilG_15776
+Q0JNV2	Ensembl:TanjilG_22692
+Q0JP90	Ensembl:TanjilG_05503 Ensembl:TanjilG_05502 Ensembl:TanjilG_11198 Ensembl:TanjilG_25687
+Q0JPS3	Ensembl:TanjilG_06550 Ensembl:TanjilG_24244 Ensembl:TanjilG_11420 Ensembl:TanjilG_11079
+Q0JQ41	Ensembl:TanjilG_25720 Ensembl:TanjilG_06673
+Q0JR06	Ensembl:TanjilG_15849
+Q0JR55	Ensembl:TanjilG_18346 Ensembl:TanjilG_15829
+Q10A30	Ensembl:TanjilG_32201 Ensembl:TanjilG_20478 Ensembl:TanjilG_30896
+Q10A97	Ensembl:TanjilG_30771 Ensembl:TanjilG_01202
+Q10B63	Ensembl:TanjilG_29111
+Q10BT5	Ensembl:TanjilG_31355 Ensembl:TanjilG_14824 Ensembl:TanjilG_19824
+Q10CE4	Ensembl:TanjilG_24856
+Q10CQ1	Ensembl:TanjilG_23253 Ensembl:TanjilG_29962
+Q10CS9	Ensembl:TanjilG_17945
+Q10CU7	Ensembl:TanjilG_12215
+Q10D34	Ensembl:TanjilG_15108
+Q10D68	Ensembl:TanjilG_12849
+Q10D87	Ensembl:TanjilG_24069
+Q10DK7	Ensembl:TanjilG_25900
+Q10E50	Ensembl:TanjilG_11349
+Q10EG4	Ensembl:TanjilG_09955
+Q10F25	Ensembl:TanjilG_14946
+Q10HZ6	Ensembl:TanjilG_19478
+Q10L50	Ensembl:TanjilG_00617
+Q10L51	Ensembl:TanjilG_19305 Ensembl:TanjilG_19306 Ensembl:TanjilG_15649 Ensembl:TanjilG_23880 Ensembl:TanjilG_23881 Ensembl:TanjilG_19263
+Q10L56	Ensembl:TanjilG_11480 Ensembl:TanjilG_01849
+Q10LP5	Ensembl:TanjilG_14538
+Q10LR4	Ensembl:TanjilG_12137 Ensembl:TanjilG_20886 Ensembl:TanjilG_12902
+Q10M55	Ensembl:TanjilG_01773 Ensembl:TanjilG_06681
+Q10MB0	Ensembl:TanjilG_05342
+Q10MG9	Ensembl:TanjilG_14358
+Q10MI9	Ensembl:TanjilG_22255
+Q10MQ2	Ensembl:TanjilG_26039 Ensembl:TanjilG_00421
+Q10MS2	Ensembl:TanjilG_12802 Ensembl:TanjilG_19252
+Q10MW3	Ensembl:TanjilG_12161 Ensembl:TanjilG_10837
+Q10MX9	Ensembl:TanjilG_12239 Ensembl:TanjilG_24319
+Q10P01	Ensembl:TanjilG_08219
+Q10P67	Ensembl:TanjilG_11230 Ensembl:TanjilG_30515
+Q10PY7	Ensembl:TanjilG_10968 Ensembl:TanjilG_10967 Ensembl:TanjilG_10966
+Q10QA5	Ensembl:TanjilG_01097
+Q10QH1	Ensembl:TanjilG_15269 Ensembl:TanjilG_25015 Ensembl:TanjilG_11643
+Q10QT9	Ensembl:TanjilG_13931 Ensembl:TanjilG_29265
+Q10RP2	Ensembl:TanjilG_14189
+Q10S34	Ensembl:TanjilG_18021
+Q10S55	Ensembl:TanjilG_02163
+Q10S72	Ensembl:TanjilG_29405
+Q10SP1	Ensembl:TanjilG_11189
+Q2KNB4	Ensembl:TanjilG_22931
+Q2KNB5	Ensembl:TanjilG_22931
+Q2MJA8	Ensembl:TanjilG_10988
+Q2QLJ0	Ensembl:TanjilG_15061
+Q2QLY5	Ensembl:TanjilG_14263 Ensembl:TanjilG_10301 Ensembl:TanjilG_09935
+Q2QM47	Ensembl:TanjilG_06562
+Q2QM83	Ensembl:TanjilG_16513
+Q2QNN5	Ensembl:TanjilG_12121
+Q2QPR0	Ensembl:TanjilG_14620 Ensembl:TanjilG_19391 Ensembl:TanjilG_20439 Ensembl:TanjilG_31219 Ensembl:TanjilG_11449
+Q2QQX6	Ensembl:TanjilG_20317 Ensembl:TanjilG_11570 Ensembl:TanjilG_03588 Ensembl:TanjilG_20318
+Q2QRX6	Ensembl:TanjilG_05370
+Q2QTJ1	Ensembl:TanjilG_15157 Ensembl:TanjilG_07808
+Q2QUI0	Ensembl:TanjilG_29294
+Q2QVC1	Ensembl:TanjilG_18281 Ensembl:TanjilG_06450
+Q2QX49	Ensembl:TanjilG_29923
+Q2QX58	Ensembl:TanjilG_12090
+Q2QXB1	Ensembl:TanjilG_32687 Ensembl:TanjilG_23307
+Q2QXP0	Ensembl:TanjilG_10054
+Q2QXY1	Ensembl:TanjilG_21790
+Q2QXY9	Ensembl:TanjilG_10839
+Q2QY63	Ensembl:TanjilG_21808
+Q2QYW4	Ensembl:TanjilG_32175 Ensembl:TanjilG_30856 Ensembl:TanjilG_25178
+Q2R0P3	Ensembl:TanjilG_10548
+Q2R1L4	Ensembl:TanjilG_08843
+Q2R2W1	Ensembl:TanjilG_31570
+Q2R2W2	Ensembl:TanjilG_27644
+Q2R2W3	Ensembl:TanjilG_11349
+Q2R2W8	Ensembl:TanjilG_03804 Ensembl:TanjilG_11082 Ensembl:TanjilG_11081
+Q2R339	Ensembl:TanjilG_20207
+Q2R3A1	Ensembl:TanjilG_21178 Ensembl:TanjilG_29320 Ensembl:TanjilG_22946
+Q2R3F5	Ensembl:TanjilG_20317 Ensembl:TanjilG_11570 Ensembl:TanjilG_03588
+Q2R3K3	Ensembl:TanjilG_08888 Ensembl:TanjilG_23959 Ensembl:TanjilG_20295
+Q2R3K5	Ensembl:TanjilG_14064
+Q2R432	Ensembl:TanjilG_19904
+Q2R481	Ensembl:TanjilG_05370
+Q2R4Y8	Ensembl:TanjilG_10990 Ensembl:TanjilG_31370 Ensembl:TanjilG_01213 Ensembl:TanjilG_31371
+Q2RA11	Ensembl:TanjilG_29923
+Q2RAM8	Ensembl:TanjilG_10993
+Q2RAP0	Ensembl:TanjilG_21790
+Q2RAP8	Ensembl:TanjilG_10839
+Q2RAW4	Ensembl:TanjilG_23925 Ensembl:TanjilG_22335 Ensembl:TanjilG_21161 Ensembl:TanjilG_22334
+Q2RAW8	Ensembl:TanjilG_23925 Ensembl:TanjilG_22335 Ensembl:TanjilG_21161 Ensembl:TanjilG_22334
+Q2RBP1	Ensembl:TanjilG_32175 Ensembl:TanjilG_30856 Ensembl:TanjilG_25178
+Q336N7	Ensembl:TanjilG_08473
+Q336R6	Ensembl:TanjilG_24106 Ensembl:TanjilG_25866 Ensembl:TanjilG_25867
+Q336U3	Ensembl:TanjilG_11962
+Q336V3	Ensembl:TanjilG_21156
+Q336X9	Ensembl:TanjilG_13699 Ensembl:TanjilG_13774
+Q337F0	Ensembl:TanjilG_14601 Ensembl:TanjilG_23706
+Q337H3	Ensembl:TanjilG_13720
+Q338N8	Ensembl:TanjilG_13931 Ensembl:TanjilG_29265
+Q33CD8	Ensembl:TanjilG_00617
+Q33CD9	Ensembl:TanjilG_00617
+Q40710	Ensembl:TanjilG_05342
+Q42971	Ensembl:TanjilG_17689
+Q42982	Ensembl:TanjilG_22948
+Q43007	Ensembl:TanjilG_14849
+Q43009	Ensembl:TanjilG_27459 Ensembl:TanjilG_26026 Ensembl:TanjilG_29195 Ensembl:TanjilG_27455
+Q4W8D0	Ensembl:TanjilG_09916
+Q52RG7	Ensembl:TanjilG_11941
+Q53L28	Ensembl:TanjilG_24283
+Q53MS9	Ensembl:TanjilG_21930 Ensembl:TanjilG_31567
+Q5CCK3	Ensembl:TanjilG_13004
+Q5JK17	Ensembl:TanjilG_20316 Ensembl:TanjilG_20290
+Q5JK18	Ensembl:TanjilG_21174
+Q5JK20	Ensembl:TanjilG_20317 Ensembl:TanjilG_11570 Ensembl:TanjilG_03588 Ensembl:TanjilG_20318
+Q5JK39	Ensembl:TanjilG_08888 Ensembl:TanjilG_23959 Ensembl:TanjilG_20295
+Q5JMA1	Ensembl:TanjilG_20902
+Q5JMA6	Ensembl:TanjilG_11346
+Q5JMB6	Ensembl:TanjilG_25720 Ensembl:TanjilG_06673
+Q5JME6	Ensembl:TanjilG_20881 Ensembl:TanjilG_14566
+Q5JMT5	Ensembl:TanjilG_29923
+Q5JMX5	Ensembl:TanjilG_14224
+Q5JMX9	Ensembl:TanjilG_12249
+Q5JN19	Ensembl:TanjilG_29947
+Q5JN42	Ensembl:TanjilG_14891
+Q5JN63	Ensembl:TanjilG_11417
+Q5KQI0	Ensembl:TanjilG_12925
+Q5MBR3	Ensembl:TanjilG_24858
+Q5MBR5	Ensembl:TanjilG_24858
+Q5N725	Ensembl:TanjilG_32201 Ensembl:TanjilG_20478 Ensembl:TanjilG_30896
+Q5N7L0	Ensembl:TanjilG_28754 Ensembl:TanjilG_18326
+Q5N7Z8	Ensembl:TanjilG_07185 Ensembl:TanjilG_00341
+Q5N8F6	Ensembl:TanjilG_18631
+Q5N9Z8	Ensembl:TanjilG_14121
+Q5NA12	Ensembl:TanjilG_03723
+Q5NA81	Ensembl:TanjilG_06561 Ensembl:TanjilG_11684
+Q5NAY4	Ensembl:TanjilG_14389
+Q5NB25	Ensembl:TanjilG_30758
+Q5NBQ1	Ensembl:TanjilG_18665
+Q5NBT9	Ensembl:TanjilG_01044 Ensembl:TanjilG_17608 Ensembl:TanjilG_29121
+Q5NTH3	Ensembl:TanjilG_14108
+Q5QN02	Ensembl:TanjilG_10131
+Q5QNB8	Ensembl:TanjilG_19675 Ensembl:TanjilG_16481 Ensembl:TanjilG_31843 Ensembl:TanjilG_24233
+Q5SND7	Ensembl:TanjilG_25157 Ensembl:TanjilG_29737
+Q5VMP0	Ensembl:TanjilG_31404
+Q5VN31	Ensembl:TanjilG_19753
+Q5VNP5	Ensembl:TanjilG_13008 Ensembl:TanjilG_25142
+Q5VNT9	Ensembl:TanjilG_17689
+Q5VNW0	Ensembl:TanjilG_20282 Ensembl:TanjilG_08105
+Q5VPH2	Ensembl:TanjilG_18041
+Q5VRB9	Ensembl:TanjilG_19355 Ensembl:TanjilG_15754
+Q5VRH4	Ensembl:TanjilG_15194
+Q5VRM7	Ensembl:TanjilG_17948 Ensembl:TanjilG_28627 Ensembl:TanjilG_09156 Ensembl:TanjilG_14379
+Q5VRR2	Ensembl:TanjilG_08222
+Q5W6F9	Ensembl:TanjilG_11340 Ensembl:TanjilG_18266
+Q5W6H5	Ensembl:TanjilG_12163
+Q5W6W7	Ensembl:TanjilG_25095
+Q5XLJ2	Ensembl:TanjilG_20207
+Q5Z5B7	Ensembl:TanjilG_24080
+Q5Z5R4	Ensembl:TanjilG_24447 Ensembl:TanjilG_24446
+Q5Z678	Ensembl:TanjilG_12095
+Q5Z6E5	Ensembl:TanjilG_30537
+Q5Z749	Ensembl:TanjilG_30758
+Q5Z7R3	Ensembl:TanjilG_22712 Ensembl:TanjilG_06554 Ensembl:TanjilG_27445
+Q5Z8T3	Ensembl:TanjilG_18145
+Q5Z8Y4	Ensembl:TanjilG_12101
+Q5ZEL4	Ensembl:TanjilG_24322
+Q60EI7	Ensembl:TanjilG_14689
+Q60EX6	Ensembl:TanjilG_01838
+Q64MA9	Ensembl:TanjilG_20548
+Q650W1	Ensembl:TanjilG_16270
+Q652A8	Ensembl:TanjilG_15340 Ensembl:TanjilG_28680
+Q652S1	Ensembl:TanjilG_05134
+Q653T6	Ensembl:TanjilG_16460 Ensembl:TanjilG_07685
+Q653U3	Ensembl:TanjilG_11379 Ensembl:TanjilG_31620
+Q655T1	Ensembl:TanjilG_12207
+Q655T6	Ensembl:TanjilG_23284 Ensembl:TanjilG_28148
+Q655W2	Ensembl:TanjilG_12209
+Q65XC6	Ensembl:TanjilG_30742 Ensembl:TanjilG_24202
+Q65XK0	Ensembl:TanjilG_31841 Ensembl:TanjilG_11671
+Q65XL7	Ensembl:TanjilG_05516
+Q65XR9	Ensembl:TanjilG_14849
+Q67TQ5	Ensembl:TanjilG_13131 Ensembl:TanjilG_19316
+Q67TS1	Ensembl:TanjilG_19305 Ensembl:TanjilG_19306 Ensembl:TanjilG_15649 Ensembl:TanjilG_23880 Ensembl:TanjilG_23881 Ensembl:TanjilG_19263
+Q67TS4	Ensembl:TanjilG_15649 Ensembl:TanjilG_19305 Ensembl:TanjilG_19306 Ensembl:TanjilG_23880 Ensembl:TanjilG_23881
+Q67UZ8	Ensembl:TanjilG_01649
+Q67W29	Ensembl:TanjilG_11230 Ensembl:TanjilG_30515
+Q67W82	Ensembl:TanjilG_26758
+Q67WR2	Ensembl:TanjilG_12898
+Q688L9	Ensembl:TanjilG_11340 Ensembl:TanjilG_18266
+Q688Q8	Ensembl:TanjilG_16600
+Q688Q9	Ensembl:TanjilG_20495
+Q688T8	Ensembl:TanjilG_31013
+Q688Y2	Ensembl:TanjilG_15216 Ensembl:TanjilG_01131
+Q69K00	Ensembl:TanjilG_30811
+Q69LG7	Ensembl:TanjilG_07820
+Q69MC9	Ensembl:TanjilG_17736
+Q69P51	Ensembl:TanjilG_27209 Ensembl:TanjilG_18797
+Q69QD7	Ensembl:TanjilG_26776 Ensembl:TanjilG_18752
+Q69RG7	Ensembl:TanjilG_04918
+Q69T90	Ensembl:TanjilG_17688 Ensembl:TanjilG_08351 Ensembl:TanjilG_08352
+Q69TT1	Ensembl:TanjilG_23294
+Q69TW5	Ensembl:TanjilG_13131 Ensembl:TanjilG_19316
+Q69U93	Ensembl:TanjilG_16391
+Q69UF5	Ensembl:TanjilG_10993
+Q69XD3	Ensembl:TanjilG_10993
+Q69XJ0	Ensembl:TanjilG_15748
+Q6ASW7	Ensembl:TanjilG_11290
+Q6AT26	Ensembl:TanjilG_07884 Ensembl:TanjilG_24131
+Q6AT33	Ensembl:TanjilG_30758
+Q6ATR2	Ensembl:TanjilG_00617
+Q6AUB0	Ensembl:TanjilG_14735 Ensembl:TanjilG_19254
+Q6AUJ8	Ensembl:TanjilG_12161 Ensembl:TanjilG_10837
+Q6AVM5	Ensembl:TanjilG_01773 Ensembl:TanjilG_06681 Ensembl:TanjilG_21779
+Q6EP31	Ensembl:TanjilG_05434
+Q6EP59	Ensembl:TanjilG_02805 Ensembl:TanjilG_28488
+Q6EP77	Ensembl:TanjilG_15252
+Q6EPZ0	Ensembl:TanjilG_24141
+Q6EPZ2	Ensembl:TanjilG_24141
+Q6EQW2	Ensembl:TanjilG_03701
+Q6ERL4	Ensembl:TanjilG_25897
+Q6ERR3	Ensembl:TanjilG_01173
+Q6ESJ0	Ensembl:TanjilG_15332
+Q6ETD3	Ensembl:TanjilG_19363
+Q6ETN1	Ensembl:TanjilG_13065
+Q6ETN3	Ensembl:TanjilG_26758
+Q6ETX4	Ensembl:TanjilG_16183
+Q6EUNO	Ensembl:TanjilG_16546 Ensembl:TanjilG_23930
+Q6EUP4	Ensembl:TanjilG_27644
+Q6EUS6	Ensembl:TanjilG_19670 Ensembl:TanjilG_11667
+Q6F361	Ensembl:TanjilG_22706 Ensembl:TanjilG_15184
+Q6H3Z3	Ensembl:TanjilG_15073 Ensembl:TanjilG_06335 Ensembl:TanjilG_12268
+Q6H3Z6	Ensembl:TanjilG_15073 Ensembl:TanjilG_06335 Ensembl:TanjilG_12268
+Q6H415	Ensembl:TanjilG_23132 Ensembl:TanjilG_25674
+Q6H513	Ensembl:TanjilG_14623
+Q6H5U3	Ensembl:TanjilG_13083
+Q6H6C7	Ensembl:TanjilG_12207
+Q6H6D2	Ensembl:TanjilG_17984
+Q6H6I1	Ensembl:TanjilG_18191
+Q6H703	Ensembl:TanjilG_12209
+Q6H713	Ensembl:TanjilG_23284 Ensembl:TanjilG_28148
+Q6H765	Ensembl:TanjilG_10054
+Q6H7Q6	Ensembl:TanjilG_12121
+Q6H819	Ensembl:TanjilG_15733
+Q6H8F6	Ensembl:TanjilG_19306 Ensembl:TanjilG_23880
+Q6I581	Ensembl:TanjilG_11219 Ensembl:TanjilG_11217 Ensembl:TanjilG_11218 Ensembl:TanjilG_02501 Ensembl:TanjilG_30527 Ensembl:TanjilG_30526
+Q6I5C3	Ensembl:TanjilG_05514 Ensembl:TanjilG_14069 Ensembl:TanjilG_18056 Ensembl:TanjilG_11210
+Q6IEQ7	Ensembl:TanjilG_12899 Ensembl:TanjilG_22680
+Q6IVC3	Ensembl:TanjilG_06659 Ensembl:TanjilG_22352
+Q6K1S6	Ensembl:TanjilG_15112 Ensembl:TanjilG_08369 Ensembl:TanjilG_30773
+Q6K1X7	Ensembl:TanjilG_24283
+Q6K2E1	Ensembl:TanjilG_17992 Ensembl:TanjilG_22924
+Q6K2E8	Ensembl:TanjilG_29351
+Q6K3T2	Ensembl:TanjilG_20224
+Q6K4V9	Ensembl:TanjilG_24458
+Q6K5G8	Ensembl:TanjilG_11573 Ensembl:TanjilG_24222
+Q6K5U4	Ensembl:TanjilG_06554 Ensembl:TanjilG_27445
+Q6K678	Ensembl:TanjilG_01168
+Q6K6Q0	Ensembl:TanjilG_14620 Ensembl:TanjilG_19391 Ensembl:TanjilG_20439 Ensembl:TanjilG_31219 Ensembl:TanjilG_11449
+Q6K6Q1	Ensembl:TanjilG_14620 Ensembl:TanjilG_19391 Ensembl:TanjilG_20439 Ensembl:TanjilG_31219 Ensembl:TanjilG_11449
+Q6K755	Ensembl:TanjilG_02805 Ensembl:TanjilG_28488
+Q6K8E2	Ensembl:TanjilG_12865 Ensembl:TanjilG_28437
+Q6K8E7	Ensembl:TanjilG_08219
+Q6K8J4	Ensembl:TanjilG_11281
+Q6K969	Ensembl:TanjilG_17542 Ensembl:TanjilG_09148
+Q6K973	Ensembl:TanjilG_31002
+Q6K9B8	Ensembl:TanjilG_00117 Ensembl:TanjilG_23933 Ensembl:TanjilG_29974 Ensembl:TanjilG_12043 Ensembl:TanjilG_30825
+Q6K9N6	Ensembl:TanjilG_32412 Ensembl:TanjilG_19783
+Q6K9X3	Ensembl:TanjilG_15306
+Q6KAJ2	Ensembl:TanjilG_15740
+Q6L4G2	Ensembl:TanjilG_28754 Ensembl:TanjilG_18326
+Q6L4L4	Ensembl:TanjilG_11290
+Q6L4R7	Ensembl:TanjilG_11357
+Q6L540	Ensembl:TanjilG_30519
+Q6L545	Ensembl:TanjilG_11492 Ensembl:TanjilG_10104 Ensembl:TanjilG_01839
+Q6MWK9	Ensembl:TanjilG_32126 Ensembl:TanjilG_30536
+Q6Q9I2	Ensembl:TanjilG_23253 Ensembl:TanjilG_29962
+Q6QHD1	Ensembl:TanjilG_24141
+Q6VMN7	Ensembl:TanjilG_14884
+Q6YS33	Ensembl:TanjilG_21174
+Q6YSA1	Ensembl:TanjilG_31821
+Q6YSF8	Ensembl:TanjilG_00423 Ensembl:TanjilG_13044 Ensembl:TanjilG_13046 Ensembl:TanjilG_13045 Ensembl:TanjilG_00424
+Q6YT73	Ensembl:TanjilG_24856
+Q6YTI6	Ensembl:TanjilG_01649
+Q6YTT3	Ensembl:TanjilG_12880 Ensembl:TanjilG_14873 Ensembl:TanjilG_02808
+Q6YU90	Ensembl:TanjilG_01807
+Q6YUS0	Ensembl:TanjilG_14253
+Q6YV04	Ensembl:TanjilG_03846 Ensembl:TanjilG_29396
+Q6YV23	Ensembl:TanjilG_02464
+Q6YVI0	Ensembl:TanjilG_31012 Ensembl:TanjilG_27328
+Q6YWE1	Ensembl:TanjilG_00617
+Q6YWS8	Ensembl:TanjilG_16546 Ensembl:TanjilG_23930
+Q6YXC2	Ensembl:TanjilG_02802
+Q6YXI1	Ensembl:TanjilG_28446
+Q6YXW6	Ensembl:TanjilG_10826 Ensembl:TanjilG_10827
+Q6YYY7	Ensembl:TanjilG_31030 Ensembl:TanjilG_17053 Ensembl:TanjilG_27333 Ensembl:TanjilG_08172
+Q6YZE2	Ensembl:TanjilG_05118 Ensembl:TanjilG_28761
+Q6YZH8	Ensembl:TanjilG_06839
+Q6YZX7	Ensembl:TanjilG_13669
+Q6Z156	Ensembl:TanjilG_03544 Ensembl:TanjilG_32415 Ensembl:TanjilG_10137
+Q6Z2L5	Ensembl:TanjilG_14260
+Q6Z312	Ensembl:TanjilG_13131 Ensembl:TanjilG_19316
+Q6Z368	Ensembl:TanjilG_05362
+Q6Z3A4	Ensembl:TanjilG_16600
+Q6Z3F1	Ensembl:TanjilG_07152 Ensembl:TanjilG_11510 Ensembl:TanjilG_01813
+Q6Z3F9	Ensembl:TanjilG_05123
+Q6Z3X5	Ensembl:TanjilG_12078 Ensembl:TanjilG_12077 Ensembl:TanjilG_11922
+Q6Z414	Ensembl:TanjilG_11747 Ensembl:TanjilG_06529
+Q6Z434	Ensembl:TanjilG_24448
+Q6Z4F3	Ensembl:TanjilG_17650
+Q6Z4I1	Ensembl:TanjilG_05113
+Q6Z5M3	Ensembl:TanjilG_03804 Ensembl:TanjilG_11082 Ensembl:TanjilG_11081
+Q6Z684	Ensembl:TanjilG_02805 Ensembl:TanjilG_28488
+Q6Z6K9	Ensembl:TanjilG_15247
+Q6Z6L1	Ensembl:TanjilG_15247
+Q6Z702	Ensembl:TanjilG_04921
+Q6Z795	Ensembl:TanjilG_07013 Ensembl:TanjilG_24120 Ensembl:TanjilG_07877 Ensembl:TanjilG_15747
+Q6Z7I3	Ensembl:TanjilG_19599 Ensembl:TanjilG_21946
+Q6Z8Z7	Ensembl:TanjilG_24159
+Q6Z965	Ensembl:TanjilG_24403 Ensembl:TanjilG_03492 Ensembl:TanjilG_24404 Ensembl:TanjilG_24402
+Q6Z9E6	Ensembl:TanjilG_15733
+Q6ZAC1	Ensembl:TanjilG_26758
+Q6ZB94	Ensembl:TanjilG_28446
+Q6ZBE1	Ensembl:TanjilG_02805 Ensembl:TanjilG_28488
+Q6ZBH5	Ensembl:TanjilG_20548
+Q6ZD10	Ensembl:TanjilG_07820
+Q6ZD89	Ensembl:TanjilG_10764
+Q6ZDJ7	Ensembl:TanjilG_17992 Ensembl:TanjilG_22924
+Q6ZDY8	Ensembl:TanjilG_13005
+Q6ZEZ2	Ensembl:TanjilG_29275
+Q6ZFI6	Ensembl:TanjilG_21783
+Q6ZG77	Ensembl:TanjilG_09951
+Q6ZG91	Ensembl:TanjilG_25118
+Q6ZHA3	Ensembl:TanjilG_18027
+Q6ZHB2	Ensembl:TanjilG_25872
+Q6ZHS4	Ensembl:TanjilG_18374
+Q6ZI55	Ensembl:TanjilG_03791
+Q6ZIA3	Ensembl:TanjilG_14580
+Q6ZIK0	Ensembl:TanjilG_22956
+Q6ZK11	Ensembl:TanjilG_20568
+Q6ZKC0	Ensembl:TanjilG_27644
+Q6ZL61	Ensembl:TanjilG_18639
+Q6ZL94	Ensembl:TanjilG_09610 Ensembl:TanjilG_30992 Ensembl:TanjilG_22235
+Q75GB1	Ensembl:TanjilG_30758
+Q75GK0	Ensembl:TanjilG_15108
+Q75H77	Ensembl:TanjilG_23106 Ensembl:TanjilG_06166 Ensembl:TanjilG_29326
+Q75HP7	Ensembl:TanjilG_04949
+Q75HQ7	Ensembl:TanjilG_14620 Ensembl:TanjilG_19391 Ensembl:TanjilG_20439 Ensembl:TanjilG_31219 Ensembl:TanjilG_11449
+Q75HZ9	Ensembl:TanjilG_03702
+Q75I93	Ensembl:TanjilG_06120
+Q75II5	Ensembl:TanjilG_15288
+Q75KD7	Ensembl:TanjilG_32434 Ensembl:TanjilG_11955 Ensembl:TanjilG_12053 Ensembl:TanjilG_26697
+Q75KT7	Ensembl:TanjilG_25720 Ensembl:TanjilG_06673
+Q75LC7	Ensembl:TanjilG_16510 Ensembl:TanjilG_15354
+Q75LR2	Ensembl:TanjilG_12880 Ensembl:TanjilG_14873 Ensembl:TanjilG_02808
+Q75M18	Ensembl:TanjilG_14930
+Q75V57	Ensembl:TanjilG_23106 Ensembl:TanjilG_06166 Ensembl:TanjilG_29326
+Q75W16	Ensembl:TanjilG_12880 Ensembl:TanjilG_14873 Ensembl:TanjilG_02808
+Q7EZW6	Ensembl:TanjilG_25695
+Q7EZZ0	Ensembl:TanjilG_25031 Ensembl:TanjilG_16822
+Q7F1X5	Ensembl:TanjilG_04918
+Q7F2P0	Ensembl:TanjilG_00423 Ensembl:TanjilG_13044 Ensembl:TanjilG_13046 Ensembl:TanjilG_13045 Ensembl:TanjilG_00424
+Q7FAH2	Ensembl:TanjilG_11573 Ensembl:TanjilG_24222
+Q7G065	Ensembl:TanjilG_31013
+Q7G2F7	Ensembl:TanjilG_21689
+Q7G4P2	Ensembl:TanjilG_08219
+Q7G6M2	Ensembl:TanjilG_30519
+Q7G7J6	Ensembl:TanjilG_07545
+Q7X634	Ensembl:TanjilG_10138
+Q7X720	Ensembl:TanjilG_14620 Ensembl:TanjilG_19391 Ensembl:TanjilG_20439 Ensembl:TanjilG_31219 Ensembl:TanjilG_11449
+Q7X742	Ensembl:TanjilG_08320 Ensembl:TanjilG_16448
+Q7X7N2	Ensembl:TanjilG_20286
+Q7X7X0	Ensembl:TanjilG_02413 Ensembl:TanjilG_01359
+Q7X8A1	Ensembl:TanjilG_21187 Ensembl:TanjilG_29336
+Q7X8V3	Ensembl:TanjilG_14620 Ensembl:TanjilG_19391 Ensembl:TanjilG_20439 Ensembl:TanjilG_31219 Ensembl:TanjilG_11449
+Q7X993	Ensembl:TanjilG_06659 Ensembl:TanjilG_22352
+Q7XAP2	Ensembl:TanjilG_26632
+Q7XC20	Ensembl:TanjilG_25872
+Q7XDE0	Ensembl:TanjilG_32142 Ensembl:TanjilG_10142
+Q7XE48	Ensembl:TanjilG_11981
+Q7XHL3	Ensembl:TanjilG_27252
+Q7XI67	Ensembl:TanjilG_12143
+Q7XI92	Ensembl:TanjilG_07660
+Q7XI96	Ensembl:TanjilG_14701 Ensembl:TanjilG_12988 Ensembl:TanjilG_01110
+Q7XK23	Ensembl:TanjilG_03791
+Q7XKH9	Ensembl:TanjilG_02805 Ensembl:TanjilG_28488
+Q7XKI0	Ensembl:TanjilG_02805 Ensembl:TanjilG_28488
+Q7XKQ8	Ensembl:TanjilG_29351
+Q7XM21	Ensembl:TanjilG_12896
+Q7XMP7	Ensembl:TanjilG_12933 Ensembl:TanjilG_08213
+Q7XN54	Ensembl:TanjilG_15073 Ensembl:TanjilG_06335 Ensembl:TanjilG_12268
+Q7XNX6	Ensembl:TanjilG_31002
+Q7XPB5	Ensembl:TanjilG_17658 Ensembl:TanjilG_07284 Ensembl:TanjilG_20268
+Q7XPR2	Ensembl:TanjilG_26038 Ensembl:TanjilG_06800
+Q7XPW5	Ensembl:TanjilG_15767
+Q7XQ85	Ensembl:TanjilG_13690 Ensembl:TanjilG_13779
+Q7XRX3	Ensembl:TanjilG_10524
+Q7XTB2	Ensembl:TanjilG_28480
+Q7XTE8	Ensembl:TanjilG_27644
+Q7XTH0	Ensembl:TanjilG_02805 Ensembl:TanjilG_28488
+Q7XTK3	Ensembl:TanjilG_10097 Ensembl:TanjilG_17595
+Q7XTU2	Ensembl:TanjilG_11283
+Q7XUI7	Ensembl:TanjilG_07152 Ensembl:TanjilG_11510 Ensembl:TanjilG_01813
+Q7XV13	Ensembl:TanjilG_20187
+Q7XV42	Ensembl:TanjilG_02805 Ensembl:TanjilG_28488
+Q7XVM8	Ensembl:TanjilG_14064
+Q7XVP0	Ensembl:TanjilG_15818 Ensembl:TanjilG_18357
+Q7XWP9	Ensembl:TanjilG_11531 Ensembl:TanjilG_08106 Ensembl:TanjilG_25205
+Q7XXL2	Ensembl:TanjilG_11640
+Q7XXQ9	Ensembl:TanjilG_14243
+Q7XYS3	Ensembl:TanjilG_15247
+Q7Y0B9	Ensembl:TanjilG_23106 Ensembl:TanjilG_06166 Ensembl:TanjilG_29326
+Q7Y0C8	Ensembl:TanjilG_14676
+Q7Y0Y6	Ensembl:TanjilG_03846 Ensembl:TanjilG_29396
+Q7Y0Y8	Ensembl:TanjilG_03846 Ensembl:TanjilG_29396
+Q7Y152	Ensembl:TanjilG_29148
+Q7Y1H9	Ensembl:TanjilG_18639
+Q7Y1I9	Ensembl:TanjilG_18639
+Q7Y1J1	Ensembl:TanjilG_18639
+Q84J55	Ensembl:TanjilG_02811 Ensembl:TanjilG_12879 Ensembl:TanjilG_12942
+Q84J76	Ensembl:TanjilG_00423 Ensembl:TanjilG_13044 Ensembl:TanjilG_13046 Ensembl:TanjilG_13045 Ensembl:TanjilG_00424
+Q84M43	Ensembl:TanjilG_29372
+Q84NP3	Ensembl:TanjilG_12239 Ensembl:TanjilG_24319
+Q84QC0	Ensembl:TanjilG_19319
+Q84R94	Ensembl:TanjilG_03480
+Q84RS4	Ensembl:TanjilG_24106 Ensembl:TanjilG_25866 Ensembl:TanjilG_25867
+Q84VC7	Ensembl:TanjilG_20902
+Q84YK8	Ensembl:TanjilG_12121
+Q84ZN6	Ensembl:TanjilG_29372
+Q84ZY2	Ensembl:TanjilG_11531 Ensembl:TanjilG_08106 Ensembl:TanjilG_25205
+Q851Z6	Ensembl:TanjilG_21174
+Q852P4	Ensembl:TanjilG_08367
+Q852Q1	Ensembl:TanjilG_29942
+Q8GSD9	Ensembl:TanjilG_25097 Ensembl:TanjilG_02759 Ensembl:TanjilG_01203 Ensembl:TanjilG_23800 Ensembl:TanjilG_23801
+Q8GVN6	Ensembl:TanjilG_15031
+Q8GVZ0	Ensembl:TanjilG_14735 Ensembl:TanjilG_19254 Ensembl:TanjilG_16152
+Q8H016	Ensembl:TanjilG_20187
+Q8H038	Ensembl:TanjilG_32419 Ensembl:TanjilG_27250 Ensembl:TanjilG_04629
+Q8H048	Ensembl:TanjilG_12728 Ensembl:TanjilG_14774
+Q8H051	Ensembl:TanjilG_20548
+Q8H075	Ensembl:TanjilG_32126 Ensembl:TanjilG_30536
+Q8H093	Ensembl:TanjilG_12728 Ensembl:TanjilG_14774
+Q8H0B2	Ensembl:TanjilG_08548 Ensembl:TanjilG_14375 Ensembl:TanjilG_19878 Ensembl:TanjilG_17946
+Q8H273	Ensembl:TanjilG_15252
+Q8H395	Ensembl:TanjilG_03480
+Q8H3Q7	Ensembl:TanjilG_14833
+Q8H4L3	Ensembl:TanjilG_21178 Ensembl:TanjilG_29320 Ensembl:TanjilG_22946
+Q8H530	Ensembl:TanjilG_00404
+Q8H6G8	Ensembl:TanjilG_25097 Ensembl:TanjilG_02759 Ensembl:TanjilG_01203 Ensembl:TanjilG_23800 Ensembl:TanjilG_23801
+Q8H7S6	Ensembl:TanjilG_15224 Ensembl:TanjilG_31566 Ensembl:TanjilG_21932
+Q8H825	Ensembl:TanjilG_11245 Ensembl:TanjilG_28752 Ensembl:TanjilG_11247
+Q8H8U0	Ensembl:TanjilG_18228
+Q8H930	Ensembl:TanjilG_08548 Ensembl:TanjilG_14375 Ensembl:TanjilG_19878 Ensembl:TanjilG_17946
+Q8LHD1	Ensembl:TanjilG_00390
+Q8LMW8	Ensembl:TanjilG_00423 Ensembl:TanjilG_13044 Ensembl:TanjilG_13046 Ensembl:TanjilG_13045 Ensembl:TanjilG_00424
+Q8LNU2	Ensembl:TanjilG_13671
+Q8LR33	Ensembl:TanjilG_25123
+Q8LR75	Ensembl:TanjilG_11319
+Q8LRA0	Ensembl:TanjilG_23060 Ensembl:TanjilG_06342 Ensembl:TanjilG_06343
+Q8RU95	Ensembl:TanjilG_04918
+Q8RV34	Ensembl:TanjilG_29189
+Q8RYL0	Ensembl:TanjilG_08888 Ensembl:TanjilG_23959 Ensembl:TanjilG_20295
+Q8RYL1	Ensembl:TanjilG_08888 Ensembl:TanjilG_23959 Ensembl:TanjilG_20295
+Q8RZZ3	Ensembl:TanjilG_25694 Ensembl:TanjilG_25693
+Q8S0G4	Ensembl:TanjilG_10517 Ensembl:TanjilG_16361
+Q8S2G0	Ensembl:TanjilG_26753 Ensembl:TanjilG_14173
+Q8S3R0	Ensembl:TanjilG_13008 Ensembl:TanjilG_25142
+Q8S5N2	Ensembl:TanjilG_11044
+Q8S7N5	Ensembl:TanjilG_02953
+Q8S7T9	Ensembl:TanjilG_19826
+Q8S919	Ensembl:TanjilG_18255 Ensembl:TanjilG_14078
+Q8S983	Ensembl:TanjilG_08164 Ensembl:TanjilG_17061
+Q8S9S4	Ensembl:TanjilG_13666
+Q8S9Z2	Ensembl:TanjilG_16263
+Q8VWH2	Ensembl:TanjilG_21189
+Q8W1L6	Ensembl:TanjilG_30753 Ensembl:TanjilG_10738
+Q8W3F9	Ensembl:TanjilG_22949 Ensembl:TanjilG_17966
+Q8W3J0	Ensembl:TanjilG_11311
+Q93WI9	Ensembl:TanjilG_21189
+Q93X08	Ensembl:TanjilG_22692
+Q93Y73	Ensembl:TanjilG_21935 Ensembl:TanjilG_10076 Ensembl:TanjilG_31561
+Q941W8	Ensembl:TanjilG_12802 Ensembl:TanjilG_19252
+Q943R3	Ensembl:TanjilG_22287
+Q948T6	Ensembl:TanjilG_27316 Ensembl:TanjilG_23749 Ensembl:TanjilG_00589 Ensembl:TanjilG_06805
+Q94CU3	Ensembl:TanjilG_10823
+Q94E75	Ensembl:TanjilG_10826 Ensembl:TanjilG_10827
+Q94EE9	Ensembl:TanjilG_30519
+Q94HG3	Ensembl:TanjilG_14652
+Q94HG6	Ensembl:TanjilG_03807
+Q94J08	Ensembl:TanjilG_24249
+Q94JA2	Ensembl:TanjilG_22706 Ensembl:TanjilG_15184
+Q94JJ0	Ensembl:TanjilG_25115 Ensembl:TanjilG_15831
+Q94LU9	Ensembl:TanjilG_24529
+Q9ASD3	Ensembl:TanjilG_28264
+Q9ASP4	Ensembl:TanjilG_29159
+Q9AUQ4	Ensembl:TanjilG_29226
+Q9AV71	Ensembl:TanjilG_15037
+Q9AWL7	Ensembl:TanjilG_25070
+Q9AY73	Ensembl:TanjilG_09160 Ensembl:TanjilG_07264 Ensembl:TanjilG_19586 Ensembl:TanjilG_14386
+Q9FE35	Ensembl:TanjilG_22278
+Q9FRX7	Ensembl:TanjilG_15773 Ensembl:TanjilG_16584
+Q9FTR6	Ensembl:TanjilG_08843
+Q9FTZ2	Ensembl:TanjilG_22310
+Q9FU17	Ensembl:TanjilG_11340 Ensembl:TanjilG_18266
+Q9FU67	Ensembl:TanjilG_00562 Ensembl:TanjilG_00560 Ensembl:TanjilG_20461 Ensembl:TanjilG_20462
+Q9FU68	Ensembl:TanjilG_00562 Ensembl:TanjilG_00560 Ensembl:TanjilG_20461 Ensembl:TanjilG_20462
+Q9FU69	Ensembl:TanjilG_00562 Ensembl:TanjilG_00560 Ensembl:TanjilG_20461 Ensembl:TanjilG_20462
+Q9FWK4	Ensembl:TanjilG_30780
+Q9LDB7	Ensembl:TanjilG_07254
+Q9LGL5	Ensembl:TanjilG_12161 Ensembl:TanjilG_10837
+Q9LHZ7	Ensembl:TanjilG_22949 Ensembl:TanjilG_17966
+Q9LRI6	Ensembl:TanjilG_15773 Ensembl:TanjilG_16584
+Q9LWU9	Ensembl:TanjilG_28674 Ensembl:TanjilG_28675 Ensembl:TanjilG_15336
+Q9S7D3	Ensembl:TanjilG_14568
+Q9SDG5	Ensembl:TanjilG_27888
+Q9SE42	Ensembl:TanjilG_13615 Ensembl:TanjilG_14579
+Q9SMB1	Ensembl:TanjilG_31245
+Q9SNK3	Ensembl:TanjilG_05398
+Q9XEA6	Ensembl:TanjilG_29284 Ensembl:TanjilG_22972 Ensembl:TanjilG_26469
+Q9XEA8	Ensembl:TanjilG_29284 Ensembl:TanjilG_22972 Ensembl:TanjilG_26469
+Q9XHL5	Ensembl:TanjilG_16528 Ensembl:TanjilG_03780
+Q9XJ60	Ensembl:TanjilG_11090
+UPI00000AA151	Ensembl:TanjilG_07254
+UPI0001C7A9C3	Ensembl:TanjilG_20474 Ensembl:TanjilG_19773

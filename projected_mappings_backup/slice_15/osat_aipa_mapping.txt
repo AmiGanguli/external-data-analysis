@@ -1,0 +1,957 @@
+A2X747	PeanutBase_Ai:Araip.NXK65
+A2XPN8	PeanutBase_Ai:Araip.J63ZS
+A2Y626	PeanutBase_Ai:Araip.QP8NM
+A2Y8A8	PeanutBase_Ai:Araip.MW4Q1
+A2ZRY8	PeanutBase_Ai:Araip.C7PJE PeanutBase_Ai:Araip.E246G
+A2ZW27	PeanutBase_Ai:Araip.EQC7X PeanutBase_Ai:Araip.7CU0A
+A2ZWY3	PeanutBase_Ai:Araip.M724S PeanutBase_Ai:Araip.QK802
+A2ZWY7	PeanutBase_Ai:Araip.M724S PeanutBase_Ai:Araip.QK802
+A3AAR2	PeanutBase_Ai:Araip.66UUH
+A3AQC6	PeanutBase_Ai:Araip.43Q6Z
+A3AZW5	PeanutBase_Ai:Araip.KW9RM
+A3B7R7	PeanutBase_Ai:Araip.JY2CI PeanutBase_Ai:Araip.M5K02
+A3B9A0	PeanutBase_Ai:Araip.F8CZF
+A3BIR7	PeanutBase_Ai:Araip.EI53N PeanutBase_Ai:Araip.50B5X PeanutBase_Ai:Araip.VSW8B PeanutBase_Ai:Araip.WJ7SC PeanutBase_Ai:Araip.13H0V PeanutBase_Ai:Araip.88UBN PeanutBase_Ai:Araip.HFE2S PeanutBase_Ai:Araip.3F7K7 PeanutBase_Ai:Araip.XWP57
+A3BJI8	PeanutBase_Ai:Araip.R89HK PeanutBase_Ai:Araip.R6JKD
+A3C4N5	PeanutBase_Ai:Araip.DRA2Q
+A3C6G9	PeanutBase_Ai:Araip.Z8EH3 PeanutBase_Ai:Araip.93H02
+A4LBC0	PeanutBase_Ai:Araip.45RHI
+B7E8M5	PeanutBase_Ai:Araip.8H7DJ PeanutBase_Ai:Araip.L8RA6
+B7EA04	PeanutBase_Ai:Araip.Q8CS4
+B7EJ81	PeanutBase_Ai:Araip.42MZK
+B7ERE7	PeanutBase_Ai:Araip.AJC62 PeanutBase_Ai:Araip.01NMU
+B7F4K3	PeanutBase_Ai:Araip.XEM8X PeanutBase_Ai:Araip.K2V89
+B7F7B9	PeanutBase_Ai:Araip.TIT4D
+B7F8T0	PeanutBase_Ai:Araip.M3EG0
+B7F9K3	PeanutBase_Ai:Araip.XEM8X PeanutBase_Ai:Araip.K2V89
+B7FA34	PeanutBase_Ai:Araip.VD3IG PeanutBase_Ai:Araip.S8PXH
+B7FA90	PeanutBase_Ai:Araip.Y3ELL
+B7FA99	PeanutBase_Ai:Araip.IE0US PeanutBase_Ai:Araip.WGE5V
+B7FAE9	PeanutBase_Ai:Araip.1U9LQ
+B7FAP2	PeanutBase_Ai:Araip.LUT50 PeanutBase_Ai:Araip.M83DH PeanutBase_Ai:Araip.PJ8WT PeanutBase_Ai:Araip.JFJ1E
+B8AG62	PeanutBase_Ai:Araip.ET47Y
+B8AHI9	PeanutBase_Ai:Araip.HKY4A
+B8AZ97	PeanutBase_Ai:Araip.WEU8D
+B8B8K7	PeanutBase_Ai:Araip.93XAK
+B8BB38	PeanutBase_Ai:Araip.I1474 PeanutBase_Ai:Araip.P73AY
+B8BF84	PeanutBase_Ai:Araip.UK5PE PeanutBase_Ai:Araip.GGW4P
+B9EUK4	PeanutBase_Ai:Araip.QQ6TU PeanutBase_Ai:Araip.NW1RI
+B9EXM2	PeanutBase_Ai:Araip.B0R7Q PeanutBase_Ai:Araip.63HA5 PeanutBase_Ai:Araip.G8H3T
+B9F3B6	PeanutBase_Ai:Araip.0WG3G
+B9FDB8	PeanutBase_Ai:Araip.WA4T8
+B9FM98	PeanutBase_Ai:Araip.W2EMV
+B9FML1	PeanutBase_Ai:Araip.Q71DN
+B9FRT6	PeanutBase_Ai:Araip.P8SRT
+B9FYX6	PeanutBase_Ai:Araip.106SN PeanutBase_Ai:Araip.QPC3V
+B9FZ46	PeanutBase_Ai:Araip.MW4Q1
+B9G3A7	PeanutBase_Ai:Araip.T3TTQ PeanutBase_Ai:Araip.IXA08 PeanutBase_Ai:Araip.C6PK9
+C7IYK7	PeanutBase_Ai:Araip.IE0US PeanutBase_Ai:Araip.WGE5V
+C7J0P3	PeanutBase_Ai:Araip.H2VQG
+C7J5F5	PeanutBase_Ai:Araip.RL9T9
+C7J5T9	PeanutBase_Ai:Araip.RL9T9
+H6TFZ4	PeanutBase_Ai:Araip.51VQE PeanutBase_Ai:Araip.GD7TV
+I1QJ08	PeanutBase_Ai:Araip.AML9J
+I1QQP8	PeanutBase_Ai:Araip.X8LEZ
+I3QK18	PeanutBase_Ai:Araip.4H03X
+O04226	PeanutBase_Ai:Araip.SH7ZE PeanutBase_Ai:Araip.AZ4G5 PeanutBase_Ai:Araip.89D00
+O04882	PeanutBase_Ai:Araip.5G2GL
+O22105	PeanutBase_Ai:Araip.23LJ8 PeanutBase_Ai:Araip.Q799J
+O22567	PeanutBase_Ai:Araip.337EV PeanutBase_Ai:Araip.NL7BI
+O24174	PeanutBase_Ai:Araip.A9KM0
+O24210	PeanutBase_Ai:Araip.PC2P2
+O64422	PeanutBase_Ai:Araip.X8GX1
+O64437	PeanutBase_Ai:Araip.D5HYW
+O82117	PeanutBase_Ai:Araip.PEC40 PeanutBase_Ai:Araip.VYF9M
+O82427	PeanutBase_Ai:Araip.QF1TG
+P0C128	PeanutBase_Ai:Araip.60Q0E
+P0C132	PeanutBase_Ai:Araip.1ML5Q
+P0C587	PeanutBase_Ai:Araip.42EJ9 PeanutBase_Ai:Araip.816XH
+P0C5A4	PeanutBase_Ai:Araip.84L6B
+P14654	PeanutBase_Ai:Araip.T9T6I PeanutBase_Ai:Araip.74N1T
+P14655	PeanutBase_Ai:Araip.UL2GU PeanutBase_Ai:Araip.91947
+P14656	PeanutBase_Ai:Araip.T9T6I PeanutBase_Ai:Araip.74N1T
+P16081	PeanutBase_Ai:Araip.YBR8J
+P17784	PeanutBase_Ai:Araip.50KT8 PeanutBase_Ai:Araip.5H15X PeanutBase_Ai:Araip.D7597 PeanutBase_Ai:Araip.XS0WA
+P17814	PeanutBase_Ai:Araip.W68C4 PeanutBase_Ai:Araip.U6BJT
+P18566	PeanutBase_Ai:Araip.J7KW7 PeanutBase_Ai:Araip.6H8MY PeanutBase_Ai:Araip.805EH
+P30298	PeanutBase_Ai:Araip.PGB0K PeanutBase_Ai:Araip.3BD5B
+P31924	PeanutBase_Ai:Araip.PGB0K PeanutBase_Ai:Araip.3BD5B
+P37833	PeanutBase_Ai:Araip.BWI4H
+P38419	PeanutBase_Ai:Araip.HGI2J
+P42862	PeanutBase_Ai:Araip.9J6PN
+P42863	PeanutBase_Ai:Araip.9J6PN
+P48642	PeanutBase_Ai:Araip.11YG0 PeanutBase_Ai:Araip.N2IYE
+P93438	PeanutBase_Ai:Araip.XJS45 PeanutBase_Ai:Araip.R525U PeanutBase_Ai:Araip.WCF75
+Q01KF3	PeanutBase_Ai:Araip.050BY PeanutBase_Ai:Araip.47BGG
+Q01M39	PeanutBase_Ai:Araip.BD09A PeanutBase_Ai:Araip.MB0R5 PeanutBase_Ai:Araip.GP5MB PeanutBase_Ai:Araip.HES22 PeanutBase_Ai:Araip.E6A3D
+Q05JG2	PeanutBase_Ai:Araip.FMC77 PeanutBase_Ai:Araip.BYM6A
+Q06967	PeanutBase_Ai:Araip.VD0Z2 PeanutBase_Ai:Araip.QBG6Y
+Q0D3B6	PeanutBase_Ai:Araip.7Y47H
+Q0D3D2	PeanutBase_Ai:Araip.K5YKI PeanutBase_Ai:Araip.W0VC8
+Q0D3F2	PeanutBase_Ai:Araip.V8DUY
+Q0D4G3	PeanutBase_Ai:Araip.M4FLV
+Q0D759	PeanutBase_Ai:Araip.EI53N PeanutBase_Ai:Araip.50B5X PeanutBase_Ai:Araip.VSW8B PeanutBase_Ai:Araip.WJ7SC PeanutBase_Ai:Araip.13H0V PeanutBase_Ai:Araip.88UBN PeanutBase_Ai:Araip.HFE2S PeanutBase_Ai:Araip.3F7K7 PeanutBase_Ai:Araip.XWP57
+Q0D7E4	PeanutBase_Ai:Araip.4SP4E PeanutBase_Ai:Araip.N8Y9E PeanutBase_Ai:Araip.V0BSS
+Q0D7I3	PeanutBase_Ai:Araip.V2S44
+Q0D7W4	PeanutBase_Ai:Araip.B03KK
+Q0D8I9	PeanutBase_Ai:Araip.00YKD PeanutBase_Ai:Araip.5FQ26
+Q0D980	PeanutBase_Ai:Araip.L6WEG
+Q0DA35	PeanutBase_Ai:Araip.U0KNB PeanutBase_Ai:Araip.NZ7RX
+Q0DAA4	PeanutBase_Ai:Araip.8F4W7 PeanutBase_Ai:Araip.3M2P9
+Q0DBD3	PeanutBase_Ai:Araip.K9ABC
+Q0DBF4	PeanutBase_Ai:Araip.5I87W PeanutBase_Ai:Araip.447R4
+Q0DBN4	PeanutBase_Ai:Araip.S985N
+Q0DCE9	PeanutBase_Ai:Araip.P4FY7 PeanutBase_Ai:Araip.26B5V
+Q0DDS1	PeanutBase_Ai:Araip.H0IV1 PeanutBase_Ai:Araip.IAX0I
+Q0DEC8	PeanutBase_Ai:Araip.AJZ7U
+Q0DG35	PeanutBase_Ai:Araip.XIB07 PeanutBase_Ai:Araip.A7VDE
+Q0DGG8	PeanutBase_Ai:Araip.H07NM PeanutBase_Ai:Araip.H8NH2
+Q0DHF6	PeanutBase_Ai:Araip.K5YKI PeanutBase_Ai:Araip.W0VC8
+Q0DJJ9	PeanutBase_Ai:Araip.WT4L7
+Q0DJT2	PeanutBase_Ai:Araip.Z929U
+Q0DKE8	PeanutBase_Ai:Araip.99IZA PeanutBase_Ai:Araip.PIE3L PeanutBase_Ai:Araip.0Y594 PeanutBase_Ai:Araip.10SVB
+Q0DKP3	PeanutBase_Ai:Araip.0E25I
+Q0DKY4	PeanutBase_Ai:Araip.XJS45 PeanutBase_Ai:Araip.R525U PeanutBase_Ai:Araip.WCF75
+Q0DNU1	PeanutBase_Ai:Araip.UP4N0
+Q0DS76	PeanutBase_Ai:Araip.59YT6
+Q0DSM1	PeanutBase_Ai:Araip.H2VQG
+Q0DV32	PeanutBase_Ai:Araip.QM7IV
+Q0DWC7	PeanutBase_Ai:Araip.T94IA PeanutBase_Ai:Araip.07W64
+Q0DWF2	PeanutBase_Ai:Araip.D9T95
+Q0DWH1	PeanutBase_Ai:Araip.GJ7LV PeanutBase_Ai:Araip.10CFZ
+Q0DXA9	PeanutBase_Ai:Araip.F5HBK PeanutBase_Ai:Araip.R7UJS PeanutBase_Ai:Araip.GJ2VW
+Q0DY86	PeanutBase_Ai:Araip.F09QG
+Q0DYK7	PeanutBase_Ai:Araip.T1IDG
+Q0DZE0	PeanutBase_Ai:Araip.69J63 PeanutBase_Ai:Araip.P78H4
+Q0E2P1	PeanutBase_Ai:Araip.VES4J PeanutBase_Ai:Araip.SI5FX
+Q0E2P9	PeanutBase_Ai:Araip.M724S PeanutBase_Ai:Araip.QK802
+Q0E2X2	PeanutBase_Ai:Araip.CSX4W PeanutBase_Ai:Araip.V2JWX PeanutBase_Ai:Araip.0FY9Y PeanutBase_Ai:Araip.H41HP
+Q0E3F2	PeanutBase_Ai:Araip.RQ0DI
+Q0E3J1	PeanutBase_Ai:Araip.8F4W7 PeanutBase_Ai:Araip.3M2P9
+Q0E3L4	PeanutBase_Ai:Araip.2U0RL
+Q0E4F0	PeanutBase_Ai:Araip.GLA2R
+Q0E4N2	PeanutBase_Ai:Araip.ET47Y
+Q0ILP7	PeanutBase_Ai:Araip.YE9C6
+Q0INY7	PeanutBase_Ai:Araip.J7KW7 PeanutBase_Ai:Araip.6H8MY PeanutBase_Ai:Araip.805EH
+Q0INZ4	PeanutBase_Ai:Araip.4N7WF
+Q0IPE5	PeanutBase_Ai:Araip.JTN8C
+Q0IQ89	PeanutBase_Ai:Araip.L3BR1 PeanutBase_Ai:Araip.MDG2Y
+Q0IQQ5	PeanutBase_Ai:Araip.0P8HA PeanutBase_Ai:Araip.44JSI
+Q0IRE6	PeanutBase_Ai:Araip.FW6PM
+Q0IS70	PeanutBase_Ai:Araip.IE0US PeanutBase_Ai:Araip.WGE5V
+Q0ITU1	PeanutBase_Ai:Araip.425B7
+Q0ITW7	PeanutBase_Ai:Araip.6U9BD PeanutBase_Ai:Araip.V4D1L PeanutBase_Ai:Araip.92JG3
+Q0IZJ9	PeanutBase_Ai:Araip.EE4U2 PeanutBase_Ai:Araip.1MT39
+Q0IZS0	PeanutBase_Ai:Araip.M02FS
+Q0IZX5	PeanutBase_Ai:Araip.5S0ML
+Q0J0L4	PeanutBase_Ai:Araip.RP235 PeanutBase_Ai:Araip.02Z8U
+Q0J0M8	PeanutBase_Ai:Araip.BM7DX
+Q0J0N3	PeanutBase_Ai:Araip.R83H8 PeanutBase_Ai:Araip.EV8CZ
+Q0J185	PeanutBase_Ai:Araip.FMC77 PeanutBase_Ai:Araip.BYM6A
+Q0J1C1	PeanutBase_Ai:Araip.P6KBN
+Q0J1E1	PeanutBase_Ai:Araip.Z52VV
+Q0J270	PeanutBase_Ai:Araip.9BQ78
+Q0J2L7	PeanutBase_Ai:Araip.CC2EP
+Q0J5Y4	PeanutBase_Ai:Araip.QA4T6 PeanutBase_Ai:Araip.9U7K5
+Q0J7P4	PeanutBase_Ai:Araip.70T8A
+Q0J8A4	PeanutBase_Ai:Araip.4K0TW PeanutBase_Ai:Araip.W4V3G
+Q0J951	PeanutBase_Ai:Araip.5Z0QI PeanutBase_Ai:Araip.P08LA PeanutBase_Ai:Araip.8FI38
+Q0J9F2	PeanutBase_Ai:Araip.5G2GL
+Q0J9K2	PeanutBase_Ai:Araip.AS7RV
+Q0J9Z0	PeanutBase_Ai:Araip.68K5U PeanutBase_Ai:Araip.DDD6V
+Q0JA81	PeanutBase_Ai:Araip.7D7PZ
+Q0JA82	PeanutBase_Ai:Araip.7D7PZ
+Q0JAI1	PeanutBase_Ai:Araip.7P1LT PeanutBase_Ai:Araip.T09RD
+Q0JB49	PeanutBase_Ai:Araip.GY43F
+Q0JB91	PeanutBase_Ai:Araip.AW369 PeanutBase_Ai:Araip.W08NK
+Q0JB99	PeanutBase_Ai:Araip.B5DCI
+Q0JBF1	PeanutBase_Ai:Araip.RKE1H PeanutBase_Ai:Araip.28YBL
+Q0JC10	PeanutBase_Ai:Araip.6VN5N PeanutBase_Ai:Araip.24S3M PeanutBase_Ai:Araip.PG020
+Q0JCU7	PeanutBase_Ai:Araip.P4XMZ PeanutBase_Ai:Araip.320GW
+Q0JCZ4	PeanutBase_Ai:Araip.K2L1V PeanutBase_Ai:Araip.B6JY4
+Q0JDF7	PeanutBase_Ai:Araip.EE4U2 PeanutBase_Ai:Araip.1MT39
+Q0JDN5	PeanutBase_Ai:Araip.M6J1J
+Q0JDT1	PeanutBase_Ai:Araip.YJ8QA
+Q0JE53	PeanutBase_Ai:Araip.BD09A PeanutBase_Ai:Araip.MB0R5 PeanutBase_Ai:Araip.GP5MB PeanutBase_Ai:Araip.HES22 PeanutBase_Ai:Araip.E6A3D
+Q0JEK1	PeanutBase_Ai:Araip.RZ21P PeanutBase_Ai:Araip.C4FV5 PeanutBase_Ai:Araip.Q5FBC
+Q0JEP5	PeanutBase_Ai:Araip.M6JV5 PeanutBase_Ai:Araip.4EF42
+Q0JEZ8	PeanutBase_Ai:Araip.7D7PZ
+Q0JF25	PeanutBase_Ai:Araip.RIZ14 PeanutBase_Ai:Araip.R5BQR PeanutBase_Ai:Araip.Y205N PeanutBase_Ai:Araip.4L730 PeanutBase_Ai:Araip.7YT59 PeanutBase_Ai:Araip.S175R PeanutBase_Ai:Araip.67S5I PeanutBase_Ai:Araip.B0BC2 PeanutBase_Ai:Araip.GEY51
+Q0JF26	PeanutBase_Ai:Araip.RIZ14 PeanutBase_Ai:Araip.R5BQR PeanutBase_Ai:Araip.Y205N PeanutBase_Ai:Araip.4L730 PeanutBase_Ai:Araip.7YT59 PeanutBase_Ai:Araip.S175R PeanutBase_Ai:Araip.67S5I PeanutBase_Ai:Araip.B0BC2 PeanutBase_Ai:Araip.GEY51
+Q0JF30	PeanutBase_Ai:Araip.T94IA PeanutBase_Ai:Araip.07W64
+Q0JIC2	PeanutBase_Ai:Araip.WVE7Q PeanutBase_Ai:Araip.0279H
+Q0JIR6	PeanutBase_Ai:Araip.D3HL4 PeanutBase_Ai:Araip.TQ6WC
+Q0JJ01	PeanutBase_Ai:Araip.X6QYG
+Q0JJI1	PeanutBase_Ai:Araip.IA76A
+Q0JJV0	PeanutBase_Ai:Araip.6ME1P PeanutBase_Ai:Araip.VH9A8
+Q0JK57	PeanutBase_Ai:Araip.VD3IG PeanutBase_Ai:Araip.S8PXH
+Q0JKD0	PeanutBase_Ai:Araip.XIB07 PeanutBase_Ai:Araip.A7VDE
+Q0JKG7	PeanutBase_Ai:Araip.BNQ7D PeanutBase_Ai:Araip.9V8AS PeanutBase_Ai:Araip.47NV6
+Q0JKI9	PeanutBase_Ai:Araip.E2SK1 PeanutBase_Ai:Araip.6YN2V
+Q0JKY8	PeanutBase_Ai:Araip.2T0SC
+Q0JLT2	PeanutBase_Ai:Araip.VK5KG PeanutBase_Ai:Araip.2F21P PeanutBase_Ai:Araip.BVW1D
+Q0JPT4	PeanutBase_Ai:Araip.WT200 PeanutBase_Ai:Araip.FB29M
+Q0JQ41	PeanutBase_Ai:Araip.Q09G2 PeanutBase_Ai:Araip.FI0I1
+Q0JR55	PeanutBase_Ai:Araip.V7BYX
+Q0JRG4	PeanutBase_Ai:Araip.AMY2F PeanutBase_Ai:Araip.JL1D7 PeanutBase_Ai:Araip.6K5T9
+Q109F2	PeanutBase_Ai:Araip.T9LT0
+Q109K4	PeanutBase_Ai:Araip.MGE8C PeanutBase_Ai:Araip.2S1IF PeanutBase_Ai:Araip.YQW33
+Q109W9	PeanutBase_Ai:Araip.MGE8C PeanutBase_Ai:Araip.2S1IF PeanutBase_Ai:Araip.YQW33
+Q10A30	PeanutBase_Ai:Araip.50KT8 PeanutBase_Ai:Araip.5H15X PeanutBase_Ai:Araip.D7597 PeanutBase_Ai:Araip.XS0WA
+Q10B63	PeanutBase_Ai:Araip.6YJ7D
+Q10BA5	PeanutBase_Ai:Araip.M878W
+Q10BT5	PeanutBase_Ai:Araip.DRA2Q
+Q10BX9	PeanutBase_Ai:Araip.V7QJP
+Q10CE4	PeanutBase_Ai:Araip.S6Q95 PeanutBase_Ai:Araip.H6WCB
+Q10CQ1	PeanutBase_Ai:Araip.166TL
+Q10CS9	PeanutBase_Ai:Araip.AR1NP
+Q10CU7	PeanutBase_Ai:Araip.F53Y0 PeanutBase_Ai:Araip.ZZ5S6 PeanutBase_Ai:Araip.KS91F
+Q10D34	PeanutBase_Ai:Araip.1ML5Q
+Q10D68	PeanutBase_Ai:Araip.JTL29 PeanutBase_Ai:Araip.9M15N
+Q10D87	PeanutBase_Ai:Araip.VKG16 PeanutBase_Ai:Araip.R3S6C
+Q10DK7	PeanutBase_Ai:Araip.JB6HG PeanutBase_Ai:Araip.2S9Y0
+Q10DU0	PeanutBase_Ai:Araip.K62H2 PeanutBase_Ai:Araip.HY5UP
+Q10DZ5	PeanutBase_Ai:Araip.HGI6C
+Q10E50	PeanutBase_Ai:Araip.20VGU
+Q10EG4	PeanutBase_Ai:Araip.00YKD PeanutBase_Ai:Araip.5FQ26
+Q10F04	PeanutBase_Ai:Araip.UMN58
+Q10F25	PeanutBase_Ai:Araip.UP4N0
+Q10FE9	PeanutBase_Ai:Araip.C0HWJ PeanutBase_Ai:Araip.137SM
+Q10G56	PeanutBase_Ai:Araip.0WM4W
+Q10HZ6	PeanutBase_Ai:Araip.RIZ14 PeanutBase_Ai:Araip.R5BQR PeanutBase_Ai:Araip.Y205N PeanutBase_Ai:Araip.4L730 PeanutBase_Ai:Araip.7YT59 PeanutBase_Ai:Araip.S175R PeanutBase_Ai:Araip.67S5I PeanutBase_Ai:Araip.B0BC2 PeanutBase_Ai:Araip.GEY51
+Q10J20	PeanutBase_Ai:Araip.50H5N
+Q10J32	PeanutBase_Ai:Araip.TB3VB
+Q10JI3	PeanutBase_Ai:Araip.PKX1N PeanutBase_Ai:Araip.D15G9
+Q10L50	PeanutBase_Ai:Araip.7RN1R
+Q10L51	PeanutBase_Ai:Araip.CSX4W PeanutBase_Ai:Araip.V2JWX PeanutBase_Ai:Araip.0FY9Y PeanutBase_Ai:Araip.H41HP
+Q10L56	PeanutBase_Ai:Araip.8AM62 PeanutBase_Ai:Araip.PBK8S
+Q10LP5	PeanutBase_Ai:Araip.PGB0K PeanutBase_Ai:Araip.3BD5B
+Q10LR4	PeanutBase_Ai:Araip.WEU8D
+Q10LR5	PeanutBase_Ai:Araip.ZJ1TJ
+Q10MB0	PeanutBase_Ai:Araip.L3NWH PeanutBase_Ai:Araip.SRA93 PeanutBase_Ai:Araip.40N3F PeanutBase_Ai:Araip.NEM14
+Q10MB4	PeanutBase_Ai:Araip.W7HYQ PeanutBase_Ai:Araip.KHB2Z PeanutBase_Ai:Araip.N0GNU PeanutBase_Ai:Araip.76FEY
+Q10ME8	PeanutBase_Ai:Araip.7YJ0B
+Q10MG9	PeanutBase_Ai:Araip.BH6DK
+Q10MK5	PeanutBase_Ai:Araip.XE7B2
+Q10MQ2	PeanutBase_Ai:Araip.CD8S3
+Q10MW3	PeanutBase_Ai:Araip.K5YKI PeanutBase_Ai:Araip.W0VC8
+Q10MX3	PeanutBase_Ai:Araip.R6G70 PeanutBase_Ai:Araip.NB6VC
+Q10MX9	PeanutBase_Ai:Araip.U63A7 PeanutBase_Ai:Araip.92Q2X
+Q10N17	PeanutBase_Ai:Araip.7F9AX
+Q10N34	PeanutBase_Ai:Araip.7Y47H
+Q10NY1	PeanutBase_Ai:Araip.4I954
+Q10NY2	PeanutBase_Ai:Araip.RF30U PeanutBase_Ai:Araip.43XHM
+Q10P01	PeanutBase_Ai:Araip.41W37 PeanutBase_Ai:Araip.1AP9K
+Q10P67	PeanutBase_Ai:Araip.NZ168
+Q10PL0	PeanutBase_Ai:Araip.DQ8EI
+Q10PY7	PeanutBase_Ai:Araip.HG9T7 PeanutBase_Ai:Araip.XXH4Z
+Q10QA5	PeanutBase_Ai:Araip.S3VSZ
+Q10QN3	PeanutBase_Ai:Araip.7H6FH
+Q10QR9	PeanutBase_Ai:Araip.S6NXI
+Q10S34	PeanutBase_Ai:Araip.3J27X PeanutBase_Ai:Araip.R1DVQ
+Q10S55	PeanutBase_Ai:Araip.BC99A
+Q10S58	PeanutBase_Ai:Araip.JN8SQ PeanutBase_Ai:Araip.L1QD7
+Q10S72	PeanutBase_Ai:Araip.TT0ZZ
+Q10SD6	PeanutBase_Ai:Araip.8PP7H
+Q10SL7	PeanutBase_Ai:Araip.VD7Y0
+Q10SM6	PeanutBase_Ai:Araip.8H7DJ PeanutBase_Ai:Araip.L8RA6
+Q10SP1	PeanutBase_Ai:Araip.CW1SE
+Q10SU1	PeanutBase_Ai:Araip.15P00 PeanutBase_Ai:Araip.Y68AR
+Q10T43	PeanutBase_Ai:Araip.L1237
+Q25AR2	PeanutBase_Ai:Araip.L07W2 PeanutBase_Ai:Araip.AQ4IP
+Q2KNB4	PeanutBase_Ai:Araip.JG9W3 PeanutBase_Ai:Araip.08Q1S
+Q2KNB5	PeanutBase_Ai:Araip.JG9W3 PeanutBase_Ai:Araip.08Q1S
+Q2MJA7	PeanutBase_Ai:Araip.R83H8 PeanutBase_Ai:Araip.EV8CZ
+Q2MJA8	PeanutBase_Ai:Araip.R83H8 PeanutBase_Ai:Araip.EV8CZ
+Q2QLJ0	PeanutBase_Ai:Araip.19Q4A PeanutBase_Ai:Araip.FRJ8B
+Q2QLY5	PeanutBase_Ai:Araip.2LM92 PeanutBase_Ai:Araip.XM4LL
+Q2QM47	PeanutBase_Ai:Araip.3FA1A PeanutBase_Ai:Araip.Z6T03
+Q2QM83	PeanutBase_Ai:Araip.9D3W1 PeanutBase_Ai:Araip.EX9I5
+Q2QMD4	PeanutBase_Ai:Araip.D44CN
+Q2QME6	PeanutBase_Ai:Araip.87B80 PeanutBase_Ai:Araip.PNY1B
+Q2QMK8	PeanutBase_Ai:Araip.L1JCR
+Q2QN06	PeanutBase_Ai:Araip.JJU0M
+Q2QN58	PeanutBase_Ai:Araip.3R87M PeanutBase_Ai:Araip.V4QTU
+Q2QN88	PeanutBase_Ai:Araip.2V2W4
+Q2QNF7	PeanutBase_Ai:Araip.V3FK8
+Q2QNM6	PeanutBase_Ai:Araip.D6PZJ
+Q2QNM9	PeanutBase_Ai:Araip.VN0A4
+Q2QNN5	PeanutBase_Ai:Araip.HGI2J
+Q2QNS6	PeanutBase_Ai:Araip.5Y8KI
+Q2QPI2	PeanutBase_Ai:Araip.FW6PM
+Q2QPR0	PeanutBase_Ai:Araip.69J63 PeanutBase_Ai:Araip.P78H4
+Q2QQ60	PeanutBase_Ai:Araip.W2EMV
+Q2QQJ5	PeanutBase_Ai:Araip.7D7PZ
+Q2QQX6	PeanutBase_Ai:Araip.K2L1V PeanutBase_Ai:Araip.B6JY4
+Q2QR54	PeanutBase_Ai:Araip.08T0E PeanutBase_Ai:Araip.QY8DX PeanutBase_Ai:Araip.3A0WE
+Q2QRX6	PeanutBase_Ai:Araip.YA1SW PeanutBase_Ai:Araip.253WZ
+Q2QS13	PeanutBase_Ai:Araip.Q9BYH
+Q2QS14	PeanutBase_Ai:Araip.Q9BYH
+Q2QTJ1	PeanutBase_Ai:Araip.J7KW7 PeanutBase_Ai:Araip.6H8MY PeanutBase_Ai:Araip.805EH
+Q2QTL0	PeanutBase_Ai:Araip.UIW35
+Q2QTQ1	PeanutBase_Ai:Araip.164TB
+Q2QUG4	PeanutBase_Ai:Araip.5BR7G
+Q2QUI0	PeanutBase_Ai:Araip.FW6PM
+Q2QVC1	PeanutBase_Ai:Araip.ZW9IU
+Q2QWK9	PeanutBase_Ai:Araip.3HM5S
+Q2QWV7	PeanutBase_Ai:Araip.M3EG0
+Q2QX49	PeanutBase_Ai:Araip.493E4
+Q2QX58	PeanutBase_Ai:Araip.L85CE
+Q2QXB1	PeanutBase_Ai:Araip.1B6QA
+Q2QXL0	PeanutBase_Ai:Araip.1FG0Z
+Q2QXP0	PeanutBase_Ai:Araip.H2VQG
+Q2QXY1	PeanutBase_Ai:Araip.9J3MN
+Q2QXY9	PeanutBase_Ai:Araip.0XA60
+Q2QXZ1	PeanutBase_Ai:Araip.XK0C1
+Q2QY63	PeanutBase_Ai:Araip.B9BSS
+Q2QYB7	PeanutBase_Ai:Araip.LJ1YI
+Q2QYW4	PeanutBase_Ai:Araip.U63A7 PeanutBase_Ai:Araip.92Q2X
+Q2QZ14	PeanutBase_Ai:Araip.MPH2C PeanutBase_Ai:Araip.GT0MC
+Q2QZT9	PeanutBase_Ai:Araip.4U8SK
+Q2R1G8	PeanutBase_Ai:Araip.7QP65
+Q2R1L4	PeanutBase_Ai:Araip.VHD9K
+Q2R2W1	PeanutBase_Ai:Araip.TEJ1Y
+Q2R2W2	PeanutBase_Ai:Araip.VD0Z2 PeanutBase_Ai:Araip.QBG6Y
+Q2R2W3	PeanutBase_Ai:Araip.20VGU
+Q2R2W8	PeanutBase_Ai:Araip.L0D82
+Q2R339	PeanutBase_Ai:Araip.0W7EI
+Q2R3A1	PeanutBase_Ai:Araip.JD11C
+Q2R3F5	PeanutBase_Ai:Araip.K2L1V PeanutBase_Ai:Araip.B6JY4
+Q2R3K3	PeanutBase_Ai:Araip.58Y3G
+Q2R3K5	PeanutBase_Ai:Araip.0E25I
+Q2R3Y4	PeanutBase_Ai:Araip.493E4
+Q2R432	PeanutBase_Ai:Araip.D0ST6
+Q2R481	PeanutBase_Ai:Araip.YA1SW PeanutBase_Ai:Araip.253WZ
+Q2R8T7	PeanutBase_Ai:Araip.G989A PeanutBase_Ai:Araip.RX4DL
+Q2RA11	PeanutBase_Ai:Araip.493E4
+Q2RAM8	PeanutBase_Ai:Araip.LUT50 PeanutBase_Ai:Araip.M83DH PeanutBase_Ai:Araip.PJ8WT PeanutBase_Ai:Araip.JFJ1E
+Q2RAP0	PeanutBase_Ai:Araip.9J3MN
+Q2RAP4	PeanutBase_Ai:Araip.55EZJ
+Q2RAP8	PeanutBase_Ai:Araip.0XA60
+Q2RAP9	PeanutBase_Ai:Araip.XK0C1
+Q2RAW4	PeanutBase_Ai:Araip.0J4JS
+Q2RAW8	PeanutBase_Ai:Araip.0J4JS
+Q2RAY0	PeanutBase_Ai:Araip.B9BSS
+Q2RB02	PeanutBase_Ai:Araip.NG6WE PeanutBase_Ai:Araip.Z58EI PeanutBase_Ai:Araip.9Q4GB PeanutBase_Ai:Araip.5KD05
+Q2RB23	PeanutBase_Ai:Araip.LJ1YI
+Q2RBN0	PeanutBase_Ai:Araip.TE6PY
+Q2RBP2	PeanutBase_Ai:Araip.NI3BX PeanutBase_Ai:Araip.75R05
+Q2V0P1	PeanutBase_Ai:Araip.BS71F
+Q336M7	PeanutBase_Ai:Araip.F787E
+Q336N7	PeanutBase_Ai:Araip.6T3P4
+Q336P5	PeanutBase_Ai:Araip.UC4CT PeanutBase_Ai:Araip.QB13B
+Q336R6	PeanutBase_Ai:Araip.5GT5G
+Q336U3	PeanutBase_Ai:Araip.W2DXP PeanutBase_Ai:Araip.N2HP9
+Q336V3	PeanutBase_Ai:Araip.64059
+Q336X9	PeanutBase_Ai:Araip.32FLV
+Q337F0	PeanutBase_Ai:Araip.MH15E PeanutBase_Ai:Araip.S9I8N
+Q337F3	PeanutBase_Ai:Araip.15P00 PeanutBase_Ai:Araip.Y68AR
+Q337H3	PeanutBase_Ai:Araip.155L3 PeanutBase_Ai:Araip.C26XV
+Q338J0	PeanutBase_Ai:Araip.23I46
+Q338N8	PeanutBase_Ai:Araip.93XAK
+Q338Z4	PeanutBase_Ai:Araip.TG88C
+Q339V1	PeanutBase_Ai:Araip.60EAB
+Q33AE4	PeanutBase_Ai:Araip.V919Q
+Q33CD8	PeanutBase_Ai:Araip.7RN1R
+Q33CD9	PeanutBase_Ai:Araip.7RN1R
+Q40704	PeanutBase_Ai:Araip.BS71F
+Q40710	PeanutBase_Ai:Araip.L3NWH PeanutBase_Ai:Araip.SRA93 PeanutBase_Ai:Araip.40N3F PeanutBase_Ai:Araip.NEM14
+Q42971	PeanutBase_Ai:Araip.I7LKY
+Q42982	PeanutBase_Ai:Araip.W68C4 PeanutBase_Ai:Araip.U6BJT
+Q43007	PeanutBase_Ai:Araip.MYU90 PeanutBase_Ai:Araip.YJB9F
+Q43009	PeanutBase_Ai:Araip.PGB0K PeanutBase_Ai:Araip.3BD5B
+Q43011	PeanutBase_Ai:Araip.0A9XP
+Q4W8D0	PeanutBase_Ai:Araip.T9T6I PeanutBase_Ai:Araip.74N1T
+Q52QH4	PeanutBase_Ai:Araip.I6LH9 PeanutBase_Ai:Araip.310T2
+Q52RG7	PeanutBase_Ai:Araip.3H65R
+Q53JP2	PeanutBase_Ai:Araip.FWS96 PeanutBase_Ai:Araip.MWP7Z
+Q53M09	PeanutBase_Ai:Araip.C8XNH PeanutBase_Ai:Araip.KVQ8U PeanutBase_Ai:Araip.Q3KHN
+Q53MS9	PeanutBase_Ai:Araip.I53JU
+Q53NW6	PeanutBase_Ai:Araip.69J63 PeanutBase_Ai:Araip.P78H4
+Q53P49	PeanutBase_Ai:Araip.3EM6P PeanutBase_Ai:Araip.Y22EX
+Q53Q70	PeanutBase_Ai:Araip.NZ32C
+Q53QJ0	PeanutBase_Ai:Araip.4N45L PeanutBase_Ai:Araip.QJ4MM
+Q53RH0	PeanutBase_Ai:Araip.Y45KL
+Q5CCK1	PeanutBase_Ai:Araip.55EZJ
+Q5CCK3	PeanutBase_Ai:Araip.RZ9J2
+Q5JK18	PeanutBase_Ai:Araip.J6CZK
+Q5JK20	PeanutBase_Ai:Araip.K2L1V PeanutBase_Ai:Araip.B6JY4
+Q5JK39	PeanutBase_Ai:Araip.58Y3G
+Q5JMA1	PeanutBase_Ai:Araip.HYG6U
+Q5JMA6	PeanutBase_Ai:Araip.MS6N8
+Q5JMB6	PeanutBase_Ai:Araip.Q09G2 PeanutBase_Ai:Araip.FI0I1
+Q5JMC7	PeanutBase_Ai:Araip.D2YEW
+Q5JME6	PeanutBase_Ai:Araip.Y3JJL
+Q5JMX5	PeanutBase_Ai:Araip.Z3RIJ
+Q5JMX9	PeanutBase_Ai:Araip.3TC80 PeanutBase_Ai:Araip.RG6ZK
+Q5JN19	PeanutBase_Ai:Araip.3R87M PeanutBase_Ai:Araip.V4QTU
+Q5JN42	PeanutBase_Ai:Araip.E2BMF
+Q5JNB0	PeanutBase_Ai:Araip.UT2V4
+Q5N725	PeanutBase_Ai:Araip.50KT8 PeanutBase_Ai:Araip.5H15X PeanutBase_Ai:Araip.D7597 PeanutBase_Ai:Araip.XS0WA
+Q5N7C7	PeanutBase_Ai:Araip.1FG0Z
+Q5N7Z8	PeanutBase_Ai:Araip.XS6NP PeanutBase_Ai:Araip.FIG1J PeanutBase_Ai:Araip.BJ1LC PeanutBase_Ai:Araip.Q67BG
+Q5N8G1	PeanutBase_Ai:Araip.5J5X2
+Q5N8H9	PeanutBase_Ai:Araip.M724S PeanutBase_Ai:Araip.QK802
+Q5N8Q3	PeanutBase_Ai:Araip.V7BYX
+Q5N9N2	PeanutBase_Ai:Araip.CC2EP
+Q5N9Z8	PeanutBase_Ai:Araip.HIL9C
+Q5NA81	PeanutBase_Ai:Araip.9T9ZP PeanutBase_Ai:Araip.R4F69
+Q5NAY4	PeanutBase_Ai:Araip.JRQ56
+Q5NAZ7	PeanutBase_Ai:Araip.3EM6P PeanutBase_Ai:Araip.Y22EX
+Q5NB25	PeanutBase_Ai:Araip.BNQ7D PeanutBase_Ai:Araip.9V8AS PeanutBase_Ai:Araip.47NV6
+Q5NBQ1	PeanutBase_Ai:Araip.ELW9R
+Q5NBT9	PeanutBase_Ai:Araip.JKM82
+Q5NTH3	PeanutBase_Ai:Araip.8NJ16 PeanutBase_Ai:Araip.NQ67T PeanutBase_Ai:Araip.F3CZ0 PeanutBase_Ai:Araip.VW2EE
+Q5NTH4	PeanutBase_Ai:Araip.8NJ16 PeanutBase_Ai:Araip.NQ67T PeanutBase_Ai:Araip.F3CZ0 PeanutBase_Ai:Araip.VW2EE
+Q5QN02	PeanutBase_Ai:Araip.TSQ9A
+Q5SMY2	PeanutBase_Ai:Araip.VK5KG PeanutBase_Ai:Araip.2F21P PeanutBase_Ai:Araip.BVW1D
+Q5SND7	PeanutBase_Ai:Araip.BEB3B
+Q5U9F2	PeanutBase_Ai:Araip.66UUH
+Q5VMP0	PeanutBase_Ai:Araip.776KY PeanutBase_Ai:Araip.JT9BC
+Q5VMP2	PeanutBase_Ai:Araip.Y9DNT PeanutBase_Ai:Araip.13HHI PeanutBase_Ai:Araip.E0UG7
+Q5VN31	PeanutBase_Ai:Araip.13N2J
+Q5VNP5	PeanutBase_Ai:Araip.G56Y8
+Q5VNW0	PeanutBase_Ai:Araip.S4QWE
+Q5VQG4	PeanutBase_Ai:Araip.EW2ZU PeanutBase_Ai:Araip.LBU7J PeanutBase_Ai:Araip.87RQD
+Q5VQG8	PeanutBase_Ai:Araip.99IZA PeanutBase_Ai:Araip.PIE3L PeanutBase_Ai:Araip.0Y594 PeanutBase_Ai:Araip.10SVB
+Q5VRH4	PeanutBase_Ai:Araip.CQ2I9
+Q5VRM7	PeanutBase_Ai:Araip.7E4DK PeanutBase_Ai:Araip.1Y1N6 PeanutBase_Ai:Araip.BL4R3
+Q5W670	PeanutBase_Ai:Araip.60Q0E
+Q5W6F1	PeanutBase_Ai:Araip.JY2CI PeanutBase_Ai:Araip.M5K02
+Q5W6F9	PeanutBase_Ai:Araip.57AWT PeanutBase_Ai:Araip.ATI1Y
+Q5W6H5	PeanutBase_Ai:Araip.HLE2J
+Q5W6W7	PeanutBase_Ai:Araip.3X7VM
+Q5XLJ2	PeanutBase_Ai:Araip.0W7EI
+Q5Z5B7	PeanutBase_Ai:Araip.4M6WV
+Q5Z5R4	PeanutBase_Ai:Araip.5I87W PeanutBase_Ai:Araip.447R4
+Q5Z5R7	PeanutBase_Ai:Araip.5I87W PeanutBase_Ai:Araip.447R4
+Q5Z678	PeanutBase_Ai:Araip.Q4NNC
+Q5Z6D3	PeanutBase_Ai:Araip.P4FY7 PeanutBase_Ai:Araip.26B5V
+Q5Z6E5	PeanutBase_Ai:Araip.M7HZK
+Q5Z749	PeanutBase_Ai:Araip.BNQ7D PeanutBase_Ai:Araip.9V8AS PeanutBase_Ai:Araip.47NV6
+Q5Z7R3	PeanutBase_Ai:Araip.IE0US PeanutBase_Ai:Araip.WGE5V
+Q5Z807	PeanutBase_Ai:Araip.35C4F
+Q5Z8K3	PeanutBase_Ai:Araip.BRU1J PeanutBase_Ai:Araip.ES7KC
+Q5Z8V9	PeanutBase_Ai:Araip.78UAV
+Q5Z8Y4	PeanutBase_Ai:Araip.4P4HG
+Q5Z8Z7	PeanutBase_Ai:Araip.VES4J PeanutBase_Ai:Araip.SI5FX
+Q5ZCV1	PeanutBase_Ai:Araip.7EN7C
+Q5ZED1	PeanutBase_Ai:Araip.9KL4T
+Q5ZEL4	PeanutBase_Ai:Araip.4A57R
+Q60EI7	PeanutBase_Ai:Araip.D3HL4 PeanutBase_Ai:Araip.TQ6WC
+Q60EX6	PeanutBase_Ai:Araip.P87L9
+Q64MA9	PeanutBase_Ai:Araip.YUE7J
+Q650W1	PeanutBase_Ai:Araip.EE4U2 PeanutBase_Ai:Araip.1MT39
+Q651F0	PeanutBase_Ai:Araip.RVT5N
+Q652A8	PeanutBase_Ai:Araip.ZTF9F
+Q652S1	PeanutBase_Ai:Araip.Q1PLZ
+Q653D9	PeanutBase_Ai:Araip.Y9DNT PeanutBase_Ai:Araip.13HHI PeanutBase_Ai:Araip.E0UG7
+Q653F4	PeanutBase_Ai:Araip.8195A
+Q653H7	PeanutBase_Ai:Araip.BYV33 PeanutBase_Ai:Araip.LVJ4W PeanutBase_Ai:Araip.NYM6Q
+Q653T6	PeanutBase_Ai:Araip.635QE
+Q653U3	PeanutBase_Ai:Araip.5Z0QI PeanutBase_Ai:Araip.P08LA PeanutBase_Ai:Araip.8FI38
+Q655T1	PeanutBase_Ai:Araip.F5HRN
+Q655W2	PeanutBase_Ai:Araip.TC95B
+Q655Y9	PeanutBase_Ai:Araip.8L7QK
+Q656F1	PeanutBase_Ai:Araip.F3LNM PeanutBase_Ai:Araip.DD1VL
+Q65X14	PeanutBase_Ai:Araip.FER8B PeanutBase_Ai:Araip.US4V4
+Q65X70	PeanutBase_Ai:Araip.N719Y PeanutBase_Ai:Araip.33SF4
+Q65XK0	PeanutBase_Ai:Araip.EQC7X PeanutBase_Ai:Araip.7CU0A
+Q65XM9	PeanutBase_Ai:Araip.5G2GL
+Q65XR9	PeanutBase_Ai:Araip.MYU90 PeanutBase_Ai:Araip.YJB9F
+Q67TQ5	PeanutBase_Ai:Araip.M1IPR
+Q67TZ7	PeanutBase_Ai:Araip.F5HBK PeanutBase_Ai:Araip.R7UJS PeanutBase_Ai:Araip.GJ2VW
+Q67UX0	PeanutBase_Ai:Araip.BRU1J PeanutBase_Ai:Araip.ES7KC
+Q67UZ8	PeanutBase_Ai:Araip.567RF
+Q67V61	PeanutBase_Ai:Araip.93AF1
+Q67VM1	PeanutBase_Ai:Araip.K7EKQ
+Q67VR7	PeanutBase_Ai:Araip.N0Z6R
+Q67W29	PeanutBase_Ai:Araip.NZ168
+Q67W82	PeanutBase_Ai:Araip.W68C4 PeanutBase_Ai:Araip.U6BJT
+Q67WK8	PeanutBase_Ai:Araip.M4FLV
+Q67WN8	PeanutBase_Ai:Araip.TIT4D
+Q67WR2	PeanutBase_Ai:Araip.RC5I3
+Q688L9	PeanutBase_Ai:Araip.57AWT PeanutBase_Ai:Araip.ATI1Y
+Q688Q8	PeanutBase_Ai:Araip.B6F4A
+Q688Q9	PeanutBase_Ai:Araip.73AZP
+Q688T8	PeanutBase_Ai:Araip.KM2FA PeanutBase_Ai:Araip.4DN6E PeanutBase_Ai:Araip.HIE89
+Q688Y2	PeanutBase_Ai:Araip.SR92D PeanutBase_Ai:Araip.4XH4K
+Q689G6	PeanutBase_Ai:Araip.W3I0N PeanutBase_Ai:Araip.08M0G PeanutBase_Ai:Araip.EK9Q1
+Q689G9	PeanutBase_Ai:Araip.78TK8
+Q69IM7	PeanutBase_Ai:Araip.14VDU
+Q69J27	PeanutBase_Ai:Araip.SZE3A
+Q69JI7	PeanutBase_Ai:Araip.42MZK
+Q69K00	PeanutBase_Ai:Araip.116MM
+Q69KM5	PeanutBase_Ai:Araip.R83H8 PeanutBase_Ai:Araip.EV8CZ
+Q69L93	PeanutBase_Ai:Araip.MPH2C PeanutBase_Ai:Araip.GT0MC
+Q69LG7	PeanutBase_Ai:Araip.2L6KD
+Q69M33	PeanutBase_Ai:Araip.H9S11 PeanutBase_Ai:Araip.TYV7G
+Q69MC9	PeanutBase_Ai:Araip.CL739 PeanutBase_Ai:Araip.H7369
+Q69MH0	PeanutBase_Ai:Araip.G0H3V PeanutBase_Ai:Araip.18CW0
+Q69NY7	PeanutBase_Ai:Araip.J993Y PeanutBase_Ai:Araip.FJG2S PeanutBase_Ai:Araip.C44RC
+Q69P51	PeanutBase_Ai:Araip.MAE7B
+Q69P84	PeanutBase_Ai:Araip.UP04B
+Q69P94	PeanutBase_Ai:Araip.27R9P PeanutBase_Ai:Araip.64KG6
+Q69QD7	PeanutBase_Ai:Araip.L1KN4
+Q69RG7	PeanutBase_Ai:Araip.QM7IV
+Q69RJ0	PeanutBase_Ai:Araip.3MR67
+Q69T90	PeanutBase_Ai:Araip.PUJ2N
+Q69TF4	PeanutBase_Ai:Araip.DI07C
+Q69TT1	PeanutBase_Ai:Araip.7C4C2
+Q69TV4	PeanutBase_Ai:Araip.F5HBK PeanutBase_Ai:Araip.R7UJS PeanutBase_Ai:Araip.GJ2VW
+Q69TV6	PeanutBase_Ai:Araip.F5HBK PeanutBase_Ai:Araip.R7UJS PeanutBase_Ai:Araip.GJ2VW
+Q69TV8	PeanutBase_Ai:Araip.F5HBK PeanutBase_Ai:Araip.R7UJS PeanutBase_Ai:Araip.GJ2VW
+Q69TW5	PeanutBase_Ai:Araip.M1IPR
+Q69U93	PeanutBase_Ai:Araip.CG0SE
+Q69UF5	PeanutBase_Ai:Araip.LUT50 PeanutBase_Ai:Araip.M83DH PeanutBase_Ai:Araip.PJ8WT PeanutBase_Ai:Araip.JFJ1E
+Q69UU3	PeanutBase_Ai:Araip.WHJ1H
+Q69V57	PeanutBase_Ai:Araip.50KT8 PeanutBase_Ai:Araip.5H15X PeanutBase_Ai:Araip.D7597 PeanutBase_Ai:Araip.XS0WA
+Q69XD3	PeanutBase_Ai:Araip.LUT50 PeanutBase_Ai:Araip.M83DH PeanutBase_Ai:Araip.PJ8WT PeanutBase_Ai:Araip.JFJ1E
+Q69XJ0	PeanutBase_Ai:Araip.LWR36
+Q69XS7	PeanutBase_Ai:Araip.J1HT6
+Q6ASV4	PeanutBase_Ai:Araip.FRU70 PeanutBase_Ai:Araip.B1UDK
+Q6AT26	PeanutBase_Ai:Araip.E6Q2M
+Q6AT32	PeanutBase_Ai:Araip.1H31M PeanutBase_Ai:Araip.01SMR
+Q6AT33	PeanutBase_Ai:Araip.BNQ7D PeanutBase_Ai:Araip.9V8AS PeanutBase_Ai:Araip.47NV6
+Q6AT41	PeanutBase_Ai:Araip.L5RT4
+Q6AT43	PeanutBase_Ai:Araip.76LR9
+Q6AT75	PeanutBase_Ai:Araip.R89HK PeanutBase_Ai:Araip.R6JKD
+Q6ATR2	PeanutBase_Ai:Araip.IGJ87
+Q6AUB0	PeanutBase_Ai:Araip.SNW0B
+Q6AUJ8	PeanutBase_Ai:Araip.K5YKI PeanutBase_Ai:Araip.W0VC8
+Q6AUV1	PeanutBase_Ai:Araip.WD7E3
+Q6AV34	PeanutBase_Ai:Araip.M7YXX
+Q6AVG6	PeanutBase_Ai:Araip.GAW16
+Q6AVM5	PeanutBase_Ai:Araip.TF5MZ
+Q6AVR2	PeanutBase_Ai:Araip.SC81T
+Q6AVT2	PeanutBase_Ai:Araip.59R5M PeanutBase_Ai:Araip.2D5JR
+Q6BDZ9	PeanutBase_Ai:Araip.7D7PZ
+Q6EN48	PeanutBase_Ai:Araip.L7Y2B
+Q6EP31	PeanutBase_Ai:Araip.GRP0P
+Q6EP59	PeanutBase_Ai:Araip.BD09A PeanutBase_Ai:Araip.MB0R5 PeanutBase_Ai:Araip.GP5MB PeanutBase_Ai:Araip.HES22 PeanutBase_Ai:Araip.E6A3D
+Q6EPN6	PeanutBase_Ai:Araip.PIY59
+Q6EQW2	PeanutBase_Ai:Araip.ML9SJ
+Q6ERL4	PeanutBase_Ai:Araip.N2MW3
+Q6ERR3	PeanutBase_Ai:Araip.I1474 PeanutBase_Ai:Araip.P73AY
+Q6ES51	PeanutBase_Ai:Araip.L4X0W
+Q6ESJ0	PeanutBase_Ai:Araip.GY43F
+Q6ESZ9	PeanutBase_Ai:Araip.E18CY PeanutBase_Ai:Araip.KS8W2 PeanutBase_Ai:Araip.31SQ6
+Q6ET36	PeanutBase_Ai:Araip.GIQ9Q PeanutBase_Ai:Araip.D6V1K
+Q6ET88	PeanutBase_Ai:Araip.ZD4T4
+Q6ETD3	PeanutBase_Ai:Araip.RKE1H PeanutBase_Ai:Araip.28YBL
+Q6ETN3	PeanutBase_Ai:Araip.W68C4 PeanutBase_Ai:Araip.U6BJT
+Q6ETX4	PeanutBase_Ai:Araip.5RS6R
+Q6EUF1	PeanutBase_Ai:Araip.WT200 PeanutBase_Ai:Araip.FB29M
+Q6EUNO	PeanutBase_Ai:Araip.678U4 PeanutBase_Ai:Araip.R0EFA PeanutBase_Ai:Araip.2Q2JE
+Q6EUP4	PeanutBase_Ai:Araip.VD0Z2 PeanutBase_Ai:Araip.QBG6Y
+Q6EUS6	PeanutBase_Ai:Araip.S985N
+Q6F361	PeanutBase_Ai:Araip.AT3TF
+Q6F4N6	PeanutBase_Ai:Araip.6VN5N PeanutBase_Ai:Araip.24S3M PeanutBase_Ai:Araip.PG020
+Q6H543	PeanutBase_Ai:Araip.60Q0E
+Q6H5C7	PeanutBase_Ai:Araip.VHD9K
+Q6H5U3	PeanutBase_Ai:Araip.KLV48
+Q6H6C7	PeanutBase_Ai:Araip.F5HRN
+Q6H6D2	PeanutBase_Ai:Araip.W01F9 PeanutBase_Ai:Araip.Q2NMF
+Q6H6G1	PeanutBase_Ai:Araip.E629F
+Q6H6I1	PeanutBase_Ai:Araip.LP8AE
+Q6H6P8	PeanutBase_Ai:Araip.EDV8G PeanutBase_Ai:Araip.T0LEM PeanutBase_Ai:Araip.H7WTN
+Q6H703	PeanutBase_Ai:Araip.TC95B
+Q6H7M1	PeanutBase_Ai:Araip.T1E4E
+Q6H7Q6	PeanutBase_Ai:Araip.HGI2J
+Q6H819	PeanutBase_Ai:Araip.738JR
+Q6H849	PeanutBase_Ai:Araip.WJ4BG
+Q6H851	PeanutBase_Ai:Araip.WJ4BG
+Q6I581	PeanutBase_Ai:Araip.3EM6P PeanutBase_Ai:Araip.Y22EX
+Q6I5C3	PeanutBase_Ai:Araip.3SL7S
+Q6I628	PeanutBase_Ai:Araip.V7BYX
+Q6IVC3	PeanutBase_Ai:Araip.D5QVM PeanutBase_Ai:Araip.7QE9U
+Q6K1S6	PeanutBase_Ai:Araip.DN6WY PeanutBase_Ai:Araip.9W01L
+Q6K2E8	PeanutBase_Ai:Araip.23NEF
+Q6K306	PeanutBase_Ai:Araip.Q6NUV PeanutBase_Ai:Araip.T0P0E
+Q6K3T2	PeanutBase_Ai:Araip.V41H0
+Q6K3Z3	PeanutBase_Ai:Araip.D721W PeanutBase_Ai:Araip.2PB8F
+Q6K548	PeanutBase_Ai:Araip.BE5FQ
+Q6K5G8	PeanutBase_Ai:Araip.4K0TW PeanutBase_Ai:Araip.W4V3G
+Q6K5U4	PeanutBase_Ai:Araip.IE0US PeanutBase_Ai:Araip.WGE5V
+Q6K678	PeanutBase_Ai:Araip.49NYC
+Q6K6Q0	PeanutBase_Ai:Araip.69J63 PeanutBase_Ai:Araip.P78H4
+Q6K6Q1	PeanutBase_Ai:Araip.69J63 PeanutBase_Ai:Araip.P78H4
+Q6K755	PeanutBase_Ai:Araip.BD09A PeanutBase_Ai:Araip.MB0R5 PeanutBase_Ai:Araip.GP5MB PeanutBase_Ai:Araip.HES22 PeanutBase_Ai:Araip.E6A3D
+Q6K7V6	PeanutBase_Ai:Araip.Q75IR
+Q6K8E2	PeanutBase_Ai:Araip.0E25I
+Q6K8E7	PeanutBase_Ai:Araip.41W37 PeanutBase_Ai:Araip.1AP9K
+Q6K8J4	PeanutBase_Ai:Araip.4XB1Y PeanutBase_Ai:Araip.2B9XL
+Q6K969	PeanutBase_Ai:Araip.AI3RV
+Q6K973	PeanutBase_Ai:Araip.51VQE PeanutBase_Ai:Araip.GD7TV
+Q6K9M5	PeanutBase_Ai:Araip.R83H8 PeanutBase_Ai:Araip.EV8CZ
+Q6K9N6	PeanutBase_Ai:Araip.DC1Z1
+Q6K9X3	PeanutBase_Ai:Araip.TGC2W PeanutBase_Ai:Araip.6SW2U
+Q6KAJ2	PeanutBase_Ai:Araip.A03F3
+Q6L479	PeanutBase_Ai:Araip.3PC35 PeanutBase_Ai:Araip.C34P5 PeanutBase_Ai:Araip.QK1BG
+Q6L4H5	PeanutBase_Ai:Araip.Z30L7 PeanutBase_Ai:Araip.3MU4C
+Q6L4L4	PeanutBase_Ai:Araip.PE4S7 PeanutBase_Ai:Araip.K7FTA
+Q6L4R0	PeanutBase_Ai:Araip.T6L7D
+Q6L4R7	PeanutBase_Ai:Araip.1D5WV
+Q6L545	PeanutBase_Ai:Araip.J8BGM PeanutBase_Ai:Araip.YWJ8D
+Q6L5F6	PeanutBase_Ai:Araip.JPZ0F
+Q6L5H6	PeanutBase_Ai:Araip.1D5WV
+Q6Q9I2	PeanutBase_Ai:Araip.166TL
+Q6VMN7	PeanutBase_Ai:Araip.CD8S3
+Q6YPG5	PeanutBase_Ai:Araip.26UP8
+Q6YS33	PeanutBase_Ai:Araip.J6CZK
+Q6YT73	PeanutBase_Ai:Araip.S6Q95 PeanutBase_Ai:Araip.H6WCB
+Q6YTI6	PeanutBase_Ai:Araip.567RF
+Q6YTT3	PeanutBase_Ai:Araip.0C8X4
+Q6YUI8	PeanutBase_Ai:Araip.F5HBK PeanutBase_Ai:Araip.R7UJS PeanutBase_Ai:Araip.GJ2VW
+Q6YUS0	PeanutBase_Ai:Araip.98IV4
+Q6YUS3	PeanutBase_Ai:Araip.Q7H3V PeanutBase_Ai:Araip.03FDB
+Q6YUU2	PeanutBase_Ai:Araip.9J3NW
+Q6YV23	PeanutBase_Ai:Araip.B3LJ0 PeanutBase_Ai:Araip.Y6RSY
+Q6YVI0	PeanutBase_Ai:Araip.C1RZ2
+Q6YVY0	PeanutBase_Ai:Araip.AS6HF
+Q6YVY6	PeanutBase_Ai:Araip.PKX1N PeanutBase_Ai:Araip.D15G9
+Q6YWE1	PeanutBase_Ai:Araip.IGJ87
+Q6YWS8	PeanutBase_Ai:Araip.678U4 PeanutBase_Ai:Araip.R0EFA PeanutBase_Ai:Araip.2Q2JE
+Q6YWY7	PeanutBase_Ai:Araip.M4FLV
+Q6YXI1	PeanutBase_Ai:Araip.64I4P
+Q6YXW6	PeanutBase_Ai:Araip.KW9RM
+Q6YYB9	PeanutBase_Ai:Araip.1A0QT PeanutBase_Ai:Araip.8F6MX
+Q6YYZ2	PeanutBase_Ai:Araip.F787E
+Q6YZ18	PeanutBase_Ai:Araip.23I46
+Q6YZ76	PeanutBase_Ai:Araip.RL9T9
+Q6YZE2	PeanutBase_Ai:Araip.UF36S
+Q6YZH8	PeanutBase_Ai:Araip.W9HXX
+Q6YZX6	PeanutBase_Ai:Araip.3J27X PeanutBase_Ai:Araip.R1DVQ
+Q6Z0T7	PeanutBase_Ai:Araip.Y9DNT PeanutBase_Ai:Araip.13HHI PeanutBase_Ai:Araip.E0UG7
+Q6Z156	PeanutBase_Ai:Araip.04SWW PeanutBase_Ai:Araip.WJS5F
+Q6Z2L5	PeanutBase_Ai:Araip.X4PFH
+Q6Z2T6	PeanutBase_Ai:Araip.520RW PeanutBase_Ai:Araip.W5IYZ
+Q6Z2T9	PeanutBase_Ai:Araip.I4TKF
+Q6Z312	PeanutBase_Ai:Araip.M1IPR
+Q6Z351	PeanutBase_Ai:Araip.A2UQA
+Q6Z368	PeanutBase_Ai:Araip.23LJ8 PeanutBase_Ai:Araip.Q799J
+Q6Z398	PeanutBase_Ai:Araip.Q9TXG
+Q6Z3A3	PeanutBase_Ai:Araip.73AZP
+Q6Z3A4	PeanutBase_Ai:Araip.0WM4W
+Q6Z3F1	PeanutBase_Ai:Araip.AJC62 PeanutBase_Ai:Araip.01NMU
+Q6Z3F9	PeanutBase_Ai:Araip.781N3
+Q6Z3X5	PeanutBase_Ai:Araip.M6J1J
+Q6Z3Y3	PeanutBase_Ai:Araip.7F9AX
+Q6Z433	PeanutBase_Ai:Araip.UP4N0
+Q6Z4I1	PeanutBase_Ai:Araip.S8M2R PeanutBase_Ai:Araip.E9TR2
+Q6Z5M0	PeanutBase_Ai:Araip.C7PJE PeanutBase_Ai:Araip.E246G
+Q6Z5M3	PeanutBase_Ai:Araip.L0D82
+Q6Z684	PeanutBase_Ai:Araip.BD09A PeanutBase_Ai:Araip.MB0R5 PeanutBase_Ai:Araip.GP5MB PeanutBase_Ai:Araip.HES22 PeanutBase_Ai:Araip.E6A3D
+Q6Z6F0	PeanutBase_Ai:Araip.LUT50 PeanutBase_Ai:Araip.M83DH PeanutBase_Ai:Araip.PJ8WT PeanutBase_Ai:Araip.JFJ1E
+Q6Z702	PeanutBase_Ai:Araip.LWG2P
+Q6Z744	PeanutBase_Ai:Araip.JNK1H
+Q6Z795	PeanutBase_Ai:Araip.WGV8L PeanutBase_Ai:Araip.B52YR PeanutBase_Ai:Araip.KKX96
+Q6Z7F5	PeanutBase_Ai:Araip.C8XNH PeanutBase_Ai:Araip.KVQ8U PeanutBase_Ai:Araip.Q3KHN
+Q6Z7Q3	PeanutBase_Ai:Araip.F5HBK PeanutBase_Ai:Araip.R7UJS PeanutBase_Ai:Araip.GJ2VW
+Q6Z836	PeanutBase_Ai:Araip.D0YN7
+Q6Z8F4	PeanutBase_Ai:Araip.4E8PI
+Q6Z8S2	PeanutBase_Ai:Araip.9BQ78
+Q6Z8Z7	PeanutBase_Ai:Araip.Q0F1R
+Q6Z965	PeanutBase_Ai:Araip.S5AVW
+Q6Z9A3	PeanutBase_Ai:Araip.0I2ZI
+Q6Z9E6	PeanutBase_Ai:Araip.738JR
+Q6ZAC1	PeanutBase_Ai:Araip.W68C4 PeanutBase_Ai:Araip.U6BJT
+Q6ZAH2	PeanutBase_Ai:Araip.QA4T6 PeanutBase_Ai:Araip.9U7K5
+Q6ZBE1	PeanutBase_Ai:Araip.BD09A PeanutBase_Ai:Araip.MB0R5 PeanutBase_Ai:Araip.GP5MB PeanutBase_Ai:Araip.HES22 PeanutBase_Ai:Araip.E6A3D
+Q6ZBH5	PeanutBase_Ai:Araip.YUE7J
+Q6ZC33	PeanutBase_Ai:Araip.YBR8J
+Q6ZCF0	PeanutBase_Ai:Araip.HIG4P
+Q6ZD10	PeanutBase_Ai:Araip.2L6KD
+Q6ZDQ1	PeanutBase_Ai:Araip.Z22W3
+Q6ZDY8	PeanutBase_Ai:Araip.67ZY4
+Q6ZFT5	PeanutBase_Ai:Araip.24XA5 PeanutBase_Ai:Araip.H0E72
+Q6ZG77	PeanutBase_Ai:Araip.MD8TF
+Q6ZG91	PeanutBase_Ai:Araip.2A3ZP
+Q6ZGS9	PeanutBase_Ai:Araip.BK8GH
+Q6ZGW6	PeanutBase_Ai:Araip.S3GXY PeanutBase_Ai:Araip.WI51C PeanutBase_Ai:Araip.D6HPL
+Q6ZHA3	PeanutBase_Ai:Araip.GRP0P
+Q6ZHB2	PeanutBase_Ai:Araip.J07QT PeanutBase_Ai:Araip.UM5IV
+Q6ZHH7	PeanutBase_Ai:Araip.YBR8J
+Q6ZHS4	PeanutBase_Ai:Araip.BRP4U
+Q6ZHU3	PeanutBase_Ai:Araip.H07NM PeanutBase_Ai:Araip.H8NH2
+Q6ZHZ1	PeanutBase_Ai:Araip.TIT4D
+Q6ZI55	PeanutBase_Ai:Araip.E335X PeanutBase_Ai:Araip.HX4H1 PeanutBase_Ai:Araip.A0TQ5
+Q6ZIA3	PeanutBase_Ai:Araip.RP235 PeanutBase_Ai:Araip.02Z8U
+Q6ZIK0	PeanutBase_Ai:Araip.ISI3L PeanutBase_Ai:Araip.FS9KX
+Q6ZIX2	PeanutBase_Ai:Araip.I055V PeanutBase_Ai:Araip.WI7LP
+Q6ZJ97	PeanutBase_Ai:Araip.Q8CS4
+Q6ZJK7	PeanutBase_Ai:Araip.23I46
+Q6ZJM9	PeanutBase_Ai:Araip.T5Z6Z
+Q6ZJU3	PeanutBase_Ai:Araip.L4X0W
+Q6ZK11	PeanutBase_Ai:Araip.WT4L7
+Q6ZKC0	PeanutBase_Ai:Araip.VD0Z2 PeanutBase_Ai:Araip.QBG6Y
+Q6ZKV8	PeanutBase_Ai:Araip.U7YWR
+Q6ZL61	PeanutBase_Ai:Araip.Q1514
+Q6ZL94	PeanutBase_Ai:Araip.E7852
+Q6ZLJ9	PeanutBase_Ai:Araip.KNT6A
+Q75GB1	PeanutBase_Ai:Araip.BNQ7D PeanutBase_Ai:Araip.9V8AS PeanutBase_Ai:Araip.47NV6
+Q75GK0	PeanutBase_Ai:Araip.1ML5Q
+Q75H77	PeanutBase_Ai:Araip.D69IY
+Q75HB1	PeanutBase_Ai:Araip.UB3U5 PeanutBase_Ai:Araip.I9GE6 PeanutBase_Ai:Araip.19WFN PeanutBase_Ai:Araip.IN2BA
+Q75HP7	PeanutBase_Ai:Araip.XPK3R
+Q75HQ7	PeanutBase_Ai:Araip.69J63 PeanutBase_Ai:Araip.P78H4
+Q75HZ9	PeanutBase_Ai:Araip.4N7WF
+Q75I93	PeanutBase_Ai:Araip.DY6D7
+Q75II5	PeanutBase_Ai:Araip.10TQ4
+Q75KD7	PeanutBase_Ai:Araip.Q7E6I PeanutBase_Ai:Araip.673NH PeanutBase_Ai:Araip.V48DY
+Q75KT7	PeanutBase_Ai:Araip.Q09G2 PeanutBase_Ai:Araip.FI0I1
+Q75L84	PeanutBase_Ai:Araip.Y41TM
+Q75LL5	PeanutBase_Ai:Araip.ZSN4K PeanutBase_Ai:Araip.NNI43
+Q75LR2	PeanutBase_Ai:Araip.0C8X4
+Q75M18	PeanutBase_Ai:Araip.4Q7KQ
+Q75V57	PeanutBase_Ai:Araip.D69IY
+Q75W16	PeanutBase_Ai:Araip.0C8X4
+Q764B9	PeanutBase_Ai:Araip.94307 PeanutBase_Ai:Araip.6VW2Z PeanutBase_Ai:Araip.KFF0C PeanutBase_Ai:Araip.K6IUX
+Q7EXZ2	PeanutBase_Ai:Araip.W5573
+Q7EYE4	PeanutBase_Ai:Araip.E8L7Q PeanutBase_Ai:Araip.SD4UW PeanutBase_Ai:Araip.S6HK5
+Q7EZW6	PeanutBase_Ai:Araip.4397U
+Q7EZZ0	PeanutBase_Ai:Araip.GX46W
+Q7F0Q2	PeanutBase_Ai:Araip.JI3K3
+Q7F190	PeanutBase_Ai:Araip.Q3Y4B
+Q7F1X5	PeanutBase_Ai:Araip.G3TW3
+Q7F8K7	PeanutBase_Ai:Araip.48URM
+Q7F8U7	PeanutBase_Ai:Araip.SEH8F PeanutBase_Ai:Araip.8VC8X
+Q7FAE1	PeanutBase_Ai:Araip.N7X0P
+Q7FAH2	PeanutBase_Ai:Araip.4K0TW PeanutBase_Ai:Araip.W4V3G
+Q7FAL6	PeanutBase_Ai:Araip.5G2GL
+Q7FAS1	PeanutBase_Ai:Araip.S6Q95 PeanutBase_Ai:Araip.H6WCB
+Q7G065	PeanutBase_Ai:Araip.KM2FA PeanutBase_Ai:Araip.4DN6E PeanutBase_Ai:Araip.HIE89
+Q7G1V6	PeanutBase_Ai:Araip.X8ITF PeanutBase_Ai:Araip.F95U7 PeanutBase_Ai:Araip.5GJ94 PeanutBase_Ai:Araip.D014N PeanutBase_Ai:Araip.0PA69 PeanutBase_Ai:Araip.Z24R2 PeanutBase_Ai:Araip.PF5AP PeanutBase_Ai:Araip.5C6NC PeanutBase_Ai:Araip.9T22U PeanutBase_Ai:Araip.G2HZA PeanutBase_Ai:Araip.U68SV PeanutBase_Ai:Araip.46VK5 PeanutBase_Ai:Araip.9CV7D PeanutBase_Ai:Araip.15PP1 PeanutBase_Ai:Araip.H80JU PeanutBase_Ai:Araip.BL29K PeanutBase_Ai:Araip.ZB1UD PeanutBase_Ai:Araip.85R0G PeanutBase_Ai:Araip.ETX4A PeanutBase_Ai:Araip.24K8H PeanutBase_Ai:Araip.ST9EM PeanutBase_Ai:Araip.QUS0K PeanutBase_Ai:Araip.XP634 PeanutBase_Ai:Araip.B68IR PeanutBase_Ai:Araip.V1SDX PeanutBase_Ai:Araip.LA828 PeanutBase_Ai:Araip.P948U PeanutBase_Ai:Araip.W4AEV PeanutBase_Ai:Araip.Q37BC PeanutBase_Ai:Araip.4J5ZZ PeanutBase_Ai:Araip.G76CQ PeanutBase_Ai:Araip.F7L5Y PeanutBase_Ai:Araip.LEK47 PeanutBase_Ai:Araip.QL6CF PeanutBase_Ai:Araip.ZB9EL PeanutBase_Ai:Araip.BLM48 PeanutBase_Ai:Araip.K29C9 PeanutBase_Ai:Araip.AP696 PeanutBase_Ai:Araip.A7SD4 PeanutBase_Ai:Araip.39B00 PeanutBase_Ai:Araip.LL05Y PeanutBase_Ai:Araip.09GTQ PeanutBase_Ai:Araip.WE8XB PeanutBase_Ai:Araip.SS8AF PeanutBase_Ai:Araip.BQ69A PeanutBase_Ai:Araip.E5HIA PeanutBase_Ai:Araip.62P0G PeanutBase_Ai:Araip.2DK1S PeanutBase_Ai:Araip.4MM7Y PeanutBase_Ai:Araip.SZB84 PeanutBase_Ai:Araip.M7ZAE PeanutBase_Ai:Araip.9RR7M PeanutBase_Ai:Araip.136VL PeanutBase_Ai:Araip.YEU0M PeanutBase_Ai:Araip.X3HIQ PeanutBase_Ai:Araip.WHD06 PeanutBase_Ai:Araip.JB7TM PeanutBase_Ai:Araip.48ZZE PeanutBase_Ai:Araip.4P920 PeanutBase_Ai:Araip.4J570 PeanutBase_Ai:Araip.1V6E1 PeanutBase_Ai:Araip.JS4GC PeanutBase_Ai:Araip.3M49X
+Q7G2F7	PeanutBase_Ai:Araip.19N4V PeanutBase_Ai:Araip.F5UBU
+Q7G2H3	PeanutBase_Ai:Araip.M7YXX
+Q7G4P2	PeanutBase_Ai:Araip.41W37 PeanutBase_Ai:Araip.1AP9K
+Q7G602	PeanutBase_Ai:Araip.21BTV
+Q7G7J6	PeanutBase_Ai:Araip.KK7TK
+Q7X634	PeanutBase_Ai:Araip.UB685
+Q7X720	PeanutBase_Ai:Araip.69J63 PeanutBase_Ai:Araip.P78H4
+Q7X742	PeanutBase_Ai:Araip.UAK9J PeanutBase_Ai:Araip.6G3IU PeanutBase_Ai:Araip.I1NK2
+Q7X7A1	PeanutBase_Ai:Araip.QC6BH PeanutBase_Ai:Araip.LDX41 PeanutBase_Ai:Araip.R1VPM
+Q7X7H9	PeanutBase_Ai:Araip.8NJ16 PeanutBase_Ai:Araip.NQ67T PeanutBase_Ai:Araip.F3CZ0 PeanutBase_Ai:Araip.VW2EE
+Q7X7N2	PeanutBase_Ai:Araip.38QD4
+Q7X7X0	PeanutBase_Ai:Araip.E433Y PeanutBase_Ai:Araip.K4IN7
+Q7X8A1	PeanutBase_Ai:Araip.U6VQA
+Q7X8R0	PeanutBase_Ai:Araip.AVK7Q PeanutBase_Ai:Araip.UT46I
+Q7X8V3	PeanutBase_Ai:Araip.69J63 PeanutBase_Ai:Araip.P78H4
+Q7X993	PeanutBase_Ai:Araip.D5QVM PeanutBase_Ai:Araip.7QE9U
+Q7XAP2	PeanutBase_Ai:Araip.L7Y2B
+Q7XBY6	PeanutBase_Ai:Araip.99UDU PeanutBase_Ai:Araip.WGR7G
+Q7XC20	PeanutBase_Ai:Araip.J07QT PeanutBase_Ai:Araip.UM5IV
+Q7XCK3	PeanutBase_Ai:Araip.V6CKT
+Q7XE48	PeanutBase_Ai:Araip.7YZ85 PeanutBase_Ai:Araip.MIM63
+Q7XEH2	PeanutBase_Ai:Araip.87B80 PeanutBase_Ai:Araip.PNY1B
+Q7XEZ1	PeanutBase_Ai:Araip.5SR4K
+Q7XEZ6	PeanutBase_Ai:Araip.H94QL PeanutBase_Ai:Araip.SDL5P PeanutBase_Ai:Araip.JS6GC
+Q7XH05	PeanutBase_Ai:Araip.A2UQA
+Q7XHL3	PeanutBase_Ai:Araip.23I46
+Q7XI45	PeanutBase_Ai:Araip.VX6NX
+Q7XI67	PeanutBase_Ai:Araip.YQ33B
+Q7XI92	PeanutBase_Ai:Araip.T2Z8Y
+Q7XI96	PeanutBase_Ai:Araip.U6ER1
+Q7XK23	PeanutBase_Ai:Araip.E335X PeanutBase_Ai:Araip.HX4H1 PeanutBase_Ai:Araip.A0TQ5
+Q7XKH9	PeanutBase_Ai:Araip.BD09A PeanutBase_Ai:Araip.MB0R5 PeanutBase_Ai:Araip.GP5MB PeanutBase_Ai:Araip.HES22 PeanutBase_Ai:Araip.E6A3D
+Q7XKI0	PeanutBase_Ai:Araip.BD09A PeanutBase_Ai:Araip.MB0R5 PeanutBase_Ai:Araip.GP5MB PeanutBase_Ai:Araip.HES22 PeanutBase_Ai:Araip.E6A3D
+Q7XKQ8	PeanutBase_Ai:Araip.23NEF
+Q7XM21	PeanutBase_Ai:Araip.NIV47
+Q7XMA8	PeanutBase_Ai:Araip.BD09A PeanutBase_Ai:Araip.MB0R5 PeanutBase_Ai:Araip.GP5MB PeanutBase_Ai:Araip.HES22 PeanutBase_Ai:Araip.E6A3D
+Q7XN11	PeanutBase_Ai:Araip.HIG4P
+Q7XNX6	PeanutBase_Ai:Araip.51VQE PeanutBase_Ai:Araip.GD7TV
+Q7XPB5	PeanutBase_Ai:Araip.RZ21P PeanutBase_Ai:Araip.C4FV5 PeanutBase_Ai:Araip.Q5FBC
+Q7XPW5	PeanutBase_Ai:Araip.8P6VP PeanutBase_Ai:Araip.6Q39T
+Q7XQ85	PeanutBase_Ai:Araip.FB4F0
+Q7XQN1	PeanutBase_Ai:Araip.LSW71
+Q7XR52	PeanutBase_Ai:Araip.01ZK6 PeanutBase_Ai:Araip.48FDM
+Q7XR60	PeanutBase_Ai:Araip.4F25B PeanutBase_Ai:Araip.207MI
+Q7XR61	PeanutBase_Ai:Araip.4F25B PeanutBase_Ai:Araip.207MI
+Q7XRA1	PeanutBase_Ai:Araip.AP8LU
+Q7XRT0	PeanutBase_Ai:Araip.P5P82
+Q7XSS9	PeanutBase_Ai:Araip.QJ7G3
+Q7XTE8	PeanutBase_Ai:Araip.VD0Z2 PeanutBase_Ai:Araip.QBG6Y
+Q7XTH0	PeanutBase_Ai:Araip.BD09A PeanutBase_Ai:Araip.MB0R5 PeanutBase_Ai:Araip.GP5MB PeanutBase_Ai:Araip.HES22 PeanutBase_Ai:Araip.E6A3D
+Q7XTK3	PeanutBase_Ai:Araip.43Q6Z
+Q7XTX7	PeanutBase_Ai:Araip.0P7QZ
+Q7XU28	PeanutBase_Ai:Araip.E629F
+Q7XUH5	PeanutBase_Ai:Araip.JI3K3
+Q7XUK6	PeanutBase_Ai:Araip.LU2E8
+Q7XUS2	PeanutBase_Ai:Araip.94307 PeanutBase_Ai:Araip.6VW2Z PeanutBase_Ai:Araip.KFF0C PeanutBase_Ai:Araip.K6IUX
+Q7XV13	PeanutBase_Ai:Araip.VN0A4
+Q7XV42	PeanutBase_Ai:Araip.BD09A PeanutBase_Ai:Araip.MB0R5 PeanutBase_Ai:Araip.GP5MB PeanutBase_Ai:Araip.HES22 PeanutBase_Ai:Araip.E6A3D
+Q7XVM2	PeanutBase_Ai:Araip.YIM92 PeanutBase_Ai:Araip.U9LFD
+Q7XVM8	PeanutBase_Ai:Araip.0E25I
+Q7XWP9	PeanutBase_Ai:Araip.QYZ6U
+Q7XX31	PeanutBase_Ai:Araip.M3EG0
+Q7XX32	PeanutBase_Ai:Araip.M3EG0
+Q7XXL2	PeanutBase_Ai:Araip.PJ0JZ
+Q7XXQ9	PeanutBase_Ai:Araip.F8VVQ
+Q7XZH5	PeanutBase_Ai:Araip.N7X0P
+Q7Y0B9	PeanutBase_Ai:Araip.D69IY
+Q7Y152	PeanutBase_Ai:Araip.XG7T5
+Q7Y1H9	PeanutBase_Ai:Araip.Q1514
+Q7Y1I6	PeanutBase_Ai:Araip.Q1514
+Q7Y1I9	PeanutBase_Ai:Araip.Q1514
+Q7Y1J1	PeanutBase_Ai:Araip.Q1514
+Q84JH5	PeanutBase_Ai:Araip.0I2ZI
+Q84JI0	PeanutBase_Ai:Araip.CC2EP
+Q84LF7	PeanutBase_Ai:Araip.R89HK PeanutBase_Ai:Araip.R6JKD
+Q84LK3	PeanutBase_Ai:Araip.A9KM0
+Q84M43	PeanutBase_Ai:Araip.TP226
+Q84ME6	PeanutBase_Ai:Araip.9Q80L
+Q84MN8	PeanutBase_Ai:Araip.J63ZS
+Q84NP3	PeanutBase_Ai:Araip.U63A7 PeanutBase_Ai:Araip.92Q2X
+Q84Q89	PeanutBase_Ai:Araip.9BQ78
+Q84QA7	PeanutBase_Ai:Araip.KXH1R PeanutBase_Ai:Araip.3U0AJ PeanutBase_Ai:Araip.AR8PA
+Q84QC0	PeanutBase_Ai:Araip.678U4 PeanutBase_Ai:Araip.R0EFA PeanutBase_Ai:Araip.2Q2JE
+Q84R94	PeanutBase_Ai:Araip.27R9P PeanutBase_Ai:Araip.64KG6
+Q84RX6	PeanutBase_Ai:Araip.FG41D PeanutBase_Ai:Araip.89AKE
+Q84U04	PeanutBase_Ai:Araip.FRU70 PeanutBase_Ai:Araip.B1UDK
+Q84VC7	PeanutBase_Ai:Araip.HYG6U
+Q84YK8	PeanutBase_Ai:Araip.HGI2J
+Q84ZN6	PeanutBase_Ai:Araip.TP226
+Q84ZY2	PeanutBase_Ai:Araip.QYZ6U
+Q851Z6	PeanutBase_Ai:Araip.J6CZK
+Q852M1	PeanutBase_Ai:Araip.A2UQA
+Q852M2	PeanutBase_Ai:Araip.A2UQA
+Q852Q1	PeanutBase_Ai:Araip.UE2ZI
+Q8GRS2	PeanutBase_Ai:Araip.5SR4K
+Q8GRU7	PeanutBase_Ai:Araip.YE9C6
+Q8GSD9	PeanutBase_Ai:Araip.8D9B3 PeanutBase_Ai:Araip.F0EJ7 PeanutBase_Ai:Araip.M7DV0
+Q8GSI0	PeanutBase_Ai:Araip.L4X0W
+Q8GT01	PeanutBase_Ai:Araip.68NP6
+Q8GTK1	PeanutBase_Ai:Araip.RL9T9
+Q8GVJ4	PeanutBase_Ai:Araip.S3GXY PeanutBase_Ai:Araip.WI51C PeanutBase_Ai:Araip.D6HPL
+Q8GVN6	PeanutBase_Ai:Araip.0K5U7
+Q8GVZ0	PeanutBase_Ai:Araip.SNW0B
+Q8GZY1	PeanutBase_Ai:Araip.T9LT0
+Q8H016	PeanutBase_Ai:Araip.VN0A4
+Q8H048	PeanutBase_Ai:Araip.CEE4L
+Q8H051	PeanutBase_Ai:Araip.YUE7J
+Q8H075	PeanutBase_Ai:Araip.BUP6F
+Q8H093	PeanutBase_Ai:Araip.CEE4L
+Q8H0A1	PeanutBase_Ai:Araip.EBH0J
+Q8H0B2	PeanutBase_Ai:Araip.IV2UH PeanutBase_Ai:Araip.965E6
+Q8H0B6	PeanutBase_Ai:Araip.IV2UH PeanutBase_Ai:Araip.965E6
+Q8H2J9	PeanutBase_Ai:Araip.6C4D5
+Q8H395	PeanutBase_Ai:Araip.27R9P PeanutBase_Ai:Araip.64KG6
+Q8H3A4	PeanutBase_Ai:Araip.V6CKT
+Q8H3L0	PeanutBase_Ai:Araip.G0H3V PeanutBase_Ai:Araip.18CW0
+Q8H4L3	PeanutBase_Ai:Araip.JD11C
+Q8H530	PeanutBase_Ai:Araip.E2TIZ
+Q8H539	PeanutBase_Ai:Araip.LYL3L PeanutBase_Ai:Araip.DJ3SV
+Q8H6G8	PeanutBase_Ai:Araip.8D9B3 PeanutBase_Ai:Araip.F0EJ7 PeanutBase_Ai:Araip.M7DV0
+Q8H7S6	PeanutBase_Ai:Araip.UK5PE PeanutBase_Ai:Araip.GGW4P
+Q8H7T7	PeanutBase_Ai:Araip.76LR9
+Q8H8U0	PeanutBase_Ai:Araip.2I7TW
+Q8H930	PeanutBase_Ai:Araip.IV2UH PeanutBase_Ai:Araip.965E6
+Q8LGW5	PeanutBase_Ai:Araip.SC81T
+Q8LGZ9	PeanutBase_Ai:Araip.A06C0
+Q8LHD1	PeanutBase_Ai:Araip.Z08PZ PeanutBase_Ai:Araip.QTG12
+Q8LI89	PeanutBase_Ai:Araip.FV8HT
+Q8LJJ2	PeanutBase_Ai:Araip.Z30L7 PeanutBase_Ai:Araip.3MU4C
+Q8LM92	PeanutBase_Ai:Araip.21BTV
+Q8LMW8	PeanutBase_Ai:Araip.MIR4I PeanutBase_Ai:Araip.C70DE PeanutBase_Ai:Araip.U296L PeanutBase_Ai:Araip.VEV8X PeanutBase_Ai:Araip.YRZ98 PeanutBase_Ai:Araip.22TZ8 PeanutBase_Ai:Araip.6WQ5P PeanutBase_Ai:Araip.VWS8G
+Q8LN68	PeanutBase_Ai:Araip.LUF2N
+Q8LNU2	PeanutBase_Ai:Araip.GEE0K
+Q8LQ34	PeanutBase_Ai:Araip.22S19
+Q8RU95	PeanutBase_Ai:Araip.G3TW3
+Q8RV06	PeanutBase_Ai:Araip.E18CY PeanutBase_Ai:Araip.KS8W2 PeanutBase_Ai:Araip.31SQ6
+Q8RV34	PeanutBase_Ai:Araip.0301B
+Q8RYL0	PeanutBase_Ai:Araip.58Y3G
+Q8S0G4	PeanutBase_Ai:Araip.N719Y PeanutBase_Ai:Araip.33SF4
+Q8S2E5	PeanutBase_Ai:Araip.8QP1N
+Q8S2G0	PeanutBase_Ai:Araip.PF10Q
+Q8S2G5	PeanutBase_Ai:Araip.N719Y PeanutBase_Ai:Araip.33SF4
+Q8S3R0	PeanutBase_Ai:Araip.G56Y8
+Q8S5M6	PeanutBase_Ai:Araip.3TF4X
+Q8S5N2	PeanutBase_Ai:Araip.D5HYW
+Q8S5T1	PeanutBase_Ai:Araip.11YG0 PeanutBase_Ai:Araip.N2IYE
+Q8S6F2	PeanutBase_Ai:Araip.H1H6W
+Q8S7T9	PeanutBase_Ai:Araip.R66ZR PeanutBase_Ai:Araip.X3RSR PeanutBase_Ai:Araip.Y2X13
+Q8S919	PeanutBase_Ai:Araip.40IWR
+Q8S920	PeanutBase_Ai:Araip.40IWR
+Q8S983	PeanutBase_Ai:Araip.E51AM
+Q8S985	PeanutBase_Ai:Araip.E2SK1 PeanutBase_Ai:Araip.6YN2V
+Q8S9S4	PeanutBase_Ai:Araip.BYN0W
+Q8S9Z2	PeanutBase_Ai:Araip.KVY6T PeanutBase_Ai:Araip.4U0UR
+Q8VWH2	PeanutBase_Ai:Araip.VEP8T PeanutBase_Ai:Araip.WWI38 PeanutBase_Ai:Araip.YA5YU
+Q8W0B6	PeanutBase_Ai:Araip.XS6NP PeanutBase_Ai:Araip.FIG1J PeanutBase_Ai:Araip.BJ1LC PeanutBase_Ai:Araip.Q67BG
+Q8W0E4	PeanutBase_Ai:Araip.H07NM PeanutBase_Ai:Araip.H8NH2
+Q8W1L6	PeanutBase_Ai:Araip.YL2Q5
+Q8W250	PeanutBase_Ai:Araip.SQ4TV
+Q8W3F9	PeanutBase_Ai:Araip.82FZS PeanutBase_Ai:Araip.HTG9W
+Q8W3G2	PeanutBase_Ai:Araip.Q7M7G
+Q8W3J0	PeanutBase_Ai:Araip.QUX0P PeanutBase_Ai:Araip.V5PPP PeanutBase_Ai:Araip.I2Y83
+Q8W3L9	PeanutBase_Ai:Araip.B7KGV
+Q8W3M0	PeanutBase_Ai:Araip.B7KGV
+Q93VC3	PeanutBase_Ai:Araip.N0Z6R
+Q93VD5	PeanutBase_Ai:Araip.MNC08
+Q93WI9	PeanutBase_Ai:Araip.VEP8T PeanutBase_Ai:Araip.WWI38 PeanutBase_Ai:Araip.YA5YU
+Q93X08	PeanutBase_Ai:Araip.NV5LW
+Q93XI4	PeanutBase_Ai:Araip.RMP9J
+Q93Y73	PeanutBase_Ai:Araip.CAI3H
+Q945X3	PeanutBase_Ai:Araip.C8XNH PeanutBase_Ai:Araip.KVQ8U PeanutBase_Ai:Araip.Q3KHN
+Q948T6	PeanutBase_Ai:Araip.KHA6T PeanutBase_Ai:Araip.2I5PU
+Q94E75	PeanutBase_Ai:Araip.KW9RM
+Q94GF1	PeanutBase_Ai:Araip.8074I
+Q94HG3	PeanutBase_Ai:Araip.CQ7YT PeanutBase_Ai:Araip.E7PK4
+Q94HG6	PeanutBase_Ai:Araip.RB3WS
+Q94IW5	PeanutBase_Ai:Araip.T6L7D
+Q94J90	PeanutBase_Ai:Araip.KB50Q
+Q94JA2	PeanutBase_Ai:Araip.AT3TF
+Q94JJ0	PeanutBase_Ai:Araip.P4F2X
+Q94LU9	PeanutBase_Ai:Araip.L03GB
+Q94LV4	PeanutBase_Ai:Araip.76LR9
+Q9ASD3	PeanutBase_Ai:Araip.4KU76
+Q9ASP4	PeanutBase_Ai:Araip.Q71DN
+Q9AUQ4	PeanutBase_Ai:Araip.E514L
+Q9AUV6	PeanutBase_Ai:Araip.Q9BYH
+Q9AV47	PeanutBase_Ai:Araip.BYV33 PeanutBase_Ai:Araip.LVJ4W PeanutBase_Ai:Araip.NYM6Q
+Q9AV71	PeanutBase_Ai:Araip.MAE7B
+Q9AWL7	PeanutBase_Ai:Araip.8R33D PeanutBase_Ai:Araip.WW4C8
+Q9AWZ7	PeanutBase_Ai:Araip.UV2PE
+Q9AWZ8	PeanutBase_Ai:Araip.UV2PE
+Q9AY73	PeanutBase_Ai:Araip.CK6FF PeanutBase_Ai:Araip.6R5A3
+Q9FDX8	PeanutBase_Ai:Araip.PEC40 PeanutBase_Ai:Araip.VYF9M
+Q9FRX7	PeanutBase_Ai:Araip.B8UR7
+Q9FTN5	PeanutBase_Ai:Araip.J1HT6
+Q9FTN6	PeanutBase_Ai:Araip.J1HT6
+Q9FTR6	PeanutBase_Ai:Araip.VHD9K
+Q9FTZ2	PeanutBase_Ai:Araip.QBI8Q
+Q9FU67	PeanutBase_Ai:Araip.CSX4W PeanutBase_Ai:Araip.V2JWX PeanutBase_Ai:Araip.0FY9Y PeanutBase_Ai:Araip.H41HP
+Q9FU68	PeanutBase_Ai:Araip.CSX4W PeanutBase_Ai:Araip.V2JWX PeanutBase_Ai:Araip.0FY9Y PeanutBase_Ai:Araip.H41HP
+Q9FU69	PeanutBase_Ai:Araip.CSX4W PeanutBase_Ai:Araip.V2JWX PeanutBase_Ai:Araip.0FY9Y PeanutBase_Ai:Araip.H41HP
+Q9FUE1	PeanutBase_Ai:Araip.C8XNH PeanutBase_Ai:Araip.KVQ8U PeanutBase_Ai:Araip.Q3KHN
+Q9FWC1	PeanutBase_Ai:Araip.RF6HA
+Q9FWK4	PeanutBase_Ai:Araip.UB7EK
+Q9FWQ2	PeanutBase_Ai:Araip.3XD6G
+Q9FXQ3	PeanutBase_Ai:Araip.T1IDG
+Q9LD61	PeanutBase_Ai:Araip.K7ZDH
+Q9LDB7	PeanutBase_Ai:Araip.86PU8
+Q9LG86	PeanutBase_Ai:Araip.60Q0E
+Q9LGL5	PeanutBase_Ai:Araip.K5YKI PeanutBase_Ai:Araip.W0VC8
+Q9LGU6	PeanutBase_Ai:Araip.XJS45 PeanutBase_Ai:Araip.R525U PeanutBase_Ai:Araip.WCF75
+Q9LHZ0	PeanutBase_Ai:Araip.UMR2E
+Q9LHZ7	PeanutBase_Ai:Araip.82FZS PeanutBase_Ai:Araip.HTG9W
+Q9LIZ8	PeanutBase_Ai:Araip.3TF4X
+Q9LRI6	PeanutBase_Ai:Araip.B8UR7
+Q9LWJ2	PeanutBase_Ai:Araip.P8SRT
+Q9LWV3	PeanutBase_Ai:Araip.P3BCC PeanutBase_Ai:Araip.7XH09
+Q9S7D3	PeanutBase_Ai:Araip.N59F9 PeanutBase_Ai:Araip.XFW1X
+Q9SDG5	PeanutBase_Ai:Araip.RM8Z7 PeanutBase_Ai:Araip.1K60N PeanutBase_Ai:Araip.Q07WN
+Q9SMB1	PeanutBase_Ai:Araip.D20IA
+Q9SNK3	PeanutBase_Ai:Araip.4Z02U
+Q9SNN0	PeanutBase_Ai:Araip.AP8LU
+Q9SNQ6	PeanutBase_Ai:Araip.72X39 PeanutBase_Ai:Araip.JYL2X
+Q9XEA6	PeanutBase_Ai:Araip.ZNB8V PeanutBase_Ai:Araip.22DFM
+Q9XEA8	PeanutBase_Ai:Araip.ZNB8V PeanutBase_Ai:Araip.22DFM
+Q9XFE5	PeanutBase_Ai:Araip.E8L7Q PeanutBase_Ai:Araip.SD4UW PeanutBase_Ai:Araip.S6HK5
+Q9XG80	PeanutBase_Ai:Araip.EE8FM
+Q9XHL5	PeanutBase_Ai:Araip.BM7DX
+Q9XJ03	PeanutBase_Ai:Araip.SZE3A
+Q9XJ29	PeanutBase_Ai:Araip.8074I
+Q9ZTP5	PeanutBase_Ai:Araip.GTW9X
+UPI00000AA151	PeanutBase_Ai:Araip.86PU8
+UPI0001C7A9C3	PeanutBase_Ai:Araip.D4XY0

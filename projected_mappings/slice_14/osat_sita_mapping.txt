@@ -1,0 +1,985 @@
+A2X747	Ensembl:Si016926m.g
+A2XPN8	Ensembl:Si009985m.g
+A2Y626	Ensembl:Si021789m.g
+A2Y8A8	Ensembl:Si006118m.g
+A2ZRY8	Ensembl:Si003010m.g
+A2ZW27	Ensembl:Si000752m.g
+A2ZWY7	Ensembl:Si000975m.g Ensembl:Si004997m.g
+A3AAR2	Ensembl:Si018531m.g
+A3AC56	Ensembl:Si016303m.g Ensembl:Si013282m.g
+A3AQC6	Ensembl:Si001473m.g Ensembl:Si001533m.g
+A3BZ14	Ensembl:Si019524m.g
+A3C4N5	Ensembl:Si036703m.g
+A4LBC0	Ensembl:Si004459m.g
+A9CM06	Ensembl:Si017185m.g
+B1B534	Ensembl:Si036003m.g
+B7E8M5	Ensembl:Si036098m.g
+B7EA04	Ensembl:Si010650m.g
+B7EJ81	Ensembl:Si029604m.g
+B7EM10	Ensembl:Si029973m.g Ensembl:Si032149m.g
+B7F409	Ensembl:Si021880m.g
+B7F4K3	Ensembl:Si030203m.g
+B7F7B9	Ensembl:Si016229m.g
+B7F8T0	Ensembl:Si022608m.g
+B7F956	Ensembl:Si004014m.g Ensembl:Si004115m.g
+B7F9K3	Ensembl:Si030203m.g
+B7FA24	Ensembl:Si001050m.g Ensembl:Si001087m.g
+B7FA34	Ensembl:Si021841m.g
+B7FA90	Ensembl:Si006528m.g
+B7FAE9	Ensembl:Si007214m.g
+B7FAP2	Ensembl:Si004704m.g
+B8ACC6	Ensembl:Si004162m.g
+B8AG62	Ensembl:Si022131m.g
+B8AHI9	Ensembl:Si020486m.g
+B8AT82	Ensembl:Si009245m.g
+B8AY22	Ensembl:Si022755m.g
+B8AZ97	Ensembl:Si021883m.g
+B8B8K7	Ensembl:Si032667m.g
+B8BB38	Ensembl:Si013961m.g
+B8BF84	Ensembl:Si029154m.g
+B9EUK4	Ensembl:Si000540m.g
+B9EZJ8	Ensembl:Si003842m.g
+B9F8T8	Ensembl:Si034266m.g
+B9FRT6	Ensembl:Si006353m.g
+B9FYX6	Ensembl:Si013323m.g
+B9FZ46	Ensembl:Si013462m.g
+B9G3A7	Ensembl:Si028904m.g
+B9G4Z8	Ensembl:Si029957m.g
+B9G6J6	Ensembl:Si034798m.g
+C7IWK8	Ensembl:Si001292m.g
+C7IXG8	Ensembl:Si001253m.g
+C7J0P3	Ensembl:Si038774m.g
+C7J5F5	Ensembl:Si014128m.g Ensembl:Si014238m.g Ensembl:Si014124m.g Ensembl:Si015229m.g Ensembl:Si014201m.g
+D5A7I6	Ensembl:Si009737m.g Ensembl:Si026177m.g
+D5A7J1	Ensembl:Si025109m.g
+H6TFZ4	Ensembl:Si005845m.g
+I1QJ08	Ensembl:Si013982m.g
+I1QQP8	Ensembl:Si028816m.g
+O04226	Ensembl:Si021235m.g
+O04882	Ensembl:Si002022m.g
+O22105	Ensembl:Si035657m.g
+O22567	Ensembl:Si021346m.g
+O24174	Ensembl:Si009902m.g
+O24210	Ensembl:Si036720m.g
+O64422	Ensembl:Si035941m.g
+O64437	Ensembl:Si034590m.g
+O82427	Ensembl:Si036276m.g
+P0C132	Ensembl:Si022975m.g
+P0C587	Ensembl:Si035107m.g
+P0C5A4	Ensembl:Si023261m.g
+P14654	Ensembl:Si036352m.g
+P14655	Ensembl:Si022118m.g
+P14656	Ensembl:Si017628m.g
+P14717	Ensembl:Si013348m.g Ensembl:Si009509m.g Ensembl:Si016504m.g
+P15280	Ensembl:Si013574m.g
+P16081	Ensembl:Si013224m.g
+P17784	Ensembl:Si017614m.g Ensembl:Si005058m.g
+P17814	Ensembl:Si013489m.g
+P18566	Ensembl:Si023437m.g Ensembl:Si023466m.g Ensembl:Si023461m.g Ensembl:Si023462m.g Ensembl:Si023465m.g
+P30298	Ensembl:Si005859m.g
+P31924	Ensembl:Si034282m.g
+P37833	Ensembl:Si001361m.g
+P38419	Ensembl:Si013194m.g
+P42862	Ensembl:Si034932m.g
+P42863	Ensembl:Si034932m.g
+P48642	Ensembl:Si017015m.g
+P93438	Ensembl:Si001467m.g
+P93844	Ensembl:Si005868m.g
+Q01KF3	Ensembl:Si010376m.g
+Q01M39	Ensembl:Si009941m.g
+Q05JG2	Ensembl:Si017109m.g
+Q0D3B6	Ensembl:Si033274m.g
+Q0D3D2	Ensembl:Si032793m.g
+Q0D3T5	Ensembl:Si030140m.g
+Q0D4Z4	Ensembl:Si033015m.g
+Q0D7I3	Ensembl:Si030089m.g
+Q0D7W4	Ensembl:Si029336m.g
+Q0D8I9	Ensembl:Si028713m.g
+Q0D8J6	Ensembl:Si029316m.g
+Q0D8N3	Ensembl:Si030028m.g
+Q0DAA4	Ensembl:Si005768m.g
+Q0DAE1	Ensembl:Si006060m.g
+Q0DAJ3	Ensembl:Si006914m.g
+Q0DBD3	Ensembl:Si006958m.g
+Q0DBF4	Ensembl:Si006218m.g Ensembl:Si006269m.g Ensembl:Si006567m.g
+Q0DBN4	Ensembl:Si006490m.g
+Q0DDD2	Ensembl:Si006110m.g
+Q0DDS1	Ensembl:Si006374m.g
+Q0DEC8	Ensembl:Si006038m.g
+Q0DGG8	Ensembl:Si024931m.g
+Q0DGS1	Ensembl:Si021589m.g
+Q0DHF6	Ensembl:Si021510m.g
+Q0DHT1	Ensembl:Si022106m.g
+Q0DJJ9	Ensembl:Si010744m.g
+Q0DKE8	Ensembl:Si022139m.g Ensembl:Si015581m.g
+Q0DKM0	Ensembl:Si009598m.g
+Q0DKP3	Ensembl:Si021562m.g
+Q0DKY4	Ensembl:Si022004m.g
+Q0DNU1	Ensembl:Si036747m.g
+Q0DS96	Ensembl:Si034616m.g
+Q0DSM1	Ensembl:Si035653m.g
+Q0DV32	Ensembl:Si039889m.g Ensembl:Si035033m.g Ensembl:Si039879m.g Ensembl:Si034892m.g Ensembl:Si034944m.g
+Q0DWC7	Ensembl:Si019927m.g
+Q0DWF2	Ensembl:Si017953m.g
+Q0DWY7	Ensembl:Si019620m.g
+Q0DXA9	Ensembl:Si019396m.g
+Q0DXM9	Ensembl:Si016714m.g
+Q0DY86	Ensembl:Si016835m.g
+Q0DYK7	Ensembl:Si016803m.g
+Q0DZE0	Ensembl:Si016478m.g Ensembl:Si016475m.g Ensembl:Si019385m.g
+Q0E079	Ensembl:Si016820m.g
+Q0E0S0	Ensembl:Si016333m.g
+Q0E2P1	Ensembl:Si016655m.g
+Q0E2P9	Ensembl:Si016823m.g
+Q0E2Y8	Ensembl:Si018524m.g
+Q0E3F2	Ensembl:Si016764m.g
+Q0E3J1	Ensembl:Si016209m.g
+Q0E4F0	Ensembl:Si016888m.g
+Q0E4H0	Ensembl:Si017470m.g
+Q0E4N2	Ensembl:Si017062m.g Ensembl:Si022131m.g
+Q0ILP7	Ensembl:Si021618m.g
+Q0IM00	Ensembl:Si022196m.g
+Q0IMS8	Ensembl:Si021377m.g
+Q0INY7	Ensembl:Si023437m.g Ensembl:Si023466m.g Ensembl:Si023461m.g Ensembl:Si023462m.g Ensembl:Si023465m.g
+Q0INZ4	Ensembl:Si022125m.g Ensembl:Si022641m.g
+Q0IPE5	Ensembl:Si022850m.g
+Q0IQA5	Ensembl:Si009737m.g Ensembl:Si026177m.g
+Q0IQQ5	Ensembl:Si010157m.g
+Q0IRE6	Ensembl:Si026207m.g
+Q0ISY7	Ensembl:Si013725m.g
+Q0ITU1	Ensembl:Si026527m.g
+Q0IU28	Ensembl:Si026081m.g
+Q0IUG8	Ensembl:Si026170m.g
+Q0IZJ9	Ensembl:Si029812m.g
+Q0IZR4	Ensembl:Si029957m.g
+Q0IZS0	Ensembl:Si030366m.g
+Q0IZX5	Ensembl:Si028907m.g
+Q0J0L4	Ensembl:Si029595m.g
+Q0J0M8	Ensembl:Si029207m.g
+Q0J0N3	Ensembl:Si029644m.g
+Q0J0N7	Ensembl:Si030413m.g
+Q0J0P1	Ensembl:Si029259m.g
+Q0J0P9	Ensembl:Si029746m.g
+Q0J185	Ensembl:Si029603m.g
+Q0J1C1	Ensembl:Si030502m.g Ensembl:Si030501m.g
+Q0J1E1	Ensembl:Si029051m.g
+Q0J1V2	Ensembl:Si033183m.g
+Q0J268	Ensembl:Si030275m.g
+Q0J2L7	Ensembl:Si030198m.g
+Q0J360	Ensembl:Si021569m.g
+Q0J484	Ensembl:Si015697m.g
+Q0J7P4	Ensembl:Si014286m.g
+Q0J7U6	Ensembl:Si013145m.g
+Q0J7W9	Ensembl:Si013398m.g
+Q0J8A4	Ensembl:Si014034m.g
+Q0J8X6	Ensembl:Si025259m.g
+Q0J951	Ensembl:Si021223m.g
+Q0J9F2	Ensembl:Si022190m.g
+Q0J9H0	Ensembl:Si023273m.g
+Q0J9K2	Ensembl:Si009829m.g
+Q0J9Z0	Ensembl:Si009214m.g
+Q0JA83	Ensembl:Si009658m.g
+Q0JAI1	Ensembl:Si011756m.g
+Q0JAQ3	Ensembl:Si009748m.g
+Q0JB49	Ensembl:Si010900m.g
+Q0JB91	Ensembl:Si010336m.g
+Q0JBA9	Ensembl:Si030985m.g Ensembl:Si018283m.g
+Q0JBF1	Ensembl:Si009543m.g
+Q0JBZ8	Ensembl:Si011974m.g Ensembl:Si009939m.g
+Q0JC10	Ensembl:Si010282m.g
+Q0JCP1	Ensembl:Si009197m.g
+Q0JCZ4	Ensembl:Si009558m.g
+Q0JDD2	Ensembl:Si010817m.g
+Q0JDF7	Ensembl:Si010188m.g
+Q0JDT1	Ensembl:Si010081m.g
+Q0JE53	Ensembl:Si009941m.g
+Q0JEK1	Ensembl:Si006934m.g Ensembl:Si010357m.g Ensembl:Si006647m.g
+Q0JEP5	Ensembl:Si009607m.g
+Q0JEX4	Ensembl:Si011497m.g
+Q0JEZ8	Ensembl:Si009385m.g
+Q0JF02	Ensembl:Si029001m.g
+Q0JF25	Ensembl:Si035438m.g
+Q0JF26	Ensembl:Si035438m.g
+Q0JF30	Ensembl:Si009431m.g
+Q0JHN3	Ensembl:Si000758m.g
+Q0JI87	Ensembl:Si001507m.g
+Q0JIG6	Ensembl:Si003879m.g
+Q0JIJ8	Ensembl:Si002521m.g
+Q0JJ01	Ensembl:Si000647m.g
+Q0JJI1	Ensembl:Si001413m.g
+Q0JJV0	Ensembl:Si003769m.g
+Q0JKG7	Ensembl:Si002548m.g
+Q0JKI9	Ensembl:Si004598m.g
+Q0JKX2	Ensembl:Si000693m.g
+Q0JKY8	Ensembl:Si002140m.g Ensembl:Si003882m.g
+Q0JLT2	Ensembl:Si001504m.g Ensembl:Si001287m.g
+Q0JNI9	Ensembl:Si000698m.g
+Q0JP90	Ensembl:Si003963m.g
+Q0JPS3	Ensembl:Si001682m.g
+Q0JPT4	Ensembl:Si000892m.g
+Q0JQ41	Ensembl:Si001306m.g
+Q0JRG4	Ensembl:Si022939m.g
+Q109F2	Ensembl:Si035174m.g
+Q109K4	Ensembl:Si037732m.g
+Q10A30	Ensembl:Si017614m.g Ensembl:Si005058m.g
+Q10A97	Ensembl:Si038911m.g
+Q10BT5	Ensembl:Si036764m.g
+Q10BX9	Ensembl:Si035668m.g
+Q10CE4	Ensembl:Si040072m.g
+Q10CH5	Ensembl:Si035819m.g
+Q10CS9	Ensembl:Si038812m.g
+Q10D34	Ensembl:Si037305m.g
+Q10D68	Ensembl:Si035240m.g
+Q10D87	Ensembl:Si037503m.g
+Q10DK7	Ensembl:Si040281m.g
+Q10DU0	Ensembl:Si033984m.g
+Q10DZ5	Ensembl:Si034791m.g
+Q10E50	Ensembl:Si039038m.g
+Q10EG4	Ensembl:Si033949m.g
+Q10F25	Ensembl:Si036492m.g
+Q10FE9	Ensembl:Si029845m.g
+Q10G56	Ensembl:Si035474m.g
+Q10HZ6	Ensembl:Si035186m.g
+Q10J20	Ensembl:Si037021m.g
+Q10JI3	Ensembl:Si036707m.g
+Q10L50	Ensembl:Si012132m.g
+Q10L51	Ensembl:Si035284m.g Ensembl:Si008192m.g Ensembl:Si008078m.g
+Q10L56	Ensembl:Si037795m.g
+Q10LP5	Ensembl:Si034293m.g
+Q10LR4	Ensembl:Si035539m.g
+Q10LR5	Ensembl:Si035345m.g
+Q10MB0	Ensembl:Si039523m.g Ensembl:Si036484m.g
+Q10MG9	Ensembl:Si033968m.g
+Q10MK2	Ensembl:Si039147m.g Ensembl:Si038629m.g
+Q10MK5	Ensembl:Si035209m.g Ensembl:Si021759m.g
+Q10MQ2	Ensembl:Si029762m.g Ensembl:Si035578m.g
+Q10MW3	Ensembl:Si034754m.g
+Q10MX3	Ensembl:Si034620m.g
+Q10MX9	Ensembl:Si035778m.g
+Q10N17	Ensembl:Si036014m.g
+Q10N34	Ensembl:Si034368m.g
+Q10N92	Ensembl:Si034554m.g Ensembl:Si034557m.g
+Q10NY1	Ensembl:Si035737m.g
+Q10NY2	Ensembl:Si033987m.g
+Q10P02	Ensembl:Si035420m.g
+Q10P67	Ensembl:Si040236m.g
+Q10P71	Ensembl:Si035200m.g
+Q10PL0	Ensembl:Si035966m.g
+Q10PY7	Ensembl:Si034942m.g
+Q10QA5	Ensembl:Si036746m.g
+Q10QN3	Ensembl:Si034958m.g
+Q10QR9	Ensembl:Si036733m.g Ensembl:Si036841m.g
+Q10R90	Ensembl:Si036078m.g
+Q10RP2	Ensembl:Si040238m.g Ensembl:Si035945m.g
+Q10S34	Ensembl:Si034082m.g
+Q10S55	Ensembl:Si035984m.g Ensembl:Si030061m.g
+Q10S58	Ensembl:Si034964m.g
+Q10S67	Ensembl:Si035207m.g
+Q10S72	Ensembl:Si035024m.g
+Q10SD6	Ensembl:Si036040m.g
+Q10SL7	Ensembl:Si036796m.g
+Q10SM6	Ensembl:Si036098m.g
+Q10SM9	Ensembl:Si036796m.g
+Q10SP1	Ensembl:Si037542m.g
+Q10SU1	Ensembl:Si035045m.g
+Q25AR2	Ensembl:Si010826m.g
+Q2KNB4	Ensembl:Si001164m.g
+Q2KNB5	Ensembl:Si024585m.g
+Q2MJA7	Ensembl:Si035440m.g
+Q2MJA8	Ensembl:Si015818m.g
+Q2QLJ0	Ensembl:Si021680m.g
+Q2QLY5	Ensembl:Si021281m.g
+Q2QM47	Ensembl:Si021021m.g
+Q2QM70	Ensembl:Si022533m.g
+Q2QM83	Ensembl:Si021423m.g
+Q2QMD4	Ensembl:Si022937m.g
+Q2QME6	Ensembl:Si022412m.g
+Q2QMK8	Ensembl:Si022360m.g
+Q2QN06	Ensembl:Si023013m.g
+Q2QNN5	Ensembl:Si005855m.g
+Q2QNS6	Ensembl:Si021011m.g
+Q2QPH4	Ensembl:Si024732m.g Ensembl:Si024187m.g
+Q2QQX6	Ensembl:Si021216m.g
+Q2QS13	Ensembl:Si035448m.g Ensembl:Si013662m.g
+Q2QS14	Ensembl:Si035448m.g Ensembl:Si013662m.g
+Q2QT32	Ensembl:Si021684m.g
+Q2QTJ1	Ensembl:Si023437m.g Ensembl:Si023466m.g Ensembl:Si023461m.g Ensembl:Si023462m.g Ensembl:Si023465m.g
+Q2QTL0	Ensembl:Si021345m.g
+Q2QTQ1	Ensembl:Si017143m.g
+Q2QUG4	Ensembl:Si035769m.g Ensembl:Si026552m.g Ensembl:Si028223m.g Ensembl:Si028038m.g
+Q2QVC1	Ensembl:Si021906m.g
+Q2QWK9	Ensembl:Si009759m.g
+Q2QWV7	Ensembl:Si022608m.g
+Q2QX58	Ensembl:Si009520m.g
+Q2QXK5	Ensembl:Si028018m.g
+Q2QXL0	Ensembl:Si014861m.g Ensembl:Si026421m.g
+Q2QXP0	Ensembl:Si012801m.g Ensembl:Si009922m.g Ensembl:Si027422m.g Ensembl:Si028282m.g
+Q2QXY1	Ensembl:Si026158m.g Ensembl:Si009692m.g
+Q2QXY9	Ensembl:Si009603m.g Ensembl:Si026107m.g
+Q2QXZ1	Ensembl:Si010183m.g Ensembl:Si026499m.g Ensembl:Si026532m.g
+Q2QY63	Ensembl:Si009540m.g Ensembl:Si026066m.g
+Q2QYB7	Ensembl:Si026490m.g Ensembl:Si012394m.g
+Q2QYV3	Ensembl:Si012637m.g Ensembl:Si026514m.g
+Q2QYW4	Ensembl:Si011848m.g Ensembl:Si026445m.g
+Q2QZ14	Ensembl:Si002516m.g Ensembl:Si026653m.g
+Q2R1D5	Ensembl:Si026782m.g
+Q2R1G8	Ensembl:Si026043m.g
+Q2R1L4	Ensembl:Si026349m.g
+Q2R2Q2	Ensembl:Si026401m.g Ensembl:Si026384m.g
+Q2R2W1	Ensembl:Si027279m.g
+Q2R2W2	Ensembl:Si026805m.g
+Q2R2W3	Ensembl:Si026930m.g
+Q2R2W8	Ensembl:Si027576m.g Ensembl:Si028029m.g Ensembl:Si027617m.g Ensembl:Si026397m.g
+Q2R339	Ensembl:Si017002m.g
+Q2R3A1	Ensembl:Si026463m.g
+Q2R3K3	Ensembl:Si026281m.g
+Q2R3K5	Ensembl:Si026164m.g
+Q2R432	Ensembl:Si026859m.g
+Q2R481	Ensembl:Si029497m.g Ensembl:Si026222m.g
+Q2R4Y7	Ensembl:Si001011m.g Ensembl:Si026132m.g
+Q2R4Y8	Ensembl:Si017049m.g Ensembl:Si013650m.g
+Q2R8T7	Ensembl:Si010355m.g Ensembl:Si026565m.g
+Q2RAM8	Ensembl:Si012300m.g
+Q2RAP0	Ensembl:Si026158m.g Ensembl:Si009692m.g
+Q2RAP4	Ensembl:Si009928m.g Ensembl:Si026259m.g
+Q2RAP8	Ensembl:Si009603m.g Ensembl:Si026107m.g
+Q2RB02	Ensembl:Si039144m.g
+Q2RB23	Ensembl:Si026490m.g Ensembl:Si012394m.g
+Q2RBN0	Ensembl:Si012637m.g Ensembl:Si026514m.g
+Q2RBP1	Ensembl:Si011848m.g Ensembl:Si026445m.g
+Q336M7	Ensembl:Si034868m.g
+Q336N7	Ensembl:Si036144m.g
+Q336P5	Ensembl:Si039973m.g
+Q336R6	Ensembl:Si037101m.g
+Q336R7	Ensembl:Si040258m.g
+Q336U3	Ensembl:Si035342m.g
+Q336V3	Ensembl:Si035021m.g
+Q336X9	Ensembl:Si036240m.g
+Q337F0	Ensembl:Si034747m.g
+Q337F3	Ensembl:Si034828m.g
+Q338J0	Ensembl:Si040266m.g Ensembl:Si035392m.g
+Q338N7	Ensembl:Si035423m.g
+Q338N8	Ensembl:Si035074m.g
+Q338Z4	Ensembl:Si035010m.g
+Q339V1	Ensembl:Si023132m.g Ensembl:Si030132m.g
+Q33AE4	Ensembl:Si034762m.g
+Q33CD8	Ensembl:Si020675m.g
+Q33CD9	Ensembl:Si012132m.g
+Q40710	Ensembl:Si030450m.g
+Q42971	Ensembl:Si022050m.g
+Q42982	Ensembl:Si016767m.g
+Q43007	Ensembl:Si000337m.g
+Q43011	Ensembl:Si008415m.g Ensembl:Si034835m.g
+Q4W8D0	Ensembl:Si036280m.g
+Q52QH4	Ensembl:Si002386m.g
+Q53JG7	Ensembl:Si026295m.g
+Q53MS9	Ensembl:Si026861m.g
+Q53MU8	Ensembl:Si008478m.g Ensembl:Si003761m.g
+Q53P49	Ensembl:Si003893m.g Ensembl:Si000531m.g Ensembl:Si004032m.g
+Q53Q70	Ensembl:Si014861m.g Ensembl:Si026421m.g
+Q53RH0	Ensembl:Si034660m.g
+Q5CCK1	Ensembl:Si009928m.g Ensembl:Si026259m.g
+Q5CCK3	Ensembl:Si035274m.g
+Q5JJV0	Ensembl:Si000803m.g
+Q5JK17	Ensembl:Si001874m.g
+Q5JK18	Ensembl:Si000893m.g
+Q5JK20	Ensembl:Si000340m.g
+Q5JK39	Ensembl:Si001208m.g
+Q5JLS4	Ensembl:Si001560m.g
+Q5JLU2	Ensembl:Si004464m.g
+Q5JMA6	Ensembl:Si002132m.g
+Q5JMB6	Ensembl:Si001924m.g
+Q5JMC7	Ensembl:Si000967m.g
+Q5JMM1	Ensembl:Si000545m.g
+Q5JMM6	Ensembl:Si001952m.g
+Q5JMX9	Ensembl:Si001822m.g
+Q5JN19	Ensembl:Si002313m.g
+Q5JN63	Ensembl:Si000179m.g
+Q5JNB0	Ensembl:Si001713m.g
+Q5KS47	Ensembl:Si013412m.g Ensembl:Si030853m.g
+Q5MBR3	Ensembl:Si024703m.g
+Q5MBR5	Ensembl:Si039851m.g
+Q5N725	Ensembl:Si017614m.g Ensembl:Si005058m.g
+Q5N7C7	Ensembl:Si000955m.g
+Q5N7L0	Ensembl:Si004945m.g
+Q5N7Z8	Ensembl:Si001073m.g Ensembl:Si001101m.g
+Q5N892	Ensembl:Si004876m.g
+Q5N8F6	Ensembl:Si004795m.g
+Q5N8G1	Ensembl:Si002409m.g
+Q5N8H9	Ensembl:Si000975m.g Ensembl:Si004997m.g
+Q5N9A1	Ensembl:Si002137m.g
+Q5N9N2	Ensembl:Si001708m.g
+Q5N9Z8	Ensembl:Si022176m.g
+Q5NA12	Ensembl:Si002891m.g
+Q5NA81	Ensembl:Si005031m.g
+Q5NAY4	Ensembl:Si035006m.g
+Q5NAZ7	Ensembl:Si003893m.g Ensembl:Si000531m.g Ensembl:Si004032m.g
+Q5NBQ1	Ensembl:Si002397m.g
+Q5NBT9	Ensembl:Si000092m.g
+Q5NTH3	Ensembl:Si006469m.g
+Q5NTH4	Ensembl:Si017907m.g
+Q5QN02	Ensembl:Si005011m.g
+Q5SMY2	Ensembl:Si001334m.g
+Q5SND7	Ensembl:Si002049m.g
+Q5U9F2	Ensembl:Si031303m.g
+Q5VMP0	Ensembl:Si005956m.g
+Q5VMP2	Ensembl:Si030989m.g
+Q5VN31	Ensembl:Si008087m.g
+Q5VNP5	Ensembl:Si004317m.g Ensembl:Si026582m.g Ensembl:Si002150m.g
+Q5VNT9	Ensembl:Si006427m.g
+Q5VNW0	Ensembl:Si006296m.g
+Q5VPH2	Ensembl:Si006699m.g
+Q5VRB9	Ensembl:Si004227m.g
+Q5VRM7	Ensembl:Si013615m.g Ensembl:Si026267m.g
+Q5VRR0	Ensembl:Si007373m.g
+Q5W670	Ensembl:Si022572m.g
+Q5W6D6	Ensembl:Si022702m.g
+Q5W6F1	Ensembl:Si022114m.g
+Q5W6F9	Ensembl:Si001369m.g
+Q5W6H5	Ensembl:Si001851m.g
+Q5W6W7	Ensembl:Si029063m.g
+Q5WMV3	Ensembl:Si022541m.g
+Q5XLJ2	Ensembl:Si017002m.g
+Q5Z5B7	Ensembl:Si006539m.g
+Q5Z5R4	Ensembl:Si006218m.g Ensembl:Si006269m.g Ensembl:Si006567m.g
+Q5Z5R7	Ensembl:Si006218m.g Ensembl:Si006269m.g Ensembl:Si006567m.g
+Q5Z678	Ensembl:Si006207m.g
+Q5Z6E5	Ensembl:Si008500m.g
+Q5Z749	Ensembl:Si007209m.g
+Q5Z7R3	Ensembl:Si006517m.g Ensembl:Si006518m.g
+Q5Z807	Ensembl:Si006602m.g
+Q5Z8K3	Ensembl:Si006057m.g
+Q5Z8S0	Ensembl:Si008300m.g
+Q5Z8T3	Ensembl:Si006965m.g
+Q5Z8V9	Ensembl:Si006492m.g
+Q5Z8Y4	Ensembl:Si005943m.g Ensembl:Si012193m.g
+Q5ZCV1	Ensembl:Si000995m.g
+Q5ZED1	Ensembl:Si001779m.g
+Q5ZEL4	Ensembl:Si001505m.g
+Q60EH4	Ensembl:Si021541m.g
+Q60EX6	Ensembl:Si021168m.g
+Q64MA9	Ensembl:Si029736m.g
+Q650W1	Ensembl:Si029812m.g
+Q651F0	Ensembl:Si029865m.g
+Q652A8	Ensembl:Si031983m.g
+Q652S1	Ensembl:Si005728m.g
+Q653D9	Ensembl:Si030989m.g
+Q653H7	Ensembl:Si005991m.g
+Q653T6	Ensembl:Si006491m.g
+Q653U3	Ensembl:Si005802m.g
+Q655T1	Ensembl:Si006583m.g
+Q655W2	Ensembl:Si007940m.g
+Q655Y9	Ensembl:Si006593m.g
+Q656F1	Ensembl:Si016829m.g
+Q657X7	Ensembl:Si004108m.g
+Q65XK0	Ensembl:Si021528m.g
+Q65XL7	Ensembl:Si021027m.g
+Q65XM9	Ensembl:Si022312m.g
+Q65XR9	Ensembl:Si024724m.g
+Q67J16	Ensembl:Si029196m.g Ensembl:Si029199m.g
+Q67TQ5	Ensembl:Si030114m.g
+Q67TS1	Ensembl:Si016382m.g
+Q67TS4	Ensembl:Si017028m.g Ensembl:Si019404m.g
+Q67TZ7	Ensembl:Si029404m.g
+Q67UX0	Ensembl:Si016664m.g
+Q67UZ8	Ensembl:Si030109m.g
+Q67VM1	Ensembl:Si006289m.g
+Q67VR7	Ensembl:Si019109m.g
+Q67W29	Ensembl:Si018106m.g
+Q67W82	Ensembl:Si006172m.g
+Q67WR2	Ensembl:Si007894m.g
+Q688L9	Ensembl:Si024237m.g
+Q688Q8	Ensembl:Si021951m.g
+Q688Q9	Ensembl:Si021842m.g
+Q688T8	Ensembl:Si021771m.g
+Q688X5	Ensembl:Si022220m.g
+Q688Y2	Ensembl:Si022814m.g
+Q689G6	Ensembl:Si029202m.g
+Q689G9	Ensembl:Si016922m.g
+Q69IM7	Ensembl:Si030503m.g
+Q69IU0	Ensembl:Si031900m.g Ensembl:Si032741m.g
+Q69J27	Ensembl:Si006979m.g Ensembl:Si022881m.g
+Q69K00	Ensembl:Si030636m.g
+Q69KM5	Ensembl:Si007880m.g
+Q69LG7	Ensembl:Si028859m.g
+Q69MC9	Ensembl:Si030616m.g
+Q69P51	Ensembl:Si028761m.g
+Q69P64	Ensembl:Si028941m.g
+Q69P94	Ensembl:Si031037m.g
+Q69QD7	Ensembl:Si029394m.g
+Q69RC6	Ensembl:Si032809m.g
+Q69RG7	Ensembl:Si024032m.g Ensembl:Si027567m.g
+Q69RJ0	Ensembl:Si028677m.g
+Q69T90	Ensembl:Si006721m.g
+Q69T99	Ensembl:Si029545m.g
+Q69TF4	Ensembl:Si006863m.g
+Q69TT1	Ensembl:Si006468m.g
+Q69TV4	Ensembl:Si007978m.g Ensembl:Si006115m.g Ensembl:Si008446m.g
+Q69TW5	Ensembl:Si006889m.g
+Q69U01	Ensembl:Si015050m.g Ensembl:Si014905m.g Ensembl:Si003804m.g Ensembl:Si007830m.g Ensembl:Si007975m.g Ensembl:Si015221m.g Ensembl:Si014953m.g Ensembl:Si015041m.g
+Q69U93	Ensembl:Si000852m.g Ensembl:Si030137m.g
+Q69UF5	Ensembl:Si006350m.g Ensembl:Si008226m.g
+Q69UU3	Ensembl:Si029700m.g
+Q69V57	Ensembl:Si006745m.g
+Q69X21	Ensembl:Si005868m.g
+Q69X22	Ensembl:Si005868m.g
+Q69XQ6	Ensembl:Si006588m.g
+Q69XS7	Ensembl:Si006943m.g
+Q69Y38	Ensembl:Si006976m.g
+Q6ASW7	Ensembl:Si009415m.g Ensembl:Si026017m.g
+Q6AT26	Ensembl:Si005742m.g Ensembl:Si021050m.g
+Q6AT32	Ensembl:Si022019m.g
+Q6AT33	Ensembl:Si022946m.g
+Q6AT41	Ensembl:Si021924m.g
+Q6AT43	Ensembl:Si035936m.g
+Q6ATR2	Ensembl:Si039092m.g
+Q6AUB0	Ensembl:Si022815m.g
+Q6AUJ8	Ensembl:Si021510m.g
+Q6AV34	Ensembl:Si035869m.g
+Q6AVG6	Ensembl:Si035548m.g
+Q6AVM5	Ensembl:Si022639m.g
+Q6AVT2	Ensembl:Si034768m.g
+Q6EP59	Ensembl:Si016991m.g
+Q6EP77	Ensembl:Si018262m.g
+Q6EPN6	Ensembl:Si019383m.g
+Q6EPR6	Ensembl:Si030389m.g
+Q6EPY7	Ensembl:Si019721m.g
+Q6EPZ0	Ensembl:Si030794m.g
+Q6EPZ2	Ensembl:Si030429m.g
+Q6ERL4	Ensembl:Si029968m.g Ensembl:Si006411m.g
+Q6ES51	Ensembl:Si030072m.g
+Q6ESJ0	Ensembl:Si018223m.g
+Q6ESZ9	Ensembl:Si017033m.g
+Q6ET36	Ensembl:Si040211m.g Ensembl:Si038735m.g
+Q6ET88	Ensembl:Si019431m.g
+Q6ETD3	Ensembl:Si016887m.g
+Q6ETN1	Ensembl:Si016666m.g
+Q6ETN3	Ensembl:Si016817m.g
+Q6ETX4	Ensembl:Si018043m.g
+Q6EUP4	Ensembl:Si020196m.g
+Q6EUS6	Ensembl:Si017250m.g
+Q6F361	Ensembl:Si022574m.g
+Q6H415	Ensembl:Si029210m.g
+Q6H4G3	Ensembl:Si032812m.g
+Q6H4V1	Ensembl:Si017353m.g Ensembl:Si017217m.g
+Q6H513	Ensembl:Si017822m.g
+Q6H543	Ensembl:Si018041m.g
+Q6H5Z4	Ensembl:Si018378m.g
+Q6H6C7	Ensembl:Si017403m.g
+Q6H6D2	Ensembl:Si017625m.g
+Q6H6G1	Ensembl:Si017738m.g
+Q6H6I1	Ensembl:Si018190m.g
+Q6H703	Ensembl:Si017360m.g
+Q6H765	Ensembl:Si017087m.g
+Q6H7Q6	Ensembl:Si016269m.g
+Q6H819	Ensembl:Si018128m.g
+Q6H849	Ensembl:Si017596m.g
+Q6H851	Ensembl:Si016877m.g
+Q6H8F6	Ensembl:Si016382m.g
+Q6I581	Ensembl:Si021291m.g Ensembl:Si028354m.g
+Q6I5C3	Ensembl:Si023264m.g
+Q6IEQ7	Ensembl:Si000906m.g
+Q6IVC3	Ensembl:Si036527m.g
+Q6K1S6	Ensembl:Si018182m.g
+Q6K209	Ensembl:Si018895m.g Ensembl:Si018900m.g
+Q6K2E1	Ensembl:Si030247m.g
+Q6K306	Ensembl:Si029964m.g Ensembl:Si030112m.g
+Q6K3T2	Ensembl:Si016455m.g
+Q6K3Z3	Ensembl:Si003974m.g Ensembl:Si010265m.g
+Q6K4Q5	Ensembl:Si018488m.g
+Q6K4V9	Ensembl:Si016932m.g
+Q6K4Y7	Ensembl:Si017889m.g
+Q6K5G8	Ensembl:Si017082m.g
+Q6K5U4	Ensembl:Si017309m.g Ensembl:Si020059m.g
+Q6K678	Ensembl:Si018360m.g
+Q6K6Q0	Ensembl:Si016478m.g Ensembl:Si016475m.g Ensembl:Si019385m.g
+Q6K6Q1	Ensembl:Si016467m.g
+Q6K755	Ensembl:Si028377m.g Ensembl:Si028384m.g Ensembl:Si016809m.g
+Q6K7V6	Ensembl:Si020026m.g
+Q6K846	Ensembl:Si018481m.g
+Q6K8E2	Ensembl:Si016581m.g
+Q6K8J4	Ensembl:Si016429m.g
+Q6K8R6	Ensembl:Si017654m.g
+Q6K969	Ensembl:Si020251m.g
+Q6K973	Ensembl:Si020148m.g
+Q6K9B8	Ensembl:Si017413m.g
+Q6K9M5	Ensembl:Si020000m.g
+Q6K9N6	Ensembl:Si017316m.g
+Q6KAJ2	Ensembl:Si017156m.g
+Q6L4G2	Ensembl:Si024711m.g
+Q6L4H5	Ensembl:Si024134m.g
+Q6L4L4	Ensembl:Si021164m.g
+Q6L4R7	Ensembl:Si022134m.g
+Q6L506	Ensembl:Si022270m.g
+Q6L540	Ensembl:Si024060m.g
+Q6L545	Ensembl:Si022513m.g
+Q6L5H6	Ensembl:Si022343m.g
+Q6Q9I2	Ensembl:Si030802m.g
+Q6YPG5	Ensembl:Si016825m.g
+Q6YS33	Ensembl:Si029364m.g
+Q6YS36	Ensembl:Si005769m.g
+Q6YSA1	Ensembl:Si029726m.g
+Q6YSF8	Ensembl:Si031297m.g
+Q6YT73	Ensembl:Si029923m.g
+Q6YTI6	Ensembl:Si017427m.g
+Q6YTT3	Ensembl:Si013587m.g
+Q6YU51	Ensembl:Si029067m.g
+Q6YUI8	Ensembl:Si029293m.g Ensembl:Si031974m.g
+Q6YUS0	Ensembl:Si016776m.g
+Q6YUU2	Ensembl:Si020188m.g
+Q6YV23	Ensembl:Si017204m.g
+Q6YVI0	Ensembl:Si017196m.g
+Q6YVT1	Ensembl:Si013426m.g
+Q6YVY0	Ensembl:Si016562m.g
+Q6YVY6	Ensembl:Si030558m.g
+Q6YWE1	Ensembl:Si032044m.g
+Q6YXC2	Ensembl:Si016503m.g
+Q6YXI1	Ensembl:Si029228m.g
+Q6YXW6	Ensembl:Si001574m.g Ensembl:Si029938m.g
+Q6YYB9	Ensembl:Si013676m.g
+Q6YYY7	Ensembl:Si013886m.g
+Q6YYZ2	Ensembl:Si034868m.g
+Q6YZ18	Ensembl:Si015803m.g
+Q6YZE2	Ensembl:Si021820m.g
+Q6YZH8	Ensembl:Si013458m.g
+Q6YZX7	Ensembl:Si017183m.g
+Q6Z0T7	Ensembl:Si014629m.g
+Q6Z2L5	Ensembl:Si017423m.g
+Q6Z2T6	Ensembl:Si017037m.g
+Q6Z2T9	Ensembl:Si016839m.g
+Q6Z312	Ensembl:Si017618m.g
+Q6Z351	Ensembl:Si032986m.g
+Q6Z3A4	Ensembl:Si021951m.g
+Q6Z3F1	Ensembl:Si013546m.g
+Q6Z3F9	Ensembl:Si013906m.g
+Q6Z3X5	Ensembl:Si028803m.g
+Q6Z3Y3	Ensembl:Si030270m.g
+Q6Z414	Ensembl:Si030273m.g
+Q6Z434	Ensembl:Si017447m.g
+Q6Z4E7	Ensembl:Si029368m.g
+Q6Z4I1	Ensembl:Si005579m.g
+Q6Z4U1	Ensembl:Si024700m.g Ensembl:Si015441m.g
+Q6Z684	Ensembl:Si017045m.g
+Q6Z6K9	Ensembl:Si019843m.g
+Q6Z6L1	Ensembl:Si019843m.g
+Q6Z6S7	Ensembl:Si017104m.g
+Q6Z702	Ensembl:Si016949m.g
+Q6Z744	Ensembl:Si017307m.g
+Q6Z795	Ensembl:Si016594m.g
+Q6Z7I3	Ensembl:Si016747m.g
+Q6Z7Q3	Ensembl:Si019763m.g
+Q6Z836	Ensembl:Si016595m.g
+Q6Z8F4	Ensembl:Si017390m.g
+Q6Z8S2	Ensembl:Si024700m.g Ensembl:Si015441m.g
+Q6Z8Z7	Ensembl:Si016973m.g
+Q6Z965	Ensembl:Si013880m.g
+Q6Z9A3	Ensembl:Si001333m.g Ensembl:Si010432m.g
+Q6Z9E6	Ensembl:Si014244m.g
+Q6ZA22	Ensembl:Si015433m.g
+Q6ZAC1	Ensembl:Si013531m.g
+Q6ZAH2	Ensembl:Si039795m.g Ensembl:Si017380m.g
+Q6ZAK7	Ensembl:Si013900m.g
+Q6ZB59	Ensembl:Si013709m.g
+Q6ZBE1	Ensembl:Si009917m.g
+Q6ZBH5	Ensembl:Si015389m.g
+Q6ZC33	Ensembl:Si013224m.g
+Q6ZC70	Ensembl:Si013809m.g
+Q6ZCF0	Ensembl:Si013583m.g
+Q6ZD10	Ensembl:Si013223m.g
+Q6ZD89	Ensembl:Si014900m.g
+Q6ZDJ7	Ensembl:Si013967m.g
+Q6ZDQ1	Ensembl:Si000857m.g
+Q6ZDY8	Ensembl:Si015821m.g
+Q6ZEZ2	Ensembl:Si030780m.g
+Q6ZFT5	Ensembl:Si017764m.g
+Q6ZG77	Ensembl:Si021869m.g
+Q6ZG91	Ensembl:Si016728m.g
+Q6ZGS9	Ensembl:Si017199m.g
+Q6ZGW6	Ensembl:Si017485m.g
+Q6ZH92	Ensembl:Si031551m.g
+Q6ZHA3	Ensembl:Si018396m.g
+Q6ZHB2	Ensembl:Si017695m.g
+Q6ZHH4	Ensembl:Si016507m.g
+Q6ZHH7	Ensembl:Si016274m.g
+Q6ZHS4	Ensembl:Si017253m.g
+Q6ZHZ1	Ensembl:Si013170m.g
+Q6ZI39	Ensembl:Si016260m.g
+Q6ZI55	Ensembl:Si017536m.g
+Q6ZIA3	Ensembl:Si013653m.g
+Q6ZIK0	Ensembl:Si017698m.g
+Q6ZIX2	Ensembl:Si030398m.g
+Q6ZJ97	Ensembl:Si013631m.g
+Q6ZJM9	Ensembl:Si013357m.g
+Q6ZJU3	Ensembl:Si013807m.g
+Q6ZK11	Ensembl:Si010744m.g
+Q6ZKC0	Ensembl:Si002635m.g Ensembl:Si014314m.g Ensembl:Si014320m.g
+Q6ZKV8	Ensembl:Si014981m.g
+Q6ZL61	Ensembl:Si030453m.g
+Q6ZL94	Ensembl:Si030465m.g
+Q6ZLJ9	Ensembl:Si029000m.g
+Q75GB1	Ensembl:Si023069m.g
+Q75H77	Ensembl:Si036309m.g
+Q75HA6	Ensembl:Si034834m.g
+Q75I93	Ensembl:Si035308m.g
+Q75II5	Ensembl:Si022538m.g
+Q75KD7	Ensembl:Si037205m.g
+Q75KT7	Ensembl:Si022433m.g
+Q75L84	Ensembl:Si022408m.g
+Q75LC7	Ensembl:Si035198m.g
+Q75LL5	Ensembl:Si036007m.g
+Q75LR2	Ensembl:Si035017m.g
+Q75M18	Ensembl:Si025273m.g Ensembl:Si021042m.g
+Q75V57	Ensembl:Si022378m.g
+Q75W16	Ensembl:Si029161m.g
+Q764B9	Ensembl:Si036997m.g
+Q7EYE4	Ensembl:Si015234m.g
+Q7EYM8	Ensembl:Si013914m.g
+Q7EZD3	Ensembl:Si013369m.g
+Q7EZW6	Ensembl:Si015820m.g
+Q7EZZ0	Ensembl:Si029936m.g
+Q7F0B2	Ensembl:Si029735m.g
+Q7F0Q2	Ensembl:Si010466m.g
+Q7F190	Ensembl:Si029215m.g
+Q7F1X5	Ensembl:Si000889m.g
+Q7F8K7	Ensembl:Si038310m.g
+Q7FAS1	Ensembl:Si010412m.g
+Q7G065	Ensembl:Si001040m.g
+Q7G2F7	Ensembl:Si033934m.g
+Q7G2H3	Ensembl:Si035869m.g
+Q7G602	Ensembl:Si035224m.g
+Q7G6M2	Ensembl:Si039999m.g Ensembl:Si039249m.g Ensembl:Si028355m.g Ensembl:Si035134m.g
+Q7G7J6	Ensembl:Si039400m.g
+Q7X634	Ensembl:Si010381m.g Ensembl:Si012713m.g Ensembl:Si010373m.g
+Q7X720	Ensembl:Si029093m.g Ensembl:Si012256m.g
+Q7X742	Ensembl:Si011424m.g
+Q7X7N2	Ensembl:Si010532m.g
+Q7X7X0	Ensembl:Si000970m.g Ensembl:Si029695m.g Ensembl:Si026336m.g
+Q7X7X4	Ensembl:Si029579m.g Ensembl:Si013603m.g Ensembl:Si029587m.g Ensembl:Si013601m.g Ensembl:Si013611m.g
+Q7X8A1	Ensembl:Si010261m.g
+Q7X8V3	Ensembl:Si009345m.g
+Q7XAP2	Ensembl:Si006576m.g
+Q7XBY6	Ensembl:Si037529m.g
+Q7XC20	Ensembl:Si036466m.g
+Q7XCK3	Ensembl:Si036274m.g
+Q7XDE0	Ensembl:Si035063m.g
+Q7XE48	Ensembl:Si034299m.g
+Q7XEZ6	Ensembl:Si038745m.g
+Q7XGU4	Ensembl:Si035069m.g
+Q7XH05	Ensembl:Si033915m.g Ensembl:Si040152m.g Ensembl:Si033946m.g Ensembl:Si033914m.g
+Q7XHL3	Ensembl:Si033345m.g
+Q7XHZ2	Ensembl:Si029426m.g
+Q7XI34	Ensembl:Si033228m.g Ensembl:Si032617m.g
+Q7XI35	Ensembl:Si029717m.g Ensembl:Si032090m.g Ensembl:Si029739m.g Ensembl:Si029803m.g
+Q7XI67	Ensembl:Si028842m.g
+Q7XI92	Ensembl:Si030285m.g
+Q7XI96	Ensembl:Si030508m.g
+Q7XK23	Ensembl:Si010358m.g
+Q7XKH9	Ensembl:Si009941m.g
+Q7XKI0	Ensembl:Si009941m.g
+Q7XKQ8	Ensembl:Si019445m.g
+Q7XM21	Ensembl:Si022356m.g
+Q7XMA8	Ensembl:Si009917m.g
+Q7XMP7	Ensembl:Si010561m.g
+Q7XMU7	Ensembl:Si012182m.g
+Q7XNX6	Ensembl:Si005845m.g
+Q7XNY3	Ensembl:Si010545m.g
+Q7XPB5	Ensembl:Si006934m.g Ensembl:Si010357m.g Ensembl:Si006647m.g
+Q7XPR5	Ensembl:Si010480m.g
+Q7XPW5	Ensembl:Si023057m.g
+Q7XQ85	Ensembl:Si009971m.g
+Q7XR02	Ensembl:Si024993m.g
+Q7XR60	Ensembl:Si022133m.g
+Q7XR61	Ensembl:Si022133m.g
+Q7XRA1	Ensembl:Si016654m.g
+Q7XRT0	Ensembl:Si001775m.g
+Q7XSS9	Ensembl:Si021833m.g
+Q7XTB2	Ensembl:Si010328m.g
+Q7XTE8	Ensembl:Si010865m.g
+Q7XTH0	Ensembl:Si009941m.g
+Q7XTK3	Ensembl:Si001473m.g Ensembl:Si001533m.g
+Q7XTU2	Ensembl:Si011900m.g
+Q7XTX7	Ensembl:Si009704m.g
+Q7XU28	Ensembl:Si010534m.g
+Q7XU29	Ensembl:Si009605m.g
+Q7XUA8	Ensembl:Si010186m.g
+Q7XUH5	Ensembl:Si010466m.g
+Q7XUI7	Ensembl:Si009633m.g
+Q7XUK6	Ensembl:Si011041m.g
+Q7XUS2	Ensembl:Si010798m.g
+Q7XV13	Ensembl:Si009302m.g
+Q7XV42	Ensembl:Si009951m.g
+Q7XVM2	Ensembl:Si010101m.g
+Q7XVM8	Ensembl:Si009703m.g
+Q7XVP0	Ensembl:Si010888m.g Ensembl:Si022899m.g
+Q7XWP9	Ensembl:Si000472m.g
+Q7XX31	Ensembl:Si022608m.g
+Q7XX32	Ensembl:Si022608m.g
+Q7XYS3	Ensembl:Si039790m.g Ensembl:Si035439m.g
+Q7XZH5	Ensembl:Si036937m.g Ensembl:Si036946m.g
+Q7Y0B9	Ensembl:Si036283m.g
+Q7Y0W5	Ensembl:Si039992m.g
+Q7Y0Y8	Ensembl:Si006243m.g
+Q7Y152	Ensembl:Si035310m.g
+Q7Y1H9	Ensembl:Si037012m.g
+Q7Y1I9	Ensembl:Si036532m.g Ensembl:Si036506m.g
+Q7Y1J1	Ensembl:Si036532m.g Ensembl:Si036506m.g
+Q84J55	Ensembl:Si014301m.g
+Q84J76	Ensembl:Si014533m.g Ensembl:Si014537m.g
+Q84JH5	Ensembl:Si036322m.g
+Q84JI0	Ensembl:Si036015m.g
+Q84LK3	Ensembl:Si013592m.g
+Q84M43	Ensembl:Si034016m.g
+Q84MN8	Ensembl:Si035458m.g
+Q84Q89	Ensembl:Si038710m.g
+Q84QA7	Ensembl:Si034821m.g
+Q84R94	Ensembl:Si037350m.g
+Q84RX6	Ensembl:Si029204m.g
+Q84T92	Ensembl:Si036958m.g Ensembl:Si024113m.g
+Q84VC7	Ensembl:Si021148m.g
+Q84VK7	Ensembl:Si031551m.g
+Q84YK8	Ensembl:Si013194m.g
+Q84ZN6	Ensembl:Si028770m.g
+Q84ZY2	Ensembl:Si008821m.g Ensembl:Si005927m.g
+Q851L5	Ensembl:Si039209m.g Ensembl:Si038561m.g
+Q851Z6	Ensembl:Si034939m.g
+Q852C2	Ensembl:Si035584m.g Ensembl:Si035261m.g Ensembl:Si035560m.g Ensembl:Si035523m.g
+Q852M1	Ensembl:Si033915m.g Ensembl:Si040152m.g Ensembl:Si033946m.g Ensembl:Si033914m.g
+Q852M2	Ensembl:Si033915m.g Ensembl:Si040152m.g Ensembl:Si033946m.g Ensembl:Si033914m.g
+Q852P4	Ensembl:Si006039m.g
+Q852Q1	Ensembl:Si035270m.g
+Q8GRS2	Ensembl:Si037592m.g
+Q8GRU7	Ensembl:Si029381m.g Ensembl:Si025099m.g
+Q8GT01	Ensembl:Si002357m.g
+Q8GVJ4	Ensembl:Si008635m.g
+Q8GVZ0	Ensembl:Si030981m.g Ensembl:Si033005m.g
+Q8H016	Ensembl:Si034131m.g
+Q8H038	Ensembl:Si036091m.g
+Q8H048	Ensembl:Si039817m.g
+Q8H051	Ensembl:Si035565m.g
+Q8H075	Ensembl:Si039759m.g
+Q8H093	Ensembl:Si034036m.g
+Q8H0A1	Ensembl:Si035965m.g
+Q8H0B2	Ensembl:Si035930m.g
+Q8H0B6	Ensembl:Si010226m.g
+Q8H273	Ensembl:Si011005m.g
+Q8H395	Ensembl:Si030980m.g
+Q8H3A4	Ensembl:Si030227m.g
+Q8H3C8	Ensembl:Si029909m.g
+Q8H3C9	Ensembl:Si029793m.g
+Q8H3I4	Ensembl:Si030190m.g Ensembl:Si030627m.g
+Q8H3Q7	Ensembl:Si029691m.g Ensembl:Si029684m.g
+Q8H4L3	Ensembl:Si009991m.g Ensembl:Si010275m.g Ensembl:Si009992m.g
+Q8H530	Ensembl:Si029993m.g
+Q8H539	Ensembl:Si030772m.g Ensembl:Si030771m.g Ensembl:Si030766m.g
+Q8H7S6	Ensembl:Si034211m.g
+Q8H7T7	Ensembl:Si035973m.g Ensembl:Si036293m.g
+Q8H825	Ensembl:Si036632m.g
+Q8H8U0	Ensembl:Si035919m.g
+Q8H930	Ensembl:Si029946m.g
+Q8LGW5	Ensembl:Si028927m.g
+Q8LGZ9	Ensembl:Si020696m.g
+Q8LHD1	Ensembl:Si039681m.g
+Q8LI89	Ensembl:Si029058m.g
+Q8LIG8	Ensembl:Si031131m.g
+Q8LIY8	Ensembl:Si004644m.g
+Q8LJJ2	Ensembl:Si000999m.g
+Q8LM92	Ensembl:Si035935m.g
+Q8LMW8	Ensembl:Si037738m.g
+Q8LN68	Ensembl:Si038692m.g
+Q8LNU2	Ensembl:Si034208m.g
+Q8LR33	Ensembl:Si002133m.g
+Q8LR75	Ensembl:Si002630m.g
+Q8LRA0	Ensembl:Si001050m.g Ensembl:Si001087m.g
+Q8RU95	Ensembl:Si000889m.g
+Q8RV34	Ensembl:Si025052m.g
+Q8RYL0	Ensembl:Si001208m.g
+Q8RYY6	Ensembl:Si000781m.g
+Q8RZZ3	Ensembl:Si002371m.g
+Q8S2E5	Ensembl:Si001685m.g
+Q8S2G0	Ensembl:Si001697m.g
+Q8S3R0	Ensembl:Si017744m.g
+Q8S5M6	Ensembl:Si016471m.g Ensembl:Si011642m.g
+Q8S5N2	Ensembl:Si039028m.g
+Q8S5T1	Ensembl:Si035890m.g
+Q8S601	Ensembl:Si029933m.g
+Q8S7N5	Ensembl:Si035300m.g
+Q8S919	Ensembl:Si007428m.g
+Q8S920	Ensembl:Si003246m.g
+Q8S983	Ensembl:Si021121m.g
+Q8S985	Ensembl:Si021595m.g
+Q8S9S4	Ensembl:Si001442m.g Ensembl:Si001453m.g
+Q8S9Z2	Ensembl:Si001773m.g
+Q8VWH2	Ensembl:Si007366m.g Ensembl:Si008120m.g Ensembl:Si008517m.g
+Q8W1L6	Ensembl:Si017689m.g Ensembl:Si016347m.g
+Q8W250	Ensembl:Si001299m.g
+Q8W3J0	Ensembl:Si036432m.g
+Q8W3L9	Ensembl:Si029213m.g
+Q8W3M0	Ensembl:Si034616m.g
+Q8W5G9	Ensembl:Si035940m.g
+Q93VC3	Ensembl:Si019109m.g
+Q93VD5	Ensembl:Si000867m.g Ensembl:Si004869m.g Ensembl:Si026246m.g
+Q93WI9	Ensembl:Si007366m.g Ensembl:Si008120m.g Ensembl:Si008517m.g
+Q93X08	Ensembl:Si029679m.g
+Q93XI4	Ensembl:Si017557m.g
+Q93Y73	Ensembl:Si038818m.g
+Q941T9	Ensembl:Si001333m.g Ensembl:Si010432m.g
+Q941W8	Ensembl:Si004684m.g
+Q943R3	Ensembl:Si001447m.g
+Q94E75	Ensembl:Si001574m.g Ensembl:Si029938m.g
+Q94EE9	Ensembl:Si039999m.g Ensembl:Si039249m.g Ensembl:Si028355m.g Ensembl:Si035134m.g
+Q94GF1	Ensembl:Si034864m.g
+Q94HG3	Ensembl:Si034817m.g
+Q94HG6	Ensembl:Si036540m.g
+Q94IW5	Ensembl:Si001130m.g
+Q94J08	Ensembl:Si002364m.g
+Q94J90	Ensembl:Si000990m.g
+Q94JA2	Ensembl:Si002110m.g
+Q94JJ0	Ensembl:Si001803m.g
+Q94LU9	Ensembl:Si034372m.g
+Q94LV4	Ensembl:Si035936m.g
+Q9ASD3	Ensembl:Si002730m.g
+Q9ASK5	Ensembl:Si001588m.g
+Q9ASP4	Ensembl:Si001653m.g
+Q9AUQ4	Ensembl:Si034613m.g
+Q9AUV6	Ensembl:Si035448m.g Ensembl:Si013662m.g
+Q9AV47	Ensembl:Si034525m.g
+Q9AV71	Ensembl:Si034020m.g
+Q9AWL7	Ensembl:Si000107m.g
+Q9FDY4	Ensembl:Si000814m.g
+Q9FE35	Ensembl:Si002019m.g
+Q9FTN5	Ensembl:Si002335m.g Ensembl:Si002414m.g Ensembl:Si004534m.g Ensembl:Si002347m.g Ensembl:Si002006m.g
+Q9FTN6	Ensembl:Si002335m.g Ensembl:Si002414m.g Ensembl:Si004534m.g Ensembl:Si002347m.g Ensembl:Si002006m.g
+Q9FTR6	Ensembl:Si001484m.g
+Q9FTZ2	Ensembl:Si002887m.g
+Q9FU17	Ensembl:Si001369m.g
+Q9FU67	Ensembl:Si001162m.g
+Q9FU68	Ensembl:Si001162m.g
+Q9FU69	Ensembl:Si001162m.g
+Q9FWC1	Ensembl:Si034760m.g
+Q9FWK4	Ensembl:Si038168m.g
+Q9FWQ2	Ensembl:Si036153m.g
+Q9LD61	Ensembl:Si015656m.g
+Q9LDB7	Ensembl:Si007976m.g
+Q9LG86	Ensembl:Si002618m.g
+Q9LGL5	Ensembl:Si000757m.g
+Q9LGU6	Ensembl:Si001401m.g
+Q9LHZ0	Ensembl:Si006977m.g
+Q9LHZ7	Ensembl:Si005721m.g
+Q9LIZ8	Ensembl:Si000476m.g
+Q9LWU9	Ensembl:Si008220m.g
+Q9LWV3	Ensembl:Si007199m.g
+Q9S7D3	Ensembl:Si013827m.g
+Q9SDG5	Ensembl:Si001950m.g
+Q9SE42	Ensembl:Si031033m.g
+Q9SMB1	Ensembl:Si030459m.g
+Q9SNK3	Ensembl:Si035707m.g
+Q9SNN0	Ensembl:Si007956m.g
+Q9XEA6	Ensembl:Si022552m.g
+Q9XFE5	Ensembl:Si040766m.g
+Q9XG80	Ensembl:Si018638m.g
+Q9XHL5	Ensembl:Si013486m.g
+Q9XJ03	Ensembl:Si006979m.g Ensembl:Si022881m.g
+Q9XJ29	Ensembl:Si034777m.g
+Q9ZTP5	Ensembl:Si036994m.g
+UPI00000AA151	Ensembl:Si007976m.g
+UPI0001C7A9C3	Ensembl:Si029013m.g

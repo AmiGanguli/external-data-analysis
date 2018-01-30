@@ -1,0 +1,959 @@
+A2X747	Phytozome_Gr:Gorai.010G235000 Phytozome_Gr:Gorai.010G233000 Phytozome_Gr:Gorai.010G234700 Phytozome_Gr:Gorai.009G122600 Phytozome_Gr:Gorai.009G055900 Phytozome_Gr:Gorai.011G132100 Phytozome_Gr:Gorai.011G130900 Phytozome_Gr:Gorai.010G234900 Phytozome_Gr:Gorai.011G131500 Phytozome_Gr:Gorai.010G234600 Phytozome_Gr:Gorai.011G130700 Phytozome_Gr:Gorai.010G234800 Phytozome_Gr:Gorai.010G233600 Phytozome_Gr:Gorai.009G057200 Phytozome_Gr:Gorai.010G234500
+A2XPN8	Phytozome_Gr:Gorai.006G243400 Phytozome_Gr:Gorai.005G045800
+A2Y626	Phytozome_Gr:Gorai.013G000900 Phytozome_Gr:Gorai.002G230900
+A2Y8A8	Phytozome_Gr:Gorai.006G212500 Phytozome_Gr:Gorai.008G236600
+A2ZW27	Phytozome_Gr:Gorai.010G159200 Phytozome_Gr:Gorai.001G067400 Phytozome_Gr:Gorai.011G000800
+A2ZWY3	Phytozome_Gr:Gorai.009G044000
+A2ZWY7	Phytozome_Gr:Gorai.009G044000
+A3AAR2	Phytozome_Gr:Gorai.002G158300
+A3AQC6	Phytozome_Gr:Gorai.007G295900 Phytozome_Gr:Gorai.007G295700
+A3AZW5	Phytozome_Gr:Gorai.009G395300 Phytozome_Gr:Gorai.009G301900
+A3B7R7	Phytozome_Gr:Gorai.013G271700 Phytozome_Gr:Gorai.011G207000
+A3B9A0	Phytozome_Gr:Gorai.010G091300 Phytozome_Gr:Gorai.001G017000 Phytozome_Gr:Gorai.012G009000
+A3BI64	Phytozome_Gr:Gorai.009G321100 Phytozome_Gr:Gorai.001G113900 Phytozome_Gr:Gorai.011G274700 Phytozome_Gr:Gorai.001G113300 Phytozome_Gr:Gorai.001G113800 Phytozome_Gr:Gorai.012G073900 Phytozome_Gr:Gorai.001G113200 Phytozome_Gr:Gorai.001G114000
+A3BIR7	Phytozome_Gr:Gorai.011G225500 Phytozome_Gr:Gorai.001G063600 Phytozome_Gr:Gorai.003G023600 Phytozome_Gr:Gorai.003G024400 Phytozome_Gr:Gorai.011G225100 Phytozome_Gr:Gorai.011G225200 Phytozome_Gr:Gorai.011G262400 Phytozome_Gr:Gorai.003G024500 Phytozome_Gr:Gorai.008G161500 Phytozome_Gr:Gorai.011G225300 Phytozome_Gr:Gorai.011G224900 Phytozome_Gr:Gorai.011G225400 Phytozome_Gr:Gorai.011G225000
+A3BJI8	Phytozome_Gr:Gorai.005G197400 Phytozome_Gr:Gorai.008G155900
+A3C4N5	Phytozome_Gr:Gorai.002G232300 Phytozome_Gr:Gorai.013G247500 Phytozome_Gr:Gorai.004G017300 Phytozome_Gr:Gorai.009G000500 Phytozome_Gr:Gorai.009G392700
+A4LBC0	Phytozome_Gr:Gorai.002G237900 Phytozome_Gr:Gorai.009G399000 Phytozome_Gr:Gorai.006G152400
+A9CM06	Phytozome_Gr:Gorai.013G171600
+B7E8M5	Phytozome_Gr:Gorai.004G042100
+B7EA04	Phytozome_Gr:Gorai.008G049800 Phytozome_Gr:Gorai.005G268300
+B7EJ81	Phytozome_Gr:Gorai.008G175100 Phytozome_Gr:Gorai.013G098000 Phytozome_Gr:Gorai.009G327300
+B7F4K3	Phytozome_Gr:Gorai.002G242900 Phytozome_Gr:Gorai.011G002700 Phytozome_Gr:Gorai.002G242700
+B7F7B9	Phytozome_Gr:Gorai.013G235900 Phytozome_Gr:Gorai.004G292800 Phytozome_Gr:Gorai.010G116100
+B7F8T0	Phytozome_Gr:Gorai.006G145500 Phytozome_Gr:Gorai.002G154600
+B7F956	Phytozome_Gr:Gorai.002G072100
+B7F9K3	Phytozome_Gr:Gorai.002G242900 Phytozome_Gr:Gorai.011G002700 Phytozome_Gr:Gorai.002G242700
+B7FA34	Phytozome_Gr:Gorai.005G132000 Phytozome_Gr:Gorai.008G289900
+B7FA90	Phytozome_Gr:Gorai.013G246600
+B7FA99	Phytozome_Gr:Gorai.013G171600
+B7FAE9	Phytozome_Gr:Gorai.001G038600
+B7FAP2	Phytozome_Gr:Gorai.005G025500 Phytozome_Gr:Gorai.005G026100 Phytozome_Gr:Gorai.003G047900 Phytozome_Gr:Gorai.005G025400 Phytozome_Gr:Gorai.005G025900 Phytozome_Gr:Gorai.005G026200 Phytozome_Gr:Gorai.005G025700 Phytozome_Gr:Gorai.005G025600
+B8AG62	Phytozome_Gr:Gorai.013G012400
+B8AHI9	Phytozome_Gr:Gorai.004G242800
+B8AT82	Phytozome_Gr:Gorai.011G255300 Phytozome_Gr:Gorai.012G069500 Phytozome_Gr:Gorai.012G069400
+B8AZ97	Phytozome_Gr:Gorai.005G006500 Phytozome_Gr:Gorai.011G130200 Phytozome_Gr:Gorai.006G233600
+B8B8K7	Phytozome_Gr:Gorai.009G147700 Phytozome_Gr:Gorai.011G055200
+B8BB38	Phytozome_Gr:Gorai.009G124300
+B8BF84	Phytozome_Gr:Gorai.005G152400 Phytozome_Gr:Gorai.004G183400 Phytozome_Gr:Gorai.007G033200
+B9EUK4	Phytozome_Gr:Gorai.001G153900 Phytozome_Gr:Gorai.007G109500 Phytozome_Gr:Gorai.008G126200 Phytozome_Gr:Gorai.003G078000 Phytozome_Gr:Gorai.007G026900
+B9EXM2	Phytozome_Gr:Gorai.002G066300
+B9EZJ8	Phytozome_Gr:Gorai.011G164200 Phytozome_Gr:Gorai.010G109400 Phytozome_Gr:Gorai.004G140200 Phytozome_Gr:Gorai.009G341100 Phytozome_Gr:Gorai.004G085500 Phytozome_Gr:Gorai.009G024800
+B9F2Q1	Phytozome_Gr:Gorai.013G268700 Phytozome_Gr:Gorai.003G144600
+B9FML1	Phytozome_Gr:Gorai.005G069400
+B9FRT6	Phytozome_Gr:Gorai.007G353500
+B9FYX6	Phytozome_Gr:Gorai.011G048300
+B9FZ46	Phytozome_Gr:Gorai.006G212500 Phytozome_Gr:Gorai.008G236600
+B9G3A7	Phytozome_Gr:Gorai.005G183800
+C7J0P3	Phytozome_Gr:Gorai.008G195000 Phytozome_Gr:Gorai.005G060400 Phytozome_Gr:Gorai.003G098400
+C7J5F5	Phytozome_Gr:Gorai.009G109000 Phytozome_Gr:Gorai.006G135300 Phytozome_Gr:Gorai.009G109100 Phytozome_Gr:Gorai.013G267400 Phytozome_Gr:Gorai.009G413500 Phytozome_Gr:Gorai.002G246100
+C7J5T9	Phytozome_Gr:Gorai.009G109000 Phytozome_Gr:Gorai.006G135300 Phytozome_Gr:Gorai.009G109100 Phytozome_Gr:Gorai.013G267400 Phytozome_Gr:Gorai.009G413500 Phytozome_Gr:Gorai.002G246100
+I1QJ08	Phytozome_Gr:Gorai.013G216300
+I1QQP8	Phytozome_Gr:Gorai.008G159500 Phytozome_Gr:Gorai.008G295400 Phytozome_Gr:Gorai.007G001600
+I3QK18	Phytozome_Gr:Gorai.008G233400 Phytozome_Gr:Gorai.003G175400
+O04226	Phytozome_Gr:Gorai.011G269700 Phytozome_Gr:Gorai.002G256200 Phytozome_Gr:Gorai.007G377200 Phytozome_Gr:Gorai.012G107700
+O04882	Phytozome_Gr:Gorai.002G102700 Phytozome_Gr:Gorai.009G184900
+O22105	Phytozome_Gr:Gorai.005G247700 Phytozome_Gr:Gorai.002G004400
+O22567	Phytozome_Gr:Gorai.011G184200
+O24174	Phytozome_Gr:Gorai.001G071200 Phytozome_Gr:Gorai.007G047400
+O24210	Phytozome_Gr:Gorai.001G185900
+O64422	Phytozome_Gr:Gorai.007G377800
+O64437	Phytozome_Gr:Gorai.007G241600 Phytozome_Gr:Gorai.003G044700
+O82427	Phytozome_Gr:Gorai.009G191000 Phytozome_Gr:Gorai.009G268600
+P0C0X5	Phytozome_Gr:Gorai.002G179000
+P0C128	Phytozome_Gr:Gorai.009G048400 Phytozome_Gr:Gorai.009G137500 Phytozome_Gr:Gorai.011G070800 Phytozome_Gr:Gorai.013G219700 Phytozome_Gr:Gorai.010G231100
+P0C132	Phytozome_Gr:Gorai.007G276900 Phytozome_Gr:Gorai.006G246000 Phytozome_Gr:Gorai.007G141900 Phytozome_Gr:Gorai.013G200700 Phytozome_Gr:Gorai.005G046500
+P0C587	Phytozome_Gr:Gorai.009G225900 Phytozome_Gr:Gorai.002G137800
+P0C5A4	Phytozome_Gr:Gorai.006G100900
+P0C5B2	Phytozome_Gr:Gorai.008G115200 Phytozome_Gr:Gorai.007G009800 Phytozome_Gr:Gorai.007G093800 Phytozome_Gr:Gorai.003G163900
+P14654	Phytozome_Gr:Gorai.001G203300 Phytozome_Gr:Gorai.012G133400 Phytozome_Gr:Gorai.007G187300
+P14655	Phytozome_Gr:Gorai.005G035800 Phytozome_Gr:Gorai.006G218100
+P14656	Phytozome_Gr:Gorai.001G203300 Phytozome_Gr:Gorai.012G133400 Phytozome_Gr:Gorai.007G187300
+P15280	Phytozome_Gr:Gorai.N000500 Phytozome_Gr:Gorai.012G140800 Phytozome_Gr:Gorai.001G224500 Phytozome_Gr:Gorai.007G163700
+P16081	Phytozome_Gr:Gorai.002G220700 Phytozome_Gr:Gorai.005G091600 Phytozome_Gr:Gorai.004G064800
+P17784	Phytozome_Gr:Gorai.002G242100 Phytozome_Gr:Gorai.009G407500 Phytozome_Gr:Gorai.009G407400 Phytozome_Gr:Gorai.013G150000
+P17814	Phytozome_Gr:Gorai.009G148700 Phytozome_Gr:Gorai.011G053700 Phytozome_Gr:Gorai.009G005900
+P18566	Phytozome_Gr:Gorai.001G201800 Phytozome_Gr:Gorai.007G181400 Phytozome_Gr:Gorai.007G181300 Phytozome_Gr:Gorai.003G153700
+P30298	Phytozome_Gr:Gorai.010G091800 Phytozome_Gr:Gorai.010G092300 Phytozome_Gr:Gorai.001G017700 Phytozome_Gr:Gorai.009G038000 Phytozome_Gr:Gorai.013G222400
+P31924	Phytozome_Gr:Gorai.010G091800 Phytozome_Gr:Gorai.010G092300 Phytozome_Gr:Gorai.001G017700 Phytozome_Gr:Gorai.009G038000 Phytozome_Gr:Gorai.013G222400
+P37833	Phytozome_Gr:Gorai.001G028000 Phytozome_Gr:Gorai.001G028100 Phytozome_Gr:Gorai.010G072900
+P38419	Phytozome_Gr:Gorai.004G092100 Phytozome_Gr:Gorai.009G071200
+P42862	Phytozome_Gr:Gorai.002G128400
+P42863	Phytozome_Gr:Gorai.002G128400
+P48642	Phytozome_Gr:Gorai.005G131500 Phytozome_Gr:Gorai.011G160200
+P93438	Phytozome_Gr:Gorai.001G146800 Phytozome_Gr:Gorai.004G146800 Phytozome_Gr:Gorai.005G071300 Phytozome_Gr:Gorai.008G135900 Phytozome_Gr:Gorai.007G119200
+Q01KF3	Phytozome_Gr:Gorai.001G065900
+Q01M39	Phytozome_Gr:Gorai.009G235700 Phytozome_Gr:Gorai.013G060500 Phytozome_Gr:Gorai.007G060200 Phytozome_Gr:Gorai.003G040100 Phytozome_Gr:Gorai.013G060400 Phytozome_Gr:Gorai.013G060700
+Q05JG2	Phytozome_Gr:Gorai.008G218900 Phytozome_Gr:Gorai.013G044100 Phytozome_Gr:Gorai.005G237800 Phytozome_Gr:Gorai.009G211900
+Q06967	Phytozome_Gr:Gorai.001G197200 Phytozome_Gr:Gorai.001G079900 Phytozome_Gr:Gorai.001G201400
+Q0D3B6	Phytozome_Gr:Gorai.007G374800 Phytozome_Gr:Gorai.009G103700 Phytozome_Gr:Gorai.006G177800 Phytozome_Gr:Gorai.012G092600
+Q0D3D2	Phytozome_Gr:Gorai.006G183900 Phytozome_Gr:Gorai.006G184000 Phytozome_Gr:Gorai.004G001200
+Q0D759	Phytozome_Gr:Gorai.011G225500 Phytozome_Gr:Gorai.001G063600 Phytozome_Gr:Gorai.003G023600 Phytozome_Gr:Gorai.003G024400 Phytozome_Gr:Gorai.011G225100 Phytozome_Gr:Gorai.011G225200 Phytozome_Gr:Gorai.011G262400 Phytozome_Gr:Gorai.003G024500 Phytozome_Gr:Gorai.008G161500 Phytozome_Gr:Gorai.011G225300 Phytozome_Gr:Gorai.011G224900 Phytozome_Gr:Gorai.011G225400 Phytozome_Gr:Gorai.011G225000
+Q0D7I3	Phytozome_Gr:Gorai.001G149300
+Q0D7J0	Phytozome_Gr:Gorai.009G321100 Phytozome_Gr:Gorai.001G113900 Phytozome_Gr:Gorai.011G274700 Phytozome_Gr:Gorai.001G113300 Phytozome_Gr:Gorai.001G113800 Phytozome_Gr:Gorai.012G073900 Phytozome_Gr:Gorai.001G113200 Phytozome_Gr:Gorai.001G114000
+Q0D7J3	Phytozome_Gr:Gorai.009G321100 Phytozome_Gr:Gorai.001G113900 Phytozome_Gr:Gorai.011G274700 Phytozome_Gr:Gorai.001G113300 Phytozome_Gr:Gorai.001G113800 Phytozome_Gr:Gorai.012G073900 Phytozome_Gr:Gorai.001G113200 Phytozome_Gr:Gorai.001G114000
+Q0D7W4	Phytozome_Gr:Gorai.013G201600 Phytozome_Gr:Gorai.007G284900
+Q0D8I9	Phytozome_Gr:Gorai.006G166200 Phytozome_Gr:Gorai.009G416700 Phytozome_Gr:Gorai.007G373800
+Q0D8J6	Phytozome_Gr:Gorai.010G166900 Phytozome_Gr:Gorai.011G045200 Phytozome_Gr:Gorai.004G270800 Phytozome_Gr:Gorai.013G177100 Phytozome_Gr:Gorai.009G154600 Phytozome_Gr:Gorai.002G038100
+Q0D980	Phytozome_Gr:Gorai.002G090100
+Q0DA35	Phytozome_Gr:Gorai.003G051600
+Q0DAA4	Phytozome_Gr:Gorai.008G049700
+Q0DBD3	Phytozome_Gr:Gorai.002G142800 Phytozome_Gr:Gorai.007G034300 Phytozome_Gr:Gorai.012G120200 Phytozome_Gr:Gorai.008G189700 Phytozome_Gr:Gorai.009G346100
+Q0DBF4	Phytozome_Gr:Gorai.009G207500 Phytozome_Gr:Gorai.010G015900
+Q0DBN4	Phytozome_Gr:Gorai.006G004600
+Q0DCE9	Phytozome_Gr:Gorai.006G051500 Phytozome_Gr:Gorai.005G042100
+Q0DDS1	Phytozome_Gr:Gorai.012G184700 Phytozome_Gr:Gorai.013G102300 Phytozome_Gr:Gorai.009G327500
+Q0DEC8	Phytozome_Gr:Gorai.012G002300 Phytozome_Gr:Gorai.006G201600
+Q0DG35	Phytozome_Gr:Gorai.008G269600
+Q0DGG8	Phytozome_Gr:Gorai.002G098400 Phytozome_Gr:Gorai.013G154200
+Q0DHF6	Phytozome_Gr:Gorai.006G183900 Phytozome_Gr:Gorai.006G184000 Phytozome_Gr:Gorai.004G001200
+Q0DJJ9	Phytozome_Gr:Gorai.010G186000
+Q0DKE8	Phytozome_Gr:Gorai.012G172400 Phytozome_Gr:Gorai.005G180100
+Q0DKP3	Phytozome_Gr:Gorai.004G140500 Phytozome_Gr:Gorai.007G131300 Phytozome_Gr:Gorai.001G273700 Phytozome_Gr:Gorai.004G085900 Phytozome_Gr:Gorai.004G053500 Phytozome_Gr:Gorai.007G072400
+Q0DKY4	Phytozome_Gr:Gorai.001G146800 Phytozome_Gr:Gorai.004G146800 Phytozome_Gr:Gorai.005G071300 Phytozome_Gr:Gorai.008G135900 Phytozome_Gr:Gorai.007G119200
+Q0DNU1	Phytozome_Gr:Gorai.002G138300 Phytozome_Gr:Gorai.008G017800 Phytozome_Gr:Gorai.010G033400 Phytozome_Gr:Gorai.005G226000 Phytozome_Gr:Gorai.013G055000
+Q0DS76	Phytozome_Gr:Gorai.008G189300
+Q0DSM1	Phytozome_Gr:Gorai.008G195000 Phytozome_Gr:Gorai.005G060400 Phytozome_Gr:Gorai.003G098400
+Q0DV32	Phytozome_Gr:Gorai.003G144900 Phytozome_Gr:Gorai.013G269100 Phytozome_Gr:Gorai.006G162900
+Q0DWC7	Phytozome_Gr:Gorai.007G280100 Phytozome_Gr:Gorai.005G047900 Phytozome_Gr:Gorai.006G247800
+Q0DWF2	Phytozome_Gr:Gorai.001G181800 Phytozome_Gr:Gorai.004G222500 Phytozome_Gr:Gorai.011G180100 Phytozome_Gr:Gorai.007G150000 Phytozome_Gr:Gorai.006G250900
+Q0DXA9	Phytozome_Gr:Gorai.001G072600 Phytozome_Gr:Gorai.013G088600
+Q0DY86	Phytozome_Gr:Gorai.006G132200
+Q0DYK7	Phytozome_Gr:Gorai.008G013700 Phytozome_Gr:Gorai.011G228500 Phytozome_Gr:Gorai.009G394700 Phytozome_Gr:Gorai.013G064500 Phytozome_Gr:Gorai.012G138900 Phytozome_Gr:Gorai.006G147600 Phytozome_Gr:Gorai.013G064400 Phytozome_Gr:Gorai.005G216500 Phytozome_Gr:Gorai.013G003100 Phytozome_Gr:Gorai.002G153600
+Q0DZE0	Phytozome_Gr:Gorai.009G416300 Phytozome_Gr:Gorai.006G166000 Phytozome_Gr:Gorai.010G086000 Phytozome_Gr:Gorai.002G248000 Phytozome_Gr:Gorai.007G373700 Phytozome_Gr:Gorai.011G238400 Phytozome_Gr:Gorai.007G373600
+Q0E2P1	Phytozome_Gr:Gorai.009G139900 Phytozome_Gr:Gorai.003G060000 Phytozome_Gr:Gorai.011G067400 Phytozome_Gr:Gorai.009G046000 Phytozome_Gr:Gorai.010G101800 Phytozome_Gr:Gorai.001G023300 Phytozome_Gr:Gorai.006G095900
+Q0E2P9	Phytozome_Gr:Gorai.009G044000
+Q0E2X2	Phytozome_Gr:Gorai.002G160500 Phytozome_Gr:Gorai.002G107900 Phytozome_Gr:Gorai.009G034100 Phytozome_Gr:Gorai.013G181400 Phytozome_Gr:Gorai.007G372300 Phytozome_Gr:Gorai.009G411800 Phytozome_Gr:Gorai.010G022300 Phytozome_Gr:Gorai.004G173100 Phytozome_Gr:Gorai.012G149600 Phytozome_Gr:Gorai.006G185400 Phytozome_Gr:Gorai.009G411900 Phytozome_Gr:Gorai.013G046200 Phytozome_Gr:Gorai.006G160600 Phytozome_Gr:Gorai.013G046100 Phytozome_Gr:Gorai.008G023900 Phytozome_Gr:Gorai.002G087200 Phytozome_Gr:Gorai.011G202900 Phytozome_Gr:Gorai.009G411700 Phytozome_Gr:Gorai.013G181500 Phytozome_Gr:Gorai.006G160700
+Q0E3F2	Phytozome_Gr:Gorai.009G006500
+Q0E3J1	Phytozome_Gr:Gorai.008G049700
+Q0E4F0	Phytozome_Gr:Gorai.005G247600 Phytozome_Gr:Gorai.005G247500 Phytozome_Gr:Gorai.005G247400
+Q0E4N2	Phytozome_Gr:Gorai.013G012400
+Q0ILP7	Phytozome_Gr:Gorai.009G224700
+Q0INY7	Phytozome_Gr:Gorai.001G201800 Phytozome_Gr:Gorai.007G181400 Phytozome_Gr:Gorai.007G181300 Phytozome_Gr:Gorai.003G153700
+Q0INZ4	Phytozome_Gr:Gorai.013G176100
+Q0IPE5	Phytozome_Gr:Gorai.004G095400
+Q0IQQ5	Phytozome_Gr:Gorai.009G344000 Phytozome_Gr:Gorai.006G063900 Phytozome_Gr:Gorai.002G266300
+Q0IRE6	Phytozome_Gr:Gorai.003G066300
+Q0ITU1	Phytozome_Gr:Gorai.001G015800 Phytozome_Gr:Gorai.013G223100
+Q0IZJ9	Phytozome_Gr:Gorai.006G109800 Phytozome_Gr:Gorai.004G008200
+Q0IZS0	Phytozome_Gr:Gorai.002G179900
+Q0IZX5	Phytozome_Gr:Gorai.002G120800 Phytozome_Gr:Gorai.008G061600 Phytozome_Gr:Gorai.003G005500 Phytozome_Gr:Gorai.009G268500
+Q0J0L4	Phytozome_Gr:Gorai.001G270100 Phytozome_Gr:Gorai.006G041100
+Q0J0M8	Phytozome_Gr:Gorai.005G215700 Phytozome_Gr:Gorai.005G215800 Phytozome_Gr:Gorai.002G014700 Phytozome_Gr:Gorai.005G215500 Phytozome_Gr:Gorai.002G146000 Phytozome_Gr:Gorai.012G138100 Phytozome_Gr:Gorai.005G215600 Phytozome_Gr:Gorai.013G065200 Phytozome_Gr:Gorai.008G013000
+Q0J0N3	Phytozome_Gr:Gorai.001G174300 Phytozome_Gr:Gorai.004G202200 Phytozome_Gr:Gorai.007G225300 Phytozome_Gr:Gorai.007G090500 Phytozome_Gr:Gorai.004G273500 Phytozome_Gr:Gorai.004G162700 Phytozome_Gr:Gorai.004G040600 Phytozome_Gr:Gorai.012G096800
+Q0J0N7	Phytozome_Gr:Gorai.001G230800 Phytozome_Gr:Gorai.001G230300 Phytozome_Gr:Gorai.001G104000 Phytozome_Gr:Gorai.001G103700 Phytozome_Gr:Gorai.001G103900 Phytozome_Gr:Gorai.001G230500 Phytozome_Gr:Gorai.N025900 Phytozome_Gr:Gorai.001G230400 Phytozome_Gr:Gorai.001G103800
+Q0J0P9	Phytozome_Gr:Gorai.001G230800 Phytozome_Gr:Gorai.001G230300 Phytozome_Gr:Gorai.001G104000 Phytozome_Gr:Gorai.001G103700 Phytozome_Gr:Gorai.001G103900 Phytozome_Gr:Gorai.001G230500 Phytozome_Gr:Gorai.N025900 Phytozome_Gr:Gorai.001G230400 Phytozome_Gr:Gorai.001G103800
+Q0J185	Phytozome_Gr:Gorai.008G218900 Phytozome_Gr:Gorai.013G044100 Phytozome_Gr:Gorai.005G237800 Phytozome_Gr:Gorai.009G211900
+Q0J1C1	Phytozome_Gr:Gorai.005G087900 Phytozome_Gr:Gorai.010G184900 Phytozome_Gr:Gorai.001G096400 Phytozome_Gr:Gorai.005G088000 Phytozome_Gr:Gorai.001G217400 Phytozome_Gr:Gorai.001G096300 Phytozome_Gr:Gorai.007G170100 Phytozome_Gr:Gorai.010G185000 Phytozome_Gr:Gorai.009G182300 Phytozome_Gr:Gorai.004G062100 Phytozome_Gr:Gorai.010G185100
+Q0J1E1	Phytozome_Gr:Gorai.012G017900
+Q0J270	Phytozome_Gr:Gorai.006G229400
+Q0J2L7	Phytozome_Gr:Gorai.013G022100 Phytozome_Gr:Gorai.011G268200 Phytozome_Gr:Gorai.009G096200 Phytozome_Gr:Gorai.003G128900 Phytozome_Gr:Gorai.012G072200
+Q0J360	Phytozome_Gr:Gorai.013G220200 Phytozome_Gr:Gorai.010G099300 Phytozome_Gr:Gorai.010G099400
+Q0J5Y4	Phytozome_Gr:Gorai.008G149600 Phytozome_Gr:Gorai.008G153000
+Q0J7U6	Phytozome_Gr:Gorai.004G259300
+Q0J8A4	Phytozome_Gr:Gorai.006G038900 Phytozome_Gr:Gorai.007G041900 Phytozome_Gr:Gorai.012G089500 Phytozome_Gr:Gorai.007G074000 Phytozome_Gr:Gorai.001G268500 Phytozome_Gr:Gorai.005G172100
+Q0J951	Phytozome_Gr:Gorai.011G048200 Phytozome_Gr:Gorai.008G097200 Phytozome_Gr:Gorai.009G037100 Phytozome_Gr:Gorai.006G008700 Phytozome_Gr:Gorai.009G152700
+Q0J9F2	Phytozome_Gr:Gorai.002G102700 Phytozome_Gr:Gorai.009G184900
+Q0J9K2	Phytozome_Gr:Gorai.010G138000
+Q0J9Z0	Phytozome_Gr:Gorai.009G178700 Phytozome_Gr:Gorai.011G013800
+Q0JA81	Phytozome_Gr:Gorai.002G110600
+Q0JA82	Phytozome_Gr:Gorai.002G110600
+Q0JA83	Phytozome_Gr:Gorai.002G110600
+Q0JAI1	Phytozome_Gr:Gorai.001G053900
+Q0JB49	Phytozome_Gr:Gorai.004G211400 Phytozome_Gr:Gorai.008G246400
+Q0JB91	Phytozome_Gr:Gorai.008G214900
+Q0JB99	Phytozome_Gr:Gorai.008G213900 Phytozome_Gr:Gorai.010G117500 Phytozome_Gr:Gorai.013G186700 Phytozome_Gr:Gorai.001G252800 Phytozome_Gr:Gorai.009G125100 Phytozome_Gr:Gorai.001G253000 Phytozome_Gr:Gorai.007G280800 Phytozome_Gr:Gorai.006G214100 Phytozome_Gr:Gorai.013G186800 Phytozome_Gr:Gorai.004G195100 Phytozome_Gr:Gorai.010G222900 Phytozome_Gr:Gorai.008G108500 Phytozome_Gr:Gorai.004G165800 Phytozome_Gr:Gorai.007G046000 Phytozome_Gr:Gorai.001G253100 Phytozome_Gr:Gorai.001G176800 Phytozome_Gr:Gorai.007G281000 Phytozome_Gr:Gorai.001G252600 Phytozome_Gr:Gorai.004G195200 Phytozome_Gr:Gorai.004G220800 Phytozome_Gr:Gorai.001G051300 Phytozome_Gr:Gorai.011G173000 Phytozome_Gr:Gorai.004G195000 Phytozome_Gr:Gorai.007G280900 Phytozome_Gr:Gorai.007G145800 Phytozome_Gr:Gorai.008G232500 Phytozome_Gr:Gorai.007G086100
+Q0JBF1	Phytozome_Gr:Gorai.006G212600 Phytozome_Gr:Gorai.004G200800 Phytozome_Gr:Gorai.008G236700
+Q0JC10	Phytozome_Gr:Gorai.004G045700 Phytozome_Gr:Gorai.009G008500
+Q0JCU7	Phytozome_Gr:Gorai.007G213500
+Q0JCZ4	Phytozome_Gr:Gorai.008G210200 Phytozome_Gr:Gorai.007G044900 Phytozome_Gr:Gorai.001G054600
+Q0JDD2	Phytozome_Gr:Gorai.009G401600 Phytozome_Gr:Gorai.009G402000
+Q0JDF7	Phytozome_Gr:Gorai.006G109800 Phytozome_Gr:Gorai.004G008200
+Q0JDT1	Phytozome_Gr:Gorai.007G268500
+Q0JE53	Phytozome_Gr:Gorai.009G235700 Phytozome_Gr:Gorai.013G060500 Phytozome_Gr:Gorai.007G060200 Phytozome_Gr:Gorai.003G040100 Phytozome_Gr:Gorai.013G060400 Phytozome_Gr:Gorai.013G060700
+Q0JEK1	Phytozome_Gr:Gorai.008G114500 Phytozome_Gr:Gorai.004G160600
+Q0JEP5	Phytozome_Gr:Gorai.010G205900 Phytozome_Gr:Gorai.012G005900
+Q0JEZ8	Phytozome_Gr:Gorai.002G110600
+Q0JF25	Phytozome_Gr:Gorai.011G209500 Phytozome_Gr:Gorai.001G222800 Phytozome_Gr:Gorai.009G293900 Phytozome_Gr:Gorai.001G222700 Phytozome_Gr:Gorai.009G113900
+Q0JF26	Phytozome_Gr:Gorai.011G209500 Phytozome_Gr:Gorai.001G222800 Phytozome_Gr:Gorai.009G293900 Phytozome_Gr:Gorai.001G222700 Phytozome_Gr:Gorai.009G113900
+Q0JF30	Phytozome_Gr:Gorai.007G280100 Phytozome_Gr:Gorai.005G047900 Phytozome_Gr:Gorai.006G247800
+Q0JGK4	Phytozome_Gr:Gorai.009G262100
+Q0JJI1	Phytozome_Gr:Gorai.006G029800
+Q0JK57	Phytozome_Gr:Gorai.005G132000 Phytozome_Gr:Gorai.008G289900
+Q0JKD0	Phytozome_Gr:Gorai.008G269600
+Q0JKG7	Phytozome_Gr:Gorai.010G031600 Phytozome_Gr:Gorai.003G035700 Phytozome_Gr:Gorai.009G226000 Phytozome_Gr:Gorai.011G109000
+Q0JKI9	Phytozome_Gr:Gorai.010G157400 Phytozome_Gr:Gorai.009G166100 Phytozome_Gr:Gorai.011G030900
+Q0JKY8	Phytozome_Gr:Gorai.012G061900 Phytozome_Gr:Gorai.006G030300 Phytozome_Gr:Gorai.001G262400 Phytozome_Gr:Gorai.009G338000 Phytozome_Gr:Gorai.005G182300
+Q0JLT2	Phytozome_Gr:Gorai.011G064700 Phytozome_Gr:Gorai.009G044300 Phytozome_Gr:Gorai.010G099600 Phytozome_Gr:Gorai.009G141200 Phytozome_Gr:Gorai.005G198100
+Q0JPT4	Phytozome_Gr:Gorai.002G052400 Phytozome_Gr:Gorai.011G036300 Phytozome_Gr:Gorai.007G327000 Phytozome_Gr:Gorai.010G240700
+Q0JQ41	Phytozome_Gr:Gorai.009G286400 Phytozome_Gr:Gorai.009G259200 Phytozome_Gr:Gorai.011G221600 Phytozome_Gr:Gorai.010G133400
+Q0JRG4	Phytozome_Gr:Gorai.001G128000 Phytozome_Gr:Gorai.013G051300 Phytozome_Gr:Gorai.012G083400
+Q109F2	Phytozome_Gr:Gorai.007G197700 Phytozome_Gr:Gorai.007G049600 Phytozome_Gr:Gorai.013G032800 Phytozome_Gr:Gorai.011G099800
+Q109K4	Phytozome_Gr:Gorai.009G173700
+Q109W9	Phytozome_Gr:Gorai.009G173700
+Q10A30	Phytozome_Gr:Gorai.002G242100 Phytozome_Gr:Gorai.009G407500 Phytozome_Gr:Gorai.009G407400 Phytozome_Gr:Gorai.013G150000
+Q10A97	Phytozome_Gr:Gorai.004G057000
+Q10BT5	Phytozome_Gr:Gorai.002G232300 Phytozome_Gr:Gorai.013G247500 Phytozome_Gr:Gorai.004G017300 Phytozome_Gr:Gorai.009G000500 Phytozome_Gr:Gorai.009G392700
+Q10BX9	Phytozome_Gr:Gorai.012G135400
+Q10CE4	Phytozome_Gr:Gorai.009G154200 Phytozome_Gr:Gorai.002G038000 Phytozome_Gr:Gorai.002G037900 Phytozome_Gr:Gorai.006G092300
+Q10CH5	Phytozome_Gr:Gorai.001G234900 Phytozome_Gr:Gorai.001G183400 Phytozome_Gr:Gorai.012G124100 Phytozome_Gr:Gorai.007G151900
+Q10CQ1	Phytozome_Gr:Gorai.001G172200 Phytozome_Gr:Gorai.013G096000 Phytozome_Gr:Gorai.003G103000 Phytozome_Gr:Gorai.013G096100 Phytozome_Gr:Gorai.005G147200 Phytozome_Gr:Gorai.012G185500 Phytozome_Gr:Gorai.004G124000 Phytozome_Gr:Gorai.001G075800 Phytozome_Gr:Gorai.001G090000 Phytozome_Gr:Gorai.012G185600 Phytozome_Gr:Gorai.004G155700 Phytozome_Gr:Gorai.012G180300 Phytozome_Gr:Gorai.006G268400 Phytozome_Gr:Gorai.009G404300 Phytozome_Gr:Gorai.007G093700 Phytozome_Gr:Gorai.006G045100
+Q10CS9	Phytozome_Gr:Gorai.010G142100
+Q10D34	Phytozome_Gr:Gorai.007G276900 Phytozome_Gr:Gorai.006G246000 Phytozome_Gr:Gorai.007G141900 Phytozome_Gr:Gorai.013G200700 Phytozome_Gr:Gorai.005G046500
+Q10D68	Phytozome_Gr:Gorai.005G097200 Phytozome_Gr:Gorai.007G230800
+Q10D87	Phytozome_Gr:Gorai.013G145100
+Q10DK7	Phytozome_Gr:Gorai.003G033000 Phytozome_Gr:Gorai.007G057000 Phytozome_Gr:Gorai.011G108700 Phytozome_Gr:Gorai.007G227400
+Q10DU0	Phytozome_Gr:Gorai.013G203900 Phytozome_Gr:Gorai.007G166300 Phytozome_Gr:Gorai.007G292800
+Q10DZ5	Phytozome_Gr:Gorai.009G410200 Phytozome_Gr:Gorai.009G410300 Phytozome_Gr:Gorai.006G159700
+Q10E50	Phytozome_Gr:Gorai.009G001900
+Q10EG4	Phytozome_Gr:Gorai.006G166200 Phytozome_Gr:Gorai.009G416700 Phytozome_Gr:Gorai.007G373800
+Q10F04	Phytozome_Gr:Gorai.008G223300
+Q10F25	Phytozome_Gr:Gorai.002G138300 Phytozome_Gr:Gorai.008G017800 Phytozome_Gr:Gorai.010G033400 Phytozome_Gr:Gorai.005G226000 Phytozome_Gr:Gorai.013G055000
+Q10FE9	Phytozome_Gr:Gorai.001G088100
+Q10G56	Phytozome_Gr:Gorai.010G167200
+Q10HZ6	Phytozome_Gr:Gorai.011G209500 Phytozome_Gr:Gorai.001G222800 Phytozome_Gr:Gorai.009G293900 Phytozome_Gr:Gorai.001G222700 Phytozome_Gr:Gorai.009G113900
+Q10J20	Phytozome_Gr:Gorai.003G028500
+Q10J32	Phytozome_Gr:Gorai.003G109800 Phytozome_Gr:Gorai.008G297800
+Q10JI3	Phytozome_Gr:Gorai.006G010000 Phytozome_Gr:Gorai.013G094600 Phytozome_Gr:Gorai.008G176700
+Q10L51	Phytozome_Gr:Gorai.002G160500 Phytozome_Gr:Gorai.002G107900 Phytozome_Gr:Gorai.009G034100 Phytozome_Gr:Gorai.013G181400 Phytozome_Gr:Gorai.007G372300 Phytozome_Gr:Gorai.009G411800 Phytozome_Gr:Gorai.010G022300 Phytozome_Gr:Gorai.004G173100 Phytozome_Gr:Gorai.012G149600 Phytozome_Gr:Gorai.006G185400 Phytozome_Gr:Gorai.009G411900 Phytozome_Gr:Gorai.013G046200 Phytozome_Gr:Gorai.006G160600 Phytozome_Gr:Gorai.013G046100 Phytozome_Gr:Gorai.008G023900 Phytozome_Gr:Gorai.002G087200 Phytozome_Gr:Gorai.011G202900 Phytozome_Gr:Gorai.009G411700 Phytozome_Gr:Gorai.013G181500 Phytozome_Gr:Gorai.006G160700
+Q10L56	Phytozome_Gr:Gorai.004G083200 Phytozome_Gr:Gorai.004G215500
+Q10LP5	Phytozome_Gr:Gorai.010G091800 Phytozome_Gr:Gorai.010G092300 Phytozome_Gr:Gorai.001G017700 Phytozome_Gr:Gorai.009G038000 Phytozome_Gr:Gorai.013G222400
+Q10LR4	Phytozome_Gr:Gorai.005G006500 Phytozome_Gr:Gorai.011G130200 Phytozome_Gr:Gorai.006G233600
+Q10LR5	Phytozome_Gr:Gorai.004G051500 Phytozome_Gr:Gorai.001G141300
+Q10M76	Phytozome_Gr:Gorai.002G226300 Phytozome_Gr:Gorai.007G351100 Phytozome_Gr:Gorai.007G351200
+Q10MB0	Phytozome_Gr:Gorai.007G120900 Phytozome_Gr:Gorai.004G235400 Phytozome_Gr:Gorai.013G130800 Phytozome_Gr:Gorai.013G130900 Phytozome_Gr:Gorai.001G145800 Phytozome_Gr:Gorai.013G208500
+Q10MG9	Phytozome_Gr:Gorai.011G200200
+Q10MK2	Phytozome_Gr:Gorai.004G052700 Phytozome_Gr:Gorai.N024600 Phytozome_Gr:Gorai.007G128800
+Q10MK5	Phytozome_Gr:Gorai.002G139300
+Q10MQ2	Phytozome_Gr:Gorai.009G241000 Phytozome_Gr:Gorai.005G262500
+Q10MS2	Phytozome_Gr:Gorai.002G266100
+Q10MW3	Phytozome_Gr:Gorai.006G183900 Phytozome_Gr:Gorai.006G184000 Phytozome_Gr:Gorai.004G001200
+Q10MX3	Phytozome_Gr:Gorai.006G105400 Phytozome_Gr:Gorai.013G259500 Phytozome_Gr:Gorai.001G117000 Phytozome_Gr:Gorai.009G090500 Phytozome_Gr:Gorai.006G105200
+Q10MX9	Phytozome_Gr:Gorai.012G115000 Phytozome_Gr:Gorai.011G289600 Phytozome_Gr:Gorai.002G262800
+Q10N17	Phytozome_Gr:Gorai.001G129400 Phytozome_Gr:Gorai.006G121300
+Q10N34	Phytozome_Gr:Gorai.007G374800 Phytozome_Gr:Gorai.009G103700 Phytozome_Gr:Gorai.006G177800 Phytozome_Gr:Gorai.012G092600
+Q10NY1	Phytozome_Gr:Gorai.011G240200 Phytozome_Gr:Gorai.011G240100 Phytozome_Gr:Gorai.009G314200
+Q10NY2	Phytozome_Gr:Gorai.009G126400 Phytozome_Gr:Gorai.006G102300 Phytozome_Gr:Gorai.010G224000
+Q10P02	Phytozome_Gr:Gorai.011G002400 Phytozome_Gr:Gorai.002G090700 Phytozome_Gr:Gorai.011G091200
+Q10P67	Phytozome_Gr:Gorai.001G202100 Phytozome_Gr:Gorai.006G143300 Phytozome_Gr:Gorai.007G347100
+Q10P71	Phytozome_Gr:Gorai.012G076100 Phytozome_Gr:Gorai.002G262100 Phytozome_Gr:Gorai.012G112900 Phytozome_Gr:Gorai.011G283900 Phytozome_Gr:Gorai.010G048200 Phytozome_Gr:Gorai.006G181400 Phytozome_Gr:Gorai.013G018900
+Q10PL0	Phytozome_Gr:Gorai.010G028900 Phytozome_Gr:Gorai.009G277800 Phytozome_Gr:Gorai.007G227600 Phytozome_Gr:Gorai.005G098300 Phytozome_Gr:Gorai.009G223000
+Q10PY7	Phytozome_Gr:Gorai.006G128800 Phytozome_Gr:Gorai.004G172500 Phytozome_Gr:Gorai.004G037400 Phytozome_Gr:Gorai.002G230300
+Q10QA5	Phytozome_Gr:Gorai.009G219500 Phytozome_Gr:Gorai.010G025600
+Q10QN3	Phytozome_Gr:Gorai.005G222500
+Q10QR9	Phytozome_Gr:Gorai.009G209500
+Q10RP2	Phytozome_Gr:Gorai.009G313000
+Q10S34	Phytozome_Gr:Gorai.009G440000 Phytozome_Gr:Gorai.009G327800 Phytozome_Gr:Gorai.008G173400 Phytozome_Gr:Gorai.005G149700
+Q10S55	Phytozome_Gr:Gorai.012G167100 Phytozome_Gr:Gorai.008G044900
+Q10S58	Phytozome_Gr:Gorai.003G003100
+Q10S72	Phytozome_Gr:Gorai.005G113000 Phytozome_Gr:Gorai.002G119500
+Q10SD6	Phytozome_Gr:Gorai.008G296400
+Q10SL7	Phytozome_Gr:Gorai.006G046600
+Q10SM6	Phytozome_Gr:Gorai.004G042100
+Q10SP1	Phytozome_Gr:Gorai.001G153500
+Q25AR2	Phytozome_Gr:Gorai.006G239100
+Q2KNB4	Phytozome_Gr:Gorai.013G251900
+Q2KNB5	Phytozome_Gr:Gorai.013G251900
+Q2MJA7	Phytozome_Gr:Gorai.001G174300 Phytozome_Gr:Gorai.004G202200 Phytozome_Gr:Gorai.007G225300 Phytozome_Gr:Gorai.007G090500 Phytozome_Gr:Gorai.004G273500 Phytozome_Gr:Gorai.004G162700 Phytozome_Gr:Gorai.004G040600 Phytozome_Gr:Gorai.012G096800
+Q2MJA8	Phytozome_Gr:Gorai.001G174300 Phytozome_Gr:Gorai.004G202200 Phytozome_Gr:Gorai.007G225300 Phytozome_Gr:Gorai.007G090500 Phytozome_Gr:Gorai.004G273500 Phytozome_Gr:Gorai.004G162700 Phytozome_Gr:Gorai.004G040600 Phytozome_Gr:Gorai.012G096800
+Q2QLJ0	Phytozome_Gr:Gorai.004G066100
+Q2QLQ1	Phytozome_Gr:Gorai.004G101300
+Q2QLY5	Phytozome_Gr:Gorai.013G195000 Phytozome_Gr:Gorai.007G346100 Phytozome_Gr:Gorai.001G128200 Phytozome_Gr:Gorai.004G251500 Phytozome_Gr:Gorai.013G114400 Phytozome_Gr:Gorai.007G257500
+Q2QLY6	Phytozome_Gr:Gorai.008G270800
+Q2QM47	Phytozome_Gr:Gorai.006G116600 Phytozome_Gr:Gorai.009G082300 Phytozome_Gr:Gorai.004G011600
+Q2QM70	Phytozome_Gr:Gorai.004G076300 Phytozome_Gr:Gorai.005G046100 Phytozome_Gr:Gorai.011G166800 Phytozome_Gr:Gorai.007G140400
+Q2QM83	Phytozome_Gr:Gorai.003G071200 Phytozome_Gr:Gorai.012G121200 Phytozome_Gr:Gorai.005G189000 Phytozome_Gr:Gorai.001G079300
+Q2QMD4	Phytozome_Gr:Gorai.013G142500
+Q2QME6	Phytozome_Gr:Gorai.004G078000 Phytozome_Gr:Gorai.005G044600
+Q2QMK8	Phytozome_Gr:Gorai.007G179400
+Q2QN58	Phytozome_Gr:Gorai.007G080400 Phytozome_Gr:Gorai.013G090700 Phytozome_Gr:Gorai.007G080800
+Q2QN88	Phytozome_Gr:Gorai.008G176600
+Q2QNF7	Phytozome_Gr:Gorai.009G423800
+Q2QNM6	Phytozome_Gr:Gorai.005G041900 Phytozome_Gr:Gorai.006G238200
+Q2QNM9	Phytozome_Gr:Gorai.010G255600 Phytozome_Gr:Gorai.010G255700 Phytozome_Gr:Gorai.006G087200 Phytozome_Gr:Gorai.011G060400
+Q2QNN5	Phytozome_Gr:Gorai.004G092100 Phytozome_Gr:Gorai.009G071200
+Q2QNS6	Phytozome_Gr:Gorai.008G142900
+Q2QPI2	Phytozome_Gr:Gorai.003G066300
+Q2QPR0	Phytozome_Gr:Gorai.009G416300 Phytozome_Gr:Gorai.006G166000 Phytozome_Gr:Gorai.010G086000 Phytozome_Gr:Gorai.002G248000 Phytozome_Gr:Gorai.007G373700 Phytozome_Gr:Gorai.011G238400 Phytozome_Gr:Gorai.007G373600
+Q2QQJ5	Phytozome_Gr:Gorai.002G110600
+Q2QQX6	Phytozome_Gr:Gorai.008G210200 Phytozome_Gr:Gorai.007G044900 Phytozome_Gr:Gorai.001G054600
+Q2QRX6	Phytozome_Gr:Gorai.005G245400 Phytozome_Gr:Gorai.002G005200
+Q2QS13	Phytozome_Gr:Gorai.005G144700 Phytozome_Gr:Gorai.013G092600 Phytozome_Gr:Gorai.007G081800 Phytozome_Gr:Gorai.001G077900 Phytozome_Gr:Gorai.008G095900 Phytozome_Gr:Gorai.008G177900
+Q2QS14	Phytozome_Gr:Gorai.005G144700 Phytozome_Gr:Gorai.013G092600 Phytozome_Gr:Gorai.007G081800 Phytozome_Gr:Gorai.001G077900 Phytozome_Gr:Gorai.008G095900 Phytozome_Gr:Gorai.008G177900
+Q2QT32	Phytozome_Gr:Gorai.006G223800 Phytozome_Gr:Gorai.011G153900
+Q2QTJ1	Phytozome_Gr:Gorai.001G201800 Phytozome_Gr:Gorai.007G181400 Phytozome_Gr:Gorai.007G181300 Phytozome_Gr:Gorai.003G153700
+Q2QTL0	Phytozome_Gr:Gorai.001G064000
+Q2QTQ1	Phytozome_Gr:Gorai.013G254300
+Q2QUG4	Phytozome_Gr:Gorai.004G108600
+Q2QUI0	Phytozome_Gr:Gorai.003G066300
+Q2QVC1	Phytozome_Gr:Gorai.001G059900
+Q2QWD0	Phytozome_Gr:Gorai.006G126800
+Q2QWK9	Phytozome_Gr:Gorai.013G038700
+Q2QWV7	Phytozome_Gr:Gorai.006G145500 Phytozome_Gr:Gorai.002G154600
+Q2QX58	Phytozome_Gr:Gorai.010G050200 Phytozome_Gr:Gorai.009G245600
+Q2QXK5	Phytozome_Gr:Gorai.009G401600 Phytozome_Gr:Gorai.009G402000
+Q2QXL0	Phytozome_Gr:Gorai.009G086200 Phytozome_Gr:Gorai.001G122100 Phytozome_Gr:Gorai.006G111800
+Q2QXP0	Phytozome_Gr:Gorai.008G195000 Phytozome_Gr:Gorai.005G060400 Phytozome_Gr:Gorai.003G098400
+Q2QXY1	Phytozome_Gr:Gorai.007G353900
+Q2QXY9	Phytozome_Gr:Gorai.011G145600 Phytozome_Gr:Gorai.005G127500
+Q2QXZ1	Phytozome_Gr:Gorai.002G228000
+Q2QY34	Phytozome_Gr:Gorai.002G179000
+Q2QY63	Phytozome_Gr:Gorai.012G026300 Phytozome_Gr:Gorai.008G112800
+Q2QYB7	Phytozome_Gr:Gorai.003G140000
+Q2QYV3	Phytozome_Gr:Gorai.003G147500 Phytozome_Gr:Gorai.013G270100
+Q2QYW4	Phytozome_Gr:Gorai.012G115000 Phytozome_Gr:Gorai.011G289600 Phytozome_Gr:Gorai.002G262800
+Q2QZ14	Phytozome_Gr:Gorai.013G261900 Phytozome_Gr:Gorai.003G128800
+Q2R1G8	Phytozome_Gr:Gorai.011G112800 Phytozome_Gr:Gorai.007G240800
+Q2R1L4	Phytozome_Gr:Gorai.008G055300 Phytozome_Gr:Gorai.007G181800
+Q2R2Q2	Phytozome_Gr:Gorai.013G171600
+Q2R2W1	Phytozome_Gr:Gorai.008G168500 Phytozome_Gr:Gorai.002G166800
+Q2R2W2	Phytozome_Gr:Gorai.001G197200 Phytozome_Gr:Gorai.001G079900 Phytozome_Gr:Gorai.001G201400
+Q2R2W3	Phytozome_Gr:Gorai.009G001900
+Q2R2W8	Phytozome_Gr:Gorai.003G031400 Phytozome_Gr:Gorai.008G084100 Phytozome_Gr:Gorai.007G224800
+Q2R339	Phytozome_Gr:Gorai.009G167800
+Q2R3A1	Phytozome_Gr:Gorai.011G161200 Phytozome_Gr:Gorai.009G252000 Phytozome_Gr:Gorai.006G000200 Phytozome_Gr:Gorai.009G339300 Phytozome_Gr:Gorai.005G035100 Phytozome_Gr:Gorai.011G161300
+Q2R3F5	Phytozome_Gr:Gorai.008G210200 Phytozome_Gr:Gorai.007G044900 Phytozome_Gr:Gorai.001G054600
+Q2R3K3	Phytozome_Gr:Gorai.008G209600
+Q2R3K5	Phytozome_Gr:Gorai.004G140500 Phytozome_Gr:Gorai.007G131300 Phytozome_Gr:Gorai.001G273700 Phytozome_Gr:Gorai.004G085900 Phytozome_Gr:Gorai.004G053500 Phytozome_Gr:Gorai.007G072400
+Q2R432	Phytozome_Gr:Gorai.005G164300 Phytozome_Gr:Gorai.011G086300 Phytozome_Gr:Gorai.001G273100 Phytozome_Gr:Gorai.006G043200 Phytozome_Gr:Gorai.002G181600 Phytozome_Gr:Gorai.012G085100
+Q2R481	Phytozome_Gr:Gorai.005G245400 Phytozome_Gr:Gorai.002G005200
+Q2R8T7	Phytozome_Gr:Gorai.006G034800
+Q2RAM8	Phytozome_Gr:Gorai.005G025500 Phytozome_Gr:Gorai.005G026100 Phytozome_Gr:Gorai.003G047900 Phytozome_Gr:Gorai.005G025400 Phytozome_Gr:Gorai.005G025900 Phytozome_Gr:Gorai.005G026200 Phytozome_Gr:Gorai.005G025700 Phytozome_Gr:Gorai.005G025600
+Q2RAP0	Phytozome_Gr:Gorai.007G353900
+Q2RAP4	Phytozome_Gr:Gorai.011G286100 Phytozome_Gr:Gorai.010G198500
+Q2RAP8	Phytozome_Gr:Gorai.011G145600 Phytozome_Gr:Gorai.005G127500
+Q2RAP9	Phytozome_Gr:Gorai.002G228000
+Q2RAY0	Phytozome_Gr:Gorai.012G026300 Phytozome_Gr:Gorai.008G112800
+Q2RB02	Phytozome_Gr:Gorai.009G452800 Phytozome_Gr:Gorai.006G000500 Phytozome_Gr:Gorai.009G452600
+Q2RB23	Phytozome_Gr:Gorai.003G140000
+Q2RBN0	Phytozome_Gr:Gorai.003G147500 Phytozome_Gr:Gorai.013G270100
+Q2RBP2	Phytozome_Gr:Gorai.009G091300 Phytozome_Gr:Gorai.011G289100 Phytozome_Gr:Gorai.009G322600
+Q336M7	Phytozome_Gr:Gorai.003G186800 Phytozome_Gr:Gorai.004G180900
+Q336N7	Phytozome_Gr:Gorai.008G224300
+Q336R6	Phytozome_Gr:Gorai.008G230400 Phytozome_Gr:Gorai.007G030400 Phytozome_Gr:Gorai.004G191000 Phytozome_Gr:Gorai.007G084900 Phytozome_Gr:Gorai.008G110700 Phytozome_Gr:Gorai.004G167300 Phytozome_Gr:Gorai.004G038500 Phytozome_Gr:Gorai.003G178900
+Q336U3	Phytozome_Gr:Gorai.007G186600 Phytozome_Gr:Gorai.001G203800 Phytozome_Gr:Gorai.004G045300
+Q336V3	Phytozome_Gr:Gorai.007G372200
+Q336X9	Phytozome_Gr:Gorai.008G120100 Phytozome_Gr:Gorai.003G155700 Phytozome_Gr:Gorai.008G249800 Phytozome_Gr:Gorai.001G159000 Phytozome_Gr:Gorai.004G159400 Phytozome_Gr:Gorai.001G158800
+Q337F0	Phytozome_Gr:Gorai.001G170700 Phytozome_Gr:Gorai.007G097100
+Q338J0	Phytozome_Gr:Gorai.001G182500 Phytozome_Gr:Gorai.002G016900
+Q338N8	Phytozome_Gr:Gorai.009G147700 Phytozome_Gr:Gorai.011G055200
+Q338Z4	Phytozome_Gr:Gorai.009G279800
+Q339V1	Phytozome_Gr:Gorai.007G342800 Phytozome_Gr:Gorai.007G296000
+Q33AE4	Phytozome_Gr:Gorai.008G282000
+Q40710	Phytozome_Gr:Gorai.007G120900 Phytozome_Gr:Gorai.004G235400 Phytozome_Gr:Gorai.013G130800 Phytozome_Gr:Gorai.013G130900 Phytozome_Gr:Gorai.001G145800 Phytozome_Gr:Gorai.013G208500
+Q42971	Phytozome_Gr:Gorai.001G046400 Phytozome_Gr:Gorai.006G158500 Phytozome_Gr:Gorai.002G243100
+Q42982	Phytozome_Gr:Gorai.009G148700 Phytozome_Gr:Gorai.011G053700 Phytozome_Gr:Gorai.009G005900
+Q43007	Phytozome_Gr:Gorai.009G057800 Phytozome_Gr:Gorai.010G225600 Phytozome_Gr:Gorai.011G083000
+Q43009	Phytozome_Gr:Gorai.010G091800 Phytozome_Gr:Gorai.010G092300 Phytozome_Gr:Gorai.001G017700 Phytozome_Gr:Gorai.009G038000 Phytozome_Gr:Gorai.013G222400
+Q43011	Phytozome_Gr:Gorai.008G096300
+Q4W8D0	Phytozome_Gr:Gorai.001G203300 Phytozome_Gr:Gorai.012G133400 Phytozome_Gr:Gorai.007G187300
+Q52QH4	Phytozome_Gr:Gorai.012G037600 Phytozome_Gr:Gorai.005G088800 Phytozome_Gr:Gorai.010G051900
+Q53JG7	Phytozome_Gr:Gorai.012G076100 Phytozome_Gr:Gorai.002G262100 Phytozome_Gr:Gorai.012G112900 Phytozome_Gr:Gorai.011G283900 Phytozome_Gr:Gorai.010G048200 Phytozome_Gr:Gorai.006G181400 Phytozome_Gr:Gorai.013G018900
+Q53JI9	Phytozome_Gr:Gorai.009G262100
+Q53JP2	Phytozome_Gr:Gorai.002G263100 Phytozome_Gr:Gorai.011G289300 Phytozome_Gr:Gorai.012G077000 Phytozome_Gr:Gorai.006G182900
+Q53L28	Phytozome_Gr:Gorai.013G024000 Phytozome_Gr:Gorai.005G007600
+Q53MS9	Phytozome_Gr:Gorai.004G087300 Phytozome_Gr:Gorai.006G186100
+Q53MU1	Phytozome_Gr:Gorai.004G185200
+Q53NW6	Phytozome_Gr:Gorai.009G416300 Phytozome_Gr:Gorai.006G166000 Phytozome_Gr:Gorai.010G086000 Phytozome_Gr:Gorai.002G248000 Phytozome_Gr:Gorai.007G373700 Phytozome_Gr:Gorai.011G238400 Phytozome_Gr:Gorai.007G373600
+Q53P49	Phytozome_Gr:Gorai.007G106600 Phytozome_Gr:Gorai.001G156600 Phytozome_Gr:Gorai.004G152800 Phytozome_Gr:Gorai.007G106500
+Q53Q70	Phytozome_Gr:Gorai.011G112200 Phytozome_Gr:Gorai.002G219800 Phytozome_Gr:Gorai.010G045700 Phytozome_Gr:Gorai.005G092400
+Q53QJ0	Phytozome_Gr:Gorai.001G059700
+Q53RH0	Phytozome_Gr:Gorai.008G143100 Phytozome_Gr:Gorai.007G126300
+Q5CCK1	Phytozome_Gr:Gorai.011G286100 Phytozome_Gr:Gorai.010G198500
+Q5CCK3	Phytozome_Gr:Gorai.007G203700
+Q5JJV0	Phytozome_Gr:Gorai.013G220200 Phytozome_Gr:Gorai.010G099300 Phytozome_Gr:Gorai.010G099400
+Q5JK18	Phytozome_Gr:Gorai.001G275700 Phytozome_Gr:Gorai.006G000400
+Q5JK20	Phytozome_Gr:Gorai.008G210200 Phytozome_Gr:Gorai.007G044900 Phytozome_Gr:Gorai.001G054600
+Q5JK39	Phytozome_Gr:Gorai.008G209600
+Q5JLS4	Phytozome_Gr:Gorai.010G250500 Phytozome_Gr:Gorai.002G093700 Phytozome_Gr:Gorai.011G010000 Phytozome_Gr:Gorai.004G032600 Phytozome_Gr:Gorai.009G182700
+Q5JMA1	Phytozome_Gr:Gorai.010G239400 Phytozome_Gr:Gorai.011G041700
+Q5JMA6	Phytozome_Gr:Gorai.010G081700
+Q5JMB6	Phytozome_Gr:Gorai.009G286400 Phytozome_Gr:Gorai.009G259200 Phytozome_Gr:Gorai.011G221600 Phytozome_Gr:Gorai.010G133400
+Q5JMC7	Phytozome_Gr:Gorai.003G048000
+Q5JMM6	Phytozome_Gr:Gorai.002G066100
+Q5JMX5	Phytozome_Gr:Gorai.001G218100
+Q5JMX9	Phytozome_Gr:Gorai.007G173500
+Q5JN19	Phytozome_Gr:Gorai.007G080400 Phytozome_Gr:Gorai.013G090700 Phytozome_Gr:Gorai.007G080800
+Q5JN63	Phytozome_Gr:Gorai.009G161200 Phytozome_Gr:Gorai.011G037900
+Q5JNB0	Phytozome_Gr:Gorai.006G232200
+Q5MBR3	Phytozome_Gr:Gorai.010G166900 Phytozome_Gr:Gorai.011G045200 Phytozome_Gr:Gorai.004G270800 Phytozome_Gr:Gorai.013G177100 Phytozome_Gr:Gorai.009G154600 Phytozome_Gr:Gorai.002G038100
+Q5MBR5	Phytozome_Gr:Gorai.010G166900 Phytozome_Gr:Gorai.011G045200 Phytozome_Gr:Gorai.004G270800 Phytozome_Gr:Gorai.013G177100 Phytozome_Gr:Gorai.009G154600 Phytozome_Gr:Gorai.002G038100
+Q5N725	Phytozome_Gr:Gorai.002G242100 Phytozome_Gr:Gorai.009G407500 Phytozome_Gr:Gorai.009G407400 Phytozome_Gr:Gorai.013G150000
+Q5N7L0	Phytozome_Gr:Gorai.012G122700 Phytozome_Gr:Gorai.009G347400
+Q5N7Z8	Phytozome_Gr:Gorai.008G207500 Phytozome_Gr:Gorai.008G202500
+Q5N892	Phytozome_Gr:Gorai.012G076100 Phytozome_Gr:Gorai.002G262100 Phytozome_Gr:Gorai.012G112900 Phytozome_Gr:Gorai.011G283900 Phytozome_Gr:Gorai.010G048200 Phytozome_Gr:Gorai.006G181400 Phytozome_Gr:Gorai.013G018900
+Q5N8G1	Phytozome_Gr:Gorai.010G134700
+Q5N8H9	Phytozome_Gr:Gorai.009G044000
+Q5N9N2	Phytozome_Gr:Gorai.013G022100 Phytozome_Gr:Gorai.011G268200 Phytozome_Gr:Gorai.009G096200 Phytozome_Gr:Gorai.003G128900 Phytozome_Gr:Gorai.012G072200
+Q5N9Z8	Phytozome_Gr:Gorai.013G030300 Phytozome_Gr:Gorai.007G241800
+Q5NA81	Phytozome_Gr:Gorai.008G155300 Phytozome_Gr:Gorai.005G198900
+Q5NAY4	Phytozome_Gr:Gorai.013G145300
+Q5NAZ7	Phytozome_Gr:Gorai.007G106600 Phytozome_Gr:Gorai.001G156600 Phytozome_Gr:Gorai.004G152800 Phytozome_Gr:Gorai.007G106500
+Q5NB25	Phytozome_Gr:Gorai.010G031600 Phytozome_Gr:Gorai.003G035700 Phytozome_Gr:Gorai.009G226000 Phytozome_Gr:Gorai.011G109000
+Q5NBQ1	Phytozome_Gr:Gorai.008G088200 Phytozome_Gr:Gorai.006G057300 Phytozome_Gr:Gorai.007G236100 Phytozome_Gr:Gorai.002G196300
+Q5NBT9	Phytozome_Gr:Gorai.006G077300 Phytozome_Gr:Gorai.004G238300 Phytozome_Gr:Gorai.011G194100
+Q5NTH3	Phytozome_Gr:Gorai.008G274900 Phytozome_Gr:Gorai.007G244500
+Q5NTH4	Phytozome_Gr:Gorai.008G274900 Phytozome_Gr:Gorai.007G244500
+Q5QN02	Phytozome_Gr:Gorai.013G036100 Phytozome_Gr:Gorai.007G279300
+Q5SMQ9	Phytozome_Gr:Gorai.002G179000
+Q5SMY2	Phytozome_Gr:Gorai.011G064700 Phytozome_Gr:Gorai.009G044300 Phytozome_Gr:Gorai.010G099600 Phytozome_Gr:Gorai.009G141200 Phytozome_Gr:Gorai.005G198100
+Q5SND7	Phytozome_Gr:Gorai.010G076300 Phytozome_Gr:Gorai.013G230000
+Q5U9F2	Phytozome_Gr:Gorai.002G158300
+Q5VMP0	Phytozome_Gr:Gorai.008G099500 Phytozome_Gr:Gorai.011G039300 Phytozome_Gr:Gorai.010G159500
+Q5VMP2	Phytozome_Gr:Gorai.012G141600 Phytozome_Gr:Gorai.002G153400
+Q5VN31	Phytozome_Gr:Gorai.009G441800
+Q5VNP5	Phytozome_Gr:Gorai.007G202800
+Q5VNW0	Phytozome_Gr:Gorai.008G113800 Phytozome_Gr:Gorai.001G174400 Phytozome_Gr:Gorai.008G113600
+Q5VP70	Phytozome_Gr:Gorai.002G179000
+Q5VPH2	Phytozome_Gr:Gorai.007G196100
+Q5VQG4	Phytozome_Gr:Gorai.005G133900 Phytozome_Gr:Gorai.006G032900 Phytozome_Gr:Gorai.012G063500 Phytozome_Gr:Gorai.001G070800
+Q5VQG8	Phytozome_Gr:Gorai.012G172400 Phytozome_Gr:Gorai.005G180100
+Q5VRB9	Phytozome_Gr:Gorai.011G164200 Phytozome_Gr:Gorai.010G109400 Phytozome_Gr:Gorai.004G140200 Phytozome_Gr:Gorai.009G341100 Phytozome_Gr:Gorai.004G085500 Phytozome_Gr:Gorai.009G024800
+Q5VRM7	Phytozome_Gr:Gorai.013G013700 Phytozome_Gr:Gorai.004G187300 Phytozome_Gr:Gorai.004G187200 Phytozome_Gr:Gorai.006G216200 Phytozome_Gr:Gorai.010G190900
+Q5VRR0	Phytozome_Gr:Gorai.009G058600 Phytozome_Gr:Gorai.001G043900 Phytozome_Gr:Gorai.009G016200
+Q5VSB8	Phytozome_Gr:Gorai.004G111100
+Q5W670	Phytozome_Gr:Gorai.009G048400 Phytozome_Gr:Gorai.009G137500 Phytozome_Gr:Gorai.011G070800 Phytozome_Gr:Gorai.013G219700 Phytozome_Gr:Gorai.010G231100
+Q5W6F1	Phytozome_Gr:Gorai.013G271700 Phytozome_Gr:Gorai.011G207000
+Q5W6F9	Phytozome_Gr:Gorai.009G030500 Phytozome_Gr:Gorai.001G010700
+Q5W6H5	Phytozome_Gr:Gorai.012G116000
+Q5W6W7	Phytozome_Gr:Gorai.001G098700
+Q5WMV3	Phytozome_Gr:Gorai.013G009900 Phytozome_Gr:Gorai.009G292000
+Q5XLJ2	Phytozome_Gr:Gorai.009G167800
+Q5Z5B7	Phytozome_Gr:Gorai.012G039100 Phytozome_Gr:Gorai.006G009400 Phytozome_Gr:Gorai.001G083700
+Q5Z5R4	Phytozome_Gr:Gorai.009G207500 Phytozome_Gr:Gorai.010G015900
+Q5Z5R7	Phytozome_Gr:Gorai.009G207500 Phytozome_Gr:Gorai.010G015900
+Q5Z678	Phytozome_Gr:Gorai.009G246300 Phytozome_Gr:Gorai.010G051100
+Q5Z6D3	Phytozome_Gr:Gorai.006G051500 Phytozome_Gr:Gorai.005G042100
+Q5Z6E5	Phytozome_Gr:Gorai.006G220600
+Q5Z749	Phytozome_Gr:Gorai.010G031600 Phytozome_Gr:Gorai.003G035700 Phytozome_Gr:Gorai.009G226000 Phytozome_Gr:Gorai.011G109000
+Q5Z7R3	Phytozome_Gr:Gorai.013G171600
+Q5Z807	Phytozome_Gr:Gorai.012G009900
+Q5Z856	Phytozome_Gr:Gorai.011G240300
+Q5Z8K3	Phytozome_Gr:Gorai.009G004400 Phytozome_Gr:Gorai.004G027400
+Q5Z8S0	Phytozome_Gr:Gorai.011G081100 Phytozome_Gr:Gorai.004G287300 Phytozome_Gr:Gorai.009G045700 Phytozome_Gr:Gorai.001G023000
+Q5Z8T3	Phytozome_Gr:Gorai.009G138300 Phytozome_Gr:Gorai.011G069500
+Q5Z8V9	Phytozome_Gr:Gorai.009G246200
+Q5Z8Y4	Phytozome_Gr:Gorai.004G254500 Phytozome_Gr:Gorai.005G087200 Phytozome_Gr:Gorai.013G108400
+Q5Z8Z7	Phytozome_Gr:Gorai.009G139900 Phytozome_Gr:Gorai.003G060000 Phytozome_Gr:Gorai.011G067400 Phytozome_Gr:Gorai.009G046000 Phytozome_Gr:Gorai.010G101800 Phytozome_Gr:Gorai.001G023300 Phytozome_Gr:Gorai.006G095900
+Q5ZCV1	Phytozome_Gr:Gorai.006G075100 Phytozome_Gr:Gorai.004G250400
+Q5ZED1	Phytozome_Gr:Gorai.011G260500 Phytozome_Gr:Gorai.012G070200
+Q5ZEL4	Phytozome_Gr:Gorai.006G183300 Phytozome_Gr:Gorai.001G247400
+Q60EX6	Phytozome_Gr:Gorai.004G054500 Phytozome_Gr:Gorai.007G132700
+Q60EY1	Phytozome_Gr:Gorai.004G214900
+Q64MA9	Phytozome_Gr:Gorai.004G207000 Phytozome_Gr:Gorai.003G163200 Phytozome_Gr:Gorai.008G243100
+Q650W1	Phytozome_Gr:Gorai.006G109800 Phytozome_Gr:Gorai.004G008200
+Q651F0	Phytozome_Gr:Gorai.007G192400 Phytozome_Gr:Gorai.008G062200
+Q652A8	Phytozome_Gr:Gorai.004G209200 Phytozome_Gr:Gorai.008G244600
+Q652S1	Phytozome_Gr:Gorai.005G132300
+Q653D9	Phytozome_Gr:Gorai.012G141600 Phytozome_Gr:Gorai.002G153400
+Q653F4	Phytozome_Gr:Gorai.003G026800 Phytozome_Gr:Gorai.004G051000 Phytozome_Gr:Gorai.007G216800
+Q653H7	Phytozome_Gr:Gorai.006G166400 Phytozome_Gr:Gorai.009G107800 Phytozome_Gr:Gorai.003G142500 Phytozome_Gr:Gorai.013G267100 Phytozome_Gr:Gorai.012G004800 Phytozome_Gr:Gorai.011G238900
+Q653T6	Phytozome_Gr:Gorai.001G118100 Phytozome_Gr:Gorai.011G047900 Phytozome_Gr:Gorai.011G147200
+Q653U3	Phytozome_Gr:Gorai.011G048200 Phytozome_Gr:Gorai.008G097200 Phytozome_Gr:Gorai.009G037100 Phytozome_Gr:Gorai.006G008700 Phytozome_Gr:Gorai.009G152700
+Q655W2	Phytozome_Gr:Gorai.007G336900 Phytozome_Gr:Gorai.002G108700 Phytozome_Gr:Gorai.013G145400
+Q655Y9	Phytozome_Gr:Gorai.008G017700
+Q656F1	Phytozome_Gr:Gorai.010G092100
+Q657X7	Phytozome_Gr:Gorai.004G196900
+Q65XC6	Phytozome_Gr:Gorai.011G164200 Phytozome_Gr:Gorai.010G109400 Phytozome_Gr:Gorai.004G140200 Phytozome_Gr:Gorai.009G341100 Phytozome_Gr:Gorai.004G085500 Phytozome_Gr:Gorai.009G024800
+Q65XK0	Phytozome_Gr:Gorai.010G159200 Phytozome_Gr:Gorai.001G067400 Phytozome_Gr:Gorai.011G000800
+Q65XM9	Phytozome_Gr:Gorai.002G102700 Phytozome_Gr:Gorai.009G184900
+Q65XR9	Phytozome_Gr:Gorai.009G057800 Phytozome_Gr:Gorai.010G225600 Phytozome_Gr:Gorai.011G083000
+Q67J16	Phytozome_Gr:Gorai.002G007800 Phytozome_Gr:Gorai.013G042800 Phytozome_Gr:Gorai.002G007700
+Q67J19	Phytozome_Gr:Gorai.010G018300 Phytozome_Gr:Gorai.002G131700 Phytozome_Gr:Gorai.009G211200
+Q67TQ5	Phytozome_Gr:Gorai.013G044500 Phytozome_Gr:Gorai.005G237400 Phytozome_Gr:Gorai.005G102300 Phytozome_Gr:Gorai.008G024700 Phytozome_Gr:Gorai.009G212600 Phytozome_Gr:Gorai.009G275700
+Q67TZ7	Phytozome_Gr:Gorai.001G072600 Phytozome_Gr:Gorai.013G088600
+Q67UL3	Phytozome_Gr:Gorai.002G179000
+Q67UX0	Phytozome_Gr:Gorai.009G004400 Phytozome_Gr:Gorai.004G027400
+Q67UZ8	Phytozome_Gr:Gorai.010G046600 Phytozome_Gr:Gorai.009G242100
+Q67VM1	Phytozome_Gr:Gorai.007G186800
+Q67VR7	Phytozome_Gr:Gorai.009G243600 Phytozome_Gr:Gorai.012G026200 Phytozome_Gr:Gorai.008G242100 Phytozome_Gr:Gorai.012G026100
+Q67W29	Phytozome_Gr:Gorai.001G202100 Phytozome_Gr:Gorai.006G143300 Phytozome_Gr:Gorai.007G347100
+Q67W82	Phytozome_Gr:Gorai.009G148700 Phytozome_Gr:Gorai.011G053700 Phytozome_Gr:Gorai.009G005900
+Q67WN8	Phytozome_Gr:Gorai.013G235900 Phytozome_Gr:Gorai.004G292800 Phytozome_Gr:Gorai.010G116100
+Q67WR2	Phytozome_Gr:Gorai.009G008600
+Q688L9	Phytozome_Gr:Gorai.009G030500 Phytozome_Gr:Gorai.001G010700
+Q688Q8	Phytozome_Gr:Gorai.006G107600
+Q688Q9	Phytozome_Gr:Gorai.006G209400
+Q688T8	Phytozome_Gr:Gorai.009G200400 Phytozome_Gr:Gorai.005G244900 Phytozome_Gr:Gorai.010G008700 Phytozome_Gr:Gorai.013G035800
+Q688Y2	Phytozome_Gr:Gorai.009G389800
+Q689G6	Phytozome_Gr:Gorai.007G113000 Phytozome_Gr:Gorai.008G265100 Phytozome_Gr:Gorai.012G001000 Phytozome_Gr:Gorai.007G017100
+Q689G9	Phytozome_Gr:Gorai.003G098300
+Q69IM7	Phytozome_Gr:Gorai.009G302100
+Q69J27	Phytozome_Gr:Gorai.007G145600 Phytozome_Gr:Gorai.007G041700 Phytozome_Gr:Gorai.012G139600 Phytozome_Gr:Gorai.012G139500
+Q69JI7	Phytozome_Gr:Gorai.008G175100 Phytozome_Gr:Gorai.013G098000 Phytozome_Gr:Gorai.009G327300
+Q69K00	Phytozome_Gr:Gorai.002G192900 Phytozome_Gr:Gorai.012G153600
+Q69KM5	Phytozome_Gr:Gorai.001G174300 Phytozome_Gr:Gorai.004G202200 Phytozome_Gr:Gorai.007G225300 Phytozome_Gr:Gorai.007G090500 Phytozome_Gr:Gorai.004G273500 Phytozome_Gr:Gorai.004G162700 Phytozome_Gr:Gorai.004G040600 Phytozome_Gr:Gorai.012G096800
+Q69L93	Phytozome_Gr:Gorai.013G261900 Phytozome_Gr:Gorai.003G128800
+Q69LG7	Phytozome_Gr:Gorai.004G267200
+Q69MC9	Phytozome_Gr:Gorai.005G225400 Phytozome_Gr:Gorai.009G230100
+Q69MH0	Phytozome_Gr:Gorai.008G056100 Phytozome_Gr:Gorai.007G181100
+Q69NY7	Phytozome_Gr:Gorai.009G154300 Phytozome_Gr:Gorai.006G092400 Phytozome_Gr:Gorai.011G045300
+Q69P51	Phytozome_Gr:Gorai.001G238100 Phytozome_Gr:Gorai.004G057400
+Q69P94	Phytozome_Gr:Gorai.010G090600 Phytozome_Gr:Gorai.009G036800 Phytozome_Gr:Gorai.004G285100
+Q69QD7	Phytozome_Gr:Gorai.001G041400 Phytozome_Gr:Gorai.004G277600 Phytozome_Gr:Gorai.010G064600
+Q69RG7	Phytozome_Gr:Gorai.003G144900 Phytozome_Gr:Gorai.013G269100 Phytozome_Gr:Gorai.006G162900
+Q69RJ0	Phytozome_Gr:Gorai.002G226600
+Q69T90	Phytozome_Gr:Gorai.013G064800
+Q69T99	Phytozome_Gr:Gorai.N000500 Phytozome_Gr:Gorai.012G140800 Phytozome_Gr:Gorai.001G224500 Phytozome_Gr:Gorai.007G163700
+Q69TF4	Phytozome_Gr:Gorai.009G202300 Phytozome_Gr:Gorai.010G010400
+Q69TT1	Phytozome_Gr:Gorai.002G177300
+Q69TV4	Phytozome_Gr:Gorai.001G072600 Phytozome_Gr:Gorai.013G088600
+Q69TV6	Phytozome_Gr:Gorai.001G072600 Phytozome_Gr:Gorai.013G088600
+Q69TV8	Phytozome_Gr:Gorai.001G072600 Phytozome_Gr:Gorai.013G088600
+Q69TW5	Phytozome_Gr:Gorai.013G044500 Phytozome_Gr:Gorai.005G237400 Phytozome_Gr:Gorai.005G102300 Phytozome_Gr:Gorai.008G024700 Phytozome_Gr:Gorai.009G212600 Phytozome_Gr:Gorai.009G275700
+Q69U01	Phytozome_Gr:Gorai.002G061600 Phytozome_Gr:Gorai.007G344300 Phytozome_Gr:Gorai.008G173900 Phytozome_Gr:Gorai.006G224500 Phytozome_Gr:Gorai.006G224100 Phytozome_Gr:Gorai.002G063900 Phytozome_Gr:Gorai.007G344100 Phytozome_Gr:Gorai.006G093700
+Q69U03	Phytozome_Gr:Gorai.002G061600 Phytozome_Gr:Gorai.007G344300 Phytozome_Gr:Gorai.008G173900 Phytozome_Gr:Gorai.006G224500 Phytozome_Gr:Gorai.006G224100 Phytozome_Gr:Gorai.002G063900 Phytozome_Gr:Gorai.007G344100 Phytozome_Gr:Gorai.006G093700
+Q69U04	Phytozome_Gr:Gorai.002G061600 Phytozome_Gr:Gorai.007G344300 Phytozome_Gr:Gorai.008G173900 Phytozome_Gr:Gorai.006G224500 Phytozome_Gr:Gorai.006G224100 Phytozome_Gr:Gorai.002G063900 Phytozome_Gr:Gorai.007G344100 Phytozome_Gr:Gorai.006G093700
+Q69U93	Phytozome_Gr:Gorai.002G267900
+Q69UF5	Phytozome_Gr:Gorai.005G025500 Phytozome_Gr:Gorai.005G026100 Phytozome_Gr:Gorai.003G047900 Phytozome_Gr:Gorai.005G025400 Phytozome_Gr:Gorai.005G025900 Phytozome_Gr:Gorai.005G026200 Phytozome_Gr:Gorai.005G025700 Phytozome_Gr:Gorai.005G025600
+Q69UU3	Phytozome_Gr:Gorai.005G179600
+Q69V57	Phytozome_Gr:Gorai.002G242100 Phytozome_Gr:Gorai.009G407500 Phytozome_Gr:Gorai.009G407400 Phytozome_Gr:Gorai.013G150000
+Q69XD3	Phytozome_Gr:Gorai.005G025500 Phytozome_Gr:Gorai.005G026100 Phytozome_Gr:Gorai.003G047900 Phytozome_Gr:Gorai.005G025400 Phytozome_Gr:Gorai.005G025900 Phytozome_Gr:Gorai.005G026200 Phytozome_Gr:Gorai.005G025700 Phytozome_Gr:Gorai.005G025600
+Q69XS7	Phytozome_Gr:Gorai.008G067100 Phytozome_Gr:Gorai.002G127000
+Q6AT26	Phytozome_Gr:Gorai.009G010200 Phytozome_Gr:Gorai.009G009500
+Q6AT32	Phytozome_Gr:Gorai.009G051500 Phytozome_Gr:Gorai.002G137600 Phytozome_Gr:Gorai.005G097300 Phytozome_Gr:Gorai.010G031000 Phytozome_Gr:Gorai.004G290300
+Q6AT33	Phytozome_Gr:Gorai.010G031600 Phytozome_Gr:Gorai.003G035700 Phytozome_Gr:Gorai.009G226000 Phytozome_Gr:Gorai.011G109000
+Q6AT41	Phytozome_Gr:Gorai.010G074900 Phytozome_Gr:Gorai.009G027000
+Q6AT75	Phytozome_Gr:Gorai.005G197400 Phytozome_Gr:Gorai.008G155900
+Q6ATR2	Phytozome_Gr:Gorai.006G110100
+Q6AUB0	Phytozome_Gr:Gorai.004G262800
+Q6AUJ8	Phytozome_Gr:Gorai.006G183900 Phytozome_Gr:Gorai.006G184000 Phytozome_Gr:Gorai.004G001200
+Q6AV34	Phytozome_Gr:Gorai.013G040500
+Q6AVG6	Phytozome_Gr:Gorai.005G229100 Phytozome_Gr:Gorai.013G052300 Phytozome_Gr:Gorai.008G019000
+Q6AVM5	Phytozome_Gr:Gorai.009G301400 Phytozome_Gr:Gorai.009G301200
+Q6AVT2	Phytozome_Gr:Gorai.006G236600
+Q6BDZ9	Phytozome_Gr:Gorai.002G110600
+Q6EN48	Phytozome_Gr:Gorai.008G269900 Phytozome_Gr:Gorai.004G115100
+Q6EP31	Phytozome_Gr:Gorai.008G036100 Phytozome_Gr:Gorai.009G269600 Phytozome_Gr:Gorai.011G031400 Phytozome_Gr:Gorai.010G156700 Phytozome_Gr:Gorai.009G193300 Phytozome_Gr:Gorai.002G197500 Phytozome_Gr:Gorai.010G002600 Phytozome_Gr:Gorai.003G008000
+Q6EP59	Phytozome_Gr:Gorai.009G235700 Phytozome_Gr:Gorai.013G060500 Phytozome_Gr:Gorai.007G060200 Phytozome_Gr:Gorai.003G040100 Phytozome_Gr:Gorai.013G060400 Phytozome_Gr:Gorai.013G060700
+Q6EP77	Phytozome_Gr:Gorai.011G151600 Phytozome_Gr:Gorai.007G010100 Phytozome_Gr:Gorai.002G241700 Phytozome_Gr:Gorai.006G046200 Phytozome_Gr:Gorai.009G087700 Phytozome_Gr:Gorai.008G280600 Phytozome_Gr:Gorai.008G243600 Phytozome_Gr:Gorai.003G162700 Phytozome_Gr:Gorai.009G406800
+Q6EPN6	Phytozome_Gr:Gorai.003G085800 Phytozome_Gr:Gorai.004G137800
+Q6EPY7	Phytozome_Gr:Gorai.009G401600 Phytozome_Gr:Gorai.009G402000
+Q6EQW2	Phytozome_Gr:Gorai.013G176000
+Q6ERL4	Phytozome_Gr:Gorai.008G087200 Phytozome_Gr:Gorai.009G268800
+Q6ERR3	Phytozome_Gr:Gorai.009G124300
+Q6ES51	Phytozome_Gr:Gorai.008G291000 Phytozome_Gr:Gorai.002G173700 Phytozome_Gr:Gorai.009G330500
+Q6ESJ0	Phytozome_Gr:Gorai.004G211400 Phytozome_Gr:Gorai.008G246400
+Q6ESZ9	Phytozome_Gr:Gorai.009G253400 Phytozome_Gr:Gorai.002G231300
+Q6ET36	Phytozome_Gr:Gorai.004G079500 Phytozome_Gr:Gorai.007G137400
+Q6ET88	Phytozome_Gr:Gorai.002G201300
+Q6ETD3	Phytozome_Gr:Gorai.006G212600 Phytozome_Gr:Gorai.004G200800 Phytozome_Gr:Gorai.008G236700
+Q6ETN3	Phytozome_Gr:Gorai.009G148700 Phytozome_Gr:Gorai.011G053700 Phytozome_Gr:Gorai.009G005900
+Q6ETX4	Phytozome_Gr:Gorai.011G289500 Phytozome_Gr:Gorai.012G116600
+Q6EUF1	Phytozome_Gr:Gorai.002G052400 Phytozome_Gr:Gorai.011G036300 Phytozome_Gr:Gorai.007G327000 Phytozome_Gr:Gorai.010G240700
+Q6EUP4	Phytozome_Gr:Gorai.001G197200 Phytozome_Gr:Gorai.001G079900 Phytozome_Gr:Gorai.001G201400
+Q6EUS6	Phytozome_Gr:Gorai.006G004600
+Q6F354	Phytozome_Gr:Gorai.005G120800
+Q6F361	Phytozome_Gr:Gorai.002G063300 Phytozome_Gr:Gorai.009G372600
+Q6F4N6	Phytozome_Gr:Gorai.004G045700 Phytozome_Gr:Gorai.009G008500
+Q6H4H9	Phytozome_Gr:Gorai.002G061600 Phytozome_Gr:Gorai.007G344300 Phytozome_Gr:Gorai.008G173900 Phytozome_Gr:Gorai.006G224500 Phytozome_Gr:Gorai.006G224100 Phytozome_Gr:Gorai.002G063900 Phytozome_Gr:Gorai.007G344100 Phytozome_Gr:Gorai.006G093700
+Q6H4V1	Phytozome_Gr:Gorai.001G092000
+Q6H543	Phytozome_Gr:Gorai.009G048400 Phytozome_Gr:Gorai.009G137500 Phytozome_Gr:Gorai.011G070800 Phytozome_Gr:Gorai.013G219700 Phytozome_Gr:Gorai.010G231100
+Q6H5C7	Phytozome_Gr:Gorai.008G055300 Phytozome_Gr:Gorai.007G181800
+Q6H5Z4	Phytozome_Gr:Gorai.011G081100 Phytozome_Gr:Gorai.004G287300 Phytozome_Gr:Gorai.009G045700 Phytozome_Gr:Gorai.001G023000
+Q6H6D2	Phytozome_Gr:Gorai.005G211000 Phytozome_Gr:Gorai.012G134300
+Q6H6G1	Phytozome_Gr:Gorai.013G137200
+Q6H6I1	Phytozome_Gr:Gorai.005G214700 Phytozome_Gr:Gorai.012G137200
+Q6H6P8	Phytozome_Gr:Gorai.009G406400 Phytozome_Gr:Gorai.002G241400
+Q6H703	Phytozome_Gr:Gorai.007G336900 Phytozome_Gr:Gorai.002G108700 Phytozome_Gr:Gorai.013G145400
+Q6H7Q6	Phytozome_Gr:Gorai.004G092100 Phytozome_Gr:Gorai.009G071200
+Q6H819	Phytozome_Gr:Gorai.010G118700 Phytozome_Gr:Gorai.009G062700
+Q6H849	Phytozome_Gr:Gorai.001G123400 Phytozome_Gr:Gorai.009G398700
+Q6H851	Phytozome_Gr:Gorai.001G123400 Phytozome_Gr:Gorai.009G398700
+Q6I581	Phytozome_Gr:Gorai.007G106600 Phytozome_Gr:Gorai.001G156600 Phytozome_Gr:Gorai.004G152800 Phytozome_Gr:Gorai.007G106500
+Q6I5C3	Phytozome_Gr:Gorai.004G152300 Phytozome_Gr:Gorai.007G107500 Phytozome_Gr:Gorai.008G253700 Phytozome_Gr:Gorai.012G003800 Phytozome_Gr:Gorai.007G026100
+Q6IVC3	Phytozome_Gr:Gorai.013G004400 Phytozome_Gr:Gorai.011G217200 Phytozome_Gr:Gorai.007G352600 Phytozome_Gr:Gorai.013G001700
+Q6J1A5	Phytozome_Gr:Gorai.011G151600 Phytozome_Gr:Gorai.007G010100 Phytozome_Gr:Gorai.002G241700 Phytozome_Gr:Gorai.006G046200 Phytozome_Gr:Gorai.009G087700 Phytozome_Gr:Gorai.008G280600 Phytozome_Gr:Gorai.008G243600 Phytozome_Gr:Gorai.003G162700 Phytozome_Gr:Gorai.009G406800
+Q6K1X7	Phytozome_Gr:Gorai.013G024000 Phytozome_Gr:Gorai.005G007600
+Q6K2E8	Phytozome_Gr:Gorai.011G141100 Phytozome_Gr:Gorai.005G016600 Phytozome_Gr:Gorai.005G016500
+Q6K306	Phytozome_Gr:Gorai.007G165300 Phytozome_Gr:Gorai.001G191000
+Q6K3T2	Phytozome_Gr:Gorai.011G043500 Phytozome_Gr:Gorai.009G155200
+Q6K3Z3	Phytozome_Gr:Gorai.010G248300 Phytozome_Gr:Gorai.007G165600
+Q6K548	Phytozome_Gr:Gorai.008G190900 Phytozome_Gr:Gorai.009G355100
+Q6K5G8	Phytozome_Gr:Gorai.006G038900 Phytozome_Gr:Gorai.007G041900 Phytozome_Gr:Gorai.012G089500 Phytozome_Gr:Gorai.007G074000 Phytozome_Gr:Gorai.001G268500 Phytozome_Gr:Gorai.005G172100
+Q6K5U4	Phytozome_Gr:Gorai.013G171600
+Q6K6Q0	Phytozome_Gr:Gorai.009G416300 Phytozome_Gr:Gorai.006G166000 Phytozome_Gr:Gorai.010G086000 Phytozome_Gr:Gorai.002G248000 Phytozome_Gr:Gorai.007G373700 Phytozome_Gr:Gorai.011G238400 Phytozome_Gr:Gorai.007G373600
+Q6K6Q1	Phytozome_Gr:Gorai.009G416300 Phytozome_Gr:Gorai.006G166000 Phytozome_Gr:Gorai.010G086000 Phytozome_Gr:Gorai.002G248000 Phytozome_Gr:Gorai.007G373700 Phytozome_Gr:Gorai.011G238400 Phytozome_Gr:Gorai.007G373600
+Q6K755	Phytozome_Gr:Gorai.009G235700 Phytozome_Gr:Gorai.013G060500 Phytozome_Gr:Gorai.007G060200 Phytozome_Gr:Gorai.003G040100 Phytozome_Gr:Gorai.013G060400 Phytozome_Gr:Gorai.013G060700
+Q6K7V6	Phytozome_Gr:Gorai.001G027200 Phytozome_Gr:Gorai.009G050600
+Q6K846	Phytozome_Gr:Gorai.009G058600 Phytozome_Gr:Gorai.001G043900 Phytozome_Gr:Gorai.009G016200
+Q6K8E2	Phytozome_Gr:Gorai.004G140500 Phytozome_Gr:Gorai.007G131300 Phytozome_Gr:Gorai.001G273700 Phytozome_Gr:Gorai.004G085900 Phytozome_Gr:Gorai.004G053500 Phytozome_Gr:Gorai.007G072400
+Q6K8E7	Phytozome_Gr:Gorai.011G002400 Phytozome_Gr:Gorai.002G090700 Phytozome_Gr:Gorai.011G091200
+Q6K8J4	Phytozome_Gr:Gorai.004G228600
+Q6K969	Phytozome_Gr:Gorai.005G216700
+Q6K9B8	Phytozome_Gr:Gorai.005G149100 Phytozome_Gr:Gorai.013G102500
+Q6K9M5	Phytozome_Gr:Gorai.001G174300 Phytozome_Gr:Gorai.004G202200 Phytozome_Gr:Gorai.007G225300 Phytozome_Gr:Gorai.007G090500 Phytozome_Gr:Gorai.004G273500 Phytozome_Gr:Gorai.004G162700 Phytozome_Gr:Gorai.004G040600 Phytozome_Gr:Gorai.012G096800
+Q6K9N6	Phytozome_Gr:Gorai.001G180000 Phytozome_Gr:Gorai.001G179900
+Q6K9X3	Phytozome_Gr:Gorai.009G411600
+Q6KAJ2	Phytozome_Gr:Gorai.009G060500 Phytozome_Gr:Gorai.010G117400
+Q6L479	Phytozome_Gr:Gorai.007G302800 Phytozome_Gr:Gorai.011G193900 Phytozome_Gr:Gorai.005G062100 Phytozome_Gr:Gorai.002G028800
+Q6L4G2	Phytozome_Gr:Gorai.012G122700 Phytozome_Gr:Gorai.009G347400
+Q6L4H5	Phytozome_Gr:Gorai.011G062900 Phytozome_Gr:Gorai.010G085500 Phytozome_Gr:Gorai.009G034200
+Q6L4L4	Phytozome_Gr:Gorai.013G255700 Phytozome_Gr:Gorai.013G255600
+Q6L4R0	Phytozome_Gr:Gorai.009G140600
+Q6L4R7	Phytozome_Gr:Gorai.009G143300 Phytozome_Gr:Gorai.009G042600 Phytozome_Gr:Gorai.001G013500 Phytozome_Gr:Gorai.004G284400
+Q6L540	Phytozome_Gr:Gorai.011G211000 Phytozome_Gr:Gorai.011G211200
+Q6L545	Phytozome_Gr:Gorai.N020400 Phytozome_Gr:Gorai.004G214300 Phytozome_Gr:Gorai.004G244100 Phytozome_Gr:Gorai.013G203500
+Q6L5F6	Phytozome_Gr:Gorai.012G029000
+Q6L5H6	Phytozome_Gr:Gorai.009G143300 Phytozome_Gr:Gorai.009G042600 Phytozome_Gr:Gorai.001G013500 Phytozome_Gr:Gorai.004G284400
+Q6Q9I2	Phytozome_Gr:Gorai.001G172200 Phytozome_Gr:Gorai.013G096000 Phytozome_Gr:Gorai.003G103000 Phytozome_Gr:Gorai.013G096100 Phytozome_Gr:Gorai.005G147200 Phytozome_Gr:Gorai.012G185500 Phytozome_Gr:Gorai.004G124000 Phytozome_Gr:Gorai.001G075800 Phytozome_Gr:Gorai.001G090000 Phytozome_Gr:Gorai.012G185600 Phytozome_Gr:Gorai.004G155700 Phytozome_Gr:Gorai.012G180300 Phytozome_Gr:Gorai.006G268400 Phytozome_Gr:Gorai.009G404300 Phytozome_Gr:Gorai.007G093700 Phytozome_Gr:Gorai.006G045100
+Q6VMN7	Phytozome_Gr:Gorai.009G241000 Phytozome_Gr:Gorai.005G262500
+Q6YPG5	Phytozome_Gr:Gorai.008G215800
+Q6YS33	Phytozome_Gr:Gorai.001G275700 Phytozome_Gr:Gorai.006G000400
+Q6YSA1	Phytozome_Gr:Gorai.009G329200 Phytozome_Gr:Gorai.005G154300 Phytozome_Gr:Gorai.005G134600 Phytozome_Gr:Gorai.006G190500 Phytozome_Gr:Gorai.008G293000 Phytozome_Gr:Gorai.002G171100 Phytozome_Gr:Gorai.008G169500 Phytozome_Gr:Gorai.007G002600
+Q6YT73	Phytozome_Gr:Gorai.009G154200 Phytozome_Gr:Gorai.002G038000 Phytozome_Gr:Gorai.002G037900 Phytozome_Gr:Gorai.006G092300
+Q6YTI6	Phytozome_Gr:Gorai.010G046600 Phytozome_Gr:Gorai.009G242100
+Q6YTT3	Phytozome_Gr:Gorai.006G214500 Phytozome_Gr:Gorai.009G235000 Phytozome_Gr:Gorai.013G060200
+Q6YU51	Phytozome_Gr:Gorai.008G093600
+Q6YUI8	Phytozome_Gr:Gorai.001G072600 Phytozome_Gr:Gorai.013G088600
+Q6YUS0	Phytozome_Gr:Gorai.002G014600
+Q6YUU2	Phytozome_Gr:Gorai.013G002400
+Q6YV23	Phytozome_Gr:Gorai.003G069700 Phytozome_Gr:Gorai.007G063500
+Q6YVI0	Phytozome_Gr:Gorai.009G200700
+Q6YVY0	Phytozome_Gr:Gorai.011G091100
+Q6YVY6	Phytozome_Gr:Gorai.006G010000 Phytozome_Gr:Gorai.013G094600 Phytozome_Gr:Gorai.008G176700
+Q6YWE1	Phytozome_Gr:Gorai.006G110100
+Q6YXI1	Phytozome_Gr:Gorai.010G035600 Phytozome_Gr:Gorai.009G230800
+Q6YXW6	Phytozome_Gr:Gorai.009G395300 Phytozome_Gr:Gorai.009G301900
+Q6YYB9	Phytozome_Gr:Gorai.013G161300 Phytozome_Gr:Gorai.013G161400
+Q6YYZ2	Phytozome_Gr:Gorai.003G186800 Phytozome_Gr:Gorai.004G180900
+Q6YZ18	Phytozome_Gr:Gorai.001G182500 Phytozome_Gr:Gorai.002G016900
+Q6YZ76	Phytozome_Gr:Gorai.009G109000 Phytozome_Gr:Gorai.006G135300 Phytozome_Gr:Gorai.009G109100 Phytozome_Gr:Gorai.013G267400 Phytozome_Gr:Gorai.009G413500 Phytozome_Gr:Gorai.002G246100
+Q6YZE2	Phytozome_Gr:Gorai.003G119100 Phytozome_Gr:Gorai.001G055800
+Q6YZH8	Phytozome_Gr:Gorai.005G035200 Phytozome_Gr:Gorai.011G161400
+Q6YZX6	Phytozome_Gr:Gorai.009G440000 Phytozome_Gr:Gorai.009G327800 Phytozome_Gr:Gorai.008G173400 Phytozome_Gr:Gorai.005G149700
+Q6Z0T7	Phytozome_Gr:Gorai.012G141600 Phytozome_Gr:Gorai.002G153400
+Q6Z2L5	Phytozome_Gr:Gorai.012G081900
+Q6Z2T6	Phytozome_Gr:Gorai.003G097600
+Q6Z2T9	Phytozome_Gr:Gorai.002G243400 Phytozome_Gr:Gorai.011G232100 Phytozome_Gr:Gorai.009G305600
+Q6Z312	Phytozome_Gr:Gorai.013G044500 Phytozome_Gr:Gorai.005G237400 Phytozome_Gr:Gorai.005G102300 Phytozome_Gr:Gorai.008G024700 Phytozome_Gr:Gorai.009G212600 Phytozome_Gr:Gorai.009G275700
+Q6Z351	Phytozome_Gr:Gorai.009G080800 Phytozome_Gr:Gorai.006G118300 Phytozome_Gr:Gorai.009G081000 Phytozome_Gr:Gorai.001G127800
+Q6Z368	Phytozome_Gr:Gorai.005G247700 Phytozome_Gr:Gorai.002G004400
+Q6Z398	Phytozome_Gr:Gorai.010G004700
+Q6Z3A3	Phytozome_Gr:Gorai.006G209400
+Q6Z3A4	Phytozome_Gr:Gorai.010G167200
+Q6Z3F9	Phytozome_Gr:Gorai.005G258300
+Q6Z3X5	Phytozome_Gr:Gorai.011G255300 Phytozome_Gr:Gorai.012G069500 Phytozome_Gr:Gorai.012G069400
+Q6Z3Y3	Phytozome_Gr:Gorai.001G129400 Phytozome_Gr:Gorai.006G121300
+Q6Z433	Phytozome_Gr:Gorai.002G138300 Phytozome_Gr:Gorai.008G017800 Phytozome_Gr:Gorai.010G033400 Phytozome_Gr:Gorai.005G226000 Phytozome_Gr:Gorai.013G055000
+Q6Z4E7	Phytozome_Gr:Gorai.004G196900
+Q6Z4I1	Phytozome_Gr:Gorai.005G246000
+Q6Z4U1	Phytozome_Gr:Gorai.002G061600 Phytozome_Gr:Gorai.007G344300 Phytozome_Gr:Gorai.008G173900 Phytozome_Gr:Gorai.006G224500 Phytozome_Gr:Gorai.006G224100 Phytozome_Gr:Gorai.002G063900 Phytozome_Gr:Gorai.007G344100 Phytozome_Gr:Gorai.006G093700
+Q6Z5B5	Phytozome_Gr:Gorai.002G061600 Phytozome_Gr:Gorai.007G344300 Phytozome_Gr:Gorai.008G173900 Phytozome_Gr:Gorai.006G224500 Phytozome_Gr:Gorai.006G224100 Phytozome_Gr:Gorai.002G063900 Phytozome_Gr:Gorai.007G344100 Phytozome_Gr:Gorai.006G093700
+Q6Z5M3	Phytozome_Gr:Gorai.003G031400 Phytozome_Gr:Gorai.008G084100 Phytozome_Gr:Gorai.007G224800
+Q6Z684	Phytozome_Gr:Gorai.009G235700 Phytozome_Gr:Gorai.013G060500 Phytozome_Gr:Gorai.007G060200 Phytozome_Gr:Gorai.003G040100 Phytozome_Gr:Gorai.013G060400 Phytozome_Gr:Gorai.013G060700
+Q6Z6F0	Phytozome_Gr:Gorai.005G025500 Phytozome_Gr:Gorai.005G026100 Phytozome_Gr:Gorai.003G047900 Phytozome_Gr:Gorai.005G025400 Phytozome_Gr:Gorai.005G025900 Phytozome_Gr:Gorai.005G026200 Phytozome_Gr:Gorai.005G025700 Phytozome_Gr:Gorai.005G025600
+Q6Z702	Phytozome_Gr:Gorai.006G073300 Phytozome_Gr:Gorai.006G250800 Phytozome_Gr:Gorai.006G073400
+Q6Z744	Phytozome_Gr:Gorai.006G191200
+Q6Z795	Phytozome_Gr:Gorai.004G276800 Phytozome_Gr:Gorai.013G215000 Phytozome_Gr:Gorai.001G033400 Phytozome_Gr:Gorai.001G042600 Phytozome_Gr:Gorai.009G017100 Phytozome_Gr:Gorai.010G114900 Phytozome_Gr:Gorai.009G058000
+Q6Z7Q3	Phytozome_Gr:Gorai.001G072600 Phytozome_Gr:Gorai.013G088600
+Q6Z836	Phytozome_Gr:Gorai.001G262200
+Q6Z8F4	Phytozome_Gr:Gorai.003G186600 Phytozome_Gr:Gorai.008G222400
+Q6Z8S2	Phytozome_Gr:Gorai.006G229400
+Q6Z8Z7	Phytozome_Gr:Gorai.007G171600
+Q6Z9A3	Phytozome_Gr:Gorai.012G106900 Phytozome_Gr:Gorai.011G269100
+Q6Z9E6	Phytozome_Gr:Gorai.010G118700 Phytozome_Gr:Gorai.009G062700
+Q6ZAC1	Phytozome_Gr:Gorai.009G148700 Phytozome_Gr:Gorai.011G053700 Phytozome_Gr:Gorai.009G005900
+Q6ZAH2	Phytozome_Gr:Gorai.008G149600 Phytozome_Gr:Gorai.008G153000
+Q6ZBE1	Phytozome_Gr:Gorai.009G235700 Phytozome_Gr:Gorai.013G060500 Phytozome_Gr:Gorai.007G060200 Phytozome_Gr:Gorai.003G040100 Phytozome_Gr:Gorai.013G060400 Phytozome_Gr:Gorai.013G060700
+Q6ZBH5	Phytozome_Gr:Gorai.004G207000 Phytozome_Gr:Gorai.003G163200 Phytozome_Gr:Gorai.008G243100
+Q6ZC33	Phytozome_Gr:Gorai.002G220700 Phytozome_Gr:Gorai.005G091600 Phytozome_Gr:Gorai.004G064800
+Q6ZC70	Phytozome_Gr:Gorai.011G122400
+Q6ZCF0	Phytozome_Gr:Gorai.004G063100 Phytozome_Gr:Gorai.007G173800
+Q6ZD10	Phytozome_Gr:Gorai.004G267200
+Q6ZD89	Phytozome_Gr:Gorai.006G126800
+Q6ZDQ1	Phytozome_Gr:Gorai.002G043000
+Q6ZDY8	Phytozome_Gr:Gorai.003G015500 Phytozome_Gr:Gorai.008G068200
+Q6ZEZ2	Phytozome_Gr:Gorai.007G283700 Phytozome_Gr:Gorai.004G246100
+Q6ZFT5	Phytozome_Gr:Gorai.012G041300
+Q6ZG77	Phytozome_Gr:Gorai.008G030100 Phytozome_Gr:Gorai.013G035500
+Q6ZG91	Phytozome_Gr:Gorai.012G172600 Phytozome_Gr:Gorai.005G179700
+Q6ZGS9	Phytozome_Gr:Gorai.003G181400
+Q6ZGW6	Phytozome_Gr:Gorai.007G362300 Phytozome_Gr:Gorai.002G156500 Phytozome_Gr:Gorai.013G248800 Phytozome_Gr:Gorai.002G156600
+Q6ZHA3	Phytozome_Gr:Gorai.008G036100 Phytozome_Gr:Gorai.009G269600 Phytozome_Gr:Gorai.011G031400 Phytozome_Gr:Gorai.010G156700 Phytozome_Gr:Gorai.009G193300 Phytozome_Gr:Gorai.002G197500 Phytozome_Gr:Gorai.010G002600 Phytozome_Gr:Gorai.003G008000
+Q6ZHB2	Phytozome_Gr:Gorai.008G229800 Phytozome_Gr:Gorai.003G179400 Phytozome_Gr:Gorai.007G030800 Phytozome_Gr:Gorai.004G190300
+Q6ZHH7	Phytozome_Gr:Gorai.002G220700 Phytozome_Gr:Gorai.005G091600 Phytozome_Gr:Gorai.004G064800
+Q6ZHS4	Phytozome_Gr:Gorai.008G022800 Phytozome_Gr:Gorai.005G234800
+Q6ZHU3	Phytozome_Gr:Gorai.002G098400 Phytozome_Gr:Gorai.013G154200
+Q6ZHZ1	Phytozome_Gr:Gorai.013G235900 Phytozome_Gr:Gorai.004G292800 Phytozome_Gr:Gorai.010G116100
+Q6ZI39	Phytozome_Gr:Gorai.002G139000
+Q6ZI55	Phytozome_Gr:Gorai.012G158700 Phytozome_Gr:Gorai.008G061000 Phytozome_Gr:Gorai.008G040900
+Q6ZIA3	Phytozome_Gr:Gorai.001G270100 Phytozome_Gr:Gorai.006G041100
+Q6ZIK0	Phytozome_Gr:Gorai.013G184400 Phytozome_Gr:Gorai.003G058100
+Q6ZIX2	Phytozome_Gr:Gorai.004G066700
+Q6ZJ97	Phytozome_Gr:Gorai.008G049800 Phytozome_Gr:Gorai.005G268300
+Q6ZJK7	Phytozome_Gr:Gorai.001G182500 Phytozome_Gr:Gorai.002G016900
+Q6ZJU3	Phytozome_Gr:Gorai.008G291000 Phytozome_Gr:Gorai.002G173700 Phytozome_Gr:Gorai.009G330500
+Q6ZK11	Phytozome_Gr:Gorai.010G186000
+Q6ZKC0	Phytozome_Gr:Gorai.001G197200 Phytozome_Gr:Gorai.001G079900 Phytozome_Gr:Gorai.001G201400
+Q6ZKV8	Phytozome_Gr:Gorai.013G246300
+Q6ZL51	Phytozome_Gr:Gorai.002G061600 Phytozome_Gr:Gorai.007G344300 Phytozome_Gr:Gorai.008G173900 Phytozome_Gr:Gorai.006G224500 Phytozome_Gr:Gorai.006G224100 Phytozome_Gr:Gorai.002G063900 Phytozome_Gr:Gorai.007G344100 Phytozome_Gr:Gorai.006G093700
+Q6ZL61	Phytozome_Gr:Gorai.004G218800
+Q6ZL94	Phytozome_Gr:Gorai.013G069200 Phytozome_Gr:Gorai.005G211200
+Q6ZLD3	Phytozome_Gr:Gorai.004G076300 Phytozome_Gr:Gorai.005G046100 Phytozome_Gr:Gorai.011G166800 Phytozome_Gr:Gorai.007G140400
+Q6ZLJ9	Phytozome_Gr:Gorai.009G453700 Phytozome_Gr:Gorai.013G149200 Phytozome_Gr:Gorai.002G147800
+Q75GB1	Phytozome_Gr:Gorai.010G031600 Phytozome_Gr:Gorai.003G035700 Phytozome_Gr:Gorai.009G226000 Phytozome_Gr:Gorai.011G109000
+Q75GK0	Phytozome_Gr:Gorai.007G276900 Phytozome_Gr:Gorai.006G246000 Phytozome_Gr:Gorai.007G141900 Phytozome_Gr:Gorai.013G200700 Phytozome_Gr:Gorai.005G046500
+Q75H77	Phytozome_Gr:Gorai.002G006900 Phytozome_Gr:Gorai.007G053000 Phytozome_Gr:Gorai.005G239800 Phytozome_Gr:Gorai.008G073200
+Q75HP7	Phytozome_Gr:Gorai.005G242100 Phytozome_Gr:Gorai.009G241600 Phytozome_Gr:Gorai.005G092100 Phytozome_Gr:Gorai.012G151600
+Q75HQ7	Phytozome_Gr:Gorai.009G416300 Phytozome_Gr:Gorai.006G166000 Phytozome_Gr:Gorai.010G086000 Phytozome_Gr:Gorai.002G248000 Phytozome_Gr:Gorai.007G373700 Phytozome_Gr:Gorai.011G238400 Phytozome_Gr:Gorai.007G373600
+Q75HZ9	Phytozome_Gr:Gorai.013G176100
+Q75I93	Phytozome_Gr:Gorai.002G250900 Phytozome_Gr:Gorai.002G251100 Phytozome_Gr:Gorai.001G086200 Phytozome_Gr:Gorai.006G057000 Phytozome_Gr:Gorai.002G252700 Phytozome_Gr:Gorai.002G252800 Phytozome_Gr:Gorai.001G086300 Phytozome_Gr:Gorai.002G250800 Phytozome_Gr:Gorai.002G251200
+Q75II5	Phytozome_Gr:Gorai.002G051200 Phytozome_Gr:Gorai.002G051600
+Q75KD7	Phytozome_Gr:Gorai.004G046400 Phytozome_Gr:Gorai.008G185600 Phytozome_Gr:Gorai.004G046100 Phytozome_Gr:Gorai.004G046300 Phytozome_Gr:Gorai.004G046200
+Q75KT7	Phytozome_Gr:Gorai.009G286400 Phytozome_Gr:Gorai.009G259200 Phytozome_Gr:Gorai.011G221600 Phytozome_Gr:Gorai.010G133400
+Q75L84	Phytozome_Gr:Gorai.006G168500
+Q75LL5	Phytozome_Gr:Gorai.006G117500 Phytozome_Gr:Gorai.001G126900
+Q75LR2	Phytozome_Gr:Gorai.006G214500 Phytozome_Gr:Gorai.009G235000 Phytozome_Gr:Gorai.013G060200
+Q75M18	Phytozome_Gr:Gorai.010G143100 Phytozome_Gr:Gorai.009G114000
+Q75V57	Phytozome_Gr:Gorai.002G006900 Phytozome_Gr:Gorai.007G053000 Phytozome_Gr:Gorai.005G239800 Phytozome_Gr:Gorai.008G073200
+Q75W16	Phytozome_Gr:Gorai.006G214500 Phytozome_Gr:Gorai.009G235000 Phytozome_Gr:Gorai.013G060200
+Q764B9	Phytozome_Gr:Gorai.008G169900 Phytozome_Gr:Gorai.005G153300 Phytozome_Gr:Gorai.013G032100
+Q7EYE4	Phytozome_Gr:Gorai.007G173200 Phytozome_Gr:Gorai.001G213900
+Q7EYM8	Phytozome_Gr:Gorai.005G182400
+Q7EZW6	Phytozome_Gr:Gorai.012G137800
+Q7EZZ0	Phytozome_Gr:Gorai.006G134300
+Q7F0B2	Phytozome_Gr:Gorai.009G321100 Phytozome_Gr:Gorai.001G113900 Phytozome_Gr:Gorai.011G274700 Phytozome_Gr:Gorai.001G113300 Phytozome_Gr:Gorai.001G113800 Phytozome_Gr:Gorai.012G073900 Phytozome_Gr:Gorai.001G113200 Phytozome_Gr:Gorai.001G114000
+Q7F0Q2	Phytozome_Gr:Gorai.003G010800 Phytozome_Gr:Gorai.011G293600
+Q7F190	Phytozome_Gr:Gorai.012G081300
+Q7F1X5	Phytozome_Gr:Gorai.001G060700 Phytozome_Gr:Gorai.002G191200 Phytozome_Gr:Gorai.008G164300 Phytozome_Gr:Gorai.007G042200 Phytozome_Gr:Gorai.006G271000
+Q7F8K7	Phytozome_Gr:Gorai.002G029500 Phytozome_Gr:Gorai.002G044200 Phytozome_Gr:Gorai.002G029600 Phytozome_Gr:Gorai.002G044100 Phytozome_Gr:Gorai.002G043800 Phytozome_Gr:Gorai.002G029700 Phytozome_Gr:Gorai.002G044000 Phytozome_Gr:Gorai.005G157500 Phytozome_Gr:Gorai.002G043900
+Q7FAE1	Phytozome_Gr:Gorai.006G152300 Phytozome_Gr:Gorai.006G151600 Phytozome_Gr:Gorai.013G015600
+Q7FAH2	Phytozome_Gr:Gorai.006G038900 Phytozome_Gr:Gorai.007G041900 Phytozome_Gr:Gorai.012G089500 Phytozome_Gr:Gorai.007G074000 Phytozome_Gr:Gorai.001G268500 Phytozome_Gr:Gorai.005G172100
+Q7FAL6	Phytozome_Gr:Gorai.002G102700 Phytozome_Gr:Gorai.009G184900
+Q7FAS1	Phytozome_Gr:Gorai.009G154200 Phytozome_Gr:Gorai.002G038000 Phytozome_Gr:Gorai.002G037900 Phytozome_Gr:Gorai.006G092300
+Q7G065	Phytozome_Gr:Gorai.009G200400 Phytozome_Gr:Gorai.005G244900 Phytozome_Gr:Gorai.010G008700 Phytozome_Gr:Gorai.013G035800
+Q7G1V6	Phytozome_Gr:Gorai.002G086000 Phytozome_Gr:Gorai.005G057800 Phytozome_Gr:Gorai.013G162600 Phytozome_Gr:Gorai.007G321400 Phytozome_Gr:Gorai.013G162700 Phytozome_Gr:Gorai.002G086500 Phytozome_Gr:Gorai.005G010600 Phytozome_Gr:Gorai.005G010900 Phytozome_Gr:Gorai.013G176400 Phytozome_Gr:Gorai.007G304900 Phytozome_Gr:Gorai.005G010800 Phytozome_Gr:Gorai.013G161900 Phytozome_Gr:Gorai.005G011000 Phytozome_Gr:Gorai.006G268900 Phytozome_Gr:Gorai.005G010300 Phytozome_Gr:Gorai.005G058100 Phytozome_Gr:Gorai.013G162200 Phytozome_Gr:Gorai.005G058000 Phytozome_Gr:Gorai.013G162300 Phytozome_Gr:Gorai.002G086200 Phytozome_Gr:Gorai.005G058300 Phytozome_Gr:Gorai.013G162400 Phytozome_Gr:Gorai.002G084900 Phytozome_Gr:Gorai.002G086100 Phytozome_Gr:Gorai.002G085000 Phytozome_Gr:Gorai.013G162900 Phytozome_Gr:Gorai.009G173600 Phytozome_Gr:Gorai.005G010500 Phytozome_Gr:Gorai.N025800 Phytozome_Gr:Gorai.006G269100 Phytozome_Gr:Gorai.013G161700 Phytozome_Gr:Gorai.005G010400 Phytozome_Gr:Gorai.007G321500 Phytozome_Gr:Gorai.012G053100 Phytozome_Gr:Gorai.005G010700
+Q7G2F7	Phytozome_Gr:Gorai.011G026100
+Q7G2H3	Phytozome_Gr:Gorai.013G040500
+Q7G4P2	Phytozome_Gr:Gorai.011G002400 Phytozome_Gr:Gorai.002G090700 Phytozome_Gr:Gorai.011G091200
+Q7G602	Phytozome_Gr:Gorai.008G198200 Phytozome_Gr:Gorai.001G134900
+Q7G6M2	Phytozome_Gr:Gorai.011G211000 Phytozome_Gr:Gorai.011G211200
+Q7G7J6	Phytozome_Gr:Gorai.002G177000 Phytozome_Gr:Gorai.010G067000 Phytozome_Gr:Gorai.009G021700 Phytozome_Gr:Gorai.001G089400
+Q7X634	Phytozome_Gr:Gorai.007G276400 Phytozome_Gr:Gorai.013G187300 Phytozome_Gr:Gorai.007G345500
+Q7X720	Phytozome_Gr:Gorai.009G416300 Phytozome_Gr:Gorai.006G166000 Phytozome_Gr:Gorai.010G086000 Phytozome_Gr:Gorai.002G248000 Phytozome_Gr:Gorai.007G373700 Phytozome_Gr:Gorai.011G238400 Phytozome_Gr:Gorai.007G373600
+Q7X742	Phytozome_Gr:Gorai.012G055200 Phytozome_Gr:Gorai.009G324000 Phytozome_Gr:Gorai.003G095400 Phytozome_Gr:Gorai.001G256200 Phytozome_Gr:Gorai.006G021800 Phytozome_Gr:Gorai.008G181800 Phytozome_Gr:Gorai.005G139900 Phytozome_Gr:Gorai.007G036200 Phytozome_Gr:Gorai.013G083800
+Q7X7A1	Phytozome_Gr:Gorai.004G173600 Phytozome_Gr:Gorai.008G151900 Phytozome_Gr:Gorai.007G083200 Phytozome_Gr:Gorai.011G138500 Phytozome_Gr:Gorai.008G151700 Phytozome_Gr:Gorai.012G119000 Phytozome_Gr:Gorai.001G265700 Phytozome_Gr:Gorai.010G059500 Phytozome_Gr:Gorai.007G083100 Phytozome_Gr:Gorai.013G051200 Phytozome_Gr:Gorai.001G265800 Phytozome_Gr:Gorai.001G265600 Phytozome_Gr:Gorai.010G059400
+Q7X7H9	Phytozome_Gr:Gorai.008G274900 Phytozome_Gr:Gorai.007G244500
+Q7X7N2	Phytozome_Gr:Gorai.009G265900
+Q7X7X0	Phytozome_Gr:Gorai.008G176100
+Q7X8A1	Phytozome_Gr:Gorai.001G276400 Phytozome_Gr:Gorai.011G088800
+Q7X8V3	Phytozome_Gr:Gorai.009G416300 Phytozome_Gr:Gorai.006G166000 Phytozome_Gr:Gorai.010G086000 Phytozome_Gr:Gorai.002G248000 Phytozome_Gr:Gorai.007G373700 Phytozome_Gr:Gorai.011G238400 Phytozome_Gr:Gorai.007G373600
+Q7XAP2	Phytozome_Gr:Gorai.008G269900 Phytozome_Gr:Gorai.004G115100
+Q7XBY6	Phytozome_Gr:Gorai.008G226500 Phytozome_Gr:Gorai.007G031800 Phytozome_Gr:Gorai.003G181600
+Q7XC20	Phytozome_Gr:Gorai.008G229800 Phytozome_Gr:Gorai.003G179400 Phytozome_Gr:Gorai.007G030800 Phytozome_Gr:Gorai.004G190300
+Q7XCK3	Phytozome_Gr:Gorai.003G003500 Phytozome_Gr:Gorai.003G003400 Phytozome_Gr:Gorai.008G061100 Phytozome_Gr:Gorai.013G223300
+Q7XE48	Phytozome_Gr:Gorai.001G239200 Phytozome_Gr:Gorai.006G016400
+Q7XEH2	Phytozome_Gr:Gorai.004G078000 Phytozome_Gr:Gorai.005G044600
+Q7XEZ1	Phytozome_Gr:Gorai.009G145400
+Q7XEZ6	Phytozome_Gr:Gorai.001G018800 Phytozome_Gr:Gorai.009G039500 Phytozome_Gr:Gorai.011G062000
+Q7XGU4	Phytozome_Gr:Gorai.012G076100 Phytozome_Gr:Gorai.002G262100 Phytozome_Gr:Gorai.012G112900 Phytozome_Gr:Gorai.011G283900 Phytozome_Gr:Gorai.010G048200 Phytozome_Gr:Gorai.006G181400 Phytozome_Gr:Gorai.013G018900
+Q7XH05	Phytozome_Gr:Gorai.009G080800 Phytozome_Gr:Gorai.006G118300 Phytozome_Gr:Gorai.009G081000 Phytozome_Gr:Gorai.001G127800
+Q7XHL3	Phytozome_Gr:Gorai.001G182500 Phytozome_Gr:Gorai.002G016900
+Q7XHZ2	Phytozome_Gr:Gorai.011G239000
+Q7XI34	Phytozome_Gr:Gorai.009G321100 Phytozome_Gr:Gorai.001G113900 Phytozome_Gr:Gorai.011G274700 Phytozome_Gr:Gorai.001G113300 Phytozome_Gr:Gorai.001G113800 Phytozome_Gr:Gorai.012G073900 Phytozome_Gr:Gorai.001G113200 Phytozome_Gr:Gorai.001G114000
+Q7XI35	Phytozome_Gr:Gorai.009G321100 Phytozome_Gr:Gorai.001G113900 Phytozome_Gr:Gorai.011G274700 Phytozome_Gr:Gorai.001G113300 Phytozome_Gr:Gorai.001G113800 Phytozome_Gr:Gorai.012G073900 Phytozome_Gr:Gorai.001G113200 Phytozome_Gr:Gorai.001G114000
+Q7XI67	Phytozome_Gr:Gorai.012G119800
+Q7XI92	Phytozome_Gr:Gorai.011G133100 Phytozome_Gr:Gorai.005G054800 Phytozome_Gr:Gorai.007G051300 Phytozome_Gr:Gorai.011G102800 Phytozome_Gr:Gorai.007G206700 Phytozome_Gr:Gorai.011G102700 Phytozome_Gr:Gorai.011G103000
+Q7XI96	Phytozome_Gr:Gorai.009G204600 Phytozome_Gr:Gorai.009G274000 Phytozome_Gr:Gorai.005G107000
+Q7XK23	Phytozome_Gr:Gorai.012G158700 Phytozome_Gr:Gorai.008G061000 Phytozome_Gr:Gorai.008G040900
+Q7XKH9	Phytozome_Gr:Gorai.009G235700 Phytozome_Gr:Gorai.013G060500 Phytozome_Gr:Gorai.007G060200 Phytozome_Gr:Gorai.003G040100 Phytozome_Gr:Gorai.013G060400 Phytozome_Gr:Gorai.013G060700
+Q7XKI0	Phytozome_Gr:Gorai.009G235700 Phytozome_Gr:Gorai.013G060500 Phytozome_Gr:Gorai.007G060200 Phytozome_Gr:Gorai.003G040100 Phytozome_Gr:Gorai.013G060400 Phytozome_Gr:Gorai.013G060700
+Q7XKQ8	Phytozome_Gr:Gorai.011G141100 Phytozome_Gr:Gorai.005G016600 Phytozome_Gr:Gorai.005G016500
+Q7XM21	Phytozome_Gr:Gorai.007G194700 Phytozome_Gr:Gorai.008G062900
+Q7XMA8	Phytozome_Gr:Gorai.009G235700 Phytozome_Gr:Gorai.013G060500 Phytozome_Gr:Gorai.007G060200 Phytozome_Gr:Gorai.003G040100 Phytozome_Gr:Gorai.013G060400 Phytozome_Gr:Gorai.013G060700
+Q7XMU7	Phytozome_Gr:Gorai.001G230800 Phytozome_Gr:Gorai.001G230300 Phytozome_Gr:Gorai.001G104000 Phytozome_Gr:Gorai.001G103700 Phytozome_Gr:Gorai.001G103900 Phytozome_Gr:Gorai.001G230500 Phytozome_Gr:Gorai.N025900 Phytozome_Gr:Gorai.001G230400 Phytozome_Gr:Gorai.001G103800
+Q7XPB5	Phytozome_Gr:Gorai.008G114500 Phytozome_Gr:Gorai.004G160600
+Q7XPR4	Phytozome_Gr:Gorai.010G174000 Phytozome_Gr:Gorai.010G173900
+Q7XPW5	Phytozome_Gr:Gorai.004G157100 Phytozome_Gr:Gorai.008G117900
+Q7XQ85	Phytozome_Gr:Gorai.003G085900 Phytozome_Gr:Gorai.007G024400 Phytozome_Gr:Gorai.008G250100 Phytozome_Gr:Gorai.004G137900
+Q7XR02	Phytozome_Gr:Gorai.001G228500 Phytozome_Gr:Gorai.N002800 Phytozome_Gr:Gorai.007G159800
+Q7XR60	Phytozome_Gr:Gorai.008G022500 Phytozome_Gr:Gorai.008G022400
+Q7XR61	Phytozome_Gr:Gorai.008G022500 Phytozome_Gr:Gorai.008G022400
+Q7XRA1	Phytozome_Gr:Gorai.005G248700 Phytozome_Gr:Gorai.002G149300 Phytozome_Gr:Gorai.012G154100
+Q7XRT0	Phytozome_Gr:Gorai.011G279400
+Q7XRX3	Phytozome_Gr:Gorai.008G244400 Phytozome_Gr:Gorai.003G160600 Phytozome_Gr:Gorai.007G010900 Phytozome_Gr:Gorai.004G208800
+Q7XTE8	Phytozome_Gr:Gorai.001G197200 Phytozome_Gr:Gorai.001G079900 Phytozome_Gr:Gorai.001G201400
+Q7XTH0	Phytozome_Gr:Gorai.009G235700 Phytozome_Gr:Gorai.013G060500 Phytozome_Gr:Gorai.007G060200 Phytozome_Gr:Gorai.003G040100 Phytozome_Gr:Gorai.013G060400 Phytozome_Gr:Gorai.013G060700
+Q7XTK3	Phytozome_Gr:Gorai.007G295900 Phytozome_Gr:Gorai.007G295700
+Q7XTX7	Phytozome_Gr:Gorai.007G013800 Phytozome_Gr:Gorai.004G116700 Phytozome_Gr:Gorai.005G055400
+Q7XU28	Phytozome_Gr:Gorai.013G137200
+Q7XU29	Phytozome_Gr:Gorai.008G107600
+Q7XUA8	Phytozome_Gr:Gorai.012G001500 Phytozome_Gr:Gorai.009G398600
+Q7XUH5	Phytozome_Gr:Gorai.003G010800 Phytozome_Gr:Gorai.011G293600
+Q7XUK6	Phytozome_Gr:Gorai.007G012700 Phytozome_Gr:Gorai.012G171900
+Q7XUS2	Phytozome_Gr:Gorai.008G169900 Phytozome_Gr:Gorai.005G153300 Phytozome_Gr:Gorai.013G032100
+Q7XV13	Phytozome_Gr:Gorai.010G255600 Phytozome_Gr:Gorai.010G255700 Phytozome_Gr:Gorai.006G087200 Phytozome_Gr:Gorai.011G060400
+Q7XV42	Phytozome_Gr:Gorai.009G235700 Phytozome_Gr:Gorai.013G060500 Phytozome_Gr:Gorai.007G060200 Phytozome_Gr:Gorai.003G040100 Phytozome_Gr:Gorai.013G060400 Phytozome_Gr:Gorai.013G060700
+Q7XVK0	Phytozome_Gr:Gorai.001G230800 Phytozome_Gr:Gorai.001G230300 Phytozome_Gr:Gorai.001G104000 Phytozome_Gr:Gorai.001G103700 Phytozome_Gr:Gorai.001G103900 Phytozome_Gr:Gorai.001G230500 Phytozome_Gr:Gorai.N025900 Phytozome_Gr:Gorai.001G230400 Phytozome_Gr:Gorai.001G103800
+Q7XVM2	Phytozome_Gr:Gorai.004G031700 Phytozome_Gr:Gorai.009G441000 Phytozome_Gr:Gorai.010G181600
+Q7XVM8	Phytozome_Gr:Gorai.004G140500 Phytozome_Gr:Gorai.007G131300 Phytozome_Gr:Gorai.001G273700 Phytozome_Gr:Gorai.004G085900 Phytozome_Gr:Gorai.004G053500 Phytozome_Gr:Gorai.007G072400
+Q7XVP0	Phytozome_Gr:Gorai.007G283700 Phytozome_Gr:Gorai.004G246100
+Q7XWP9	Phytozome_Gr:Gorai.007G090400 Phytozome_Gr:Gorai.008G113400 Phytozome_Gr:Gorai.008G113500 Phytozome_Gr:Gorai.001G174600
+Q7XX31	Phytozome_Gr:Gorai.006G145500 Phytozome_Gr:Gorai.002G154600
+Q7XX32	Phytozome_Gr:Gorai.006G145500 Phytozome_Gr:Gorai.002G154600
+Q7XXL2	Phytozome_Gr:Gorai.005G166400
+Q7XYS3	Phytozome_Gr:Gorai.010G013600 Phytozome_Gr:Gorai.010G013700 Phytozome_Gr:Gorai.008G044100 Phytozome_Gr:Gorai.008G043900
+Q7XZH5	Phytozome_Gr:Gorai.006G152300 Phytozome_Gr:Gorai.006G151600 Phytozome_Gr:Gorai.013G015600
+Q7Y0B9	Phytozome_Gr:Gorai.002G006900 Phytozome_Gr:Gorai.007G053000 Phytozome_Gr:Gorai.005G239800 Phytozome_Gr:Gorai.008G073200
+Q7Y0C8	Phytozome_Gr:Gorai.010G013600 Phytozome_Gr:Gorai.010G013700 Phytozome_Gr:Gorai.008G044100 Phytozome_Gr:Gorai.008G043900
+Q7Y0W5	Phytozome_Gr:Gorai.007G240900 Phytozome_Gr:Gorai.007G125800 Phytozome_Gr:Gorai.001G142000 Phytozome_Gr:Gorai.002G029300
+Q7Y152	Phytozome_Gr:Gorai.006G265300 Phytozome_Gr:Gorai.002G030900
+Q7Y1H9	Phytozome_Gr:Gorai.004G218800
+Q7Y1I6	Phytozome_Gr:Gorai.004G218800
+Q7Y1I9	Phytozome_Gr:Gorai.004G218800
+Q7Y1J1	Phytozome_Gr:Gorai.004G218800
+Q84JH5	Phytozome_Gr:Gorai.012G106900 Phytozome_Gr:Gorai.011G269100
+Q84JI0	Phytozome_Gr:Gorai.013G022100 Phytozome_Gr:Gorai.011G268200 Phytozome_Gr:Gorai.009G096200 Phytozome_Gr:Gorai.003G128900 Phytozome_Gr:Gorai.012G072200
+Q84LF7	Phytozome_Gr:Gorai.005G197400 Phytozome_Gr:Gorai.008G155900
+Q84LK3	Phytozome_Gr:Gorai.001G071200 Phytozome_Gr:Gorai.007G047400
+Q84M43	Phytozome_Gr:Gorai.004G065900 Phytozome_Gr:Gorai.004G172400 Phytozome_Gr:Gorai.003G092600
+Q84ME6	Phytozome_Gr:Gorai.006G093500 Phytozome_Gr:Gorai.011G041800
+Q84MN8	Phytozome_Gr:Gorai.006G243400 Phytozome_Gr:Gorai.005G045800
+Q84NP3	Phytozome_Gr:Gorai.012G115000 Phytozome_Gr:Gorai.011G289600 Phytozome_Gr:Gorai.002G262800
+Q84Q89	Phytozome_Gr:Gorai.006G229400
+Q84QA7	Phytozome_Gr:Gorai.011G279900 Phytozome_Gr:Gorai.012G075700 Phytozome_Gr:Gorai.005G081800
+Q84R94	Phytozome_Gr:Gorai.010G090600 Phytozome_Gr:Gorai.009G036800 Phytozome_Gr:Gorai.004G285100
+Q84RX6	Phytozome_Gr:Gorai.002G132900 Phytozome_Gr:Gorai.003G027900 Phytozome_Gr:Gorai.007G056000 Phytozome_Gr:Gorai.007G219800 Phytozome_Gr:Gorai.009G217300
+Q84VC7	Phytozome_Gr:Gorai.010G239400 Phytozome_Gr:Gorai.011G041700
+Q84YK8	Phytozome_Gr:Gorai.004G092100 Phytozome_Gr:Gorai.009G071200
+Q84ZN6	Phytozome_Gr:Gorai.004G065900 Phytozome_Gr:Gorai.004G172400 Phytozome_Gr:Gorai.003G092600
+Q84ZY2	Phytozome_Gr:Gorai.007G090400 Phytozome_Gr:Gorai.008G113400 Phytozome_Gr:Gorai.008G113500 Phytozome_Gr:Gorai.001G174600
+Q851L5	Phytozome_Gr:Gorai.012G001500 Phytozome_Gr:Gorai.009G398600
+Q851L6	Phytozome_Gr:Gorai.012G001500 Phytozome_Gr:Gorai.009G398600
+Q851Z6	Phytozome_Gr:Gorai.001G275700 Phytozome_Gr:Gorai.006G000400
+Q852C2	Phytozome_Gr:Gorai.009G321100 Phytozome_Gr:Gorai.001G113900 Phytozome_Gr:Gorai.011G274700 Phytozome_Gr:Gorai.001G113300 Phytozome_Gr:Gorai.001G113800 Phytozome_Gr:Gorai.012G073900 Phytozome_Gr:Gorai.001G113200 Phytozome_Gr:Gorai.001G114000
+Q852M1	Phytozome_Gr:Gorai.009G080800 Phytozome_Gr:Gorai.006G118300 Phytozome_Gr:Gorai.009G081000 Phytozome_Gr:Gorai.001G127800
+Q852M2	Phytozome_Gr:Gorai.009G080800 Phytozome_Gr:Gorai.006G118300 Phytozome_Gr:Gorai.009G081000 Phytozome_Gr:Gorai.001G127800
+Q8GRS2	Phytozome_Gr:Gorai.009G145400
+Q8GRU7	Phytozome_Gr:Gorai.009G224700
+Q8GSI0	Phytozome_Gr:Gorai.008G291000 Phytozome_Gr:Gorai.002G173700 Phytozome_Gr:Gorai.009G330500
+Q8GT01	Phytozome_Gr:Gorai.001G029600
+Q8GTK1	Phytozome_Gr:Gorai.009G109000 Phytozome_Gr:Gorai.006G135300 Phytozome_Gr:Gorai.009G109100 Phytozome_Gr:Gorai.013G267400 Phytozome_Gr:Gorai.009G413500 Phytozome_Gr:Gorai.002G246100
+Q8GVJ4	Phytozome_Gr:Gorai.007G362300 Phytozome_Gr:Gorai.002G156500 Phytozome_Gr:Gorai.013G248800 Phytozome_Gr:Gorai.002G156600
+Q8GVZ0	Phytozome_Gr:Gorai.004G262800
+Q8GZY1	Phytozome_Gr:Gorai.007G197700 Phytozome_Gr:Gorai.007G049600 Phytozome_Gr:Gorai.013G032800 Phytozome_Gr:Gorai.011G099800
+Q8H016	Phytozome_Gr:Gorai.010G255600 Phytozome_Gr:Gorai.010G255700 Phytozome_Gr:Gorai.006G087200 Phytozome_Gr:Gorai.011G060400
+Q8H038	Phytozome_Gr:Gorai.007G150100
+Q8H048	Phytozome_Gr:Gorai.007G094300 Phytozome_Gr:Gorai.007G094100 Phytozome_Gr:Gorai.004G206700 Phytozome_Gr:Gorai.008G115700
+Q8H051	Phytozome_Gr:Gorai.004G207000 Phytozome_Gr:Gorai.003G163200 Phytozome_Gr:Gorai.008G243100
+Q8H075	Phytozome_Gr:Gorai.006G250100
+Q8H093	Phytozome_Gr:Gorai.007G094300 Phytozome_Gr:Gorai.007G094100 Phytozome_Gr:Gorai.004G206700 Phytozome_Gr:Gorai.008G115700
+Q8H0A1	Phytozome_Gr:Gorai.010G180700
+Q8H0B2	Phytozome_Gr:Gorai.010G142300 Phytozome_Gr:Gorai.010G220700 Phytozome_Gr:Gorai.011G006300
+Q8H0B6	Phytozome_Gr:Gorai.010G142300 Phytozome_Gr:Gorai.010G220700 Phytozome_Gr:Gorai.011G006300
+Q8H273	Phytozome_Gr:Gorai.011G151600 Phytozome_Gr:Gorai.007G010100 Phytozome_Gr:Gorai.002G241700 Phytozome_Gr:Gorai.006G046200 Phytozome_Gr:Gorai.009G087700 Phytozome_Gr:Gorai.008G280600 Phytozome_Gr:Gorai.008G243600 Phytozome_Gr:Gorai.003G162700 Phytozome_Gr:Gorai.009G406800
+Q8H2J9	Phytozome_Gr:Gorai.012G015200
+Q8H395	Phytozome_Gr:Gorai.010G090600 Phytozome_Gr:Gorai.009G036800 Phytozome_Gr:Gorai.004G285100
+Q8H3A4	Phytozome_Gr:Gorai.003G003500 Phytozome_Gr:Gorai.003G003400 Phytozome_Gr:Gorai.008G061100 Phytozome_Gr:Gorai.013G223300
+Q8H3C8	Phytozome_Gr:Gorai.012G001500 Phytozome_Gr:Gorai.009G398600
+Q8H3C9	Phytozome_Gr:Gorai.012G001500 Phytozome_Gr:Gorai.009G398600
+Q8H3L0	Phytozome_Gr:Gorai.008G056100 Phytozome_Gr:Gorai.007G181100
+Q8H3Q7	Phytozome_Gr:Gorai.009G296100 Phytozome_Gr:Gorai.010G217000
+Q8H4L3	Phytozome_Gr:Gorai.011G161200 Phytozome_Gr:Gorai.009G252000 Phytozome_Gr:Gorai.006G000200 Phytozome_Gr:Gorai.009G339300 Phytozome_Gr:Gorai.005G035100 Phytozome_Gr:Gorai.011G161300
+Q8H530	Phytozome_Gr:Gorai.002G038200 Phytozome_Gr:Gorai.008G017500
+Q8H539	Phytozome_Gr:Gorai.011G227000 Phytozome_Gr:Gorai.011G226900 Phytozome_Gr:Gorai.007G257600
+Q8H7S6	Phytozome_Gr:Gorai.005G152400 Phytozome_Gr:Gorai.004G183400 Phytozome_Gr:Gorai.007G033200
+Q8H825	Phytozome_Gr:Gorai.005G190200
+Q8H8U0	Phytozome_Gr:Gorai.012G092300 Phytozome_Gr:Gorai.013G024300
+Q8H930	Phytozome_Gr:Gorai.010G142300 Phytozome_Gr:Gorai.010G220700 Phytozome_Gr:Gorai.011G006300
+Q8LGZ9	Phytozome_Gr:Gorai.011G017000 Phytozome_Gr:Gorai.009G176300 Phytozome_Gr:Gorai.002G082800
+Q8LHD1	Phytozome_Gr:Gorai.005G213100
+Q8LI89	Phytozome_Gr:Gorai.004G131300
+Q8LJJ2	Phytozome_Gr:Gorai.011G062900 Phytozome_Gr:Gorai.010G085500 Phytozome_Gr:Gorai.009G034200
+Q8LM92	Phytozome_Gr:Gorai.008G198200 Phytozome_Gr:Gorai.001G134900
+Q8LMW8	Phytozome_Gr:Gorai.004G207800 Phytozome_Gr:Gorai.004G207900 Phytozome_Gr:Gorai.008G043500 Phytozome_Gr:Gorai.008G044000 Phytozome_Gr:Gorai.006G115900
+Q8LN68	Phytozome_Gr:Gorai.001G200400 Phytozome_Gr:Gorai.008G186800
+Q8LNU2	Phytozome_Gr:Gorai.005G192900
+Q8LQ34	Phytozome_Gr:Gorai.012G111500
+Q8RU95	Phytozome_Gr:Gorai.001G060700 Phytozome_Gr:Gorai.002G191200 Phytozome_Gr:Gorai.008G164300 Phytozome_Gr:Gorai.007G042200 Phytozome_Gr:Gorai.006G271000
+Q8RV06	Phytozome_Gr:Gorai.009G253400 Phytozome_Gr:Gorai.002G231300
+Q8RV34	Phytozome_Gr:Gorai.009G038800 Phytozome_Gr:Gorai.010G095300
+Q8RYL0	Phytozome_Gr:Gorai.008G209600
+Q8RYY6	Phytozome_Gr:Gorai.005G242100 Phytozome_Gr:Gorai.009G241600 Phytozome_Gr:Gorai.005G092100 Phytozome_Gr:Gorai.012G151600
+Q8S2E5	Phytozome_Gr:Gorai.012G172700
+Q8S2G0	Phytozome_Gr:Gorai.001G133000
+Q8S3R0	Phytozome_Gr:Gorai.007G202800
+Q8S5M6	Phytozome_Gr:Gorai.011G225600 Phytozome_Gr:Gorai.012G023300
+Q8S5N2	Phytozome_Gr:Gorai.007G241600 Phytozome_Gr:Gorai.003G044700
+Q8S5T1	Phytozome_Gr:Gorai.005G131500 Phytozome_Gr:Gorai.011G160200
+Q8S601	Phytozome_Gr:Gorai.010G250500 Phytozome_Gr:Gorai.002G093700 Phytozome_Gr:Gorai.011G010000 Phytozome_Gr:Gorai.004G032600 Phytozome_Gr:Gorai.009G182700
+Q8S919	Phytozome_Gr:Gorai.008G252100 Phytozome_Gr:Gorai.011G125100 Phytozome_Gr:Gorai.007G014500 Phytozome_Gr:Gorai.005G003200 Phytozome_Gr:Gorai.004G135900 Phytozome_Gr:Gorai.008G271300 Phytozome_Gr:Gorai.004G053900 Phytozome_Gr:Gorai.006G235900 Phytozome_Gr:Gorai.006G200300 Phytozome_Gr:Gorai.007G025200 Phytozome_Gr:Gorai.011G239900 Phytozome_Gr:Gorai.005G003300
+Q8S920	Phytozome_Gr:Gorai.008G252100 Phytozome_Gr:Gorai.011G125100 Phytozome_Gr:Gorai.007G014500 Phytozome_Gr:Gorai.005G003200 Phytozome_Gr:Gorai.004G135900 Phytozome_Gr:Gorai.008G271300 Phytozome_Gr:Gorai.004G053900 Phytozome_Gr:Gorai.006G235900 Phytozome_Gr:Gorai.006G200300 Phytozome_Gr:Gorai.007G025200 Phytozome_Gr:Gorai.011G239900 Phytozome_Gr:Gorai.005G003300
+Q8S983	Phytozome_Gr:Gorai.002G124400 Phytozome_Gr:Gorai.009G196100
+Q8S985	Phytozome_Gr:Gorai.010G157400 Phytozome_Gr:Gorai.009G166100 Phytozome_Gr:Gorai.011G030900
+Q8S9S4	Phytozome_Gr:Gorai.010G080300 Phytozome_Gr:Gorai.009G029600 Phytozome_Gr:Gorai.011G068400
+Q8S9Z2	Phytozome_Gr:Gorai.001G118900 Phytozome_Gr:Gorai.013G258800 Phytozome_Gr:Gorai.009G088500 Phytozome_Gr:Gorai.006G108100
+Q8VWH2	Phytozome_Gr:Gorai.004G264600
+Q8W0B6	Phytozome_Gr:Gorai.008G207500 Phytozome_Gr:Gorai.008G202500
+Q8W0E4	Phytozome_Gr:Gorai.002G098400 Phytozome_Gr:Gorai.013G154200
+Q8W1L6	Phytozome_Gr:Gorai.004G280500 Phytozome_Gr:Gorai.010G073100 Phytozome_Gr:Gorai.001G006400
+Q8W250	Phytozome_Gr:Gorai.006G189200 Phytozome_Gr:Gorai.007G001700
+Q8W3F9	Phytozome_Gr:Gorai.004G257300 Phytozome_Gr:Gorai.003G052200
+Q8W3J0	Phytozome_Gr:Gorai.011G256100 Phytozome_Gr:Gorai.009G100900 Phytozome_Gr:Gorai.003G134600 Phytozome_Gr:Gorai.012G070000
+Q8W3L9	Phytozome_Gr:Gorai.009G105400 Phytozome_Gr:Gorai.013G266300 Phytozome_Gr:Gorai.013G250300 Phytozome_Gr:Gorai.004G227800 Phytozome_Gr:Gorai.003G140600
+Q8W3M0	Phytozome_Gr:Gorai.009G105400 Phytozome_Gr:Gorai.013G266300 Phytozome_Gr:Gorai.013G250300 Phytozome_Gr:Gorai.004G227800 Phytozome_Gr:Gorai.003G140600
+Q93VC3	Phytozome_Gr:Gorai.009G243600 Phytozome_Gr:Gorai.012G026200 Phytozome_Gr:Gorai.008G242100 Phytozome_Gr:Gorai.012G026100
+Q93VD5	Phytozome_Gr:Gorai.001G027000 Phytozome_Gr:Gorai.010G106400
+Q93WI9	Phytozome_Gr:Gorai.004G264600
+Q93X08	Phytozome_Gr:Gorai.004G048300 Phytozome_Gr:Gorai.007G188400
+Q93XI4	Phytozome_Gr:Gorai.006G112500
+Q93Y73	Phytozome_Gr:Gorai.013G028900 Phytozome_Gr:Gorai.008G170900
+Q941W8	Phytozome_Gr:Gorai.002G266100
+Q94E75	Phytozome_Gr:Gorai.009G395300 Phytozome_Gr:Gorai.009G301900
+Q94EE9	Phytozome_Gr:Gorai.011G211000 Phytozome_Gr:Gorai.011G211200
+Q94GF1	Phytozome_Gr:Gorai.009G322200 Phytozome_Gr:Gorai.001G115500
+Q94HG3	Phytozome_Gr:Gorai.009G211400 Phytozome_Gr:Gorai.010G019500
+Q94HG6	Phytozome_Gr:Gorai.009G211000
+Q94IW5	Phytozome_Gr:Gorai.009G140600
+Q94J90	Phytozome_Gr:Gorai.001G133200
+Q94JA2	Phytozome_Gr:Gorai.002G063300 Phytozome_Gr:Gorai.009G372600
+Q94JJ0	Phytozome_Gr:Gorai.013G032400 Phytozome_Gr:Gorai.008G064200 Phytozome_Gr:Gorai.009G342900 Phytozome_Gr:Gorai.013G032500
+Q94LU9	Phytozome_Gr:Gorai.008G247200 Phytozome_Gr:Gorai.003G158300
+Q9ASD3	Phytozome_Gr:Gorai.004G287200 Phytozome_Gr:Gorai.001G022900
+Q9ASP4	Phytozome_Gr:Gorai.005G069400
+Q9AUQ4	Phytozome_Gr:Gorai.012G181800 Phytozome_Gr:Gorai.002G176200
+Q9AUV6	Phytozome_Gr:Gorai.005G144700 Phytozome_Gr:Gorai.013G092600 Phytozome_Gr:Gorai.007G081800 Phytozome_Gr:Gorai.001G077900 Phytozome_Gr:Gorai.008G095900 Phytozome_Gr:Gorai.008G177900
+Q9AV47	Phytozome_Gr:Gorai.006G166400 Phytozome_Gr:Gorai.009G107800 Phytozome_Gr:Gorai.003G142500 Phytozome_Gr:Gorai.013G267100 Phytozome_Gr:Gorai.012G004800 Phytozome_Gr:Gorai.011G238900
+Q9AV71	Phytozome_Gr:Gorai.001G238100 Phytozome_Gr:Gorai.004G057400
+Q9AWL7	Phytozome_Gr:Gorai.009G258800 Phytozome_Gr:Gorai.005G077100
+Q9AWZ7	Phytozome_Gr:Gorai.004G160400 Phytozome_Gr:Gorai.004G041700
+Q9AWZ8	Phytozome_Gr:Gorai.004G160400 Phytozome_Gr:Gorai.004G041700
+Q9FDX8	Phytozome_Gr:Gorai.013G246000 Phytozome_Gr:Gorai.001G039500 Phytozome_Gr:Gorai.010G245200 Phytozome_Gr:Gorai.008G059900 Phytozome_Gr:Gorai.004G102000 Phytozome_Gr:Gorai.004G030300 Phytozome_Gr:Gorai.009G065600 Phytozome_Gr:Gorai.003G104600
+Q9FTN5	Phytozome_Gr:Gorai.008G067100 Phytozome_Gr:Gorai.002G127000
+Q9FTN6	Phytozome_Gr:Gorai.008G067100 Phytozome_Gr:Gorai.002G127000
+Q9FTR6	Phytozome_Gr:Gorai.008G055300 Phytozome_Gr:Gorai.007G181800
+Q9FTZ2	Phytozome_Gr:Gorai.006G002800
+Q9FU67	Phytozome_Gr:Gorai.002G160500 Phytozome_Gr:Gorai.002G107900 Phytozome_Gr:Gorai.009G034100 Phytozome_Gr:Gorai.013G181400 Phytozome_Gr:Gorai.007G372300 Phytozome_Gr:Gorai.009G411800 Phytozome_Gr:Gorai.010G022300 Phytozome_Gr:Gorai.004G173100 Phytozome_Gr:Gorai.012G149600 Phytozome_Gr:Gorai.006G185400 Phytozome_Gr:Gorai.009G411900 Phytozome_Gr:Gorai.013G046200 Phytozome_Gr:Gorai.006G160600 Phytozome_Gr:Gorai.013G046100 Phytozome_Gr:Gorai.008G023900 Phytozome_Gr:Gorai.002G087200 Phytozome_Gr:Gorai.011G202900 Phytozome_Gr:Gorai.009G411700 Phytozome_Gr:Gorai.013G181500 Phytozome_Gr:Gorai.006G160700
+Q9FU68	Phytozome_Gr:Gorai.002G160500 Phytozome_Gr:Gorai.002G107900 Phytozome_Gr:Gorai.009G034100 Phytozome_Gr:Gorai.013G181400 Phytozome_Gr:Gorai.007G372300 Phytozome_Gr:Gorai.009G411800 Phytozome_Gr:Gorai.010G022300 Phytozome_Gr:Gorai.004G173100 Phytozome_Gr:Gorai.012G149600 Phytozome_Gr:Gorai.006G185400 Phytozome_Gr:Gorai.009G411900 Phytozome_Gr:Gorai.013G046200 Phytozome_Gr:Gorai.006G160600 Phytozome_Gr:Gorai.013G046100 Phytozome_Gr:Gorai.008G023900 Phytozome_Gr:Gorai.002G087200 Phytozome_Gr:Gorai.011G202900 Phytozome_Gr:Gorai.009G411700 Phytozome_Gr:Gorai.013G181500 Phytozome_Gr:Gorai.006G160700
+Q9FU69	Phytozome_Gr:Gorai.002G160500 Phytozome_Gr:Gorai.002G107900 Phytozome_Gr:Gorai.009G034100 Phytozome_Gr:Gorai.013G181400 Phytozome_Gr:Gorai.007G372300 Phytozome_Gr:Gorai.009G411800 Phytozome_Gr:Gorai.010G022300 Phytozome_Gr:Gorai.004G173100 Phytozome_Gr:Gorai.012G149600 Phytozome_Gr:Gorai.006G185400 Phytozome_Gr:Gorai.009G411900 Phytozome_Gr:Gorai.013G046200 Phytozome_Gr:Gorai.006G160600 Phytozome_Gr:Gorai.013G046100 Phytozome_Gr:Gorai.008G023900 Phytozome_Gr:Gorai.002G087200 Phytozome_Gr:Gorai.011G202900 Phytozome_Gr:Gorai.009G411700 Phytozome_Gr:Gorai.013G181500 Phytozome_Gr:Gorai.006G160700
+Q9FWC1	Phytozome_Gr:Gorai.007G020500 Phytozome_Gr:Gorai.003G075200
+Q9FWK4	Phytozome_Gr:Gorai.006G252000
+Q9FWQ2	Phytozome_Gr:Gorai.008G236800 Phytozome_Gr:Gorai.003G169300 Phytozome_Gr:Gorai.003G113900 Phytozome_Gr:Gorai.008G216700
+Q9FXQ3	Phytozome_Gr:Gorai.008G013700 Phytozome_Gr:Gorai.011G228500 Phytozome_Gr:Gorai.009G394700 Phytozome_Gr:Gorai.013G064500 Phytozome_Gr:Gorai.012G138900 Phytozome_Gr:Gorai.006G147600 Phytozome_Gr:Gorai.013G064400 Phytozome_Gr:Gorai.005G216500 Phytozome_Gr:Gorai.013G003100 Phytozome_Gr:Gorai.002G153600
+Q9LD61	Phytozome_Gr:Gorai.009G442200
+Q9LDB7	Phytozome_Gr:Gorai.010G116400 Phytozome_Gr:Gorai.004G292900
+Q9LG86	Phytozome_Gr:Gorai.009G048400 Phytozome_Gr:Gorai.009G137500 Phytozome_Gr:Gorai.011G070800 Phytozome_Gr:Gorai.013G219700 Phytozome_Gr:Gorai.010G231100
+Q9LGL5	Phytozome_Gr:Gorai.006G183900 Phytozome_Gr:Gorai.006G184000 Phytozome_Gr:Gorai.004G001200
+Q9LGU6	Phytozome_Gr:Gorai.001G146800 Phytozome_Gr:Gorai.004G146800 Phytozome_Gr:Gorai.005G071300 Phytozome_Gr:Gorai.008G135900 Phytozome_Gr:Gorai.007G119200
+Q9LHZ0	Phytozome_Gr:Gorai.005G251900
+Q9LHZ7	Phytozome_Gr:Gorai.004G257300 Phytozome_Gr:Gorai.003G052200
+Q9LIZ8	Phytozome_Gr:Gorai.011G225600 Phytozome_Gr:Gorai.012G023300
+Q9LWJ2	Phytozome_Gr:Gorai.007G353500
+Q9LWV3	Phytozome_Gr:Gorai.004G289800 Phytozome_Gr:Gorai.010G106600 Phytozome_Gr:Gorai.009G050200
+Q9S7D3	Phytozome_Gr:Gorai.001G267500 Phytozome_Gr:Gorai.012G091400
+Q9SDG5	Phytozome_Gr:Gorai.006G165900
+Q9SMB1	Phytozome_Gr:Gorai.001G068600 Phytozome_Gr:Gorai.005G183500
+Q9SNK3	Phytozome_Gr:Gorai.009G186400 Phytozome_Gr:Gorai.002G114000
+Q9SNN0	Phytozome_Gr:Gorai.005G248700 Phytozome_Gr:Gorai.002G149300 Phytozome_Gr:Gorai.012G154100
+Q9XEA6	Phytozome_Gr:Gorai.013G122000 Phytozome_Gr:Gorai.006G239500 Phytozome_Gr:Gorai.004G245500
+Q9XEA8	Phytozome_Gr:Gorai.013G122000 Phytozome_Gr:Gorai.006G239500 Phytozome_Gr:Gorai.004G245500
+Q9XFE5	Phytozome_Gr:Gorai.007G173200 Phytozome_Gr:Gorai.001G213900
+Q9XG80	Phytozome_Gr:Gorai.009G030300 Phytozome_Gr:Gorai.013G228600
+Q9XHL5	Phytozome_Gr:Gorai.005G215700 Phytozome_Gr:Gorai.005G215800 Phytozome_Gr:Gorai.002G014700 Phytozome_Gr:Gorai.005G215500 Phytozome_Gr:Gorai.002G146000 Phytozome_Gr:Gorai.012G138100 Phytozome_Gr:Gorai.005G215600 Phytozome_Gr:Gorai.013G065200 Phytozome_Gr:Gorai.008G013000
+Q9XJ03	Phytozome_Gr:Gorai.007G145600 Phytozome_Gr:Gorai.007G041700 Phytozome_Gr:Gorai.012G139600 Phytozome_Gr:Gorai.012G139500
+Q9XJ29	Phytozome_Gr:Gorai.009G322200 Phytozome_Gr:Gorai.001G115500
+Q9XJ60	Phytozome_Gr:Gorai.008G115200 Phytozome_Gr:Gorai.007G009800 Phytozome_Gr:Gorai.007G093800 Phytozome_Gr:Gorai.003G163900
+Q9ZTP5	Phytozome_Gr:Gorai.008G194500 Phytozome_Gr:Gorai.001G072700
+UPI00000AA151	Phytozome_Gr:Gorai.010G116400 Phytozome_Gr:Gorai.004G292900
+UPI0001C7A9C3	Phytozome_Gr:Gorai.006G158200 Phytozome_Gr:Gorai.002G159900 Phytozome_Gr:Gorai.009G408200

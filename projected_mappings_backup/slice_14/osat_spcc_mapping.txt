@@ -1,0 +1,417 @@
+A2XPN8	MicrobeDB:slr1165
+A2ZW27	MicrobeDB:sll1363
+A2ZWY7	MicrobeDB:sll0237 MicrobeDB:sll0912 MicrobeDB:slr1494 MicrobeDB:slr0734 MicrobeDB:slr0036
+A3AAR2	MicrobeDB:slr0210 MicrobeDB:sll1475 MicrobeDB:slr0533
+A3AC56	MicrobeDB:sll1566
+A3AQC6	MicrobeDB:sll0828
+A3AZW5	MicrobeDB:slr0953
+A3BI64	MicrobeDB:slr1125
+A3BJI6	MicrobeDB:slr0574
+A3BJI8	MicrobeDB:slr0574
+A3BTE7	MicrobeDB:slr0662 MicrobeDB:slr1312
+A3BZ14	MicrobeDB:sll1566
+B7FA34	MicrobeDB:slr0303 MicrobeDB:sll0829 MicrobeDB:sll0564
+B7FA90	MicrobeDB:slr1736
+B7FAE9	MicrobeDB:slr1171 MicrobeDB:slr1992
+B7FAP2	MicrobeDB:slr1125
+B8BB38	MicrobeDB:slr1706 MicrobeDB:sll0576 MicrobeDB:slr0984
+B8BF84	MicrobeDB:sll1566
+B9EXM2	MicrobeDB:sll0370
+B9EZJ8	MicrobeDB:slr0801
+B9FM98	MicrobeDB:sll1566
+B9FML1	MicrobeDB:slr1849 MicrobeDB:slr1096
+B9G3A7	MicrobeDB:sll1566
+C7IXG8	MicrobeDB:slr0394
+H6TFZ4	MicrobeDB:sll0045
+I1QJ08	MicrobeDB:slr1350
+O04226	MicrobeDB:slr2035 MicrobeDB:sll0373
+O22105	MicrobeDB:sll0513
+O22567	MicrobeDB:sll1945
+O24174	MicrobeDB:slr0370
+O24210	MicrobeDB:sll1249
+O64422	MicrobeDB:slr0952
+P0C587	MicrobeDB:slr1808
+P15280	MicrobeDB:slr1176
+P17784	MicrobeDB:slr0943
+P17814	MicrobeDB:slr0492 MicrobeDB:sll1605
+P18566	MicrobeDB:slr0012
+P30298	MicrobeDB:sll0045
+P31924	MicrobeDB:sll0045
+P93438	MicrobeDB:sll0927
+Q01M39	MicrobeDB:slr1125
+Q05JG2	MicrobeDB:slr0574
+Q06967	MicrobeDB:slr1854
+Q0D7I3	MicrobeDB:slr1176
+Q0D7J0	MicrobeDB:slr1125
+Q0D7J3	MicrobeDB:slr1125
+Q0D7W4	MicrobeDB:slr0940
+Q0DAA4	MicrobeDB:slr1950 MicrobeDB:sll1920
+Q0DEC8	MicrobeDB:sll0945
+Q0DG35	MicrobeDB:sll1502 MicrobeDB:sll1499
+Q0DGG8	MicrobeDB:slr1348 MicrobeDB:sll1900
+Q0DJJ9	MicrobeDB:slr0477
+Q0DKY4	MicrobeDB:sll0927
+Q0DUI1	MicrobeDB:slr1348 MicrobeDB:sll1900
+Q0DV32	MicrobeDB:slr0492 MicrobeDB:sll1605
+Q0DY86	MicrobeDB:sll1958
+Q0E2X2	MicrobeDB:slr1125
+Q0E3J1	MicrobeDB:slr1950 MicrobeDB:sll1920
+Q0INY7	MicrobeDB:slr0012
+Q0IPE5	MicrobeDB:sll0934
+Q0IQQ5	MicrobeDB:slr1543
+Q0ISY7	MicrobeDB:slr1125
+Q0ITU1	MicrobeDB:slr1938
+Q0IUG8	MicrobeDB:slr1400 MicrobeDB:sll1229 MicrobeDB:slr2099 MicrobeDB:slr0311
+Q0IZJ9	MicrobeDB:sll1662
+Q0IZS0	MicrobeDB:slr0936
+Q0J0N3	MicrobeDB:slr1722 MicrobeDB:slr0809
+Q0J185	MicrobeDB:slr0574
+Q0J5Y4	MicrobeDB:slr0926
+Q0J8A4	MicrobeDB:slr0884
+Q0J9K2	MicrobeDB:slr1672
+Q0JB49	MicrobeDB:slr1171 MicrobeDB:slr1992
+Q0JDF7	MicrobeDB:sll1662
+Q0JE53	MicrobeDB:slr1125
+Q0JEK1	MicrobeDB:slr0550
+Q0JEP5	MicrobeDB:sll1085
+Q0JF30	MicrobeDB:slr1759 MicrobeDB:sll1672 MicrobeDB:sll1228 MicrobeDB:sll1124 MicrobeDB:slr1393 MicrobeDB:sll1905 MicrobeDB:slr1805 MicrobeDB:slr2104 MicrobeDB:slr0222 MicrobeDB:sll0337 MicrobeDB:slr0484 MicrobeDB:sll1871 MicrobeDB:slr2098 MicrobeDB:slr1212 MicrobeDB:sll1888 MicrobeDB:sll0094 MicrobeDB:slr1969 MicrobeDB:sll0474
+Q0JK57	MicrobeDB:slr0303 MicrobeDB:sll0829 MicrobeDB:sll0564
+Q0JKD0	MicrobeDB:sll1502 MicrobeDB:sll1499
+Q0JKY8	MicrobeDB:slr0051 MicrobeDB:slr1347
+Q10A30	MicrobeDB:slr0943
+Q10BX9	MicrobeDB:sll0635 MicrobeDB:slr1882
+Q10D68	MicrobeDB:sll1931
+Q10DK7	MicrobeDB:sll0237 MicrobeDB:sll0912 MicrobeDB:slr1494 MicrobeDB:slr0734 MicrobeDB:slr0036
+Q10DU0	MicrobeDB:slr0473 MicrobeDB:sll0041 MicrobeDB:sll1003 MicrobeDB:sll1473
+Q10DZ5	MicrobeDB:slr2072
+Q10J20	MicrobeDB:slr0440
+Q10L51	MicrobeDB:slr1125
+Q10L56	MicrobeDB:slr1171 MicrobeDB:slr1992
+Q10LP5	MicrobeDB:sll0045
+Q10LR5	MicrobeDB:slr0018
+Q10MB0	MicrobeDB:sll1498
+Q10MG9	MicrobeDB:slr0473 MicrobeDB:sll0041 MicrobeDB:sll1003 MicrobeDB:sll1473
+Q10MK5	MicrobeDB:slr0822 MicrobeDB:sll1614 MicrobeDB:slr1133 MicrobeDB:sll0672
+Q10MQ2	MicrobeDB:sll0480
+Q10MX9	MicrobeDB:sll1441
+Q10N17	MicrobeDB:sll1662
+Q10NY1	MicrobeDB:sll1817 MicrobeDB:sll1747
+Q10P02	MicrobeDB:slr0917
+Q10PL0	MicrobeDB:slr0032 MicrobeDB:slr0887
+Q10PY7	MicrobeDB:slr1543
+Q10QA5	MicrobeDB:slr0440
+Q10QH1	MicrobeDB:slr1348 MicrobeDB:sll1900
+Q10QN3	MicrobeDB:slr1518
+Q10QR9	MicrobeDB:sll0166
+Q10RP2	MicrobeDB:slr1340
+Q10S34	MicrobeDB:sll1470
+Q10S55	MicrobeDB:sll0900
+Q10S58	MicrobeDB:slr1348 MicrobeDB:sll1900
+Q10S72	MicrobeDB:slr0492 MicrobeDB:sll1605
+Q10SD6	MicrobeDB:slr1867
+Q10SL7	MicrobeDB:sll1058
+Q10SM9	MicrobeDB:sll1058
+Q25AR2	MicrobeDB:slr0500
+Q2MJA7	MicrobeDB:slr1722 MicrobeDB:slr0809
+Q2MJA8	MicrobeDB:slr1722 MicrobeDB:slr0809
+Q2QLY6	MicrobeDB:sll1612
+Q2QME6	MicrobeDB:slr1189
+Q2QNF7	MicrobeDB:slr1665
+Q2QQ60	MicrobeDB:sll1566
+Q2QS13	MicrobeDB:slr1299
+Q2QS14	MicrobeDB:slr1299
+Q2QT32	MicrobeDB:sll1931
+Q2QTJ1	MicrobeDB:slr0012
+Q2QTQ1	MicrobeDB:slr0077 MicrobeDB:slr2141
+Q2QVC1	MicrobeDB:slr0585
+Q2QWK9	MicrobeDB:sll0635 MicrobeDB:slr1882
+Q2QXY9	MicrobeDB:sll1564 MicrobeDB:slr0186
+Q2QY63	MicrobeDB:sll0220
+Q2QYV3	MicrobeDB:slr1652
+Q2QYW4	MicrobeDB:sll1441
+Q2QZT9	MicrobeDB:sll1575 MicrobeDB:slr0599 MicrobeDB:sll0776 MicrobeDB:slr0362 MicrobeDB:slr0152 MicrobeDB:sll1960 MicrobeDB:slr1225 MicrobeDB:slr1443 MicrobeDB:sll1624 MicrobeDB:slr1697
+Q2R1D5	MicrobeDB:slr1854
+Q2R2W2	MicrobeDB:slr1854
+Q2R339	MicrobeDB:sll0401
+Q2R4Y7	MicrobeDB:sll1931
+Q2RAM8	MicrobeDB:slr1125
+Q2RAP4	MicrobeDB:slr0574
+Q2RAP8	MicrobeDB:sll1564 MicrobeDB:slr0186
+Q2RAY0	MicrobeDB:sll0220
+Q2RBN0	MicrobeDB:slr1652
+Q336M7	MicrobeDB:slr0492 MicrobeDB:sll1605
+Q337F0	MicrobeDB:slr0721
+Q338Z4	MicrobeDB:sll1440
+Q33AE4	MicrobeDB:slr1334 MicrobeDB:sll0726
+Q40710	MicrobeDB:sll1498
+Q42971	MicrobeDB:slr0752
+Q42982	MicrobeDB:slr0492 MicrobeDB:sll1605
+Q43009	MicrobeDB:sll0045
+Q53KJ5	MicrobeDB:slr1125
+Q53MS9	MicrobeDB:slr1171 MicrobeDB:slr1992
+Q53P49	MicrobeDB:sll0225 MicrobeDB:sll0454
+Q53QJ9	MicrobeDB:slr0585
+Q53RH0	MicrobeDB:slr1759 MicrobeDB:sll1672 MicrobeDB:sll1228 MicrobeDB:sll1124 MicrobeDB:slr1393 MicrobeDB:sll1905 MicrobeDB:slr1805 MicrobeDB:slr2104 MicrobeDB:slr0222 MicrobeDB:sll0337 MicrobeDB:slr0484 MicrobeDB:sll1871 MicrobeDB:slr2098 MicrobeDB:slr1212 MicrobeDB:sll1888 MicrobeDB:sll0094 MicrobeDB:slr1969 MicrobeDB:sll0474
+Q5CCK1	MicrobeDB:slr0574
+Q5CCK3	MicrobeDB:slr0574
+Q5JK18	MicrobeDB:slr0657
+Q5JK39	MicrobeDB:slr1691
+Q5JMX5	MicrobeDB:slr0015
+Q5JNB0	MicrobeDB:sll0712 MicrobeDB:slr1842
+Q5N725	MicrobeDB:slr0943
+Q5N8G1	MicrobeDB:slr0951
+Q5N9Z8	MicrobeDB:sll0402
+Q5NAY4	MicrobeDB:slr1848
+Q5NAZ7	MicrobeDB:sll0225 MicrobeDB:sll0454
+Q5NBQ1	MicrobeDB:slr0608
+Q5NTH3	MicrobeDB:sll1669
+Q5NTH4	MicrobeDB:sll1669
+Q5QN02	MicrobeDB:sll0578 MicrobeDB:slr0861
+Q5U9F2	MicrobeDB:slr0210 MicrobeDB:sll1475 MicrobeDB:slr0533
+Q5VMP2	MicrobeDB:slr1626
+Q5VNP5	MicrobeDB:slr1916
+Q5VNW0	MicrobeDB:slr0444
+Q5VPH2	MicrobeDB:sll1212 MicrobeDB:slr1072
+Q5VRM7	MicrobeDB:slr0574
+Q5VSB8	MicrobeDB:sll1945
+Q5W6F9	MicrobeDB:sll0237 MicrobeDB:sll0912 MicrobeDB:slr1494 MicrobeDB:slr0734 MicrobeDB:slr0036
+Q5W6H5	MicrobeDB:slr0056
+Q5XLJ2	MicrobeDB:sll0401
+Q5Z5B7	MicrobeDB:slr1255
+Q5Z678	MicrobeDB:sll0100 MicrobeDB:slr1653
+Q5Z8V9	MicrobeDB:sll1994
+Q5ZCV1	MicrobeDB:slr1559
+Q60EY1	MicrobeDB:sll0225 MicrobeDB:sll0454
+Q650W1	MicrobeDB:sll1662
+Q651F0	MicrobeDB:slr2130
+Q653D9	MicrobeDB:slr1626
+Q655T1	MicrobeDB:slr0394
+Q655W2	MicrobeDB:slr0884
+Q655Y9	MicrobeDB:slr0952
+Q65X14	MicrobeDB:sll1566
+Q65XC6	MicrobeDB:slr0801
+Q65XK0	MicrobeDB:sll1363
+Q67TS1	MicrobeDB:slr1125
+Q67TS4	MicrobeDB:slr1125
+Q67W82	MicrobeDB:slr0492 MicrobeDB:sll1605
+Q67WR2	MicrobeDB:sll1213
+Q688L9	MicrobeDB:sll0237 MicrobeDB:sll0912 MicrobeDB:slr1494 MicrobeDB:slr0734 MicrobeDB:slr0036
+Q688Q8	MicrobeDB:slr1022
+Q688T8	MicrobeDB:slr1176
+Q689G6	MicrobeDB:slr1400 MicrobeDB:sll1229 MicrobeDB:slr2099 MicrobeDB:slr0311
+Q69J27	MicrobeDB:sll1370 MicrobeDB:sll0506
+Q69K00	MicrobeDB:slr0783
+Q69KM5	MicrobeDB:slr1722 MicrobeDB:slr0809
+Q69LG7	MicrobeDB:sll0455
+Q69MC9	MicrobeDB:slr0051 MicrobeDB:slr1347
+Q69RC6	MicrobeDB:sll1662
+Q69RG7	MicrobeDB:slr0492 MicrobeDB:sll1605
+Q69T99	MicrobeDB:slr1176
+Q69TF4	MicrobeDB:sll1101
+Q69TT1	MicrobeDB:sll1758
+Q69U93	MicrobeDB:slr1364
+Q69UF5	MicrobeDB:slr1125
+Q69V57	MicrobeDB:slr0943
+Q69XD3	MicrobeDB:slr1125
+Q69XQ6	MicrobeDB:sll0469
+Q6AT43	MicrobeDB:slr0032 MicrobeDB:slr0887
+Q6AT75	MicrobeDB:slr0574
+Q6AV34	MicrobeDB:sll0080
+Q6AVG6	MicrobeDB:slr0348
+Q6AVT2	MicrobeDB:slr1176
+Q6EP59	MicrobeDB:slr1125
+Q6ERL4	MicrobeDB:slr0387 MicrobeDB:sll0704
+Q6ERR3	MicrobeDB:slr1706 MicrobeDB:sll0576 MicrobeDB:slr0984
+Q6ESJ0	MicrobeDB:slr1171 MicrobeDB:slr1992
+Q6ETN3	MicrobeDB:slr0492 MicrobeDB:sll1605
+Q6ETX4	MicrobeDB:sll0356
+Q6EUP4	MicrobeDB:slr1854
+Q6F354	MicrobeDB:slr0739
+Q6H4V1	MicrobeDB:slr0090
+Q6H6C7	MicrobeDB:slr0394
+Q6H6D2	MicrobeDB:slr1887
+Q6H6G1	MicrobeDB:slr1898
+Q6H6I1	MicrobeDB:sll1444
+Q6H6P8	MicrobeDB:sll0158
+Q6H703	MicrobeDB:slr0884
+Q6H849	MicrobeDB:sll0784
+Q6H851	MicrobeDB:sll0784
+Q6H8F6	MicrobeDB:slr1125
+Q6I581	MicrobeDB:sll0225 MicrobeDB:sll0454
+Q6K2E1	MicrobeDB:slr1067 MicrobeDB:sll0244
+Q6K2E8	MicrobeDB:slr2088 MicrobeDB:sll1981
+Q6K306	MicrobeDB:slr0546
+Q6K3Z3	MicrobeDB:slr1993
+Q6K548	MicrobeDB:slr0817
+Q6K5G8	MicrobeDB:slr0884
+Q6K755	MicrobeDB:slr1125
+Q6K7V6	MicrobeDB:slr1737
+Q6K8E7	MicrobeDB:slr0917
+Q6K8J4	MicrobeDB:slr2136
+Q6K969	MicrobeDB:sll1760
+Q6K973	MicrobeDB:sll0045
+Q6K9M5	MicrobeDB:slr1722 MicrobeDB:slr0809
+Q6K9N6	MicrobeDB:sll1023
+Q6L4H5	MicrobeDB:sll1172 MicrobeDB:sll1688
+Q6L4R0	MicrobeDB:slr0574
+Q6L4R7	MicrobeDB:sll1771
+Q6L545	MicrobeDB:sll0644
+Q6VMN7	MicrobeDB:sll0480
+Q6YPF1	MicrobeDB:slr0943
+Q6YS33	MicrobeDB:slr0657
+Q6YU51	MicrobeDB:sll1945
+Q6YUS0	MicrobeDB:sll0179
+Q6YV23	MicrobeDB:sll1498
+Q6YVI0	MicrobeDB:slr1476 MicrobeDB:sll0902
+Q6YXI1	MicrobeDB:slr1349
+Q6YXW6	MicrobeDB:slr0953
+Q6YYB9	MicrobeDB:slr0543
+Q6YYZ2	MicrobeDB:slr0492 MicrobeDB:sll1605
+Q6YZE2	MicrobeDB:sll0017
+Q6YZH8	MicrobeDB:slr0452
+Q6YZX6	MicrobeDB:sll1470
+Q6Z0T7	MicrobeDB:slr1626
+Q6Z2L5	MicrobeDB:sll0469
+Q6Z2T6	MicrobeDB:sll1091
+Q6Z368	MicrobeDB:sll0513
+Q6Z3A4	MicrobeDB:slr1022
+Q6Z3F9	MicrobeDB:sll0096 MicrobeDB:slr0399 MicrobeDB:slr0317
+Q6Z3Y3	MicrobeDB:sll1662
+Q6Z4I1	MicrobeDB:sll1959
+Q6Z684	MicrobeDB:slr1125
+Q6Z6F0	MicrobeDB:slr1125
+Q6Z702	MicrobeDB:sll1470
+Q6Z744	MicrobeDB:sll0744
+Q6Z836	MicrobeDB:slr1233
+Q6Z8F4	MicrobeDB:sll1525
+Q6ZAC1	MicrobeDB:slr0492 MicrobeDB:sll1605
+Q6ZAH2	MicrobeDB:slr0926
+Q6ZBE1	MicrobeDB:slr1125
+Q6ZDJ7	MicrobeDB:slr1067 MicrobeDB:sll0244
+Q6ZDY8	MicrobeDB:slr1233
+Q6ZG77	MicrobeDB:sll0504
+Q6ZG91	MicrobeDB:sll1634
+Q6ZGW6	MicrobeDB:sll1441
+Q6ZHS4	MicrobeDB:slr0082 MicrobeDB:slr1192
+Q6ZHU3	MicrobeDB:slr1348 MicrobeDB:sll1900
+Q6ZI55	MicrobeDB:slr1289
+Q6ZIK0	MicrobeDB:slr0089 MicrobeDB:slr0407 MicrobeDB:sll0418
+Q6ZK11	MicrobeDB:slr0477
+Q6ZKC0	MicrobeDB:slr1854
+Q6ZL94	MicrobeDB:sll1557
+Q75H77	MicrobeDB:sll1575 MicrobeDB:slr0599 MicrobeDB:sll0776 MicrobeDB:slr0362 MicrobeDB:slr0152 MicrobeDB:sll1960 MicrobeDB:slr1225 MicrobeDB:slr1443 MicrobeDB:sll1624 MicrobeDB:slr1697
+Q75HP7	MicrobeDB:sll1931
+Q75I93	MicrobeDB:slr0199
+Q75V57	MicrobeDB:sll1575 MicrobeDB:slr0599 MicrobeDB:sll0776 MicrobeDB:slr0362 MicrobeDB:slr0152 MicrobeDB:sll1960 MicrobeDB:slr1225 MicrobeDB:slr1443 MicrobeDB:sll1624 MicrobeDB:slr1697
+Q764B9	MicrobeDB:slr0055
+Q7EZZ0	MicrobeDB:sll0648
+Q7F0B2	MicrobeDB:slr1125
+Q7F190	MicrobeDB:slr0721
+Q7F1X5	MicrobeDB:slr0492 MicrobeDB:sll1605
+Q7F942	MicrobeDB:sll0504
+Q7FAE1	MicrobeDB:slr0315
+Q7FAH2	MicrobeDB:slr0884
+Q7G065	MicrobeDB:slr1176
+Q7G2H3	MicrobeDB:sll0080
+Q7G4P2	MicrobeDB:slr0917
+Q7X7H9	MicrobeDB:sll1669
+Q7X7N2	MicrobeDB:sll0228 MicrobeDB:sll1077
+Q7X7X0	MicrobeDB:slr1093 MicrobeDB:slr2026
+Q7X8A1	MicrobeDB:sll1342
+Q7XE48	MicrobeDB:sll0945
+Q7XEH2	MicrobeDB:slr1189
+Q7XHZ2	MicrobeDB:sll1758
+Q7XI34	MicrobeDB:slr1125
+Q7XI35	MicrobeDB:slr1125
+Q7XI67	MicrobeDB:slr1874
+Q7XI92	MicrobeDB:slr0739
+Q7XK23	MicrobeDB:slr1289
+Q7XKH9	MicrobeDB:slr1125
+Q7XKI0	MicrobeDB:slr1125
+Q7XKQ8	MicrobeDB:slr2088 MicrobeDB:sll1981
+Q7XMA8	MicrobeDB:slr1125
+Q7XNX6	MicrobeDB:sll0045
+Q7XPB5	MicrobeDB:slr0550
+Q7XPR5	MicrobeDB:slr0032 MicrobeDB:slr0887
+Q7XQ85	MicrobeDB:sll0237 MicrobeDB:sll0912 MicrobeDB:slr1494 MicrobeDB:slr0734 MicrobeDB:slr0036
+Q7XRA1	MicrobeDB:slr0662 MicrobeDB:slr1312
+Q7XTE8	MicrobeDB:slr1854
+Q7XTH0	MicrobeDB:slr1125
+Q7XTK3	MicrobeDB:sll0828
+Q7XU28	MicrobeDB:slr1898
+Q7XU29	MicrobeDB:slr1648 MicrobeDB:sll1541
+Q7XUK6	MicrobeDB:sll1282
+Q7XUS2	MicrobeDB:slr0055
+Q7XV42	MicrobeDB:slr1125
+Q7XWP9	MicrobeDB:sll1070
+Q7XXL2	MicrobeDB:slr0492 MicrobeDB:sll1605
+Q7XZH5	MicrobeDB:slr0315
+Q7Y0B9	MicrobeDB:sll1575 MicrobeDB:slr0599 MicrobeDB:sll0776 MicrobeDB:slr0362 MicrobeDB:slr0152 MicrobeDB:sll1960 MicrobeDB:slr1225 MicrobeDB:slr1443 MicrobeDB:sll1624 MicrobeDB:slr1697
+Q84J55	MicrobeDB:slr1854
+Q84LF7	MicrobeDB:slr0574
+Q84LK3	MicrobeDB:slr0370
+Q84MN8	MicrobeDB:slr1165
+Q84NP3	MicrobeDB:sll1441
+Q84VC7	MicrobeDB:sll1393
+Q84ZY2	MicrobeDB:sll1070
+Q851L5	MicrobeDB:sll0100 MicrobeDB:slr1653
+Q851Z6	MicrobeDB:slr0657
+Q852C2	MicrobeDB:slr1125
+Q8GT01	MicrobeDB:slr0661
+Q8GVJ4	MicrobeDB:sll1441
+Q8H0A1	MicrobeDB:sll1662
+Q8H0B2	MicrobeDB:slr1067 MicrobeDB:sll0244
+Q8H0B6	MicrobeDB:slr1067 MicrobeDB:sll0244
+Q8H2J9	MicrobeDB:slr1755
+Q8H530	MicrobeDB:sll1640
+Q8H7S6	MicrobeDB:sll1566
+Q8H7T7	MicrobeDB:slr0032 MicrobeDB:slr0887
+Q8H825	MicrobeDB:slr1189
+Q8H8U0	MicrobeDB:sll1522
+Q8H930	MicrobeDB:slr1067 MicrobeDB:sll0244
+Q8LHD1	MicrobeDB:slr0697
+Q8LI89	MicrobeDB:slr1691
+Q8LJJ2	MicrobeDB:sll1172 MicrobeDB:sll1688
+Q8LR33	MicrobeDB:sll1127
+Q8LR75	MicrobeDB:slr0783
+Q8RU95	MicrobeDB:slr0492 MicrobeDB:sll1605
+Q8RYL0	MicrobeDB:slr1691
+Q8RYY6	MicrobeDB:sll1931
+Q8S2G0	MicrobeDB:sll0711
+Q8S3R0	MicrobeDB:slr1916
+Q8S9S4	MicrobeDB:sll0100 MicrobeDB:slr1653
+Q8W0E4	MicrobeDB:slr1348 MicrobeDB:sll1900
+Q8W250	MicrobeDB:sll0019
+Q8W3J0	MicrobeDB:slr1722 MicrobeDB:slr0809
+Q93VD5	MicrobeDB:slr1648 MicrobeDB:sll1541
+Q93XI4	MicrobeDB:sll1640
+Q93Y73	MicrobeDB:slr0549
+Q94E75	MicrobeDB:slr0953
+Q94GF1	MicrobeDB:slr0738 MicrobeDB:slr1979
+Q94HG3	MicrobeDB:sll1498
+Q94IW5	MicrobeDB:slr0574
+Q94J90	MicrobeDB:sll1018
+Q94JJ0	MicrobeDB:slr0943
+Q94LU9	MicrobeDB:slr0528
+Q94LV4	MicrobeDB:slr0032 MicrobeDB:slr0887
+Q9ASK5	MicrobeDB:slr1993
+Q9ASP4	MicrobeDB:slr1849 MicrobeDB:slr1096
+Q9AUQ4	MicrobeDB:slr1334 MicrobeDB:sll0726
+Q9AUV6	MicrobeDB:slr1299
+Q9AWZ7	MicrobeDB:slr0526
+Q9AWZ8	MicrobeDB:slr0526
+Q9FU67	MicrobeDB:slr1125
+Q9FU68	MicrobeDB:slr1125
+Q9FU69	MicrobeDB:slr1125
+Q9FWK4	MicrobeDB:slr0899
+Q9LD61	MicrobeDB:slr1476 MicrobeDB:sll0902
+Q9LGU6	MicrobeDB:sll0927
+Q9SDG5	MicrobeDB:slr1289
+Q9SNK3	MicrobeDB:sll1342
+Q9SNN0	MicrobeDB:slr0662 MicrobeDB:slr1312
+Q9XEA6	MicrobeDB:sll0712 MicrobeDB:slr1842
+Q9XEA8	MicrobeDB:sll0712 MicrobeDB:slr1842
+Q9XJ03	MicrobeDB:sll1370 MicrobeDB:sll0506
+Q9XJ29	MicrobeDB:slr0738 MicrobeDB:slr1979
+Q9ZTP5	MicrobeDB:sll0807
+UPI0001C7A9C3	MicrobeDB:sll1575 MicrobeDB:slr0599 MicrobeDB:sll0776 MicrobeDB:slr0362 MicrobeDB:slr0152 MicrobeDB:sll1960 MicrobeDB:slr1225 MicrobeDB:slr1443 MicrobeDB:sll1624 MicrobeDB:slr1697

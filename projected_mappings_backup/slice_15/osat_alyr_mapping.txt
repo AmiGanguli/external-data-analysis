@@ -1,0 +1,982 @@
+A2X747	Ensembl:scaffold_105454.1
+A2XPN8	Ensembl:fgenesh1_pg.C_scaffold_862000001 Ensembl:fgenesh1_pg.C_scaffold_3001820 Ensembl:fgenesh2_kg.1__2171__AT1G19920.1
+A2Y626	Ensembl:scaffold_202397.1 Ensembl:fgenesh2_kg.2__1722__AT1G74540.1 Ensembl:scaffold_402890.1
+A2Y8A8	Ensembl:scaffold_603692.1 Ensembl:scaffold_801582.1 Ensembl:fgenesh2_kg.7__1740__AT4G25240.1 Ensembl:Al_scaffold_0008_1090
+A2ZRY8	Ensembl:Al_scaffold_0005_1802 Ensembl:Al_scaffold_0003_1850
+A2ZW27	Ensembl:fgenesh2_kg.5__2304__AT3G58610.1
+A2ZWY7	Ensembl:fgenesh2_kg.4__532__AT2G26170.1
+A3AAR2	Ensembl:scaffold_601609.1
+A3AC56	Ensembl:Al_scaffold_0003_3857
+A3AQC6	Ensembl:scaffold_100925.1
+A3B7R7	Ensembl:fgenesh2_kg.4__1021__AT2G30490.1
+A3B9A0	Ensembl:fgenesh2_kg.6__2115__AT5G20730.1 Ensembl:fgenesh1_pg.C_scaffold_1001739
+A3BZ14	Ensembl:Al_scaffold_0003_3857
+A3C6G9	Ensembl:fgenesh2_kg.4__1560__AT2G35370.1 Ensembl:scaffold_103618.1
+A9CM06	Ensembl:scaffold_801907.1 Ensembl:fgenesh2_kg.7__3088__AT5G36160.1
+B1B534	Ensembl:fgenesh1_pg.C_scaffold_6003159
+B7E8M5	Ensembl:fgenesh2_kg.7__2224__AT4G20960.1
+B7EA04	Ensembl:fgenesh2_kg.1__3303__AT1G31070.2 Ensembl:fgenesh2_kg.4__1527__AT2G35020.1
+B7EM10	Ensembl:scaffold_202610.1 Ensembl:fgenesh1_pm.C_scaffold_1001781
+B7ERE7	Ensembl:scaffold_500136.1 Ensembl:fgenesh1_pm.C_scaffold_1001236 Ensembl:scaffold_500135.1
+B7F4K3	Ensembl:scaffold_502378.1
+B7F7B9	Ensembl:fgenesh2_kg.6__1077__AT5G11110.1 Ensembl:fgenesh2_kg.6__2069__AT5G20280.1
+B7F8P7	Ensembl:fgenesh2_kg.1__587__AT1G06160.1 Ensembl:scaffold_302806.1 Ensembl:fgenesh2_kg.4__1110__AT2G31230.1
+B7F956	Ensembl:Al_scaffold_0005_1643 Ensembl:fgenesh2_kg.5__1183__AT3G48310.1 Ensembl:fgenesh2_kg.5__1181__AT3G48280.1 Ensembl:fgenesh1_pm.C_scaffold_4000881 Ensembl:fgenesh2_kg.5__1180__AT3G48270.1 Ensembl:scaffold_501777.1 Ensembl:Al_scaffold_0006_2401 Ensembl:Al_scaffold_0009_33 Ensembl:fgenesh2_kg.4__1054__AT2G30770.1
+B7F9K3	Ensembl:scaffold_502378.1
+B7FA24	Ensembl:fgenesh1_pm.C_scaffold_1002730 Ensembl:fgenesh1_pm.C_scaffold_5001719
+B7FA90	Ensembl:Al_scaffold_0003_3939
+B7FA99	Ensembl:scaffold_801907.1 Ensembl:fgenesh2_kg.7__3088__AT5G36160.1
+B7FAE9	Ensembl:fgenesh1_pm.C_scaffold_7000769 Ensembl:scaffold_400619.1
+B7FAP2	Ensembl:fgenesh2_kg.7__2760__AT4G15550.1 Ensembl:scaffold_703230.1 Ensembl:scaffold_100533.1 Ensembl:scaffold_100538.1
+B8ACC6	Ensembl:fgenesh2_kg.7__2634__AT4G16745.1
+B8AG62	Ensembl:scaffold_502535.1 Ensembl:fgenesh2_kg.4__1941__AT2G38700.1
+B8AHI9	Ensembl:scaffold_702792.1
+B8AY22	Ensembl:scaffold_402235.1
+B8AZ97	Ensembl:scaffold_402568.1 Ensembl:scaffold_300993.1
+B8B8K7	Ensembl:scaffold_200813.1 Ensembl:fgenesh2_kg.2__1492__AT1G72330.1 Ensembl:scaffold_101927.1
+B8BB38	Ensembl:fgenesh2_kg.1__1748__AT1G15950.1
+B8BF84	Ensembl:Al_scaffold_0002_1456
+B9EUK4	Ensembl:fgenesh1_pg.C_scaffold_1003068 Ensembl:Al_scaffold_0001_3749 Ensembl:fgenesh1_pm.C_scaffold_3002720 Ensembl:scaffold_403621.1 Ensembl:fgenesh1_pg.C_scaffold_5002633 Ensembl:Al_scaffold_0001_3500 Ensembl:fgenesh2_kg.1__3608__AT1G35540.1 Ensembl:Al_scaffold_0007_1752
+B9EZJ8	Ensembl:scaffold_602684.1 Ensembl:fgenesh1_pm.C_scaffold_9000022
+B9F3B6	Ensembl:fgenesh2_kg.2__2240__AT1G79440.1
+B9FDB8	Ensembl:fgenesh2_kg.6__3274__AT4G04955.1
+B9FLB9	Ensembl:fgenesh2_kg.8__2248__AT5G62530.1
+B9FRT6	Ensembl:fgenesh2_kg.5__2142__AT3G57050.2
+B9FYX6	Ensembl:Al_scaffold_0007_2074
+B9FZ46	Ensembl:scaffold_603692.1 Ensembl:scaffold_801582.1 Ensembl:fgenesh2_kg.7__1740__AT4G25240.1 Ensembl:Al_scaffold_0008_1090
+B9G3A7	Ensembl:scaffold_201903.1 Ensembl:scaffold_200603.1 Ensembl:scaffold_102724.1
+B9G4Z8	Ensembl:fgenesh2_kg.3__3335__AT2G17500.3 Ensembl:Al_scaffold_0008_3334
+B9G6J6	Ensembl:scaffold_603692.1 Ensembl:scaffold_801582.1 Ensembl:fgenesh2_kg.7__1740__AT4G25240.1 Ensembl:Al_scaffold_0008_1090
+B9G942	Ensembl:fgenesh1_pm.C_scaffold_6001317
+C7IWB6	Ensembl:fgenesh2_kg.8__2352__AT5G63490.1 Ensembl:fgenesh1_pm.C_scaffold_8000800
+C7IWK8	Ensembl:fgenesh2_kg.6__644__AT5G06950.1 Ensembl:fgenesh2_kg.6__648__AT5G06960.1 Ensembl:fgenesh2_kg.3__1288__AT3G12250.4
+C7IXG8	Ensembl:fgenesh2_kg.3__1342__AT3G12780.1 Ensembl:fgenesh2_kg.1__4643__AT1G56190.1
+C7IY93	Ensembl:fgenesh2_kg.4__1537__AT2G35120.1
+C7J5F5	Ensembl:fgenesh1_pm.C_scaffold_8001287 Ensembl:fgenesh1_pm.C_scaffold_4000628 Ensembl:fgenesh2_kg.1__816__AT1G08065.1 Ensembl:fgenesh1_pg.C_scaffold_1000662
+C7J5T9	Ensembl:fgenesh1_pm.C_scaffold_4000628 Ensembl:fgenesh2_kg.1__816__AT1G08065.1 Ensembl:fgenesh1_pg.C_scaffold_1000662
+C7J6Z0	Ensembl:scaffold_102112.1
+D5A7J1	Ensembl:Al_scaffold_0002_1774 Ensembl:fgenesh2_kg.1__2513__AT1G23080.1 Ensembl:fgenesh2_kg.5__49__AT2G01420.1
+E3WF37	Ensembl:fgenesh1_pg.C_scaffold_7000678
+H6TFZ4	Ensembl:fgenesh1_pm.C_scaffold_2001317 Ensembl:fgenesh2_kg.7__3124__AT5G37180.1
+I1QJ08	Ensembl:fgenesh2_kg.7__1086__AT4G30950.1
+I1QQP8	Ensembl:fgenesh2_kg.7__948__AT4G32180.1
+I3QK18	Ensembl:scaffold_402742.1
+O04226	Ensembl:scaffold_77200001.1 Ensembl:fgenesh2_kg.4__2072__AT2G39800.1 Ensembl:fgenesh2_kg.5__1981__AT3G55610.1
+O04882	Ensembl:fgenesh2_kg.7__2590__AT4G17190.1 Ensembl:scaffold_800101.1
+O22105	Ensembl:fgenesh2_kg.7__623__AT4G34650.1 Ensembl:scaffold_700663.1
+O22567	Ensembl:fgenesh2_kg.7__2759__AT4G15560.1 Ensembl:fgenesh2_kg.3__2369__AT3G21500.2
+O24174	Ensembl:scaffold_202433.1 Ensembl:scaffold_501758.1
+O24210	Ensembl:fgenesh2_kg.8__763__AT5G48840.1
+O64422	Ensembl:fgenesh2_kg.5__1793__AT3G54050.1
+O64437	Ensembl:scaffold_700208.1 Ensembl:fgenesh2_kg.6__978__AT5G10170.1 Ensembl:scaffold_400174.1
+O82117	Ensembl:fgenesh2_kg.6__1566__AT5G15850.1 Ensembl:fgenesh2_kg.6__1563__AT5G15840.1 Ensembl:fgenesh2_kg.3__173__AT3G02380.1
+O82427	Ensembl:fgenesh2_kg.1__2215__AT1G20330.1 Ensembl:scaffold_202560.1
+P0C132	Ensembl:fgenesh1_pm.C_scaffold_3002040 Ensembl:fgenesh2_kg.7__2884__AT4G14550.1 Ensembl:fgenesh2_kg.3__443__AT3G04730.1 Ensembl:fgenesh2_kg.1__355__AT1G04250.1
+P0C587	Ensembl:fgenesh2_kg.1__1059__AT1G09940.1 Ensembl:scaffold_401655.1 Ensembl:fgenesh2_kg.2__575__AT1G58290.1
+P0C5A4	Ensembl:fgenesh2_kg.1__4349__AT1G52690.1 Ensembl:fgenesh2_kg.3__1722__AT3G15670.1
+P14654	Ensembl:fgenesh2_kg.6__1649__AT5G16570.1 Ensembl:scaffold_703639.1 Ensembl:fgenesh2_kg.2__853__AT1G66200.1
+P14655	Ensembl:fgenesh2_kg.7__3054__AT5G35630.3
+P14656	Ensembl:fgenesh2_kg.3__1967__AT3G17820.1 Ensembl:scaffold_104462.1
+P14717	Ensembl:scaffold_301180.1 Ensembl:fgenesh2_kg.4__1750__AT2G37040.1 Ensembl:scaffold_502417.1 Ensembl:fgenesh2_kg.6__337__AT5G04230.1
+P15280	Ensembl:scaffold_303188.1 Ensembl:fgenesh2_kg.8__698__AT5G48300.1
+P16081	Ensembl:scaffold_202739.1 Ensembl:scaffold_104075.1
+P17784	Ensembl:fgenesh2_kg.4__1685__AT2G36460.1 Ensembl:Al_scaffold_0006_279 Ensembl:scaffold_502377.1
+P17814	Ensembl:scaffold_104938.1 Ensembl:fgenesh2_kg.3__2344__AT3G21230.1 Ensembl:Al_scaffold_0003_2273
+P18566	Ensembl:fgenesh2_kg.7__3569__AT5G38430.1 Ensembl:fgenesh2_kg.2__935__AT1G67090.1 Ensembl:fgenesh2_kg.7__3570__AT5G38410.1
+P30298	Ensembl:fgenesh2_kg.5__780__AT3G43190.1 Ensembl:scaffold_602179.1
+P31924	Ensembl:fgenesh2_kg.5__780__AT3G43190.1 Ensembl:scaffold_602179.1
+P37833	Ensembl:scaffold_602049.1 Ensembl:fgenesh2_kg.6__1123__AT5G11520.1 Ensembl:fgenesh2_kg.2__201__AT1G62800.2
+P38419	Ensembl:fgenesh2_kg.5__899__AT3G45140.1
+P48642	Ensembl:scaffold_302922.1
+Q01KF3	Ensembl:fgenesh2_kg.6__786__AT5G08170.1
+Q01M39	Ensembl:fgenesh1_pm.C_scaffold_1001901 Ensembl:fgenesh1_pg.C_scaffold_1002043 Ensembl:Al_scaffold_0001_3548 Ensembl:fgenesh1_pm.C_scaffold_1001903 Ensembl:fgenesh1_pm.C_scaffold_3002372 Ensembl:fgenesh2_kg.2__2124__AT1G78270.1 Ensembl:fgenesh2_kg.1__2430__AT1G22360.2 Ensembl:fgenesh2_kg.1__2434__AT1G22400.1 Ensembl:fgenesh2_kg.1__2432__AT1G22370.2
+Q05JG2	Ensembl:fgenesh2_kg.7__2358__AT4G19230.2 Ensembl:Al_scaffold_0008_326
+Q06967	Ensembl:Al_scaffold_0006_1511 Ensembl:fgenesh2_kg.3__187__AT3G02520.1 Ensembl:fgenesh2_kg.7__3560__AT5G38480.1
+Q0D3D2	Ensembl:fgenesh2_kg.7__814__AT4G33070.1 Ensembl:fgenesh1_pg.C_scaffold_6000064 Ensembl:fgenesh2_kg.8__1395__AT5G54960.1 Ensembl:fgenesh2_kg.6__79__AT5G01320.1
+Q0D3F2	Ensembl:fgenesh2_kg.1__967__AT1G09240.1 Ensembl:scaffold_802149.1 Ensembl:fgenesh2_kg.6__416__AT5G04950.1 Ensembl:fgenesh2_kg.1__4760__AT1G56430.1
+Q0D3H8	Ensembl:fgenesh2_kg.4__2235__AT2G41070.2 Ensembl:scaffold_502836.1
+Q0D4Z4	Ensembl:fgenesh2_kg.7__718__AT4G33925.1
+Q0D5H9	Ensembl:fgenesh2_kg.7__1497__AT4G27350.1 Ensembl:Al_scaffold_0008_1862
+Q0D7W4	Ensembl:fgenesh2_kg.3__459__AT3G04870.2
+Q0D8I9	Ensembl:fgenesh2_kg.6__233__AT5G03280.1
+Q0DAA4	Ensembl:fgenesh2_kg.8__317__AT5G44790.1
+Q0DAE1	Ensembl:scaffold_802270.1
+Q0DAJ3	Ensembl:fgenesh2_kg.2__2291__AT1G80840.1 Ensembl:fgenesh2_kg.4__412__AT2G25000.1
+Q0DAZ7	Ensembl:fgenesh2_kg.7__823__AT4G33010.1 Ensembl:fgenesh2_kg.4__525__AT2G26080.1
+Q0DBD3	Ensembl:fgenesh2_kg.2__1252__AT1G69960.1 Ensembl:scaffold_101106.1 Ensembl:fgenesh2_kg.2__457__AT1G59830.1
+Q0DBF4	Ensembl:scaffold_602713.1
+Q0DBN4	Ensembl:fgenesh2_kg.4__1080__AT2G30970.1
+Q0DCE9	Ensembl:fgenesh2_kg.7__2830__AT4G14940.1
+Q0DDD2	Ensembl:fgenesh2_kg.2__1622__AT1G73590.1
+Q0DDS1	Ensembl:fgenesh2_kg.1__1469__AT1G13560.1 Ensembl:fgenesh2_kg.5__310__AT3G25585.1 Ensembl:fgenesh1_pm.C_scaffold_990000001
+Q0DEC8	Ensembl:fgenesh2_kg.6__2423__AT5G24300.1
+Q0DG18	Ensembl:scaffold_401953.1
+Q0DGG8	Ensembl:fgenesh2_kg.8__1583__AT5G56760.1
+Q0DGS1	Ensembl:scaffold_401977.1
+Q0DHF6	Ensembl:fgenesh2_kg.7__814__AT4G33070.1 Ensembl:fgenesh1_pg.C_scaffold_6000064 Ensembl:fgenesh2_kg.8__1395__AT5G54960.1 Ensembl:fgenesh2_kg.6__79__AT5G01320.1
+Q0DHT1	Ensembl:fgenesh1_pm.C_scaffold_1000665
+Q0DJJ9	Ensembl:fgenesh2_kg.2__1314__AT1G31220.1 Ensembl:fgenesh2_kg.1__3566__AT1G31220.1
+Q0DJT2	Ensembl:fgenesh2_kg.2__953__AT1G67280.1
+Q0DKE8	Ensembl:fgenesh1_pg.C_scaffold_1002142 Ensembl:fgenesh2_kg.2__1312__AT1G70560.1 Ensembl:fgenesh2_kg.7__1807__AT4G24670.2
+Q0DKM0	Ensembl:scaffold_402898.1
+Q0DKP3	Ensembl:fgenesh2_kg.6__3378__AT4G03190.1 Ensembl:scaffold_503580.1
+Q0DKY4	Ensembl:fgenesh2_kg.3__1916__AT3G17390.1
+Q0DS76	Ensembl:Al_scaffold_0727_1
+Q0DS96	Ensembl:fgenesh2_kg.3__2304__AT3G20770.1 Ensembl:fgenesh2_kg.4__646__AT2G27050.1
+Q0DSM1	Ensembl:scaffold_503551.1 Ensembl:fgenesh2_kg.6__3450__AT4G02500.1
+Q0DUI1	Ensembl:fgenesh2_kg.1__4616__AT1G55920.1 Ensembl:scaffold_301498.1
+Q0DV32	Ensembl:fgenesh2_kg.6__3300__AT4G05160.1
+Q0DWC7	Ensembl:Al_scaffold_0003_2493 Ensembl:Al_scaffold_0001_353 Ensembl:fgenesh2_kg.3__416__AT3G04580.1
+Q0DWF2	Ensembl:fgenesh2_kg.7__1332__AT4G28640.1 Ensembl:fgenesh2_kg.1__340__AT1G04100.1 Ensembl:fgenesh2_kg.1__390__AT1G04550.2 Ensembl:fgenesh2_kg.4__1330__AT2G33310.1
+Q0DWH1	Ensembl:fgenesh2_kg.8__422__AT5G43940.1
+Q0DWY7	Ensembl:fgenesh2_kg.7__1675__AT4G25780.1
+Q0DXM9	Ensembl:fgenesh2_kg.2__1622__AT1G73590.1
+Q0DY86	Ensembl:fgenesh2_kg.2__1449__AT5G10330.1
+Q0DZE0	Ensembl:scaffold_301180.1 Ensembl:fgenesh2_kg.4__1750__AT2G37040.1 Ensembl:scaffold_502417.1 Ensembl:fgenesh2_kg.6__337__AT5G04230.1
+Q0E079	Ensembl:scaffold_400194.1 Ensembl:fgenesh2_kg.8__2448__AT5G64300.1
+Q0E088	Ensembl:fgenesh2_kg.2__2243__AT1G79460.1
+Q0E0S0	Ensembl:fgenesh2_kg.6__286__AT5G03730.1
+Q0E2P1	Ensembl:fgenesh2_kg.1__1938__AT1G17720.1
+Q0E2Y8	Ensembl:scaffold_601144.1
+Q0E3F2	Ensembl:fgenesh2_kg.7__1153__AT4G30310.2
+Q0E3J1	Ensembl:fgenesh2_kg.8__317__AT5G44790.1
+Q0E3L4	Ensembl:scaffold_100655.1
+Q0E4F0	Ensembl:fgenesh2_kg.4__59__AT2G21340.1 Ensembl:fgenesh2_kg.7__104__AT4G39030.1
+Q0E4H0	Ensembl:fgenesh2_kg.1__1469__AT1G13560.1 Ensembl:fgenesh2_kg.5__310__AT3G25585.1 Ensembl:fgenesh1_pm.C_scaffold_990000001
+Q0E4N2	Ensembl:scaffold_502535.1 Ensembl:fgenesh2_kg.4__1941__AT2G38700.1
+Q0ILP7	Ensembl:fgenesh2_kg.8__839__AT5G49650.1
+Q0ILR7	Ensembl:fgenesh1_pg.C_scaffold_4001554 Ensembl:scaffold_702337.1
+Q0INY7	Ensembl:fgenesh2_kg.7__3569__AT5G38430.1 Ensembl:fgenesh2_kg.2__935__AT1G67090.1 Ensembl:fgenesh2_kg.7__3570__AT5G38410.1
+Q0INZ4	Ensembl:scaffold_202825.1 Ensembl:fgenesh2_kg.7__3482__AT1G17050.1 Ensembl:Al_scaffold_0001_1761
+Q0IPE5	Ensembl:fgenesh1_pm.C_scaffold_1001391 Ensembl:Al_scaffold_0002_2661
+Q0IPF7	Ensembl:fgenesh2_kg.2__732__ATCG00490.1
+Q0IQ89	Ensembl:fgenesh2_kg.1__4128__AT1G50450.1
+Q0IQQ5	Ensembl:fgenesh2_kg.96__1__AT2G38330.1 Ensembl:fgenesh2_kg.4__1904__AT2G38330.1
+Q0IRE6	Ensembl:fgenesh2_kg.6__2724__AT5G27380.1
+Q0ISY7	Ensembl:Al_scaffold_0008_2452 Ensembl:scaffold_704317.1 Ensembl:Al_scaffold_0005_2479 Ensembl:Al_scaffold_0005_1457 Ensembl:fgenesh2_kg.4__566__AT2G26480.1 Ensembl:scaffold_501578.1 Ensembl:Al_scaffold_0005_1453 Ensembl:fgenesh1_pg.C_scaffold_5001150 Ensembl:fgenesh2_kg.5__1032__AT3G46670.1 Ensembl:fgenesh2_kg.7__3607__AT5G38040.1 Ensembl:fgenesh2_kg.6__520__AT5G05860.1 Ensembl:fgenesh2_kg.5__1031__AT3G46650.1 Ensembl:fgenesh2_kg.8__1910__AT5G59590.1 Ensembl:fgenesh1_pm.C_scaffold_6000432 Ensembl:fgenesh2_kg.5__1996__AT3G55700.1 Ensembl:fgenesh2_kg.5__1034__AT3G46690.1 Ensembl:fgenesh2_kg.6__521__AT5G05890.1 Ensembl:fgenesh2_kg.6__523__AT5G05900.1 Ensembl:Al_scaffold_0003_1142 Ensembl:fgenesh2_kg.5__1997__AT3G55710.1 Ensembl:Al_scaffold_0005_1460
+Q0ITU1	Ensembl:fgenesh2_kg.3__2898__AT2G05830.1
+Q0ITW7	Ensembl:scaffold_202672.1
+Q0IU28	Ensembl:scaffold_502313.1
+Q0IZJ9	Ensembl:fgenesh2_kg.4__781__AT2G27820.1
+Q0IZR4	Ensembl:fgenesh2_kg.3__3335__AT2G17500.3 Ensembl:Al_scaffold_0008_3334
+Q0IZS0	Ensembl:fgenesh2_kg.5__44__AT2G01350.1
+Q0IZX5	Ensembl:fgenesh2_kg.7__496__AT4G35790.1
+Q0J0L4	Ensembl:scaffold_500637.1 Ensembl:fgenesh2_kg.7__3323__AT5G40870.1
+Q0J0M8	Ensembl:fgenesh2_kg.3__3322__AT2G17370.1 Ensembl:fgenesh1_pm.C_scaffold_2001603
+Q0J0N3	Ensembl:scaffold_302896.1
+Q0J0P1	Ensembl:scaffold_202309.1
+Q0J185	Ensembl:fgenesh2_kg.3__2143__AT3G19270.1
+Q0J1C1	Ensembl:scaffold_100473.1 Ensembl:Al_scaffold_0001_1215 Ensembl:fgenesh2_kg.2__235__AT1G62380.1
+Q0J1E1	Ensembl:fgenesh2_kg.1__4130__AT1G50480.1
+Q0J2L7	Ensembl:Al_scaffold_0048_9 Ensembl:fgenesh2_kg.8__1850__AT5G59220.1 Ensembl:fgenesh2_kg.3__1179__AT3G11410.1 Ensembl:Al_scaffold_0004_1351 Ensembl:fgenesh2_kg.1__718__AT1G07430.1
+Q0J2S0	Ensembl:scaffold_202318.1
+Q0J484	Ensembl:fgenesh1_pm.C_scaffold_6001317
+Q0J7W9	Ensembl:fgenesh2_kg.1__131__AT1G01060.3 Ensembl:scaffold_403655.1
+Q0J8A4	Ensembl:fgenesh2_kg.3__374__AT3G04120.1 Ensembl:fgenesh2_kg.1__1453__AT1G13440.1
+Q0J8X6	Ensembl:fgenesh2_kg.6__3642__AT4G00590.1
+Q0J951	Ensembl:fgenesh2_kg.7__3131__AT5G37020.1
+Q0J9F2	Ensembl:fgenesh2_kg.7__2590__AT4G17190.1 Ensembl:scaffold_800101.1
+Q0J9H0	Ensembl:fgenesh2_kg.6__2130__AT5G20900.1
+Q0J9K2	Ensembl:fgenesh2_kg.2__2336__AT1G80460.1
+Q0J9Z0	Ensembl:fgenesh1_pm.C_scaffold_1000980
+Q0JA81	Ensembl:fgenesh2_kg.2__2243__AT1G79460.1
+Q0JA82	Ensembl:fgenesh2_kg.2__2243__AT1G79460.1
+Q0JAI1	Ensembl:Al_scaffold_0008_2690
+Q0JB49	Ensembl:fgenesh2_kg.6__3116__AT4G11600.1
+Q0JB91	Ensembl:fgenesh2_kg.8__2133__AT5G61540.1
+Q0JB99	Ensembl:fgenesh2_kg.8__70__AT5G47220.1
+Q0JBF1	Ensembl:Al_scaffold_0002_256 Ensembl:scaffold_101339.1
+Q0JBZ8	Ensembl:scaffold_105454.1
+Q0JC10	Ensembl:fgenesh2_kg.3__182__AT3G02468.1 Ensembl:scaffold_301900.1 Ensembl:fgenesh2_kg.5__305__AT3G25570.1 Ensembl:fgenesh2_kg.6__1579__AT5G15948.1
+Q0JCU7	Ensembl:fgenesh2_kg.8__2713__AT5G67030.1
+Q0JCZ4	Ensembl:fgenesh2_kg.2__468__AT1G59750.1
+Q0JDD2	Ensembl:fgenesh2_kg.5__1633__AT3G52720.1
+Q0JDF7	Ensembl:fgenesh2_kg.4__781__AT2G27820.1
+Q0JDN5	Ensembl:fgenesh2_kg.5__1960__AT3G55410.1 Ensembl:fgenesh2_kg.8__2629__AT5G65750.1
+Q0JDT1	Ensembl:fgenesh2_kg.1__870__AT1G08550.1
+Q0JE53	Ensembl:fgenesh1_pm.C_scaffold_1001901 Ensembl:fgenesh1_pg.C_scaffold_1002043 Ensembl:Al_scaffold_0001_3548 Ensembl:fgenesh1_pm.C_scaffold_1001903 Ensembl:fgenesh1_pm.C_scaffold_3002372 Ensembl:fgenesh2_kg.2__2124__AT1G78270.1 Ensembl:fgenesh2_kg.1__2430__AT1G22360.2 Ensembl:fgenesh2_kg.1__2434__AT1G22400.1 Ensembl:fgenesh2_kg.1__2432__AT1G22370.2
+Q0JEK1	Ensembl:fgenesh2_kg.4__2741__AT2G45440.1 Ensembl:fgenesh2_kg.5__2554__AT3G60880.2
+Q0JEP5	Ensembl:fgenesh2_kg.491__1__AT3G10370.1 Ensembl:fgenesh2_kg.3__1068__AT3G10370.1
+Q0JEX4	Ensembl:fgenesh2_kg.5__128__AT2G02130.1 Ensembl:Al_scaffold_0008_2899 Ensembl:fgenesh2_kg.2__349__AT1G61070.1
+Q0JEZ8	Ensembl:fgenesh2_kg.2__2243__AT1G79460.1
+Q0JF02	Ensembl:fgenesh1_pg.C_scaffold_6003139
+Q0JF25	Ensembl:fgenesh2_kg.4__157__AT2G22330.1 Ensembl:fgenesh2_kg.7__213__AT4G39950.1
+Q0JF26	Ensembl:fgenesh2_kg.4__157__AT2G22330.1 Ensembl:fgenesh2_kg.7__213__AT4G39950.1
+Q0JF30	Ensembl:Al_scaffold_0003_2493 Ensembl:Al_scaffold_0001_353 Ensembl:fgenesh2_kg.3__416__AT3G04580.1
+Q0JGK4	Ensembl:fgenesh2_kg.1__431__AT1G04920.1
+Q0JHN3	Ensembl:fgenesh2_kg.4__2091__AT2G39940.1
+Q0JI87	Ensembl:fgenesh2_kg.6__4__AT5G01990.1
+Q0JIC2	Ensembl:fgenesh2_kg.3__1182__AT3G11440.1 Ensembl:fgenesh2_kg.6__546__AT5G06100.3
+Q0JIJ8	Ensembl:fgenesh2_kg.5__2333__AT3G58830.1
+Q0JIR6	Ensembl:fgenesh1_pm.C_scaffold_3001662 Ensembl:fgenesh2_kg.2__1770__AT1G75020.1
+Q0JJ01	Ensembl:fgenesh2_kg.8__285__AT5G45110.1 Ensembl:Al_scaffold_0007_2194
+Q0JJV0	Ensembl:fgenesh1_pm.C_scaffold_6001187
+Q0JKG7	Ensembl:fgenesh2_kg.7__1282__AT4G29080.1
+Q0JKI9	Ensembl:scaffold_401977.1
+Q0JKX2	Ensembl:Al_scaffold_0002_1774 Ensembl:fgenesh2_kg.1__2513__AT1G23080.1 Ensembl:fgenesh2_kg.5__49__AT2G01420.1
+Q0JKY8	Ensembl:fgenesh2_kg.3__72__AT3G01500.2 Ensembl:Al_scaffold_0001_2487 Ensembl:fgenesh2_kg.6__1453__AT5G14740.2 Ensembl:fgenesh2_kg.2__1291__AT1G70410.2
+Q0JNV2	Ensembl:fgenesh2_kg.3__272__AT3G03250.1 Ensembl:scaffold_601782.1
+Q0JP90	Ensembl:fgenesh2_kg.4__2868__AT2G46510.1
+Q0JPS3	Ensembl:fgenesh2_kg.1__610__AT1G06390.1 Ensembl:scaffold_702548.1 Ensembl:scaffold_401613.1
+Q0JPT4	Ensembl:fgenesh2_kg.7__2404__AT4G18890.1
+Q0JQ41	Ensembl:scaffold_202374.1 Ensembl:scaffold_603301.1 Ensembl:scaffold_202084.1 Ensembl:Al_scaffold_0001_3492
+Q0JR06	Ensembl:fgenesh1_pg.C_scaffold_2001171
+Q0JR55	Ensembl:fgenesh2_kg.1__1653__AT1G15110.1
+Q0JRG4	Ensembl:fgenesh2_kg.5__464__AT3G26900.2
+Q109K4	Ensembl:scaffold_702270.1
+Q10A30	Ensembl:fgenesh2_kg.4__1685__AT2G36460.1 Ensembl:Al_scaffold_0006_279 Ensembl:scaffold_502377.1
+Q10A97	Ensembl:fgenesh2_kg.1__587__AT1G06160.1 Ensembl:scaffold_302806.1 Ensembl:fgenesh2_kg.4__1110__AT2G31230.1
+Q10B63	Ensembl:fgenesh2_kg.7__2724__AT4G15940.1 Ensembl:fgenesh2_kg.3__1838__AT3G16700.1
+Q10BA5	Ensembl:scaffold_301027.1
+Q10BT5	Ensembl:fgenesh2_kg.5__2291__AT3G58500.1 Ensembl:scaffold_403121.1
+Q10BX9	Ensembl:fgenesh2_kg.6__801__AT5G08340.1 Ensembl:fgenesh2_kg.6__2328__AT5G23330.1
+Q10CE4	Ensembl:scaffold_202808.1 Ensembl:fgenesh2_kg.3__1563__AT3G14420.2 Ensembl:fgenesh1_pm.C_scaffold_60000002
+Q10CQ1	Ensembl:scaffold_102909.1 Ensembl:scaffold_802730.1 Ensembl:Al_scaffold_0005_914 Ensembl:fgenesh2_kg.2__1169__AT1G69120.1
+Q10CS9	Ensembl:Al_scaffold_0008_506
+Q10CU7	Ensembl:scaffold_101819.1 Ensembl:fgenesh2_kg.2__2244__AT1G79470.1
+Q10D34	Ensembl:fgenesh1_pm.C_scaffold_3002040 Ensembl:fgenesh2_kg.7__2884__AT4G14550.1 Ensembl:fgenesh2_kg.3__443__AT3G04730.1 Ensembl:fgenesh2_kg.1__355__AT1G04250.1
+Q10D68	Ensembl:fgenesh2_kg.7__254__AT4G37930.1 Ensembl:fgenesh2_kg.6__2643__AT5G26780.3
+Q10D87	Ensembl:fgenesh2_kg.6__1052__AT5G10860.1
+Q10DK7	Ensembl:fgenesh1_pm.C_scaffold_6002293 Ensembl:fgenesh1_pg.C_scaffold_4000179 Ensembl:fgenesh1_pm.C_scaffold_8002139 Ensembl:fgenesh2_kg.7__272__AT4G37770.1 Ensembl:fgenesh1_pg.C_scaffold_5001472
+Q10DU0	Ensembl:fgenesh2_kg.1__1007__AT1G09570.1
+Q10DZ5	Ensembl:scaffold_301151.1
+Q10E50	Ensembl:scaffold_303402.1
+Q10EG4	Ensembl:fgenesh2_kg.6__233__AT5G03280.1
+Q10FE9	Ensembl:scaffold_602255.1
+Q10G56	Ensembl:fgenesh2_kg.8__172__AT5G46180.1
+Q10H87	Ensembl:scaffold_600815.1
+Q10HZ6	Ensembl:fgenesh2_kg.4__157__AT2G22330.1 Ensembl:fgenesh2_kg.7__213__AT4G39950.1
+Q10J20	Ensembl:scaffold_700333.1
+Q10J32	Ensembl:fgenesh1_pm.C_scaffold_8001830
+Q10JI3	Ensembl:scaffold_201780.1
+Q10L50	Ensembl:scaffold_601980.1 Ensembl:scaffold_302847.1
+Q10L51	Ensembl:Al_scaffold_0007_652 Ensembl:scaffold_700730.1 Ensembl:scaffold_303730.1 Ensembl:fgenesh2_kg.7__693__AT4G34135.1 Ensembl:fgenesh1_pg.C_scaffold_3002899
+Q10L56	Ensembl:fgenesh2_kg.4__3067__AT2G48150.1 Ensembl:fgenesh1_pm.C_scaffold_5002277
+Q10LP5	Ensembl:fgenesh2_kg.6__3476__AT4G02280.1 Ensembl:fgenesh2_kg.8__796__AT5G49190.1
+Q10LR4	Ensembl:scaffold_402568.1 Ensembl:scaffold_300993.1
+Q10LR5	Ensembl:fgenesh2_kg.4__2991__AT2G47510.1 Ensembl:fgenesh2_kg.8__976__AT5G50950.2
+Q10M55	Ensembl:fgenesh2_kg.4__2235__AT2G41070.2 Ensembl:scaffold_502836.1
+Q10MB0	Ensembl:fgenesh2_kg.1__4773__AT1G56600.1 Ensembl:fgenesh2_kg.4__2954__AT2G47180.1 Ensembl:fgenesh1_pm.C_scaffold_1000758 Ensembl:fgenesh2_kg.7__1621__AT4G26250.1 Ensembl:Al_scaffold_0006_2255
+Q10MG9	Ensembl:scaffold_702875.1 Ensembl:fgenesh2_kg.3__3552__AT2G18790.1
+Q10MI9	Ensembl:fgenesh2_kg.1__967__AT1G09240.1 Ensembl:scaffold_802149.1 Ensembl:fgenesh2_kg.6__416__AT5G04950.1 Ensembl:fgenesh2_kg.1__4760__AT1G56430.1
+Q10MQ2	Ensembl:fgenesh2_kg.7__745__AT4G33680.1
+Q10MS2	Ensembl:fgenesh1_pm.C_scaffold_6000395
+Q10MW3	Ensembl:fgenesh2_kg.7__814__AT4G33070.1 Ensembl:fgenesh1_pg.C_scaffold_6000064 Ensembl:fgenesh2_kg.8__1395__AT5G54960.1 Ensembl:fgenesh2_kg.6__79__AT5G01320.1
+Q10MX9	Ensembl:fgenesh2_kg.6__487__AT5G05580.1 Ensembl:fgenesh2_kg.3__1157__AT3G11170.1
+Q10N17	Ensembl:Al_scaffold_0003_789
+Q10NY1	Ensembl:scaffold_104513.1
+Q10NY2	Ensembl:fgenesh2_kg.1__1727__AT1G15750.2 Ensembl:scaffold_203017.1
+Q10P01	Ensembl:scaffold_700461.1
+Q10P67	Ensembl:fgenesh2_kg.4__2582__AT2G44040.1 Ensembl:fgenesh2_kg.5__2445__AT3G59890.1
+Q10PE7	Ensembl:Al_scaffold_0002_561 Ensembl:fgenesh2_kg.2__444__AT1G59960.1
+Q10PL0	Ensembl:scaffold_104728.1 Ensembl:fgenesh2_kg.1__4098__AT1G50110.1 Ensembl:scaffold_302330.1 Ensembl:Al_scaffold_0001_981 Ensembl:scaffold_101060.1 Ensembl:fgenesh2_kg.1__4097__AT1G50090.1
+Q10PY7	Ensembl:fgenesh2_kg.3__847__AT3G08040.1
+Q10QA5	Ensembl:fgenesh2_kg.3__357__AT3G03990.1
+Q10QH1	Ensembl:fgenesh2_kg.1__4616__AT1G55920.1 Ensembl:scaffold_301498.1
+Q10QN3	Ensembl:fgenesh2_kg.2__402__AT1G60600.1
+Q10QR9	Ensembl:fgenesh2_kg.4__574__AT2G26540.1
+Q10QT9	Ensembl:scaffold_200813.1 Ensembl:fgenesh2_kg.2__1492__AT1G72330.1 Ensembl:scaffold_101927.1
+Q10RP2	Ensembl:fgenesh2_kg.4__1981__AT2G39020.1 Ensembl:fgenesh2_kg.4__1982__AT2G39030.1
+Q10S34	Ensembl:scaffold_700524.1
+Q10S55	Ensembl:scaffold_200748.1 Ensembl:scaffold_200746.1 Ensembl:fgenesh2_kg.1__1035__AT1G09795.1
+Q10S58	Ensembl:scaffold_700553.1 Ensembl:fgenesh2_kg.3__3357__AT2G17640.1
+Q10S67	Ensembl:scaffold_104844.1 Ensembl:fgenesh1_pm.C_scaffold_7000451 Ensembl:fgenesh1_pg.C_scaffold_3003089
+Q10S72	Ensembl:fgenesh2_kg.7__3598__AT5G38120.1 Ensembl:fgenesh2_kg.1__2232__AT1G20510.1
+Q10SD6	Ensembl:scaffold_601857.1
+Q10SL7	Ensembl:fgenesh2_kg.8__1097__AT5G52100.1
+Q10SM6	Ensembl:fgenesh2_kg.7__2224__AT4G20960.1
+Q10SM9	Ensembl:fgenesh2_kg.8__1097__AT5G52100.1
+Q10SP1	Ensembl:fgenesh2_kg.4__2879__AT2G46580.1
+Q10SU1	Ensembl:fgenesh1_pg.C_scaffold_3001025 Ensembl:fgenesh2_kg.6__535__AT5G05980.1
+Q10T43	Ensembl:Al_scaffold_0007_2541
+Q25AR2	Ensembl:Al_scaffold_0007_3056 Ensembl:Al_scaffold_0007_3048 Ensembl:scaffold_703081.1 Ensembl:fgenesh2_kg.3__2460__AT3G22425.2
+Q2KNB4	Ensembl:fgenesh2_kg.1__4129__AT1G50460.1 Ensembl:fgenesh2_kg.3__2224__AT3G20040.1
+Q2KNB5	Ensembl:fgenesh2_kg.1__4129__AT1G50460.1 Ensembl:fgenesh2_kg.3__2224__AT3G20040.1
+Q2MJA7	Ensembl:fgenesh2_kg.6__3167__AT4G12250.1
+Q2MJA8	Ensembl:scaffold_302896.1
+Q2QLJ0	Ensembl:fgenesh2_kg.5__2858__AT3G63520.1
+Q2QM47	Ensembl:scaffold_100867.1 Ensembl:fgenesh2_kg.4__676__AT2G27210.1
+Q2QM83	Ensembl:Al_scaffold_0007_2074
+Q2QMD4	Ensembl:scaffold_202901.1 Ensembl:fgenesh2_kg.1__1797__AT1G16460.1
+Q2QME6	Ensembl:fgenesh2_kg.3__2487__AT3G22740.1 Ensembl:fgenesh2_kg.5__2821__AT3G63250.1
+Q2QMK8	Ensembl:fgenesh2_kg.7__3196__AT5G37850.2
+Q2QN06	Ensembl:fgenesh2_kg.1__2932__AT1G27730.1 Ensembl:scaffold_800768.1 Ensembl:fgenesh2_kg.8__2666__AT5G67450.1 Ensembl:scaffold_600374.1 Ensembl:fgenesh2_kg.3__2173__AT3G19580.2 Ensembl:fgenesh2_kg.5__1344__AT3G49930.1
+Q2QNN5	Ensembl:fgenesh2_kg.5__899__AT3G45140.1
+Q2QNS6	Ensembl:scaffold_100210.1
+Q2QPH4	Ensembl:fgenesh2_kg.6__3398__AT4G02980.1
+Q2QPR0	Ensembl:scaffold_301180.1 Ensembl:fgenesh2_kg.4__1750__AT2G37040.1 Ensembl:scaffold_502417.1 Ensembl:fgenesh2_kg.6__337__AT5G04230.1
+Q2QQJ5	Ensembl:fgenesh2_kg.2__2243__AT1G79460.1
+Q2QQX6	Ensembl:scaffold_802850.1
+Q2QR54	Ensembl:fgenesh2_kg.1__3403__AT1G32583.1
+Q2QRX6	Ensembl:fgenesh2_kg.3__3501__AT2G16370.1 Ensembl:Al_scaffold_0007_595 Ensembl:Al_scaffold_0004_72
+Q2QTJ1	Ensembl:fgenesh2_kg.7__3569__AT5G38430.1 Ensembl:fgenesh2_kg.2__935__AT1G67090.1 Ensembl:fgenesh2_kg.7__3570__AT5G38410.1
+Q2QTL0	Ensembl:scaffold_801430.1
+Q2QTQ1	Ensembl:fgenesh2_kg.1__864__AT1G08490.1
+Q2QUG4	Ensembl:Al_scaffold_0004_1497 Ensembl:scaffold_803541.1 Ensembl:fgenesh2_kg.4__1043__AT2G30650.1
+Q2QUI0	Ensembl:fgenesh2_kg.6__2724__AT5G27380.1
+Q2QVC1	Ensembl:scaffold_701843.1
+Q2QWK9	Ensembl:fgenesh2_kg.1__2499__AT1G22940.1
+Q2QX49	Ensembl:fgenesh2_kg.4__1690__AT2G36500.1 Ensembl:fgenesh2_kg.5__1661__AT3G52950.1
+Q2QX58	Ensembl:fgenesh2_kg.2__2053__AT1G77590.1
+Q2QXB1	Ensembl:fgenesh2_kg.1__2312__AT1G21200.1 Ensembl:scaffold_202642.1
+Q2QXL0	Ensembl:fgenesh1_pm.C_scaffold_1000665
+Q2QXP0	Ensembl:fgenesh2_kg.6__741__AT5G07720.1 Ensembl:fgenesh1_pm.C_scaffold_1001597 Ensembl:fgenesh2_kg.2__1701__AT1G74380.1
+Q2QXY1	Ensembl:fgenesh2_kg.5__1148__AT3G47930.1
+Q2QXY9	Ensembl:fgenesh2_kg.2__1674__AT1G74040.1 Ensembl:fgenesh1_pm.C_scaffold_6001819 Ensembl:scaffold_602364.1 Ensembl:fgenesh2_kg.1__2024__AT1G18500.1 Ensembl:scaffold_602363.1
+Q2QXZ1	Ensembl:fgenesh2_kg.4__2260__AT2G41290.1
+Q2QY63	Ensembl:Al_scaffold_0008_1000 Ensembl:Al_scaffold_0008_1008 Ensembl:fgenesh2_kg.3__2624__AT3G24090.1
+Q2QYB7	Ensembl:scaffold_602203.1
+Q2QYW4	Ensembl:fgenesh2_kg.4__967__AT2G29980.1
+Q2QZ14	Ensembl:scaffold_100747.1 Ensembl:fgenesh2_kg.4__916__AT2G29390.1
+Q2R0P3	Ensembl:scaffold_104888.1 Ensembl:scaffold_502939.1 Ensembl:fgenesh2_kg.1__4194__AT1G51260.1
+Q2R1D5	Ensembl:fgenesh1_pm.C_scaffold_1001897 Ensembl:fgenesh2_kg.1__3600__AT1G34760.2
+Q2R1G8	Ensembl:scaffold_803237.1
+Q2R1L4	Ensembl:fgenesh2_kg.3__195__AT3G02570.1 Ensembl:Al_scaffold_0002_1331
+Q2R2W1	Ensembl:fgenesh2_kg.2__1049__AT1G68050.1
+Q2R2W2	Ensembl:Al_scaffold_0006_1511 Ensembl:fgenesh2_kg.3__187__AT3G02520.1 Ensembl:fgenesh2_kg.7__3560__AT5G38480.1
+Q2R2W3	Ensembl:scaffold_303402.1
+Q2R2W8	Ensembl:scaffold_700304.1 Ensembl:fgenesh2_kg.4__212__AT2G22900.1
+Q2R339	Ensembl:fgenesh2_kg.5__2467__AT3G60100.1 Ensembl:fgenesh2_kg.4__2620__AT2G44350.2
+Q2R3A1	Ensembl:fgenesh2_kg.6__1353__AT5G13930.1
+Q2R3F5	Ensembl:scaffold_802850.1
+Q2R3K3	Ensembl:fgenesh2_kg.5__1224__AT3G48780.1 Ensembl:fgenesh2_kg.6__2361__AT5G23670.1 Ensembl:fgenesh2_kg.5__1225__AT3G48790.1
+Q2R3K5	Ensembl:scaffold_101427.1 Ensembl:fgenesh2_kg.5__448__AT3G26810.1
+Q2R432	Ensembl:fgenesh2_kg.6__1258__AT5G13080.1 Ensembl:scaffold_300012.1
+Q2R481	Ensembl:fgenesh2_kg.3__3501__AT2G16370.1 Ensembl:Al_scaffold_0007_595 Ensembl:Al_scaffold_0004_72
+Q2R4Y8	Ensembl:scaffold_703258.1 Ensembl:fgenesh2_kg.3__2594__AT3G23810.1
+Q2R8T7	Ensembl:fgenesh1_pm.C_scaffold_6001137 Ensembl:fgenesh2_kg.3__52__AT3G01640.1
+Q2RA11	Ensembl:fgenesh2_kg.4__1690__AT2G36500.1 Ensembl:fgenesh2_kg.5__1661__AT3G52950.1
+Q2RAM8	Ensembl:fgenesh2_kg.7__2760__AT4G15550.1 Ensembl:scaffold_703230.1 Ensembl:scaffold_100533.1 Ensembl:scaffold_100538.1
+Q2RAP0	Ensembl:fgenesh2_kg.5__1148__AT3G47930.1
+Q2RAP4	Ensembl:scaffold_600542.1
+Q2RAP8	Ensembl:fgenesh2_kg.2__1674__AT1G74040.1 Ensembl:fgenesh1_pm.C_scaffold_6001819 Ensembl:scaffold_602364.1 Ensembl:fgenesh2_kg.1__2024__AT1G18500.1 Ensembl:scaffold_602363.1
+Q2RAW4	Ensembl:fgenesh2_kg.6__1329__AT5G13740.1 Ensembl:fgenesh2_kg.6__1330__AT5G13750.1
+Q2RAW8	Ensembl:fgenesh2_kg.6__1329__AT5G13740.1 Ensembl:fgenesh2_kg.6__1330__AT5G13750.1
+Q2RB23	Ensembl:scaffold_602203.1
+Q2RBP1	Ensembl:fgenesh2_kg.4__967__AT2G29980.1
+Q2V0P1	Ensembl:fgenesh2_kg.6__2975__AT4G09960.3
+Q336M7	Ensembl:fgenesh2_kg.7__2388__AT4G19010.1
+Q336N7	Ensembl:fgenesh2_kg.4__1570__AT2G35500.1
+Q336P5	Ensembl:fgenesh2_kg.7__2520__AT4G17880.1 Ensembl:scaffold_800152.1 Ensembl:Al_scaffold_0008_132 Ensembl:scaffold_103634.1
+Q336U3	Ensembl:fgenesh2_kg.5__742__AT3G30775.1 Ensembl:fgenesh2_kg.7__3532__AT5G38710.1
+Q336V3	Ensembl:fgenesh2_kg.5__1680__AT3G53130.1
+Q336X9	Ensembl:fgenesh1_pm.C_scaffold_4002318 Ensembl:scaffold_604153.1 Ensembl:scaffold_100086.1 Ensembl:scaffold_603531.1
+Q337F0	Ensembl:scaffold_604240.1
+Q337F3	Ensembl:fgenesh1_pg.C_scaffold_3001025 Ensembl:fgenesh2_kg.6__535__AT5G05980.1
+Q337H3	Ensembl:fgenesh2_kg.7__1126__AT4G30580.1
+Q338N8	Ensembl:scaffold_200813.1 Ensembl:fgenesh2_kg.2__1492__AT1G72330.1 Ensembl:scaffold_101927.1
+Q338Z4	Ensembl:fgenesh2_kg.8__868__AT5G49970.1
+Q339V1	Ensembl:fgenesh2_kg.6__2716__AT5G27450.1
+Q33AE4	Ensembl:fgenesh2_kg.8__1063__AT5G51820.1
+Q33CD8	Ensembl:scaffold_601980.1 Ensembl:scaffold_302847.1
+Q33CD9	Ensembl:scaffold_601980.1 Ensembl:scaffold_302847.1
+Q40704	Ensembl:fgenesh2_kg.6__2975__AT4G09960.3
+Q40710	Ensembl:fgenesh2_kg.1__4773__AT1G56600.1 Ensembl:fgenesh2_kg.4__2954__AT2G47180.1 Ensembl:fgenesh1_pm.C_scaffold_1000758 Ensembl:fgenesh2_kg.7__1621__AT4G26250.1 Ensembl:Al_scaffold_0006_2255
+Q42982	Ensembl:fgenesh1_pm.C_scaffold_2000502
+Q43009	Ensembl:fgenesh2_kg.5__780__AT3G43190.1 Ensembl:scaffold_602179.1
+Q43011	Ensembl:fgenesh2_kg.8__2539__AT5G65010.2 Ensembl:scaffold_601038.1
+Q4W8D0	Ensembl:fgenesh2_kg.6__1649__AT5G16570.1 Ensembl:scaffold_703639.1 Ensembl:fgenesh2_kg.2__853__AT1G66200.1
+Q52RG7	Ensembl:fgenesh2_kg.1__2954__AT1G27980.1
+Q53L28	Ensembl:fgenesh2_kg.6__1614__AT5G16290.2
+Q53M09	Ensembl:scaffold_500171.1 Ensembl:Al_scaffold_0005_144
+Q53MS9	Ensembl:scaffold_76200001.1 Ensembl:scaffold_401693.1
+Q53Q70	Ensembl:fgenesh1_pm.C_scaffold_1000665
+Q53RH0	Ensembl:scaffold_402898.1
+Q5CCK1	Ensembl:scaffold_600542.1
+Q5CCK3	Ensembl:scaffold_502097.1
+Q5JK17	Ensembl:Al_scaffold_0001_1326 Ensembl:fgenesh2_kg.5__441__AT3G26744.2
+Q5JK18	Ensembl:scaffold_601338.1 Ensembl:scaffold_300008.1 Ensembl:fgenesh2_kg.6__1371__AT5G14060.1
+Q5JK20	Ensembl:scaffold_802850.1
+Q5JK39	Ensembl:fgenesh2_kg.5__1224__AT3G48780.1 Ensembl:fgenesh2_kg.6__2361__AT5G23670.1 Ensembl:fgenesh2_kg.5__1225__AT3G48790.1
+Q5JLS4	Ensembl:fgenesh2_kg.7__1558__AT4G26770.1 Ensembl:fgenesh2_kg.2__230__AT1G62430.1 Ensembl:fgenesh2_kg.7__2064__AT4G22340.3
+Q5JMA6	Ensembl:fgenesh2_kg.7__1236__AT4G29540.2
+Q5JMB6	Ensembl:scaffold_202374.1 Ensembl:scaffold_603301.1 Ensembl:scaffold_202084.1 Ensembl:Al_scaffold_0001_3492
+Q5JMC7	Ensembl:fgenesh2_kg.4__108__AT2G21860.1
+Q5JME6	Ensembl:fgenesh2_kg.7__3354__AT5G40610.1
+Q5JMM1	Ensembl:scaffold_401977.1
+Q5JMT5	Ensembl:fgenesh2_kg.4__1690__AT2G36500.1 Ensembl:fgenesh2_kg.5__1661__AT3G52950.1
+Q5JMX5	Ensembl:fgenesh2_kg.3__2797__AT2G04560.1
+Q5JMX9	Ensembl:Al_scaffold_0001_597
+Q5JN19	Ensembl:scaffold_201792.1 Ensembl:fgenesh2_kg.5__681__AT3G29200.1
+Q5JN42	Ensembl:Al_scaffold_0008_2175 Ensembl:fgenesh2_kg.8__1632__AT5G57190.1 Ensembl:fgenesh1_pg.C_scaffold_161000001 Ensembl:fgenesh2_kg.7__1653__AT4G25970.1
+Q5JN63	Ensembl:fgenesh2_kg.7__2414__AT4G18780.1
+Q5JNB0	Ensembl:fgenesh1_pm.C_scaffold_5001977 Ensembl:scaffold_403279.1
+Q5KQI0	Ensembl:fgenesh2_kg.6__4__AT5G01990.1
+Q5KS47	Ensembl:Al_scaffold_0001_3504 Ensembl:scaffold_202099.1
+Q5N725	Ensembl:fgenesh2_kg.4__1685__AT2G36460.1 Ensembl:Al_scaffold_0006_279 Ensembl:scaffold_502377.1
+Q5N7C7	Ensembl:fgenesh1_pm.C_scaffold_1000665
+Q5N7L0	Ensembl:scaffold_701864.1 Ensembl:fgenesh2_kg.2__1096__AT1G68460.1 Ensembl:fgenesh1_pm.C_scaffold_3001687
+Q5N7Z8	Ensembl:Al_scaffold_0005_1643 Ensembl:fgenesh2_kg.5__1183__AT3G48310.1 Ensembl:fgenesh2_kg.5__1181__AT3G48280.1 Ensembl:fgenesh1_pm.C_scaffold_4000881 Ensembl:fgenesh2_kg.5__1180__AT3G48270.1 Ensembl:scaffold_501777.1 Ensembl:Al_scaffold_0006_2401 Ensembl:Al_scaffold_0009_33 Ensembl:fgenesh2_kg.4__1054__AT2G30770.1
+Q5N8F6	Ensembl:scaffold_702851.1 Ensembl:fgenesh2_kg.1__101__AT1G01260.1
+Q5N8G1	Ensembl:Al_scaffold_0005_156
+Q5N8H9	Ensembl:fgenesh2_kg.4__532__AT2G26170.1
+Q5N9A1	Ensembl:Al_scaffold_0006_3549
+Q5N9N2	Ensembl:Al_scaffold_0048_9 Ensembl:fgenesh2_kg.8__1850__AT5G59220.1 Ensembl:fgenesh2_kg.3__1179__AT3G11410.1 Ensembl:Al_scaffold_0004_1351 Ensembl:fgenesh2_kg.1__718__AT1G07430.1
+Q5N9Z8	Ensembl:fgenesh1_pm.C_scaffold_4000124
+Q5NA81	Ensembl:fgenesh2_kg.1__311__AT1G03840.2 Ensembl:scaffold_800604.1
+Q5NAY4	Ensembl:Al_scaffold_0008_2924
+Q5NB25	Ensembl:fgenesh2_kg.7__1282__AT4G29080.1
+Q5NBQ1	Ensembl:scaffold_103537.1
+Q5NBT9	Ensembl:fgenesh2_kg.3__1850__AT3G16830.1 Ensembl:Al_scaffold_0007_2641
+Q5NTH3	Ensembl:fgenesh2_kg.7__165__AT4G39540.2 Ensembl:fgenesh1_pm.C_scaffold_4000096
+Q5QLG3	Ensembl:Al_scaffold_0002_2757
+Q5QN02	Ensembl:fgenesh1_pm.C_scaffold_4001534
+Q5QNB8	Ensembl:scaffold_202790.1
+Q5SND7	Ensembl:fgenesh2_kg.5__1012__AT3G46490.1 Ensembl:fgenesh2_kg.5__1013__AT3G46500.1 Ensembl:fgenesh2_kg.1__3615__AT1G35190.1 Ensembl:scaffold_501542.1 Ensembl:fgenesh1_pg.C_scaffold_132000003
+Q5U9F2	Ensembl:scaffold_601609.1
+Q5VMP0	Ensembl:scaffold_403136.1
+Q5VMP2	Ensembl:Al_scaffold_0003_2329 Ensembl:fgenesh1_pm.C_scaffold_8001866 Ensembl:fgenesh2_kg.3__1222__AT3G11750.1
+Q5VN31	Ensembl:Al_scaffold_0003_2177
+Q5VNP5	Ensembl:Al_scaffold_0007_389 Ensembl:fgenesh2_kg.3__3445__AT2G18360.1
+Q5VNW0	Ensembl:fgenesh2_kg.1__3979__AT1G48860.1 Ensembl:fgenesh2_kg.4__2723__AT2G45300.1
+Q5VPH2	Ensembl:scaffold_502169.1 Ensembl:Al_scaffold_0008_3299
+Q5VQG8	Ensembl:fgenesh1_pg.C_scaffold_1002142 Ensembl:fgenesh2_kg.2__1312__AT1G70560.1 Ensembl:fgenesh2_kg.7__1807__AT4G24670.2
+Q5VRB9	Ensembl:fgenesh2_kg.6__1097__AT5G11320.1 Ensembl:fgenesh1_pg.C_scaffold_7000746
+Q5VRH4	Ensembl:scaffold_801917.1
+Q5VRM7	Ensembl:fgenesh2_kg.4__1231__AT2G32440.1 Ensembl:fgenesh2_kg.1__460__AT1G05160.1
+Q5VRR2	Ensembl:scaffold_104275.1 Ensembl:fgenesh2_kg.6__2823__AT4G06746.1
+Q5W6F1	Ensembl:fgenesh2_kg.4__1021__AT2G30490.1
+Q5W6F9	Ensembl:fgenesh2_kg.7__1625__AT4G26200.1
+Q5W6H5	Ensembl:scaffold_502237.1
+Q5W6W7	Ensembl:Al_scaffold_0003_2903
+Q5XLJ2	Ensembl:fgenesh2_kg.5__2467__AT3G60100.1 Ensembl:fgenesh2_kg.4__2620__AT2G44350.2
+Q5Z5B7	Ensembl:scaffold_601772.1
+Q5Z5R4	Ensembl:scaffold_602713.1
+Q5Z678	Ensembl:scaffold_104185.1
+Q5Z6D3	Ensembl:fgenesh2_kg.7__2830__AT4G14940.1
+Q5Z6E5	Ensembl:fgenesh2_kg.4__1307__AT2G33100.1
+Q5Z749	Ensembl:fgenesh2_kg.7__1282__AT4G29080.1
+Q5Z7R3	Ensembl:scaffold_801907.1 Ensembl:fgenesh2_kg.7__3088__AT5G36160.1
+Q5Z807	Ensembl:fgenesh2_kg.2__1809__AT1G75340.1
+Q5Z8K3	Ensembl:fgenesh1_pg.C_scaffold_3003334 Ensembl:scaffold_802310.1
+Q5Z8S0	Ensembl:scaffold_202230.1 Ensembl:scaffold_400801.1
+Q5Z8T3	Ensembl:scaffold_101629.1
+Q5Z8V9	Ensembl:fgenesh1_pg.C_scaffold_2001307 Ensembl:fgenesh1_pm.C_scaffold_1002908
+Q5Z8Y4	Ensembl:fgenesh2_kg.8__1143__AT5G52560.1
+Q5ZCV1	Ensembl:fgenesh2_kg.3__639__AT3G06350.1
+Q5ZED1	Ensembl:scaffold_502658.1
+Q5ZEL4	Ensembl:fgenesh2_kg.5__1531__AT3G51840.1
+Q60EH4	Ensembl:fgenesh2_kg.4__2091__AT2G39940.1
+Q60EI7	Ensembl:fgenesh1_pm.C_scaffold_3001662 Ensembl:fgenesh2_kg.2__1770__AT1G75020.1
+Q60EX6	Ensembl:scaffold_603952.1
+Q64MA9	Ensembl:scaffold_603613.1
+Q650W1	Ensembl:fgenesh2_kg.4__781__AT2G27820.1
+Q651F0	Ensembl:fgenesh1_pg.C_scaffold_8002729
+Q652A8	Ensembl:fgenesh2_kg.1__1385__AT1G12780.1 Ensembl:scaffold_101403.1 Ensembl:fgenesh2_kg.2__160__AT1G63180.1
+Q652S1	Ensembl:fgenesh2_kg.1__1998__AT1G18270.2
+Q653D9	Ensembl:Al_scaffold_0003_2329 Ensembl:fgenesh1_pm.C_scaffold_8001866 Ensembl:fgenesh2_kg.3__1222__AT3G11750.1
+Q653T6	Ensembl:scaffold_402051.1
+Q653U3	Ensembl:fgenesh2_kg.1__3210__AT1G30330.2
+Q655T1	Ensembl:fgenesh2_kg.2__2254__AT1G79550.2
+Q655T6	Ensembl:fgenesh2_kg.4__1537__AT2G35120.1
+Q655W2	Ensembl:fgenesh2_kg.1__1781__AT1G16300.1 Ensembl:fgenesh2_kg.2__2251__AT1G79530.1
+Q655Y9	Ensembl:fgenesh2_kg.8__2462__AT5G64380.1
+Q656F1	Ensembl:Al_scaffold_0006_1385
+Q657X7	Ensembl:fgenesh2_kg.7__2634__AT4G16745.1
+Q65XC6	Ensembl:scaffold_602684.1 Ensembl:fgenesh1_pm.C_scaffold_9000022
+Q65XK0	Ensembl:fgenesh2_kg.5__2304__AT3G58610.1
+Q65XL7	Ensembl:scaffold_603489.1 Ensembl:fgenesh2_kg.4__2847__AT2G46340.1
+Q65XM9	Ensembl:fgenesh2_kg.7__2590__AT4G17190.1 Ensembl:scaffold_800101.1
+Q67TQ5	Ensembl:fgenesh2_kg.1__4055__AT1G49720.1 Ensembl:fgenesh2_kg.3__2145__AT3G19290.1 Ensembl:fgenesh2_kg.1__3804__AT1G45249.1 Ensembl:fgenesh2_kg.7__705__AT4G34000.1
+Q67TS1	Ensembl:Al_scaffold_0007_652 Ensembl:scaffold_700730.1 Ensembl:scaffold_303730.1 Ensembl:fgenesh2_kg.7__693__AT4G34135.1 Ensembl:fgenesh1_pg.C_scaffold_3002899
+Q67TS4	Ensembl:Al_scaffold_0007_652 Ensembl:scaffold_700730.1 Ensembl:scaffold_303730.1 Ensembl:fgenesh2_kg.7__693__AT4G34135.1 Ensembl:fgenesh1_pg.C_scaffold_3002899
+Q67UX0	Ensembl:fgenesh1_pg.C_scaffold_3003334 Ensembl:scaffold_802310.1
+Q67UZ8	Ensembl:fgenesh2_kg.1__2389__AT1G22015.1 Ensembl:scaffold_104268.1 Ensembl:fgenesh2_kg.2__2077__AT1G77810.1
+Q67VM1	Ensembl:fgenesh2_kg.7__3555__AT5G38530.1
+Q67VR7	Ensembl:fgenesh2_kg.7__2013__AT4G22880.1
+Q67W29	Ensembl:fgenesh2_kg.4__2582__AT2G44040.1 Ensembl:fgenesh2_kg.5__2445__AT3G59890.1
+Q67W82	Ensembl:scaffold_104938.1 Ensembl:fgenesh2_kg.3__2344__AT3G21230.1 Ensembl:Al_scaffold_0003_2273
+Q67WK8	Ensembl:scaffold_101598.1 Ensembl:fgenesh2_kg.2__1229__AT1G69640.1 Ensembl:scaffold_102829.1
+Q67WR2	Ensembl:fgenesh2_kg.1__1956__AT1G17890.1 Ensembl:scaffold_202259.1
+Q688L9	Ensembl:fgenesh2_kg.7__1625__AT4G26200.1
+Q688Q8	Ensembl:Al_scaffold_0002_2733
+Q688Q9	Ensembl:fgenesh2_kg.7__1985__AT4G23100.1 Ensembl:Al_scaffold_0005_267 Ensembl:scaffold_702034.1
+Q688T8	Ensembl:Al_scaffold_0004_77 Ensembl:fgenesh2_kg.7__126__AT4G39210.1 Ensembl:fgenesh2_kg.1__2926__AT1G27680.1
+Q688Y2	Ensembl:fgenesh2_kg.1__4374__AT1G53000.1
+Q689G9	Ensembl:fgenesh2_kg.8__2113__AT5G61380.1
+Q69IM7	Ensembl:scaffold_503144.1
+Q69J27	Ensembl:fgenesh2_kg.8__2012__AT5G60510.1 Ensembl:fgenesh2_kg.3__3352__AT2G17570.1
+Q69K00	Ensembl:scaffold_400027.1
+Q69KM5	Ensembl:fgenesh2_kg.7__1141__AT4G30440.1
+Q69KW1	Ensembl:fgenesh2_kg.7__2830__AT4G14940.1
+Q69L93	Ensembl:scaffold_100747.1 Ensembl:fgenesh2_kg.4__916__AT2G29390.1
+Q69LG7	Ensembl:fgenesh2_kg.1__3565__AT1G31230.1 Ensembl:fgenesh2_kg.7__2324__AT4G19710.2
+Q69MC9	Ensembl:scaffold_700799.1 Ensembl:fgenesh2_kg.2__558__AT1G58180.2
+Q69P51	Ensembl:scaffold_601794.1
+Q69P84	Ensembl:fgenesh2_kg.1__4495__AT1G54100.1
+Q69QD7	Ensembl:scaffold_400989.1
+Q69RG7	Ensembl:scaffold_803027.1
+Q69RJ0	Ensembl:fgenesh2_kg.6__327__AT5G04140.1 Ensembl:fgenesh2_kg.4__2251__AT2G41220.1
+Q69T90	Ensembl:fgenesh2_kg.7__544__AT4G35360.1 Ensembl:fgenesh2_kg.3__3319__AT2G17340.1 Ensembl:scaffold_304044.1
+Q69T99	Ensembl:scaffold_303188.1 Ensembl:fgenesh2_kg.8__698__AT5G48300.1
+Q69TF4	Ensembl:fgenesh2_kg.3__1991__AT3G18030.1 Ensembl:fgenesh1_pm.C_scaffold_1003075
+Q69TT1	Ensembl:fgenesh2_kg.2__1343__AT1G70820.1
+Q69TW5	Ensembl:fgenesh2_kg.1__4055__AT1G49720.1 Ensembl:fgenesh2_kg.3__2145__AT3G19290.1 Ensembl:fgenesh2_kg.1__3804__AT1G45249.1 Ensembl:fgenesh2_kg.7__705__AT4G34000.1
+Q69U01	Ensembl:fgenesh2_kg.2__1670__AT1G74000.1 Ensembl:fgenesh2_kg.2__1671__AT1G74010.1 Ensembl:fgenesh2_kg.2__1672__AT1G74020.1
+Q69U93	Ensembl:Al_scaffold_0004_2992 Ensembl:scaffold_403221.1
+Q69UF5	Ensembl:fgenesh2_kg.7__2760__AT4G15550.1 Ensembl:scaffold_703230.1 Ensembl:scaffold_100533.1 Ensembl:scaffold_100538.1
+Q69UU3	Ensembl:scaffold_201947.1 Ensembl:fgenesh2_kg.1__2543__AT1G23310.1
+Q69UX2	Ensembl:scaffold_101598.1 Ensembl:fgenesh2_kg.2__1229__AT1G69640.1 Ensembl:scaffold_102829.1
+Q69XD3	Ensembl:fgenesh2_kg.7__2760__AT4G15550.1 Ensembl:scaffold_703230.1 Ensembl:scaffold_100533.1 Ensembl:scaffold_100538.1
+Q69XJ0	Ensembl:scaffold_602112.1 Ensembl:scaffold_400946.1
+Q6ASW7	Ensembl:Al_scaffold_0005_1290 Ensembl:fgenesh2_kg.8__2005__AT5G60410.5
+Q6AT26	Ensembl:fgenesh2_kg.7__919__AT4G32410.1 Ensembl:fgenesh2_kg.4__465__AT2G25540.1
+Q6AT33	Ensembl:fgenesh2_kg.7__1282__AT4G29080.1
+Q6AT41	Ensembl:fgenesh2_kg.7__1298__AT4G28910.2
+Q6AT43	Ensembl:fgenesh2_kg.5__1320__AT3G49680.1 Ensembl:scaffold_803322.1
+Q6ATR2	Ensembl:scaffold_601980.1 Ensembl:scaffold_302847.1
+Q6AUB0	Ensembl:fgenesh2_kg.6__1630__AT5G16440.1 Ensembl:fgenesh2_kg.3__221__AT3G02780.1
+Q6AUJ8	Ensembl:fgenesh2_kg.7__814__AT4G33070.1 Ensembl:fgenesh1_pg.C_scaffold_6000064 Ensembl:fgenesh2_kg.8__1395__AT5G54960.1 Ensembl:fgenesh2_kg.6__79__AT5G01320.1
+Q6AUV1	Ensembl:fgenesh2_kg.7__598__AT4G34890.1 Ensembl:scaffold_604061.1
+Q6AV34	Ensembl:Al_scaffold_0003_3514
+Q6AVG6	Ensembl:fgenesh2_kg.7__664__AT4G34350.1
+Q6AVM5	Ensembl:fgenesh2_kg.4__2235__AT2G41070.2 Ensembl:scaffold_502836.1
+Q6AVT2	Ensembl:fgenesh2_kg.6__1941__AT5G19220.1
+Q6EP31	Ensembl:fgenesh2_kg.7__588__AT4G35020.1
+Q6EP59	Ensembl:fgenesh1_pm.C_scaffold_1001901 Ensembl:fgenesh1_pg.C_scaffold_1002043 Ensembl:Al_scaffold_0001_3548 Ensembl:fgenesh1_pm.C_scaffold_1001903 Ensembl:fgenesh1_pm.C_scaffold_3002372 Ensembl:fgenesh2_kg.2__2124__AT1G78270.1 Ensembl:fgenesh2_kg.1__2430__AT1G22360.2 Ensembl:fgenesh2_kg.1__2434__AT1G22400.1 Ensembl:fgenesh2_kg.1__2432__AT1G22370.2
+Q6EP66	Ensembl:fgenesh2_kg.8__2__AT5G47760.1
+Q6EP77	Ensembl:fgenesh2_kg.2__175__AT1G63030.1 Ensembl:scaffold_801637.1 Ensembl:fgenesh2_kg.7__1712__AT4G25470.1 Ensembl:fgenesh2_kg.1__1363__AT1G12610.1
+Q6EPN6	Ensembl:fgenesh1_pm.C_scaffold_2000068
+Q6EPR6	Ensembl:scaffold_701618.1 Ensembl:fgenesh2_kg.8__1428__AT5G55260.1
+Q6EPY7	Ensembl:fgenesh2_kg.5__1633__AT3G52720.1
+Q6EPZ2	Ensembl:fgenesh2_kg.2__2291__AT1G80840.1
+Q6EQW2	Ensembl:fgenesh2_kg.1__4434__AT1G53520.1
+Q6ERL4	Ensembl:scaffold_803316.1
+Q6ERR3	Ensembl:fgenesh2_kg.1__1748__AT1G15950.1
+Q6ESJ0	Ensembl:fgenesh2_kg.6__3116__AT4G11600.1
+Q6ESZ9	Ensembl:scaffold_104145.1
+Q6ET36	Ensembl:fgenesh1_pg.C_scaffold_6003139
+Q6ET88	Ensembl:scaffold_700035.1
+Q6ETD3	Ensembl:Al_scaffold_0002_256 Ensembl:scaffold_101339.1
+Q6ETN3	Ensembl:scaffold_104938.1 Ensembl:fgenesh2_kg.3__2344__AT3G21230.1 Ensembl:Al_scaffold_0003_2273
+Q6ETX4	Ensembl:fgenesh2_kg.6__493__AT1G07780.3
+Q6EUF1	Ensembl:fgenesh2_kg.7__2404__AT4G18890.1
+Q6EUNO	Ensembl:fgenesh2_kg.1__1471__AT1G13580.2 Ensembl:Al_scaffold_0005_357 Ensembl:fgenesh2_kg.5__301__AT3G25540.1
+Q6EUP4	Ensembl:Al_scaffold_0006_1511 Ensembl:fgenesh2_kg.3__187__AT3G02520.1 Ensembl:fgenesh2_kg.7__3560__AT5G38480.1
+Q6EUS6	Ensembl:fgenesh2_kg.4__1080__AT2G30970.1
+Q6F361	Ensembl:fgenesh2_kg.3__1630__AT3G15020.2 Ensembl:fgenesh2_kg.1__4403__AT1G53240.1
+Q6H3Z3	Ensembl:Al_scaffold_0008_1748 Ensembl:fgenesh2_kg.7__1884__AT4G24120.1 Ensembl:fgenesh2_kg.6__2437__AT5G24380.1
+Q6H3Z6	Ensembl:Al_scaffold_0008_1748 Ensembl:fgenesh2_kg.7__1884__AT4G24120.1 Ensembl:fgenesh2_kg.6__2437__AT5G24380.1
+Q6H415	Ensembl:fgenesh2_kg.5__1161__AT3G48090.1
+Q6H4G3	Ensembl:fgenesh1_pm.C_scaffold_8002076
+Q6H513	Ensembl:fgenesh2_kg.4__1214__AT2G32260.1 Ensembl:scaffold_703051.1
+Q6H5U3	Ensembl:scaffold_603811.1
+Q6H5Z4	Ensembl:scaffold_202230.1 Ensembl:scaffold_400801.1
+Q6H6C7	Ensembl:fgenesh2_kg.2__2254__AT1G79550.2
+Q6H6D2	Ensembl:scaffold_600833.1
+Q6H6G1	Ensembl:fgenesh2_kg.5__2197__AT3G57560.1
+Q6H6I1	Ensembl:fgenesh2_kg.4__2471__AT2G43100.1 Ensembl:scaffold_503094.1 Ensembl:fgenesh2_kg.4__2470__AT2G43090.1
+Q6H6P8	Ensembl:fgenesh1_pm.C_scaffold_4001405 Ensembl:scaffold_600296.1
+Q6H703	Ensembl:fgenesh2_kg.1__1781__AT1G16300.1 Ensembl:fgenesh2_kg.2__2251__AT1G79530.1
+Q6H713	Ensembl:fgenesh2_kg.4__1537__AT2G35120.1
+Q6H765	Ensembl:fgenesh2_kg.6__741__AT5G07720.1 Ensembl:fgenesh1_pm.C_scaffold_1001597 Ensembl:fgenesh2_kg.2__1701__AT1G74380.1
+Q6H7M1	Ensembl:fgenesh2_kg.1__1307__AT1G12050.1
+Q6H7Q6	Ensembl:fgenesh2_kg.5__899__AT3G45140.1
+Q6H819	Ensembl:Al_scaffold_0006_997
+Q6H849	Ensembl:Al_scaffold_0006_2098 Ensembl:fgenesh1_pm.C_scaffold_5000676 Ensembl:fgenesh2_kg.5__841__AT3G44320.1
+Q6H851	Ensembl:Al_scaffold_0006_2098 Ensembl:fgenesh1_pm.C_scaffold_5000676 Ensembl:fgenesh2_kg.5__841__AT3G44320.1
+Q6H8F6	Ensembl:Al_scaffold_0007_652 Ensembl:scaffold_700730.1 Ensembl:scaffold_303730.1 Ensembl:fgenesh2_kg.7__693__AT4G34135.1 Ensembl:fgenesh1_pg.C_scaffold_3002899
+Q6I581	Ensembl:fgenesh2_kg.4__2849__AT2G46370.2
+Q6I5C3	Ensembl:Al_scaffold_0005_3106 Ensembl:Al_scaffold_0001_94 Ensembl:scaffold_604191.1 Ensembl:Al_scaffold_0001_4530 Ensembl:Al_scaffold_0007_1336 Ensembl:scaffold_801786.1
+Q6IEQ7	Ensembl:fgenesh2_kg.4__1917__AT2G38470.1
+Q6IVC3	Ensembl:fgenesh2_kg.6__644__AT5G06950.1 Ensembl:fgenesh2_kg.6__648__AT5G06960.1 Ensembl:fgenesh2_kg.3__1288__AT3G12250.4
+Q6K1S6	Ensembl:fgenesh2_kg.1__590__AT1G06180.1 Ensembl:fgenesh2_kg.3__2539__AT3G23250.1 Ensembl:Al_scaffold_0004_1573
+Q6K1X7	Ensembl:fgenesh2_kg.6__1614__AT5G16290.2 Ensembl:fgenesh2_kg.4__1163__AT2G31810.1
+Q6K209	Ensembl:scaffold_500146.1
+Q6K2E1	Ensembl:fgenesh2_kg.7__1905__AT4G23920.1 Ensembl:scaffold_200045.1 Ensembl:scaffold_603467.1
+Q6K2E8	Ensembl:fgenesh2_kg.5__1206__AT3G48560.1
+Q6K306	Ensembl:fgenesh2_kg.3__2787__AT2G04400.1 Ensembl:fgenesh2_kg.8__689__AT5G48220.1
+Q6K3T2	Ensembl:fgenesh2_kg.8__166__AT5G46240.1 Ensembl:fgenesh1_pm.C_scaffold_7001934
+Q6K3Z3	Ensembl:fgenesh2_kg.8__692__AT5G48230.2
+Q6K4Q5	Ensembl:fgenesh2_kg.7__1152__AT4G30320.1
+Q6K4V9	Ensembl:fgenesh2_kg.1__4124__AT1G50430.1
+Q6K5G8	Ensembl:fgenesh2_kg.3__374__AT3G04120.1 Ensembl:fgenesh2_kg.1__1453__AT1G13440.1
+Q6K5U4	Ensembl:scaffold_801907.1 Ensembl:fgenesh2_kg.7__3088__AT5G36160.1
+Q6K678	Ensembl:fgenesh2_kg.2__2280__AT1G80940.1
+Q6K6Q0	Ensembl:scaffold_301180.1 Ensembl:fgenesh2_kg.4__1750__AT2G37040.1 Ensembl:scaffold_502417.1 Ensembl:fgenesh2_kg.6__337__AT5G04230.1
+Q6K6Q1	Ensembl:scaffold_301180.1 Ensembl:fgenesh2_kg.4__1750__AT2G37040.1 Ensembl:scaffold_502417.1 Ensembl:fgenesh2_kg.6__337__AT5G04230.1
+Q6K755	Ensembl:fgenesh1_pm.C_scaffold_1001901 Ensembl:fgenesh1_pg.C_scaffold_1002043 Ensembl:Al_scaffold_0001_3548 Ensembl:fgenesh1_pm.C_scaffold_1001903 Ensembl:fgenesh1_pm.C_scaffold_3002372 Ensembl:fgenesh2_kg.2__2124__AT1G78270.1 Ensembl:fgenesh2_kg.1__2430__AT1G22360.2 Ensembl:fgenesh2_kg.1__2434__AT1G22400.1 Ensembl:fgenesh2_kg.1__2432__AT1G22370.2
+Q6K7P2	Ensembl:scaffold_600839.1 Ensembl:fgenesh2_kg.6__2323__AT5G23280.1
+Q6K7V6	Ensembl:fgenesh2_kg.7__863__AT4G32770.1
+Q6K8E2	Ensembl:fgenesh2_kg.7__1841__AT4G24390.1 Ensembl:fgenesh2_kg.8__870__AT5G49980.1
+Q6K8E7	Ensembl:scaffold_700461.1
+Q6K8J4	Ensembl:scaffold_802695.1
+Q6K969	Ensembl:fgenesh1_pg.C_scaffold_7000472 Ensembl:fgenesh2_kg.3__3311__AT2G17265.1
+Q6K973	Ensembl:fgenesh1_pm.C_scaffold_2001317 Ensembl:fgenesh2_kg.7__3124__AT5G37180.1
+Q6K9B8	Ensembl:fgenesh2_kg.3__182__AT3G02468.1 Ensembl:scaffold_301900.1 Ensembl:fgenesh2_kg.5__305__AT3G25570.1 Ensembl:fgenesh2_kg.6__1579__AT5G15948.1
+Q6K9M5	Ensembl:fgenesh2_kg.7__1141__AT4G30440.1
+Q6K9N6	Ensembl:fgenesh2_kg.3__3571__AT2G20420.1
+Q6KAJ2	Ensembl:fgenesh2_kg.7__970__AT4G31990.2
+Q6L4G2	Ensembl:scaffold_701864.1 Ensembl:fgenesh2_kg.2__1096__AT1G68460.1 Ensembl:fgenesh1_pm.C_scaffold_3001687
+Q6L4H5	Ensembl:fgenesh1_pm.C_scaffold_2001274 Ensembl:fgenesh2_kg.7__1207__AT4G29840.1
+Q6L4L4	Ensembl:Al_scaffold_0005_1290 Ensembl:fgenesh2_kg.8__2005__AT5G60410.5
+Q6L4R0	Ensembl:fgenesh1_pm.C_scaffold_3001168 Ensembl:Al_scaffold_0180_2
+Q6L506	Ensembl:fgenesh2_kg.8__1924__AT5G59750.1
+Q6L545	Ensembl:fgenesh1_pg.C_scaffold_6002349 Ensembl:fgenesh2_kg.5__2797__AT3G63010.1 Ensembl:fgenesh2_kg.3__496__AT3G05120.1
+Q6L8G1	Ensembl:fgenesh2_kg.7__2329__AT4G19680.2 Ensembl:fgenesh1_pm.C_scaffold_8000230 Ensembl:fgenesh1_pm.C_scaffold_8000229 Ensembl:fgenesh2_kg.7__2327__AT4G19690.2 Ensembl:fgenesh1_pm.C_scaffold_1002740
+Q6MWK9	Ensembl:fgenesh2_kg.3__2538__AT3G23230.1 Ensembl:fgenesh2_kg.471__1__AT3G23230.1
+Q6Q9I2	Ensembl:scaffold_102909.1 Ensembl:scaffold_802730.1 Ensembl:Al_scaffold_0005_914 Ensembl:fgenesh2_kg.2__1169__AT1G69120.1
+Q6QHD1	Ensembl:fgenesh2_kg.2__2291__AT1G80840.1 Ensembl:fgenesh2_kg.4__412__AT2G25000.1
+Q6VMN7	Ensembl:fgenesh2_kg.3__3025__AT2G13810.1
+Q6YPG5	Ensembl:fgenesh2_kg.5__1101__AT3G47450.2
+Q6YS33	Ensembl:scaffold_601338.1 Ensembl:scaffold_300008.1 Ensembl:fgenesh2_kg.6__1371__AT5G14060.1
+Q6YSA1	Ensembl:Al_scaffold_0001_2743 Ensembl:fgenesh2_kg.5__108__AT2G01940.1 Ensembl:fgenesh2_kg.2__1036__AT1G68130.1
+Q6YSF8	Ensembl:Al_scaffold_0001_4259 Ensembl:scaffold_302328.1 Ensembl:fgenesh2_kg.1__4096__AT1G50060.1 Ensembl:fgenesh2_kg.7__741__AT4G33720.1 Ensembl:fgenesh2_kg.746__1__AT4G33710.1 Ensembl:fgenesh2_kg.7__742__AT4G33710.1 Ensembl:scaffold_74600001.1 Ensembl:Al_scaffold_0003_3312 Ensembl:Al_scaffold_0003_3311 Ensembl:scaffold_700778.1
+Q6YT73	Ensembl:scaffold_202808.1 Ensembl:fgenesh2_kg.3__1563__AT3G14420.2 Ensembl:fgenesh1_pm.C_scaffold_60000002
+Q6YTI6	Ensembl:fgenesh2_kg.1__2389__AT1G22015.1 Ensembl:scaffold_104268.1 Ensembl:fgenesh2_kg.2__2077__AT1G77810.1
+Q6YTT3	Ensembl:scaffold_700232.1 Ensembl:fgenesh2_kg.7__768__AT4G33510.1 Ensembl:fgenesh2_kg.1__2435__AT1G22410.1
+Q6YU90	Ensembl:fgenesh2_kg.2__1052__AT1G68010.1
+Q6YUS0	Ensembl:fgenesh2_kg.8__2416__AT5G64050.1
+Q6YUS3	Ensembl:fgenesh2_kg.3__3272__AT2G16910.1
+Q6YUU2	Ensembl:fgenesh2_kg.3__1049__AT3G10230.1
+Q6YV04	Ensembl:fgenesh1_pm.C_scaffold_7000002
+Q6YV23	Ensembl:fgenesh1_pm.C_scaffold_3001588 Ensembl:scaffold_81400002.1 Ensembl:fgenesh2_kg.5__556__AT3G27740.1
+Q6YVI0	Ensembl:fgenesh2_kg.2__1808__AT1G75330.1
+Q6YVT1	Ensembl:scaffold_202309.1
+Q6YVY0	Ensembl:fgenesh2_kg.2__468__AT1G59750.1
+Q6YVY6	Ensembl:scaffold_201780.1 Ensembl:fgenesh2_kg.1__1487__AT1G13740.1
+Q6YWE1	Ensembl:scaffold_601980.1 Ensembl:scaffold_302847.1
+Q6YWS8	Ensembl:fgenesh2_kg.1__1471__AT1G13580.2 Ensembl:Al_scaffold_0005_357 Ensembl:fgenesh2_kg.5__301__AT3G25540.1
+Q6YWY7	Ensembl:scaffold_101598.1 Ensembl:fgenesh2_kg.2__1229__AT1G69640.1 Ensembl:scaffold_102829.1
+Q6YXC2	Ensembl:fgenesh1_pm.C_scaffold_6002290
+Q6YXI1	Ensembl:fgenesh2_kg.7__1814__AT4G24620.1
+Q6YXW6	Ensembl:scaffold_502537.1 Ensembl:Al_scaffold_0001_4531 Ensembl:fgenesh2_kg.5__1591__AT3G52340.3 Ensembl:scaffold_402198.1
+Q6YYY7	Ensembl:fgenesh2_kg.2__1829__AT1G75500.1
+Q6YYZ2	Ensembl:fgenesh2_kg.7__2388__AT4G19010.1
+Q6YZ76	Ensembl:fgenesh1_pm.C_scaffold_4000628 Ensembl:fgenesh2_kg.1__816__AT1G08065.1 Ensembl:fgenesh1_pg.C_scaffold_1000662
+Q6YZE2	Ensembl:fgenesh2_kg.8__2362__AT5G63570.1 Ensembl:scaffold_501829.1
+Q6YZH8	Ensembl:scaffold_302965.1
+Q6YZX7	Ensembl:fgenesh2_kg.2__1371__AT1G71090.1
+Q6Z0T7	Ensembl:Al_scaffold_0003_2329 Ensembl:fgenesh1_pm.C_scaffold_8001866 Ensembl:fgenesh2_kg.3__1222__AT3G11750.1
+Q6Z156	Ensembl:fgenesh2_kg.7__1335__AT4G28610.1 Ensembl:fgenesh1_pm.C_scaffold_3000324 Ensembl:fgenesh2_kg.6__2806__AT5G29000.2 Ensembl:scaffold_304362.1
+Q6Z2T6	Ensembl:fgenesh2_kg.2__1712__AT1G74470.1
+Q6Z2T9	Ensembl:scaffold_102683.1 Ensembl:fgenesh2_kg.6__1604__AT5G16190.1 Ensembl:fgenesh1_pm.C_scaffold_1002033 Ensembl:Al_scaffold_0003_2847 Ensembl:scaffold_502738.1 Ensembl:scaffold_702806.1 Ensembl:fgenesh2_kg.4__1586__AT2G35650.1 Ensembl:Al_scaffold_0009_17
+Q6Z312	Ensembl:fgenesh2_kg.1__4055__AT1G49720.1 Ensembl:fgenesh2_kg.3__2145__AT3G19290.1 Ensembl:fgenesh2_kg.1__3804__AT1G45249.1 Ensembl:fgenesh2_kg.7__705__AT4G34000.1
+Q6Z368	Ensembl:fgenesh2_kg.7__623__AT4G34650.1 Ensembl:scaffold_700663.1
+Q6Z3A4	Ensembl:Al_scaffold_0002_2733
+Q6Z3F1	Ensembl:scaffold_500136.1 Ensembl:fgenesh1_pm.C_scaffold_1001236 Ensembl:scaffold_500135.1
+Q6Z3F9	Ensembl:fgenesh2_kg.7__557__AT4G35250.1
+Q6Z3X5	Ensembl:fgenesh2_kg.5__1960__AT3G55410.1 Ensembl:fgenesh2_kg.8__2629__AT5G65750.1
+Q6Z3Y3	Ensembl:Al_scaffold_0003_789
+Q6Z414	Ensembl:fgenesh1_pm.C_scaffold_7001108
+Q6Z433	Ensembl:scaffold_104929.1 Ensembl:fgenesh2_kg.3__2338__AT3G21175.1
+Q6Z434	Ensembl:fgenesh2_kg.3__2332__AT3G21140.1 Ensembl:scaffold_104923.1
+Q6Z4E7	Ensembl:Al_scaffold_0003_788 Ensembl:fgenesh2_kg.6__292__AT5G03795.1
+Q6Z4F3	Ensembl:fgenesh2_kg.5__1575__AT3G52190.1
+Q6Z4I1	Ensembl:fgenesh2_kg.7__113__AT4G39120.1
+Q6Z4U1	Ensembl:fgenesh2_kg.2__1670__AT1G74000.1 Ensembl:fgenesh2_kg.2__1671__AT1G74010.1 Ensembl:fgenesh2_kg.2__1672__AT1G74020.1
+Q6Z5B5	Ensembl:fgenesh2_kg.2__1670__AT1G74000.1 Ensembl:fgenesh2_kg.2__1671__AT1G74010.1 Ensembl:fgenesh2_kg.2__1672__AT1G74020.1
+Q6Z5M0	Ensembl:fgenesh1_pg.C_scaffold_4002851 Ensembl:Al_scaffold_0003_1850 Ensembl:fgenesh2_kg.5__2715__AT3G62100.1
+Q6Z5M3	Ensembl:scaffold_700304.1 Ensembl:fgenesh2_kg.4__212__AT2G22900.1
+Q6Z684	Ensembl:fgenesh1_pm.C_scaffold_1001901 Ensembl:fgenesh1_pg.C_scaffold_1002043 Ensembl:Al_scaffold_0001_3548 Ensembl:fgenesh1_pm.C_scaffold_1001903 Ensembl:fgenesh1_pm.C_scaffold_3002372 Ensembl:fgenesh2_kg.2__2124__AT1G78270.1 Ensembl:fgenesh2_kg.1__2430__AT1G22360.2 Ensembl:fgenesh2_kg.1__2434__AT1G22400.1 Ensembl:fgenesh2_kg.1__2432__AT1G22370.2
+Q6Z6S7	Ensembl:fgenesh2_kg.7__2447__AT4G18470.1
+Q6Z702	Ensembl:Al_scaffold_0009_13
+Q6Z744	Ensembl:fgenesh2_kg.3__1966__AT3G17810.1
+Q6Z795	Ensembl:fgenesh2_kg.6__2520__AT5G25350.1 Ensembl:fgenesh2_kg.4__460__AT2G25490.1
+Q6Z7F5	Ensembl:scaffold_500171.1 Ensembl:Al_scaffold_0005_144
+Q6Z7I3	Ensembl:fgenesh2_kg.3__2013__AT3G18180.1 Ensembl:fgenesh1_pg.C_scaffold_3001714
+Q6Z836	Ensembl:fgenesh2_kg.6__1457__AT5G14760.1
+Q6Z8F4	Ensembl:scaffold_103559.1
+Q6Z8S2	Ensembl:fgenesh2_kg.2__1670__AT1G74000.1 Ensembl:fgenesh2_kg.2__1671__AT1G74010.1 Ensembl:fgenesh2_kg.2__1672__AT1G74020.1
+Q6Z8Z7	Ensembl:fgenesh1_pg.C_scaffold_7002408
+Q6Z965	Ensembl:fgenesh2_kg.3__2917__AT2G06050.1
+Q6Z9A3	Ensembl:fgenesh2_kg.4__2064__AT2G39770.1 Ensembl:scaffold_701161.1
+Q6Z9E6	Ensembl:Al_scaffold_0006_997
+Q6ZAC1	Ensembl:scaffold_104938.1 Ensembl:fgenesh2_kg.3__2344__AT3G21230.1 Ensembl:Al_scaffold_0003_2273
+Q6ZAH2	Ensembl:fgenesh2_kg.7__1935__AT4G23660.1
+Q6ZB59	Ensembl:fgenesh2_kg.8__2309__AT5G63110.1
+Q6ZB94	Ensembl:fgenesh2_kg.7__1814__AT4G24620.1
+Q6ZBE1	Ensembl:fgenesh1_pm.C_scaffold_1001901 Ensembl:fgenesh1_pg.C_scaffold_1002043 Ensembl:Al_scaffold_0001_3548 Ensembl:fgenesh1_pm.C_scaffold_1001903 Ensembl:fgenesh1_pm.C_scaffold_3002372 Ensembl:fgenesh2_kg.2__2124__AT1G78270.1 Ensembl:fgenesh2_kg.1__2430__AT1G22360.2 Ensembl:fgenesh2_kg.1__2434__AT1G22400.1 Ensembl:fgenesh2_kg.1__2432__AT1G22370.2
+Q6ZBH5	Ensembl:scaffold_603613.1
+Q6ZC33	Ensembl:scaffold_202739.1 Ensembl:scaffold_104075.1
+Q6ZCF0	Ensembl:fgenesh2_kg.3__2435__AT3G22200.1
+Q6ZD10	Ensembl:fgenesh2_kg.1__3565__AT1G31230.1 Ensembl:fgenesh2_kg.7__2324__AT4G19710.2
+Q6ZD89	Ensembl:scaffold_701489.1 Ensembl:fgenesh2_kg.8__1313__AT5G54160.1 Ensembl:fgenesh1_pg.C_scaffold_7001202 Ensembl:scaffold_801928.1
+Q6ZDJ7	Ensembl:fgenesh2_kg.7__1905__AT4G23920.1 Ensembl:scaffold_200045.1 Ensembl:scaffold_603467.1
+Q6ZDQ1	Ensembl:Al_scaffold_0006_1722
+Q6ZDY8	Ensembl:fgenesh2_kg.3__3453__AT2G18450.1 Ensembl:fgenesh2_kg.8__2740__AT5G66760.1
+Q6ZEZ2	Ensembl:scaffold_300496.1
+Q6ZFI6	Ensembl:fgenesh2_kg.3__3006__AT2G13360.2
+Q6ZFT5	Ensembl:fgenesh2_kg.4__2451__AT2G42910.1
+Q6ZG77	Ensembl:fgenesh2_kg.3__1557__AT3G14390.1 Ensembl:fgenesh2_kg.6__1162__AT5G11880.1
+Q6ZG91	Ensembl:scaffold_201945.1
+Q6ZGS9	Ensembl:fgenesh2_kg.7__2524__AT4G17830.1
+Q6ZGW6	Ensembl:fgenesh2_kg.3__1269__AT3G12120.1
+Q6ZHA3	Ensembl:fgenesh2_kg.3__3379__AT2G17800.1 Ensembl:fgenesh2_kg.7__474__AT4G35950.1 Ensembl:scaffold_502181.1
+Q6ZHB2	Ensembl:fgenesh1_pg.C_scaffold_1002924 Ensembl:Al_scaffold_0007_2431 Ensembl:fgenesh2_kg.8__91__AT5G47050.1
+Q6ZHH4	Ensembl:scaffold_401863.1
+Q6ZHH7	Ensembl:scaffold_202739.1 Ensembl:scaffold_104075.1
+Q6ZHJ6	Ensembl:fgenesh1_pm.C_scaffold_6001539 Ensembl:fgenesh2_kg.3__608__AT3G06060.1
+Q6ZHS4	Ensembl:fgenesh2_kg.3__2162__AT3G19450.1 Ensembl:scaffold_700715.1
+Q6ZHZ1	Ensembl:fgenesh2_kg.6__1077__AT5G11110.1 Ensembl:fgenesh2_kg.6__2069__AT5G20280.1
+Q6ZI55	Ensembl:fgenesh2_kg.3__3295__AT2G17130.1 Ensembl:fgenesh2_kg.7__515__AT4G35650.1 Ensembl:scaffold_700595.1
+Q6ZIA3	Ensembl:scaffold_500637.1 Ensembl:fgenesh2_kg.7__3323__AT5G40870.1
+Q6ZIK0	Ensembl:fgenesh2_kg.2__630__AT1G64970.1
+Q6ZIX2	Ensembl:scaffold_601380.1
+Q6ZJ97	Ensembl:fgenesh2_kg.1__3303__AT1G31070.2 Ensembl:fgenesh2_kg.4__1527__AT2G35020.1
+Q6ZK11	Ensembl:fgenesh2_kg.2__1314__AT1G31220.1 Ensembl:fgenesh2_kg.1__3566__AT1G31220.1
+Q6ZKC0	Ensembl:Al_scaffold_0006_1511 Ensembl:fgenesh2_kg.3__187__AT3G02520.1 Ensembl:fgenesh2_kg.7__3560__AT5G38480.1
+Q6ZKV8	Ensembl:fgenesh2_kg.8__1672__AT5G57590.1
+Q6ZL61	Ensembl:fgenesh2_kg.5__1860__AT3G54640.1 Ensembl:scaffold_604010.1
+Q6ZL94	Ensembl:fgenesh2_kg.6__796__AT5G08300.1 Ensembl:fgenesh2_kg.6__2318__AT5G23250.1
+Q6ZLD3	Ensembl:scaffold_503631.1
+Q6ZLJ9	Ensembl:scaffold_502925.1
+Q75GB1	Ensembl:fgenesh2_kg.7__1282__AT4G29080.1
+Q75GK0	Ensembl:fgenesh1_pm.C_scaffold_3002040 Ensembl:fgenesh2_kg.7__2884__AT4G14550.1 Ensembl:fgenesh2_kg.3__443__AT3G04730.1 Ensembl:fgenesh2_kg.1__355__AT1G04250.1
+Q75H77	Ensembl:scaffold_803430.1 Ensembl:fgenesh2_kg.5__1391__AT3G50500.1 Ensembl:fgenesh2_kg.7__713__AT4G33950.1
+Q75HA6	Ensembl:fgenesh2_kg.8__285__AT5G45110.1 Ensembl:Al_scaffold_0007_2194
+Q75HB1	Ensembl:fgenesh2_kg.7__2329__AT4G19680.2 Ensembl:fgenesh1_pm.C_scaffold_8000230 Ensembl:fgenesh1_pm.C_scaffold_8000229 Ensembl:fgenesh2_kg.7__2327__AT4G19690.2 Ensembl:fgenesh1_pm.C_scaffold_1002740
+Q75HP7	Ensembl:scaffold_104060.1 Ensembl:fgenesh2_kg.1__2390__AT1G22020.1
+Q75HQ7	Ensembl:scaffold_301180.1 Ensembl:fgenesh2_kg.4__1750__AT2G37040.1 Ensembl:scaffold_502417.1 Ensembl:fgenesh2_kg.6__337__AT5G04230.1
+Q75HZ9	Ensembl:scaffold_202825.1 Ensembl:fgenesh2_kg.7__3482__AT1G17050.1 Ensembl:Al_scaffold_0001_1761
+Q75I93	Ensembl:fgenesh2_kg.3__1996__AT3G18070.1 Ensembl:fgenesh2_kg.3__1998__AT3G18080.1
+Q75II5	Ensembl:fgenesh2_kg.2__2160__AT1G78660.2 Ensembl:scaffold_202843.1 Ensembl:scaffold_26200002.1 Ensembl:fgenesh1_pg.C_scaffold_262000001 Ensembl:fgenesh1_pm.C_scaffold_2001801 Ensembl:scaffold_26200003.1
+Q75KD7	Ensembl:scaffold_500448.1 Ensembl:fgenesh2_kg.5__332__AT3G25780.1 Ensembl:fgenesh1_pg.C_scaffold_1001192 Ensembl:fgenesh2_kg.5__331__AT3G25770.1
+Q75KT7	Ensembl:scaffold_202374.1 Ensembl:scaffold_603301.1 Ensembl:scaffold_202084.1 Ensembl:Al_scaffold_0001_3492
+Q75L84	Ensembl:scaffold_402345.1
+Q75LC7	Ensembl:scaffold_500486.1 Ensembl:fgenesh2_kg.5__357__AT3G26030.1 Ensembl:fgenesh2_kg.1__1458__AT1G13460.2
+Q75LL5	Ensembl:fgenesh2_kg.1__862__AT1G08470.1 Ensembl:fgenesh2_kg.6__2184__AT5G22020.1
+Q75LR2	Ensembl:scaffold_700232.1 Ensembl:fgenesh2_kg.7__768__AT4G33510.1 Ensembl:fgenesh2_kg.1__2435__AT1G22410.1
+Q75M18	Ensembl:fgenesh2_kg.8__856__AT5G49810.1
+Q75V57	Ensembl:scaffold_803430.1 Ensembl:fgenesh2_kg.5__1391__AT3G50500.1 Ensembl:fgenesh2_kg.7__713__AT4G33950.1
+Q75W16	Ensembl:scaffold_700232.1 Ensembl:fgenesh2_kg.7__768__AT4G33510.1 Ensembl:fgenesh2_kg.1__2435__AT1G22410.1
+Q764B9	Ensembl:fgenesh2_kg.5__714__AT5G57890.1 Ensembl:Al_scaffold_0004_812 Ensembl:fgenesh2_kg.5__136__AT1G25220.1 Ensembl:fgenesh2_kg.1__2814__AT5G57890.1 Ensembl:fgenesh2_kg.5__715__AT1G25220.1
+Q7EZW6	Ensembl:fgenesh2_kg.7__11__AT4G38190.1
+Q7EZZ0	Ensembl:scaffold_502884.1 Ensembl:fgenesh2_kg.4__2286__AT2G41490.1
+Q7F0B2	Ensembl:Al_scaffold_0008_2452 Ensembl:scaffold_704317.1 Ensembl:Al_scaffold_0005_2479 Ensembl:Al_scaffold_0005_1457 Ensembl:fgenesh2_kg.4__566__AT2G26480.1 Ensembl:scaffold_501578.1 Ensembl:Al_scaffold_0005_1453 Ensembl:fgenesh1_pg.C_scaffold_5001150 Ensembl:fgenesh2_kg.5__1032__AT3G46670.1 Ensembl:fgenesh2_kg.7__3607__AT5G38040.1 Ensembl:fgenesh2_kg.6__520__AT5G05860.1 Ensembl:fgenesh2_kg.5__1031__AT3G46650.1 Ensembl:fgenesh2_kg.8__1910__AT5G59590.1 Ensembl:fgenesh1_pm.C_scaffold_6000432 Ensembl:fgenesh2_kg.5__1996__AT3G55700.1 Ensembl:fgenesh2_kg.5__1034__AT3G46690.1 Ensembl:fgenesh2_kg.6__521__AT5G05890.1 Ensembl:fgenesh2_kg.6__523__AT5G05900.1 Ensembl:Al_scaffold_0003_1142 Ensembl:fgenesh2_kg.5__1997__AT3G55710.1 Ensembl:Al_scaffold_0005_1460
+Q7F0Q2	Ensembl:fgenesh2_kg.3__3243__AT2G16530.2 Ensembl:fgenesh2_kg.6__3336__AT2G16530.2
+Q7F190	Ensembl:fgenesh2_kg.3__3011__AT2G13560.1
+Q7F1X5	Ensembl:scaffold_803027.1
+Q7F2P0	Ensembl:Al_scaffold_0001_4259 Ensembl:scaffold_302328.1 Ensembl:fgenesh2_kg.1__4096__AT1G50060.1 Ensembl:fgenesh2_kg.7__741__AT4G33720.1 Ensembl:fgenesh2_kg.746__1__AT4G33710.1 Ensembl:fgenesh2_kg.7__742__AT4G33710.1 Ensembl:scaffold_74600001.1 Ensembl:Al_scaffold_0003_3312 Ensembl:Al_scaffold_0003_3311 Ensembl:scaffold_700778.1
+Q7F8K7	Ensembl:scaffold_500146.1
+Q7FAH2	Ensembl:fgenesh2_kg.3__374__AT3G04120.1 Ensembl:fgenesh2_kg.1__1453__AT1G13440.1
+Q7G065	Ensembl:Al_scaffold_0004_77 Ensembl:fgenesh2_kg.7__126__AT4G39210.1 Ensembl:fgenesh2_kg.1__2926__AT1G27680.1
+Q7G2F7	Ensembl:fgenesh2_kg.6__3260__AT4G04920.1
+Q7G2H3	Ensembl:Al_scaffold_0003_3514
+Q7G4P2	Ensembl:scaffold_700461.1
+Q7G602	Ensembl:fgenesh2_kg.6__766__AT5G07990.1
+Q7G7J6	Ensembl:fgenesh2_kg.1__1634__AT1G14920.1 Ensembl:fgenesh2_kg.5__65__AT2G01570.1
+Q7X634	Ensembl:fgenesh2_kg.1__884__AT1G08630.2 Ensembl:scaffold_300458.1
+Q7X720	Ensembl:scaffold_301180.1 Ensembl:fgenesh2_kg.4__1750__AT2G37040.1 Ensembl:scaffold_502417.1 Ensembl:fgenesh2_kg.6__337__AT5G04230.1
+Q7X742	Ensembl:scaffold_500871.1 Ensembl:scaffold_704049.1 Ensembl:fgenesh2_kg.2__1715__AT1G74500.1 Ensembl:scaffold_601543.1 Ensembl:fgenesh2_kg.1__2658__AT1G26945.1
+Q7X7N2	Ensembl:fgenesh2_kg.6__2915__AT4G08870.1
+Q7X7X0	Ensembl:fgenesh2_kg.2__1173__AT1G69190.1 Ensembl:scaffold_701230.1
+Q7X8A1	Ensembl:fgenesh2_kg.1__1397__AT1G12900.1 Ensembl:fgenesh2_kg.5__423__AT3G26650.1
+Q7X8V3	Ensembl:scaffold_301180.1 Ensembl:fgenesh2_kg.4__1750__AT2G37040.1 Ensembl:scaffold_502417.1 Ensembl:fgenesh2_kg.6__337__AT5G04230.1
+Q7X993	Ensembl:fgenesh2_kg.6__644__AT5G06950.1 Ensembl:fgenesh2_kg.6__648__AT5G06960.1 Ensembl:fgenesh2_kg.3__1288__AT3G12250.4
+Q7XAP2	Ensembl:fgenesh2_kg.8__1195__AT5G53120.1
+Q7XBY6	Ensembl:scaffold_702657.1 Ensembl:fgenesh2_kg.8__115__AT5G46790.1
+Q7XC20	Ensembl:fgenesh1_pg.C_scaffold_1002924 Ensembl:Al_scaffold_0007_2431 Ensembl:fgenesh2_kg.8__91__AT5G47050.1
+Q7XCK3	Ensembl:fgenesh2_kg.5__1488__AT3G51440.1 Ensembl:fgenesh2_kg.5__1486__AT3G51420.1 Ensembl:fgenesh1_pm.C_scaffold_5001244
+Q7XDE0	Ensembl:fgenesh2_kg.1__326__AT1G03960.1 Ensembl:fgenesh2_kg.6__2803__AT5G28900.1 Ensembl:Al_scaffold_0001_5055 Ensembl:fgenesh2_kg.8__403__AT5G44090.1
+Q7XE48	Ensembl:fgenesh2_kg.3__112__AT3G01180.1
+Q7XEH2	Ensembl:fgenesh2_kg.3__2487__AT3G22740.1 Ensembl:fgenesh2_kg.5__2821__AT3G63250.1
+Q7XHL3	Ensembl:fgenesh2_kg.7__1327__AT4G28680.1 Ensembl:scaffold_304354.1
+Q7XHZ2	Ensembl:scaffold_601807.1
+Q7XI34	Ensembl:Al_scaffold_0008_2452 Ensembl:scaffold_704317.1 Ensembl:Al_scaffold_0005_2479 Ensembl:Al_scaffold_0005_1457 Ensembl:fgenesh2_kg.4__566__AT2G26480.1 Ensembl:scaffold_501578.1 Ensembl:Al_scaffold_0005_1453 Ensembl:fgenesh1_pg.C_scaffold_5001150 Ensembl:fgenesh2_kg.5__1032__AT3G46670.1 Ensembl:fgenesh2_kg.7__3607__AT5G38040.1 Ensembl:fgenesh2_kg.6__520__AT5G05860.1 Ensembl:fgenesh2_kg.5__1031__AT3G46650.1 Ensembl:fgenesh2_kg.8__1910__AT5G59590.1 Ensembl:fgenesh1_pm.C_scaffold_6000432 Ensembl:fgenesh2_kg.5__1996__AT3G55700.1 Ensembl:fgenesh2_kg.5__1034__AT3G46690.1 Ensembl:fgenesh2_kg.6__521__AT5G05890.1 Ensembl:fgenesh2_kg.6__523__AT5G05900.1 Ensembl:Al_scaffold_0003_1142 Ensembl:fgenesh2_kg.5__1997__AT3G55710.1 Ensembl:Al_scaffold_0005_1460
+Q7XI35	Ensembl:Al_scaffold_0008_2452 Ensembl:scaffold_704317.1 Ensembl:Al_scaffold_0005_2479 Ensembl:Al_scaffold_0005_1457 Ensembl:fgenesh2_kg.4__566__AT2G26480.1 Ensembl:scaffold_501578.1 Ensembl:Al_scaffold_0005_1453 Ensembl:fgenesh1_pg.C_scaffold_5001150 Ensembl:fgenesh2_kg.5__1032__AT3G46670.1 Ensembl:fgenesh2_kg.7__3607__AT5G38040.1 Ensembl:fgenesh2_kg.6__520__AT5G05860.1 Ensembl:fgenesh2_kg.5__1031__AT3G46650.1 Ensembl:fgenesh2_kg.8__1910__AT5G59590.1 Ensembl:fgenesh1_pm.C_scaffold_6000432 Ensembl:fgenesh2_kg.5__1996__AT3G55700.1 Ensembl:fgenesh2_kg.5__1034__AT3G46690.1 Ensembl:fgenesh2_kg.6__521__AT5G05890.1 Ensembl:fgenesh2_kg.6__523__AT5G05900.1 Ensembl:Al_scaffold_0003_1142 Ensembl:fgenesh2_kg.5__1997__AT3G55710.1 Ensembl:Al_scaffold_0005_1460
+Q7XI67	Ensembl:fgenesh2_kg.3__886__AT3G08840.2
+Q7XI92	Ensembl:scaffold_104646.1 Ensembl:scaffold_304223.1 Ensembl:fgenesh2_kg.7__385__AT4G36810.1 Ensembl:scaffold_302396.1 Ensembl:scaffold_400366.1 Ensembl:fgenesh2_kg.3__3466__AT2G18620.1 Ensembl:fgenesh2_kg.3__1574__AT3G14550.1 Ensembl:fgenesh2_kg.3__3468__AT2G18640.1
+Q7XI96	Ensembl:fgenesh2_kg.5__1413__AT3G50750.1 Ensembl:fgenesh2_kg.1__2112__AT1G19350.4 Ensembl:scaffold_700428.1 Ensembl:fgenesh2_kg.2__1777__AT1G75080.2
+Q7XK23	Ensembl:fgenesh2_kg.3__3295__AT2G17130.1 Ensembl:fgenesh2_kg.7__515__AT4G35650.1 Ensembl:scaffold_700595.1
+Q7XKH9	Ensembl:fgenesh2_kg.1__2430__AT1G22360.2 Ensembl:fgenesh1_pm.C_scaffold_1001903 Ensembl:fgenesh2_kg.1__2434__AT1G22400.1
+Q7XKI0	Ensembl:fgenesh1_pm.C_scaffold_1001901 Ensembl:fgenesh1_pg.C_scaffold_1002043 Ensembl:Al_scaffold_0001_3548 Ensembl:fgenesh1_pm.C_scaffold_1001903 Ensembl:fgenesh1_pm.C_scaffold_3002372 Ensembl:fgenesh2_kg.2__2124__AT1G78270.1 Ensembl:fgenesh2_kg.1__2430__AT1G22360.2 Ensembl:fgenesh2_kg.1__2434__AT1G22400.1 Ensembl:fgenesh2_kg.1__2432__AT1G22370.2
+Q7XKQ8	Ensembl:fgenesh2_kg.5__1206__AT3G48560.1
+Q7XM21	Ensembl:fgenesh2_kg.5__1468__AT3G51240.1
+Q7XMP7	Ensembl:fgenesh2_kg.3__1770__AT3G16150.1
+Q7XN11	Ensembl:fgenesh2_kg.3__2435__AT3G22200.1
+Q7XN54	Ensembl:Al_scaffold_0008_1748 Ensembl:fgenesh2_kg.7__1884__AT4G24120.1 Ensembl:fgenesh2_kg.6__2437__AT5G24380.1
+Q7XNX6	Ensembl:fgenesh1_pm.C_scaffold_2001317 Ensembl:fgenesh2_kg.7__3124__AT5G37180.1
+Q7XPB5	Ensembl:fgenesh2_kg.4__2741__AT2G45440.1 Ensembl:fgenesh2_kg.5__2554__AT3G60880.2
+Q7XPR2	Ensembl:fgenesh2_kg.1__1285__AT1G11860.2
+Q7XPR5	Ensembl:fgenesh2_kg.5__1320__AT3G49680.1 Ensembl:scaffold_803322.1
+Q7XPW5	Ensembl:scaffold_403530.1
+Q7XQ85	Ensembl:scaffold_100096.1 Ensembl:fgenesh1_pm.C_scaffold_6002495 Ensembl:Al_scaffold_0005_3082
+Q7XR52	Ensembl:fgenesh2_kg.6__3099__AT4G11320.1 Ensembl:fgenesh1_pm.C_scaffold_7001528 Ensembl:scaffold_603529.1
+Q7XR60	Ensembl:fgenesh2_kg.1__4067__AT1G49820.1
+Q7XR61	Ensembl:fgenesh2_kg.1__4067__AT1G49820.1
+Q7XRA1	Ensembl:fgenesh2_kg.7__616__AT4G34710.1 Ensembl:scaffold_304290.1
+Q7XRT0	Ensembl:scaffold_502717.1
+Q7XTB2	Ensembl:scaffold_103081.1
+Q7XTE8	Ensembl:Al_scaffold_0006_1511 Ensembl:fgenesh2_kg.3__187__AT3G02520.1 Ensembl:fgenesh2_kg.7__3560__AT5G38480.1
+Q7XTH0	Ensembl:fgenesh1_pm.C_scaffold_1001901 Ensembl:fgenesh1_pg.C_scaffold_1002043 Ensembl:Al_scaffold_0001_3548 Ensembl:fgenesh1_pm.C_scaffold_1001903 Ensembl:fgenesh1_pm.C_scaffold_3002372 Ensembl:fgenesh2_kg.2__2124__AT1G78270.1 Ensembl:fgenesh2_kg.1__2430__AT1G22360.2 Ensembl:fgenesh2_kg.1__2434__AT1G22400.1 Ensembl:fgenesh2_kg.1__2432__AT1G22370.2
+Q7XTK3	Ensembl:scaffold_100925.1
+Q7XTU2	Ensembl:fgenesh2_kg.8__2019__AT5G60570.1
+Q7XTX7	Ensembl:fgenesh2_kg.1__1352__AT1G12480.1
+Q7XU28	Ensembl:fgenesh2_kg.5__2197__AT3G57560.1
+Q7XU29	Ensembl:Al_scaffold_0004_3181
+Q7XUA8	Ensembl:fgenesh2_kg.8__1310__AT5G54140.1
+Q7XUH5	Ensembl:fgenesh2_kg.3__3243__AT2G16530.2 Ensembl:fgenesh2_kg.6__3336__AT2G16530.2
+Q7XUI7	Ensembl:scaffold_500136.1 Ensembl:scaffold_500135.1
+Q7XUK6	Ensembl:scaffold_403311.1
+Q7XUS2	Ensembl:fgenesh2_kg.5__714__AT5G57890.1 Ensembl:Al_scaffold_0004_812 Ensembl:fgenesh2_kg.5__136__AT1G25220.1 Ensembl:fgenesh2_kg.1__2814__AT5G57890.1 Ensembl:fgenesh2_kg.5__715__AT1G25220.1
+Q7XV13	Ensembl:fgenesh2_kg.2__1515__AT1G72520.1 Ensembl:fgenesh2_kg.1__1901__AT1G17420.1
+Q7XV42	Ensembl:fgenesh1_pm.C_scaffold_1001901 Ensembl:fgenesh1_pg.C_scaffold_1002043 Ensembl:Al_scaffold_0001_3548 Ensembl:fgenesh1_pm.C_scaffold_1001903 Ensembl:fgenesh1_pm.C_scaffold_3002372 Ensembl:fgenesh2_kg.2__2124__AT1G78270.1 Ensembl:fgenesh2_kg.1__2430__AT1G22360.2 Ensembl:fgenesh2_kg.1__2434__AT1G22400.1 Ensembl:fgenesh2_kg.1__2432__AT1G22370.2
+Q7XV97	Ensembl:fgenesh2_kg.6__1272__AT5G13220.1
+Q7XVM2	Ensembl:fgenesh2_kg.8__1406__AT5G55070.1 Ensembl:fgenesh2_kg.7__1541__AT4G26910.1
+Q7XVM8	Ensembl:scaffold_101427.1 Ensembl:fgenesh2_kg.5__448__AT3G26810.1
+Q7XVP0	Ensembl:scaffold_202016.1
+Q7XXL2	Ensembl:scaffold_200261.1
+Q7XXQ9	Ensembl:fgenesh2_kg.8__1745__AT5G58220.1
+Q7XZH5	Ensembl:fgenesh2_kg.1__4308__AT1G52340.1
+Q7Y0B9	Ensembl:scaffold_803430.1 Ensembl:fgenesh2_kg.5__1391__AT3G50500.1 Ensembl:fgenesh2_kg.7__713__AT4G33950.1
+Q7Y0C8	Ensembl:Al_scaffold_0008_816 Ensembl:fgenesh2_kg.8__593__AT5G42650.1
+Q7Y0Y6	Ensembl:fgenesh1_pm.C_scaffold_7000002
+Q7Y0Y8	Ensembl:fgenesh1_pm.C_scaffold_7000002
+Q7Y152	Ensembl:scaffold_300761.1
+Q7Y1H9	Ensembl:fgenesh2_kg.5__1860__AT3G54640.1 Ensembl:scaffold_604010.1
+Q7Y1I9	Ensembl:fgenesh2_kg.5__1860__AT3G54640.1 Ensembl:scaffold_604010.1
+Q7Y1J1	Ensembl:fgenesh2_kg.5__1860__AT3G54640.1 Ensembl:scaffold_604010.1
+Q84J55	Ensembl:scaffold_603105.1 Ensembl:fgenesh2_kg.2__2128__AT1G78300.1 Ensembl:scaffold_103942.1
+Q84J76	Ensembl:Al_scaffold_0001_4259 Ensembl:scaffold_302328.1 Ensembl:fgenesh2_kg.1__4096__AT1G50060.1 Ensembl:fgenesh2_kg.7__741__AT4G33720.1 Ensembl:fgenesh2_kg.746__1__AT4G33710.1 Ensembl:fgenesh2_kg.7__742__AT4G33710.1 Ensembl:scaffold_74600001.1 Ensembl:Al_scaffold_0003_3312 Ensembl:Al_scaffold_0003_3311 Ensembl:scaffold_700778.1
+Q84JH5	Ensembl:fgenesh2_kg.4__2064__AT2G39770.1 Ensembl:scaffold_701161.1
+Q84JI0	Ensembl:Al_scaffold_0048_9 Ensembl:fgenesh2_kg.8__1850__AT5G59220.1 Ensembl:fgenesh2_kg.3__1179__AT3G11410.1 Ensembl:Al_scaffold_0004_1351 Ensembl:fgenesh2_kg.1__718__AT1G07430.1
+Q84M43	Ensembl:fgenesh2_kg.6__440__AT5G05170.1
+Q84MN8	Ensembl:fgenesh2_kg.7__2871__AT4G14680.1 Ensembl:fgenesh2_kg.3__2500__AT3G22890.1 Ensembl:fgenesh2_kg.8__443__AT5G43780.1
+Q84NP3	Ensembl:fgenesh2_kg.6__487__AT5G05580.1 Ensembl:fgenesh2_kg.3__1157__AT3G11170.1
+Q84Q89	Ensembl:scaffold_503161.1
+Q84QA7	Ensembl:fgenesh2_kg.4__2091__AT2G39940.1
+Q84QC0	Ensembl:fgenesh1_pm.C_scaffold_3001698
+Q84RX6	Ensembl:Al_scaffold_0008_709
+Q84T92	Ensembl:fgenesh2_kg.5__1925__AT3G55120.1 Ensembl:Al_scaffold_0008_3306
+Q84YK8	Ensembl:fgenesh2_kg.5__899__AT3G45140.1
+Q84ZN6	Ensembl:fgenesh2_kg.6__440__AT5G05170.1
+Q851L5	Ensembl:fgenesh2_kg.3__234__AT3G02875.1
+Q851Z6	Ensembl:scaffold_601338.1 Ensembl:scaffold_300008.1 Ensembl:fgenesh2_kg.6__1371__AT5G14060.1
+Q852C2	Ensembl:fgenesh2_kg.5__1032__AT3G46670.1 Ensembl:fgenesh2_kg.5__1996__AT3G55700.1 Ensembl:fgenesh2_kg.5__1997__AT3G55710.1
+Q852P4	Ensembl:fgenesh2_kg.1__371__AT1G04400.1
+Q852Q1	Ensembl:fgenesh2_kg.5__675__AT3G29160.2 Ensembl:fgenesh1_pm.C_scaffold_3000097 Ensembl:fgenesh1_pm.C_scaffold_7002776 Ensembl:scaffold_704100.1
+Q8GRU7	Ensembl:fgenesh2_kg.8__839__AT5G49650.1
+Q8GSD9	Ensembl:fgenesh1_pm.C_scaffold_8000402 Ensembl:fgenesh2_kg.4__1973__AT2G38940.1 Ensembl:fgenesh2_kg.6__2859__AT4G08878.1 Ensembl:fgenesh2_kg.8__478__AT5G43370.1 Ensembl:fgenesh2_kg.5__1867__AT3G54700.1 Ensembl:Al_scaffold_0178_3 Ensembl:fgenesh2_kg.8__480__AT5G43350.1 Ensembl:fgenesh2_kg.4__1284__AT2G32830.1 Ensembl:scaffold_11700004.1 Ensembl:fgenesh2_kg.8__483__AT5G43340.1 Ensembl:fgenesh2_kg.178__1__AT5G43350.1
+Q8GT01	Ensembl:Al_scaffold_0006_1383
+Q8GTK1	Ensembl:fgenesh1_pm.C_scaffold_4000628 Ensembl:fgenesh2_kg.1__816__AT1G08065.1 Ensembl:fgenesh1_pg.C_scaffold_1000662
+Q8GVJ4	Ensembl:fgenesh2_kg.3__1269__AT3G12120.1
+Q8GVN6	Ensembl:scaffold_802697.1
+Q8GVZ0	Ensembl:fgenesh2_kg.6__1630__AT5G16440.1 Ensembl:fgenesh2_kg.3__221__AT3G02780.1
+Q8H016	Ensembl:fgenesh2_kg.2__1515__AT1G72520.1 Ensembl:fgenesh2_kg.1__1901__AT1G17420.1
+Q8H038	Ensembl:fgenesh2_kg.3__3566__AT2G20370.1
+Q8H048	Ensembl:fgenesh2_kg.6__3676__AT4G00240.1 Ensembl:scaffold_403049.1
+Q8H051	Ensembl:scaffold_603613.1
+Q8H075	Ensembl:fgenesh2_kg.3__2538__AT3G23230.1 Ensembl:fgenesh2_kg.471__1__AT3G23230.1
+Q8H093	Ensembl:fgenesh2_kg.6__3676__AT4G00240.1 Ensembl:scaffold_403049.1
+Q8H0B2	Ensembl:Al_scaffold_0008_517 Ensembl:scaffold_103410.1 Ensembl:Al_scaffold_0007_2104 Ensembl:Al_scaffold_0004_1976
+Q8H273	Ensembl:fgenesh2_kg.2__175__AT1G63030.1 Ensembl:scaffold_801637.1 Ensembl:fgenesh2_kg.7__1712__AT4G25470.1 Ensembl:fgenesh2_kg.1__1363__AT1G12610.1
+Q8H395	Ensembl:fgenesh2_kg.2__1763__AT1G74950.1
+Q8H3C8	Ensembl:fgenesh2_kg.3__234__AT3G02875.1
+Q8H3C9	Ensembl:fgenesh2_kg.3__234__AT3G02875.1
+Q8H3I4	Ensembl:fgenesh2_kg.3__1529__AT3G14130.1
+Q8H3Q7	Ensembl:scaffold_802343.1
+Q8H4L3	Ensembl:fgenesh2_kg.6__1353__AT5G13930.1
+Q8H530	Ensembl:fgenesh2_kg.8__2461__AT5G64370.1
+Q8H539	Ensembl:fgenesh2_kg.6__1584__AT5G16010.1
+Q8H6G8	Ensembl:fgenesh1_pm.C_scaffold_8000402 Ensembl:fgenesh2_kg.4__1973__AT2G38940.1 Ensembl:fgenesh2_kg.6__2859__AT4G08878.1 Ensembl:fgenesh2_kg.8__478__AT5G43370.1 Ensembl:fgenesh2_kg.5__1867__AT3G54700.1 Ensembl:Al_scaffold_0178_3 Ensembl:fgenesh2_kg.8__480__AT5G43350.1 Ensembl:fgenesh2_kg.4__1284__AT2G32830.1 Ensembl:scaffold_11700004.1 Ensembl:fgenesh2_kg.8__483__AT5G43340.1 Ensembl:fgenesh2_kg.178__1__AT5G43350.1
+Q8H7S6	Ensembl:Al_scaffold_0002_1456
+Q8H7T7	Ensembl:fgenesh2_kg.5__1320__AT3G49680.1 Ensembl:scaffold_803322.1
+Q8H825	Ensembl:fgenesh2_kg.5__348__AT3G25900.1
+Q8H8U0	Ensembl:fgenesh2_kg.5__1058__AT2G39290.1 Ensembl:Al_scaffold_0004_2504 Ensembl:scaffold_502623.1
+Q8H930	Ensembl:Al_scaffold_0008_517 Ensembl:scaffold_103410.1 Ensembl:Al_scaffold_0007_2104 Ensembl:Al_scaffold_0004_1976
+Q8LHD1	Ensembl:Al_scaffold_0007_3395
+Q8LI89	Ensembl:fgenesh2_kg.1__4517__AT1G55090.1
+Q8LIY8	Ensembl:fgenesh1_pg.C_scaffold_7000720
+Q8LJJ2	Ensembl:fgenesh1_pm.C_scaffold_2001274 Ensembl:fgenesh2_kg.7__1207__AT4G29840.1
+Q8LM92	Ensembl:fgenesh2_kg.6__766__AT5G07990.1
+Q8LMW8	Ensembl:Al_scaffold_0001_4259 Ensembl:scaffold_302328.1 Ensembl:fgenesh2_kg.1__4096__AT1G50060.1 Ensembl:fgenesh2_kg.7__741__AT4G33720.1 Ensembl:fgenesh2_kg.746__1__AT4G33710.1 Ensembl:fgenesh2_kg.7__742__AT4G33710.1 Ensembl:scaffold_74600001.1 Ensembl:Al_scaffold_0003_3312 Ensembl:Al_scaffold_0003_3311 Ensembl:scaffold_700778.1
+Q8LNU2	Ensembl:fgenesh2_kg.1__1656__AT1G15130.1
+Q8LQ34	Ensembl:Al_scaffold_0004_2365
+Q8LR33	Ensembl:fgenesh2_kg.2__407__AT1G60550.1
+Q8LRA0	Ensembl:fgenesh1_pm.C_scaffold_1002730 Ensembl:fgenesh1_pm.C_scaffold_5001719
+Q8RU95	Ensembl:scaffold_803027.1
+Q8RYL0	Ensembl:fgenesh2_kg.5__1224__AT3G48780.1 Ensembl:fgenesh2_kg.6__2361__AT5G23670.1 Ensembl:fgenesh2_kg.5__1225__AT3G48790.1
+Q8RYL1	Ensembl:fgenesh2_kg.5__1224__AT3G48780.1 Ensembl:fgenesh2_kg.6__2361__AT5G23670.1 Ensembl:fgenesh2_kg.5__1225__AT3G48790.1
+Q8RZV7	Ensembl:fgenesh2_kg.6__687__AT5G07280.1
+Q8RZZ3	Ensembl:fgenesh2_kg.1__4118__AT1G50370.1 Ensembl:fgenesh2_kg.3__2217__AT3G19980.1
+Q8S0G4	Ensembl:fgenesh2_kg.4__2292__AT2G41540.2 Ensembl:Al_scaffold_0003_796
+Q8S2E5	Ensembl:fgenesh1_pm.C_scaffold_1000893
+Q8S2G0	Ensembl:fgenesh2_kg.4__628__AT2G26930.1
+Q8S3R0	Ensembl:Al_scaffold_0007_389 Ensembl:fgenesh2_kg.3__3445__AT2G18360.1
+Q8S5M6	Ensembl:fgenesh2_kg.6__2625__AT5G26710.1 Ensembl:fgenesh2_kg.1__3885__AT5G26710.1
+Q8S5N2	Ensembl:scaffold_700208.1 Ensembl:fgenesh2_kg.6__978__AT5G10170.1 Ensembl:scaffold_400174.1
+Q8S5T1	Ensembl:fgenesh2_kg.5__1862__AT3G54660.1
+Q8S601	Ensembl:fgenesh2_kg.7__1558__AT4G26770.1 Ensembl:fgenesh2_kg.2__230__AT1G62430.1 Ensembl:fgenesh2_kg.7__2064__AT4G22340.3
+Q8S7N5	Ensembl:fgenesh2_kg.8__137__AT5G46570.1
+Q8S7T9	Ensembl:fgenesh2_kg.3__1250__AT3G11980.1
+Q8S919	Ensembl:Al_scaffold_0002_69
+Q8S983	Ensembl:fgenesh2_kg.1__2164__AT1G19850.1
+Q8S985	Ensembl:scaffold_401977.1
+Q8S9S4	Ensembl:scaffold_104951.1 Ensembl:scaffold_104955.1
+Q8S9Z2	Ensembl:fgenesh2_kg.4__779__AT2G27860.1 Ensembl:fgenesh2_kg.1__835__AT1G08200.1
+Q8W1L6	Ensembl:fgenesh2_kg.7__1290__AT4G29010.1
+Q8W250	Ensembl:scaffold_802953.1
+Q8W3F9	Ensembl:fgenesh2_kg.3__252__AT3G03050.1 Ensembl:fgenesh2_kg.6__1688__AT5G16910.1
+Q8W3G2	Ensembl:fgenesh2_kg.1__3362__AT1G32200.1
+Q8W3J0	Ensembl:fgenesh2_kg.4__850__AT2G28760.2 Ensembl:fgenesh2_kg.8__1872__AT5G59290.1 Ensembl:fgenesh2_kg.5__1008__AT3G46440.1
+Q8W3L9	Ensembl:fgenesh2_kg.3__2304__AT3G20770.1 Ensembl:fgenesh2_kg.4__646__AT2G27050.1
+Q8W3M0	Ensembl:fgenesh2_kg.3__2304__AT3G20770.1 Ensembl:fgenesh2_kg.4__646__AT2G27050.1
+Q93VC3	Ensembl:fgenesh2_kg.7__2013__AT4G22880.1
+Q93VD5	Ensembl:fgenesh1_pg.C_scaffold_7000720
+Q93X08	Ensembl:fgenesh2_kg.3__272__AT3G03250.1 Ensembl:scaffold_601782.1
+Q93XI4	Ensembl:fgenesh2_kg.4__704__AT2G27450.2
+Q93Y73	Ensembl:fgenesh2_kg.1__2125__AT1G14810.1 Ensembl:fgenesh1_pm.C_scaffold_1001259
+Q941T9	Ensembl:fgenesh2_kg.4__2064__AT2G39770.1 Ensembl:scaffold_701161.1
+Q941W8	Ensembl:fgenesh1_pm.C_scaffold_6000395
+Q943R3	Ensembl:scaffold_202318.1
+Q945X3	Ensembl:scaffold_500171.1 Ensembl:Al_scaffold_0005_144
+Q948T6	Ensembl:scaffold_101291.1
+Q94CU3	Ensembl:fgenesh2_kg.1__4668__AT2G26230.1
+Q94E75	Ensembl:scaffold_502537.1 Ensembl:Al_scaffold_0001_4531 Ensembl:fgenesh2_kg.5__1591__AT3G52340.3 Ensembl:scaffold_402198.1
+Q94GF1	Ensembl:fgenesh1_pg.C_scaffold_5002065 Ensembl:fgenesh2_kg.6__508__AT5G05730.1 Ensembl:fgenesh2_kg.4__945__AT2G29690.1
+Q94HG3	Ensembl:fgenesh1_pm.C_scaffold_7000632
+Q94HG6	Ensembl:Al_scaffold_0007_743
+Q94IW5	Ensembl:fgenesh1_pm.C_scaffold_3001168 Ensembl:Al_scaffold_0180_2
+Q94J08	Ensembl:fgenesh2_kg.5__2317__AT3G58710.2
+Q94J90	Ensembl:fgenesh2_kg.6__1196__AT5G12200.1
+Q94JA2	Ensembl:fgenesh2_kg.3__1630__AT3G15020.2 Ensembl:fgenesh2_kg.1__4403__AT1G53240.1
+Q94JJ0	Ensembl:fgenesh2_kg.5__13__AT2G01140.1
+Q94LU9	Ensembl:fgenesh1_pm.C_scaffold_2000087
+Q94LV4	Ensembl:fgenesh2_kg.5__1320__AT3G49680.1 Ensembl:scaffold_803322.1
+Q9AQU4	Ensembl:scaffold_302097.1
+Q9ASD3	Ensembl:fgenesh2_kg.4__524__AT2G26070.1
+Q9ASK5	Ensembl:fgenesh2_kg.8__692__AT5G48230.2
+Q9ASP4	Ensembl:fgenesh2_kg.1__3892__AT1G48030.2 Ensembl:scaffold_302028.1
+Q9AUQ4	Ensembl:scaffold_201965.1 Ensembl:fgenesh2_kg.1__2530__AT1G23190.1
+Q9AV71	Ensembl:fgenesh2_kg.8__409__AT5G44030.1
+Q9AWL7	Ensembl:scaffold_102583.1
+Q9AY73	Ensembl:fgenesh1_pg.C_scaffold_4001554 Ensembl:scaffold_702337.1
+Q9FDX8	Ensembl:fgenesh2_kg.8__1679__AT5G57660.1
+Q9FDY4	Ensembl:fgenesh2_kg.2__54__AT1G64280.1 Ensembl:fgenesh1_pm.C_scaffold_7001292
+Q9FRX7	Ensembl:fgenesh2_kg.1__2595__AT1G23800.1 Ensembl:scaffold_302622.1 Ensembl:fgenesh2_kg.5__1153__AT3G48000.1
+Q9FTR6	Ensembl:fgenesh2_kg.3__195__AT3G02570.1 Ensembl:Al_scaffold_0002_1331
+Q9FTZ2	Ensembl:fgenesh2_kg.1__2185__AT1G20050.1
+Q9FU17	Ensembl:fgenesh2_kg.7__1625__AT4G26200.1
+Q9FU67	Ensembl:fgenesh2_kg.4__1720__AT2G36800.1 Ensembl:scaffold_502404.1 Ensembl:scaffold_402300.1 Ensembl:fgenesh2_kg.4__1718__AT2G36750.1 Ensembl:fgenesh2_kg.5__1683__AT3G53160.1
+Q9FU68	Ensembl:fgenesh2_kg.4__1720__AT2G36800.1 Ensembl:scaffold_502404.1 Ensembl:scaffold_402300.1 Ensembl:fgenesh2_kg.4__1718__AT2G36750.1 Ensembl:fgenesh2_kg.5__1683__AT3G53160.1
+Q9FU69	Ensembl:fgenesh2_kg.4__1720__AT2G36800.1 Ensembl:scaffold_502404.1 Ensembl:scaffold_402300.1 Ensembl:fgenesh2_kg.4__1718__AT2G36750.1 Ensembl:fgenesh2_kg.5__1683__AT3G53160.1
+Q9FUE1	Ensembl:scaffold_500171.1 Ensembl:Al_scaffold_0005_144
+Q9FWC1	Ensembl:scaffold_701930.1
+Q9FWK4	Ensembl:fgenesh2_kg.3__2560__AT3G23490.1 Ensembl:Al_scaffold_0242_2
+Q9FWQ2	Ensembl:fgenesh2_kg.7__2042__AT4G22592.1 Ensembl:fgenesh2_kg.6__3182__AT4G12432.1
+Q9LD61	Ensembl:scaffold_302416.1
+Q9LDB7	Ensembl:fgenesh2_kg.7__955__AT4G32120.1 Ensembl:scaffold_400661.1
+Q9LGL5	Ensembl:fgenesh2_kg.7__814__AT4G33070.1 Ensembl:fgenesh1_pg.C_scaffold_6000064 Ensembl:fgenesh2_kg.8__1395__AT5G54960.1 Ensembl:fgenesh2_kg.6__79__AT5G01320.1
+Q9LGU6	Ensembl:fgenesh2_kg.3__1916__AT3G17390.1
+Q9LHZ0	Ensembl:fgenesh2_kg.7__606__AT4G34840.1 Ensembl:fgenesh2_kg.7__77__AT4G38800.1
+Q9LHZ7	Ensembl:fgenesh2_kg.3__252__AT3G03050.1 Ensembl:fgenesh2_kg.6__1688__AT5G16910.1
+Q9LIZ8	Ensembl:fgenesh2_kg.6__2625__AT5G26710.1 Ensembl:fgenesh2_kg.1__3885__AT5G26710.1
+Q9LRI6	Ensembl:fgenesh2_kg.1__2595__AT1G23800.1 Ensembl:scaffold_302622.1 Ensembl:fgenesh2_kg.5__1153__AT3G48000.1
+Q9LWU9	Ensembl:fgenesh1_pg.C_scaffold_2000170
+Q9LWV3	Ensembl:fgenesh2_kg.2__175__AT1G63030.1 Ensembl:scaffold_801637.1 Ensembl:fgenesh2_kg.7__1712__AT4G25470.1 Ensembl:fgenesh2_kg.1__1363__AT1G12610.1
+Q9S7D3	Ensembl:scaffold_500680.1 Ensembl:fgenesh2_kg.7__3350__AT5G40650.1
+Q9SDG5	Ensembl:fgenesh2_kg.6__235__AT5G03290.1 Ensembl:scaffold_301115.1
+Q9SE42	Ensembl:scaffold_200189.1 Ensembl:scaffold_200194.1 Ensembl:Al_scaffold_0003_27 Ensembl:fgenesh2_kg.2__144__AT1G63290.1
+Q9SMB1	Ensembl:fgenesh2_kg.2__1285__AT1G70310.1 Ensembl:scaffold_102719.1
+Q9SNK3	Ensembl:fgenesh2_kg.1__3701__AT1G42970.1
+Q9SNN0	Ensembl:fgenesh2_kg.7__616__AT4G34710.1 Ensembl:scaffold_304290.1
+Q9XEA6	Ensembl:fgenesh1_pm.C_scaffold_3001993 Ensembl:fgenesh2_kg.7__2838__AT4G14880.2
+Q9XEA8	Ensembl:fgenesh1_pm.C_scaffold_3001993 Ensembl:fgenesh2_kg.7__2838__AT4G14880.2
+Q9XG80	Ensembl:fgenesh2_kg.7__1244__AT4G29460.1 Ensembl:fgenesh2_kg.3__3202__AT2G19690.1
+Q9XHL5	Ensembl:fgenesh2_kg.3__3322__AT2G17370.1 Ensembl:fgenesh1_pm.C_scaffold_2001603
+Q9XJ03	Ensembl:fgenesh2_kg.8__2012__AT5G60510.1 Ensembl:fgenesh2_kg.3__3352__AT2G17570.1
+Q9XJ29	Ensembl:fgenesh1_pg.C_scaffold_5002065 Ensembl:fgenesh2_kg.6__508__AT5G05730.1 Ensembl:fgenesh2_kg.4__945__AT2G29690.1
+Q9ZTP5	Ensembl:scaffold_802784.1
+UPI00000AA151	Ensembl:fgenesh2_kg.7__955__AT4G32120.1 Ensembl:scaffold_400661.1
+UPI0001C7A9C3	Ensembl:fgenesh2_kg.6__286__AT5G03730.1

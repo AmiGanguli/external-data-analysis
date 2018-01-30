@@ -1,0 +1,952 @@
+A2X747	Phytozome_Pv:Phvul.005G183200 Phytozome_Pv:Phvul.010G162700
+A2XPN8	Phytozome_Pv:Phvul.007G062900 Phytozome_Pv:Phvul.004G045400
+A2Y626	Phytozome_Pv:Phvul.001G117900
+A2Y8A8	Phytozome_Pv:Phvul.003G217800
+A2ZRY8	Phytozome_Pv:Phvul.003G124600
+A2ZW27	Phytozome_Pv:Phvul.011G134200 Phytozome_Pv:Phvul.005G095900
+A2ZWY3	Phytozome_Pv:Phvul.009G078400 Phytozome_Pv:Phvul.001G037100
+A2ZWY7	Phytozome_Pv:Phvul.009G078400 Phytozome_Pv:Phvul.001G037100
+A3AAR2	Phytozome_Pv:Phvul.001G189800
+A3AQC6	Phytozome_Pv:Phvul.007G180900
+A3AZW5	Phytozome_Pv:Phvul.007G265500 Phytozome_Pv:Phvul.007G233700
+A3B7R7	Phytozome_Pv:Phvul.008G247400 Phytozome_Pv:Phvul.006G079700
+A3B9A0	Phytozome_Pv:Phvul.009G224800 Phytozome_Pv:Phvul.003G128800
+A3BI64	Phytozome_Pv:Phvul.001G238800 Phytozome_Pv:Phvul.001G238900
+A3BIR7	Phytozome_Pv:Phvul.006G039800 Phytozome_Pv:Phvul.010G011000 Phytozome_Pv:Phvul.010G076700 Phytozome_Pv:Phvul.010G010900 Phytozome_Pv:Phvul.010G077000 Phytozome_Pv:Phvul.009G172200 Phytozome_Pv:Phvul.010G079100 Phytozome_Pv:Phvul.008G155000 Phytozome_Pv:Phvul.001G008900
+A3BJI8	Phytozome_Pv:Phvul.010G053100
+A3C4N5	Phytozome_Pv:Phvul.002G235400 Phytozome_Pv:Phvul.007G262200 Phytozome_Pv:Phvul.001G200300
+A4LBC0	Phytozome_Pv:Phvul.007G230700 Phytozome_Pv:Phvul.001G193100
+A9CM06	Phytozome_Pv:Phvul.011G157500
+B7E8M5	Phytozome_Pv:Phvul.010G097500
+B7EA04	Phytozome_Pv:Phvul.002G190700
+B7ERE7	Phytozome_Pv:Phvul.003G008300 Phytozome_Pv:Phvul.007G020900
+B7F4K3	Phytozome_Pv:Phvul.007G223700
+B7F7B9	Phytozome_Pv:Phvul.003G170100
+B7F8T0	Phytozome_Pv:Phvul.007G262800 Phytozome_Pv:Phvul.001G200100
+B7F9K3	Phytozome_Pv:Phvul.007G223700
+B7FA34	Phytozome_Pv:Phvul.004G150500 Phytozome_Pv:Phvul.002G330400
+B7FA90	Phytozome_Pv:Phvul.003G143900
+B7FA99	Phytozome_Pv:Phvul.011G157500
+B7FAE9	Phytozome_Pv:Phvul.001G041100
+B7FAP2	Phytozome_Pv:Phvul.001G265400
+B8AG62	Phytozome_Pv:Phvul.007G021200
+B8AHI9	Phytozome_Pv:Phvul.007G101500
+B8AT82	Phytozome_Pv:Phvul.008G014400 Phytozome_Pv:Phvul.007G011400
+B8AZ97	Phytozome_Pv:Phvul.008G087600
+B8B8K7	Phytozome_Pv:Phvul.010G123200
+B8BB38	Phytozome_Pv:Phvul.005G182100 Phytozome_Pv:Phvul.010G160700
+B8BF84	Phytozome_Pv:Phvul.003G016300 Phytozome_Pv:Phvul.011G127700 Phytozome_Pv:Phvul.007G031800
+B9EUK4	Phytozome_Pv:Phvul.010G011600
+B9EXM2	Phytozome_Pv:Phvul.005G137400
+B9F2Q1	Phytozome_Pv:Phvul.005G131900
+B9FM98	Phytozome_Pv:Phvul.002G102300
+B9FML1	Phytozome_Pv:Phvul.003G118800
+B9FRT6	Phytozome_Pv:Phvul.001G125400
+B9FYX6	Phytozome_Pv:Phvul.006G167800 Phytozome_Pv:Phvul.002G177500
+B9FZ46	Phytozome_Pv:Phvul.003G217800
+B9G3A7	Phytozome_Pv:Phvul.003G150400 Phytozome_Pv:Phvul.003G053000 Phytozome_Pv:Phvul.009G180300
+C7J0P3	Phytozome_Pv:Phvul.003G188200 Phytozome_Pv:Phvul.009G248100
+C7J5F5	Phytozome_Pv:Phvul.011G081900 Phytozome_Pv:Phvul.007G151500 Phytozome_Pv:Phvul.005G133000 Phytozome_Pv:Phvul.007G151300
+C7J5T9	Phytozome_Pv:Phvul.011G081900 Phytozome_Pv:Phvul.007G151500 Phytozome_Pv:Phvul.005G133000 Phytozome_Pv:Phvul.007G151300
+H6TFZ4	Phytozome_Pv:Phvul.004G142800
+I1QJ08	Phytozome_Pv:Phvul.003G156600
+I1QQP8	Phytozome_Pv:Phvul.003G200700 Phytozome_Pv:Phvul.009G178200
+I3QK18	Phytozome_Pv:Phvul.002G056400
+O04226	Phytozome_Pv:Phvul.008G230300 Phytozome_Pv:Phvul.010G015400 Phytozome_Pv:Phvul.001G236900
+O04882	Phytozome_Pv:Phvul.006G136300
+O22105	Phytozome_Pv:Phvul.011G040100
+O22567	Phytozome_Pv:Phvul.003G099600 Phytozome_Pv:Phvul.006G159900
+O24174	Phytozome_Pv:Phvul.003G196700 Phytozome_Pv:Phvul.009G182300
+O24210	Phytozome_Pv:Phvul.007G209400
+O64422	Phytozome_Pv:Phvul.008G112000
+O64437	Phytozome_Pv:Phvul.002G261700 Phytozome_Pv:Phvul.001G251000
+O82427	Phytozome_Pv:Phvul.009G020000
+P0C0X5	Phytozome_Pv:Phvul.002G330300 Phytozome_Pv:Phvul.004G150600 Phytozome_Pv:Phvul.003G032500 Phytozome_Pv:Phvul.002G094000
+P0C128	Phytozome_Pv:Phvul.005G165600 Phytozome_Pv:Phvul.010G145000
+P0C132	Phytozome_Pv:Phvul.007G109500
+P0C587	Phytozome_Pv:Phvul.009G146100 Phytozome_Pv:Phvul.008G185100
+P0C5A4	Phytozome_Pv:Phvul.005G174800
+P14654	Phytozome_Pv:Phvul.008G237400 Phytozome_Pv:Phvul.008G237500 Phytozome_Pv:Phvul.004G148300 Phytozome_Pv:Phvul.001G229500
+P14655	Phytozome_Pv:Phvul.006G155800
+P14656	Phytozome_Pv:Phvul.008G237400 Phytozome_Pv:Phvul.008G237500 Phytozome_Pv:Phvul.004G148300 Phytozome_Pv:Phvul.001G229500
+P15280	Phytozome_Pv:Phvul.008G284000
+P16081	Phytozome_Pv:Phvul.008G168000 Phytozome_Pv:Phvul.009G121000
+P17784	Phytozome_Pv:Phvul.008G189200 Phytozome_Pv:Phvul.008G282000 Phytozome_Pv:Phvul.007G222900
+P17814	Phytozome_Pv:Phvul.003G147000 Phytozome_Pv:Phvul.005G184500 Phytozome_Pv:Phvul.003G146900
+P18566	Phytozome_Pv:Phvul.004G073400 Phytozome_Pv:Phvul.004G064800 Phytozome_Pv:Phvul.004G064900
+P30298	Phytozome_Pv:Phvul.001G209600 Phytozome_Pv:Phvul.009G223800 Phytozome_Pv:Phvul.003G127500
+P31924	Phytozome_Pv:Phvul.001G209600 Phytozome_Pv:Phvul.009G223800 Phytozome_Pv:Phvul.003G127500
+P37833	Phytozome_Pv:Phvul.009G106800
+P38419	Phytozome_Pv:Phvul.006G017100 Phytozome_Pv:Phvul.006G016900
+P42862	Phytozome_Pv:Phvul.004G023500 Phytozome_Pv:Phvul.009G057500
+P42863	Phytozome_Pv:Phvul.004G023500 Phytozome_Pv:Phvul.009G057500
+P48642	Phytozome_Pv:Phvul.004G083600
+P93438	Phytozome_Pv:Phvul.003G120300 Phytozome_Pv:Phvul.001G216600 Phytozome_Pv:Phvul.007G210700 Phytozome_Pv:Phvul.003G120000 Phytozome_Pv:Phvul.001G216700 Phytozome_Pv:Phvul.001G222800
+Q01KF3	Phytozome_Pv:Phvul.003G180900
+Q01M39	Phytozome_Pv:Phvul.008G174700 Phytozome_Pv:Phvul.008G175300 Phytozome_Pv:Phvul.008G175500 Phytozome_Pv:Phvul.008G175600
+Q05JG2	Phytozome_Pv:Phvul.003G292200 Phytozome_Pv:Phvul.001G022100
+Q06967	Phytozome_Pv:Phvul.008G004300
+Q0D3B6	Phytozome_Pv:Phvul.007G162500 Phytozome_Pv:Phvul.011G070600
+Q0D3D2	Phytozome_Pv:Phvul.008G095400 Phytozome_Pv:Phvul.010G078000
+Q0D759	Phytozome_Pv:Phvul.006G039800 Phytozome_Pv:Phvul.010G011000 Phytozome_Pv:Phvul.010G076700 Phytozome_Pv:Phvul.010G010900 Phytozome_Pv:Phvul.010G077000 Phytozome_Pv:Phvul.009G172200 Phytozome_Pv:Phvul.010G079100 Phytozome_Pv:Phvul.008G155000 Phytozome_Pv:Phvul.001G008900
+Q0D7I3	Phytozome_Pv:Phvul.001G219900
+Q0D7J0	Phytozome_Pv:Phvul.001G238800 Phytozome_Pv:Phvul.001G238900
+Q0D7J3	Phytozome_Pv:Phvul.001G238800 Phytozome_Pv:Phvul.001G238900
+Q0D7W4	Phytozome_Pv:Phvul.007G186000
+Q0D8I9	Phytozome_Pv:Phvul.001G177500 Phytozome_Pv:Phvul.007G150600
+Q0D8J6	Phytozome_Pv:Phvul.005G051600 Phytozome_Pv:Phvul.007G198800
+Q0D980	Phytozome_Pv:Phvul.006G045700
+Q0DA35	Phytozome_Pv:Phvul.005G114700
+Q0DAA4	Phytozome_Pv:Phvul.009G241800 Phytozome_Pv:Phvul.002G190000
+Q0DBD3	Phytozome_Pv:Phvul.003G072600 Phytozome_Pv:Phvul.002G078800
+Q0DBF4	Phytozome_Pv:Phvul.005G183600
+Q0DBN4	Phytozome_Pv:Phvul.011G127800
+Q0DCE9	Phytozome_Pv:Phvul.003G106200 Phytozome_Pv:Phvul.003G040500 Phytozome_Pv:Phvul.007G056400 Phytozome_Pv:Phvul.007G056200 Phytozome_Pv:Phvul.007G056500
+Q0DDS1	Phytozome_Pv:Phvul.003G044000 Phytozome_Pv:Phvul.001G209800
+Q0DEC8	Phytozome_Pv:Phvul.009G052100
+Q0DG35	Phytozome_Pv:Phvul.001G076400
+Q0DGG8	Phytozome_Pv:Phvul.006G055200 Phytozome_Pv:Phvul.008G277800 Phytozome_Pv:Phvul.001G170600 Phytozome_Pv:Phvul.010G110600
+Q0DHF6	Phytozome_Pv:Phvul.008G095400 Phytozome_Pv:Phvul.010G078000
+Q0DJJ9	Phytozome_Pv:Phvul.001G115300
+Q0DKE8	Phytozome_Pv:Phvul.002G059200 Phytozome_Pv:Phvul.003G203500 Phytozome_Pv:Phvul.009G175300
+Q0DKP3	Phytozome_Pv:Phvul.001G087000 Phytozome_Pv:Phvul.007G166200 Phytozome_Pv:Phvul.001G202600
+Q0DKY4	Phytozome_Pv:Phvul.003G120300 Phytozome_Pv:Phvul.001G216600 Phytozome_Pv:Phvul.007G210700 Phytozome_Pv:Phvul.003G120000 Phytozome_Pv:Phvul.001G216700 Phytozome_Pv:Phvul.001G222800
+Q0DNU1	Phytozome_Pv:Phvul.002G213800 Phytozome_Pv:Phvul.008G254600 Phytozome_Pv:Phvul.009G035300
+Q0DS76	Phytozome_Pv:Phvul.011G177600
+Q0DSM1	Phytozome_Pv:Phvul.003G188200 Phytozome_Pv:Phvul.009G248100
+Q0DV32	Phytozome_Pv:Phvul.005G131400 Phytozome_Pv:Phvul.011G084300
+Q0DWC7	Phytozome_Pv:Phvul.006G106300 Phytozome_Pv:Phvul.007G129500 Phytozome_Pv:Phvul.006G106400 Phytozome_Pv:Phvul.007G271700
+Q0DWF2	Phytozome_Pv:Phvul.001G164900 Phytozome_Pv:Phvul.007G189400
+Q0DXA9	Phytozome_Pv:Phvul.010G162000 Phytozome_Pv:Phvul.010G162100 Phytozome_Pv:Phvul.009G185700
+Q0DY86	Phytozome_Pv:Phvul.004G083900
+Q0DYK7	Phytozome_Pv:Phvul.008G292500
+Q0DZE0	Phytozome_Pv:Phvul.001G177800 Phytozome_Pv:Phvul.007G096300 Phytozome_Pv:Phvul.007G150500 Phytozome_Pv:Phvul.001G177700
+Q0E2P1	Phytozome_Pv:Phvul.005G161000 Phytozome_Pv:Phvul.010G141300
+Q0E2P9	Phytozome_Pv:Phvul.009G078400 Phytozome_Pv:Phvul.001G037100
+Q0E2X2	Phytozome_Pv:Phvul.001G182600 Phytozome_Pv:Phvul.001G182200 Phytozome_Pv:Phvul.002G016500 Phytozome_Pv:Phvul.001G182700 Phytozome_Pv:Phvul.001G182300 Phytozome_Pv:Phvul.001G182400 Phytozome_Pv:Phvul.002G016400 Phytozome_Pv:Phvul.001G182500 Phytozome_Pv:Phvul.001G183000 Phytozome_Pv:Phvul.001G182100
+Q0E3F2	Phytozome_Pv:Phvul.003G148000
+Q0E3J1	Phytozome_Pv:Phvul.009G241800 Phytozome_Pv:Phvul.002G190000
+Q0E4F0	Phytozome_Pv:Phvul.011G040200 Phytozome_Pv:Phvul.011G040300
+Q0E4N2	Phytozome_Pv:Phvul.007G021200
+Q0ILP7	Phytozome_Pv:Phvul.009G114000
+Q0INY7	Phytozome_Pv:Phvul.004G073400 Phytozome_Pv:Phvul.004G064800 Phytozome_Pv:Phvul.004G064900
+Q0INZ4	Phytozome_Pv:Phvul.005G064200
+Q0IPE5	Phytozome_Pv:Phvul.008G049000
+Q0IQQ5	Phytozome_Pv:Phvul.008G092900
+Q0IRE6	Phytozome_Pv:Phvul.006G094500 Phytozome_Pv:Phvul.006G094700 Phytozome_Pv:Phvul.006G094600
+Q0ITU1	Phytozome_Pv:Phvul.009G226400
+Q0IZJ9	Phytozome_Pv:Phvul.005G127100 Phytozome_Pv:Phvul.011G090400
+Q0IZS0	Phytozome_Pv:Phvul.003G023500
+Q0IZX5	Phytozome_Pv:Phvul.002G104200
+Q0J0L4	Phytozome_Pv:Phvul.003G210100 Phytozome_Pv:Phvul.001G114500
+Q0J0M8	Phytozome_Pv:Phvul.003G271800 Phytozome_Pv:Phvul.002G118900 Phytozome_Pv:Phvul.008G208900 Phytozome_Pv:Phvul.006G008200
+Q0J0N3	Phytozome_Pv:Phvul.003G214400 Phytozome_Pv:Phvul.003G152300 Phytozome_Pv:Phvul.010G082300 Phytozome_Pv:Phvul.001G267000
+Q0J0N7	Phytozome_Pv:Phvul.008G132800 Phytozome_Pv:Phvul.008G132900 Phytozome_Pv:Phvul.011G002400 Phytozome_Pv:Phvul.011G002500
+Q0J0P9	Phytozome_Pv:Phvul.008G132800 Phytozome_Pv:Phvul.008G132900 Phytozome_Pv:Phvul.011G002400 Phytozome_Pv:Phvul.011G002500
+Q0J185	Phytozome_Pv:Phvul.003G292200 Phytozome_Pv:Phvul.001G022100
+Q0J1C1	Phytozome_Pv:Phvul.003G082300 Phytozome_Pv:Phvul.002G326600 Phytozome_Pv:Phvul.006G144900 Phytozome_Pv:Phvul.008G214200
+Q0J1E1	Phytozome_Pv:Phvul.007G006400
+Q0J270	Phytozome_Pv:Phvul.005G153700 Phytozome_Pv:Phvul.010G019400
+Q0J2L7	Phytozome_Pv:Phvul.008G231200 Phytozome_Pv:Phvul.001G236000
+Q0J360	Phytozome_Pv:Phvul.001G036800
+Q0J5Y4	Phytozome_Pv:Phvul.008G080300
+Q0J8A4	Phytozome_Pv:Phvul.004G057600 Phytozome_Pv:Phvul.001G259000 Phytozome_Pv:Phvul.004G057700
+Q0J951	Phytozome_Pv:Phvul.002G233600 Phytozome_Pv:Phvul.004G177600 Phytozome_Pv:Phvul.006G084200 Phytozome_Pv:Phvul.002G177600 Phytozome_Pv:Phvul.008G197600 Phytozome_Pv:Phvul.008G242400
+Q0J9F2	Phytozome_Pv:Phvul.006G136300
+Q0J9K2	Phytozome_Pv:Phvul.010G157400
+Q0J9Z0	Phytozome_Pv:Phvul.003G078800 Phytozome_Pv:Phvul.011G151400
+Q0JA81	Phytozome_Pv:Phvul.005G048500
+Q0JA82	Phytozome_Pv:Phvul.005G048500
+Q0JA83	Phytozome_Pv:Phvul.005G048500
+Q0JAI1	Phytozome_Pv:Phvul.009G160900
+Q0JB49	Phytozome_Pv:Phvul.002G288700
+Q0JB91	Phytozome_Pv:Phvul.005G009200
+Q0JB99	Phytozome_Pv:Phvul.002G055700
+Q0JBF1	Phytozome_Pv:Phvul.002G061200 Phytozome_Pv:Phvul.003G217900
+Q0JC10	Phytozome_Pv:Phvul.003G044200 Phytozome_Pv:Phvul.008G022100
+Q0JCU7	Phytozome_Pv:Phvul.003G243800 Phytozome_Pv:Phvul.002G018700
+Q0JCZ4	Phytozome_Pv:Phvul.002G282200 Phytozome_Pv:Phvul.003G075800 Phytozome_Pv:Phvul.009G161900
+Q0JDD2	Phytozome_Pv:Phvul.007G152600
+Q0JDF7	Phytozome_Pv:Phvul.005G127100 Phytozome_Pv:Phvul.011G090400
+Q0JDT1	Phytozome_Pv:Phvul.006G108200
+Q0JE53	Phytozome_Pv:Phvul.008G174700 Phytozome_Pv:Phvul.008G175300 Phytozome_Pv:Phvul.008G175500 Phytozome_Pv:Phvul.008G175600
+Q0JEK1	Phytozome_Pv:Phvul.008G075400
+Q0JEP5	Phytozome_Pv:Phvul.007G245200 Phytozome_Pv:Phvul.007G099000
+Q0JEZ8	Phytozome_Pv:Phvul.005G048500
+Q0JF25	Phytozome_Pv:Phvul.006G079100 Phytozome_Pv:Phvul.006G078900 Phytozome_Pv:Phvul.006G079200 Phytozome_Pv:Phvul.006G078800 Phytozome_Pv:Phvul.006G002300 Phytozome_Pv:Phvul.010G076800
+Q0JF26	Phytozome_Pv:Phvul.006G079100 Phytozome_Pv:Phvul.006G078900 Phytozome_Pv:Phvul.006G079200 Phytozome_Pv:Phvul.006G078800 Phytozome_Pv:Phvul.006G002300 Phytozome_Pv:Phvul.010G076800
+Q0JF30	Phytozome_Pv:Phvul.006G106300 Phytozome_Pv:Phvul.007G129500 Phytozome_Pv:Phvul.006G106400 Phytozome_Pv:Phvul.007G271700
+Q0JGK4	Phytozome_Pv:Phvul.006G031700 Phytozome_Pv:Phvul.005G002600
+Q0JJI1	Phytozome_Pv:Phvul.004G014500
+Q0JK57	Phytozome_Pv:Phvul.004G150500 Phytozome_Pv:Phvul.002G330400
+Q0JKD0	Phytozome_Pv:Phvul.001G076400
+Q0JKG7	Phytozome_Pv:Phvul.010G147200 Phytozome_Pv:Phvul.009G146000 Phytozome_Pv:Phvul.003G286200 Phytozome_Pv:Phvul.002G311500 Phytozome_Pv:Phvul.004G166400 Phytozome_Pv:Phvul.002G142500 Phytozome_Pv:Phvul.005G169600
+Q0JKI9	Phytozome_Pv:Phvul.003G290200 Phytozome_Pv:Phvul.006G181200
+Q0JLT2	Phytozome_Pv:Phvul.001G036500 Phytozome_Pv:Phvul.005G158600 Phytozome_Pv:Phvul.010G138200 Phytozome_Pv:Phvul.001G204700 Phytozome_Pv:Phvul.006G090800 Phytozome_Pv:Phvul.007G196100
+Q0JPT4	Phytozome_Pv:Phvul.005G079400
+Q0JQ41	Phytozome_Pv:Phvul.011G197100 Phytozome_Pv:Phvul.005G017000
+Q0JRG4	Phytozome_Pv:Phvul.004G081400
+Q109F2	Phytozome_Pv:Phvul.002G111900 Phytozome_Pv:Phvul.003G259200 Phytozome_Pv:Phvul.003G259100
+Q109K4	Phytozome_Pv:Phvul.002G222300 Phytozome_Pv:Phvul.005G095600
+Q109W9	Phytozome_Pv:Phvul.002G222300 Phytozome_Pv:Phvul.005G095600
+Q10A30	Phytozome_Pv:Phvul.008G189200 Phytozome_Pv:Phvul.008G282000 Phytozome_Pv:Phvul.007G222900
+Q10BT5	Phytozome_Pv:Phvul.002G235400 Phytozome_Pv:Phvul.007G262200 Phytozome_Pv:Phvul.001G200300
+Q10BX9	Phytozome_Pv:Phvul.007G014500
+Q10CE4	Phytozome_Pv:Phvul.002G180300 Phytozome_Pv:Phvul.005G051800
+Q10CH5	Phytozome_Pv:Phvul.001G168700 Phytozome_Pv:Phvul.006G028500 Phytozome_Pv:Phvul.008G196800 Phytozome_Pv:Phvul.007G156200
+Q10CQ1	Phytozome_Pv:Phvul.003G039200 Phytozome_Pv:Phvul.009G203400
+Q10CS9	Phytozome_Pv:Phvul.006G122300
+Q10D34	Phytozome_Pv:Phvul.007G109500
+Q10D68	Phytozome_Pv:Phvul.003G286600 Phytozome_Pv:Phvul.008G184200
+Q10D87	Phytozome_Pv:Phvul.008G243300
+Q10DK7	Phytozome_Pv:Phvul.003G232400
+Q10DU0	Phytozome_Pv:Phvul.001G221100 Phytozome_Pv:Phvul.009G213400 Phytozome_Pv:Phvul.007G206800
+Q10DZ5	Phytozome_Pv:Phvul.007G225400
+Q10E50	Phytozome_Pv:Phvul.004G177100
+Q10EG4	Phytozome_Pv:Phvul.001G177500 Phytozome_Pv:Phvul.007G150600
+Q10F04	Phytozome_Pv:Phvul.009G055300
+Q10F25	Phytozome_Pv:Phvul.002G213800 Phytozome_Pv:Phvul.008G254600 Phytozome_Pv:Phvul.009G035300
+Q10FE9	Phytozome_Pv:Phvul.005G043300
+Q10G56	Phytozome_Pv:Phvul.002G180400
+Q10HZ6	Phytozome_Pv:Phvul.006G079100 Phytozome_Pv:Phvul.006G078900 Phytozome_Pv:Phvul.006G079200 Phytozome_Pv:Phvul.006G078800 Phytozome_Pv:Phvul.006G002300 Phytozome_Pv:Phvul.010G076800
+Q10J20	Phytozome_Pv:Phvul.002G013800 Phytozome_Pv:Phvul.003G237900
+Q10J32	Phytozome_Pv:Phvul.003G197500
+Q10JI3	Phytozome_Pv:Phvul.008G032900 Phytozome_Pv:Phvul.003G042000
+Q10L50	Phytozome_Pv:Phvul.008G005300
+Q10L51	Phytozome_Pv:Phvul.001G182600 Phytozome_Pv:Phvul.001G182200 Phytozome_Pv:Phvul.002G016500 Phytozome_Pv:Phvul.001G182700 Phytozome_Pv:Phvul.001G182300 Phytozome_Pv:Phvul.001G182400 Phytozome_Pv:Phvul.002G016400 Phytozome_Pv:Phvul.001G182500 Phytozome_Pv:Phvul.001G183000 Phytozome_Pv:Phvul.001G182100
+Q10L56	Phytozome_Pv:Phvul.001G149000
+Q10LP5	Phytozome_Pv:Phvul.001G209600 Phytozome_Pv:Phvul.009G223800 Phytozome_Pv:Phvul.003G127500
+Q10LR4	Phytozome_Pv:Phvul.008G087600
+Q10LR5	Phytozome_Pv:Phvul.007G217700 Phytozome_Pv:Phvul.007G217600
+Q10M76	Phytozome_Pv:Phvul.001G116900
+Q10MB0	Phytozome_Pv:Phvul.007G203400 Phytozome_Pv:Phvul.001G223700 Phytozome_Pv:Phvul.001G215300
+Q10MG9	Phytozome_Pv:Phvul.006G118200
+Q10MK2	Phytozome_Pv:Phvul.001G206000
+Q10MK5	Phytozome_Pv:Phvul.009G036600 Phytozome_Pv:Phvul.002G296600
+Q10MQ2	Phytozome_Pv:Phvul.002G217100
+Q10MW3	Phytozome_Pv:Phvul.008G095400 Phytozome_Pv:Phvul.010G078000
+Q10MX9	Phytozome_Pv:Phvul.008G098100 Phytozome_Pv:Phvul.010G076200
+Q10N17	Phytozome_Pv:Phvul.011G071800
+Q10N34	Phytozome_Pv:Phvul.007G162500 Phytozome_Pv:Phvul.011G070600
+Q10NY1	Phytozome_Pv:Phvul.007G094200
+Q10NY2	Phytozome_Pv:Phvul.010G157700 Phytozome_Pv:Phvul.005G180100
+Q10P02	Phytozome_Pv:Phvul.001G024100
+Q10P67	Phytozome_Pv:Phvul.010G108900 Phytozome_Pv:Phvul.001G003100
+Q10P71	Phytozome_Pv:Phvul.008G106300 Phytozome_Pv:Phvul.010G003600
+Q10PL0	Phytozome_Pv:Phvul.009G075100
+Q10PY7	Phytozome_Pv:Phvul.011G060000 Phytozome_Pv:Phvul.005G147400
+Q10QA5	Phytozome_Pv:Phvul.001G027400
+Q10QN3	Phytozome_Pv:Phvul.009G192700
+Q10QR9	Phytozome_Pv:Phvul.009G063100
+Q10RP2	Phytozome_Pv:Phvul.007G240100 Phytozome_Pv:Phvul.007G239500 Phytozome_Pv:Phvul.007G239400
+Q10S34	Phytozome_Pv:Phvul.005G115100 Phytozome_Pv:Phvul.011G103700
+Q10S55	Phytozome_Pv:Phvul.006G218100
+Q10S58	Phytozome_Pv:Phvul.002G114700 Phytozome_Pv:Phvul.003G269000
+Q10S72	Phytozome_Pv:Phvul.001G001300
+Q10SD6	Phytozome_Pv:Phvul.009G177200
+Q10SL7	Phytozome_Pv:Phvul.007G066600
+Q10SM6	Phytozome_Pv:Phvul.010G097500
+Q10SP1	Phytozome_Pv:Phvul.010G115400
+Q10SU1	Phytozome_Pv:Phvul.008G230100
+Q25AR2	Phytozome_Pv:Phvul.007G275100 Phytozome_Pv:Phvul.007G057200
+Q2KNB4	Phytozome_Pv:Phvul.011G023700 Phytozome_Pv:Phvul.002G034000
+Q2KNB5	Phytozome_Pv:Phvul.011G023700 Phytozome_Pv:Phvul.002G034000
+Q2MJA7	Phytozome_Pv:Phvul.003G214400 Phytozome_Pv:Phvul.003G152300 Phytozome_Pv:Phvul.010G082300 Phytozome_Pv:Phvul.001G267000
+Q2MJA8	Phytozome_Pv:Phvul.003G214400 Phytozome_Pv:Phvul.003G152300 Phytozome_Pv:Phvul.010G082300 Phytozome_Pv:Phvul.001G267000
+Q2QLJ0	Phytozome_Pv:Phvul.011G211200
+Q2QLY5	Phytozome_Pv:Phvul.004G051600 Phytozome_Pv:Phvul.001G113800
+Q2QLY6	Phytozome_Pv:Phvul.001G060700
+Q2QM47	Phytozome_Pv:Phvul.005G118700 Phytozome_Pv:Phvul.011G099600
+Q2QM70	Phytozome_Pv:Phvul.007G175500 Phytozome_Pv:Phvul.007G279000
+Q2QM83	Phytozome_Pv:Phvul.003G071700 Phytozome_Pv:Phvul.003G194900 Phytozome_Pv:Phvul.002G079900 Phytozome_Pv:Phvul.009G183900
+Q2QMD4	Phytozome_Pv:Phvul.005G050400
+Q2QME6	Phytozome_Pv:Phvul.001G153900
+Q2QMK8	Phytozome_Pv:Phvul.001G232200
+Q2QN06	Phytozome_Pv:Phvul.007G044500 Phytozome_Pv:Phvul.009G070800 Phytozome_Pv:Phvul.001G026700
+Q2QN58	Phytozome_Pv:Phvul.004G032900
+Q2QN88	Phytozome_Pv:Phvul.002G101900
+Q2QNF7	Phytozome_Pv:Phvul.001G170900
+Q2QNM9	Phytozome_Pv:Phvul.009G262900 Phytozome_Pv:Phvul.010G128800
+Q2QNN5	Phytozome_Pv:Phvul.006G017100 Phytozome_Pv:Phvul.006G016900
+Q2QNS6	Phytozome_Pv:Phvul.001G211000
+Q2QPI2	Phytozome_Pv:Phvul.006G094500 Phytozome_Pv:Phvul.006G094700 Phytozome_Pv:Phvul.006G094600
+Q2QPR0	Phytozome_Pv:Phvul.001G177800 Phytozome_Pv:Phvul.007G096300 Phytozome_Pv:Phvul.007G150500 Phytozome_Pv:Phvul.001G177700
+Q2QQ60	Phytozome_Pv:Phvul.002G102300
+Q2QQJ5	Phytozome_Pv:Phvul.005G048500
+Q2QQX6	Phytozome_Pv:Phvul.002G282200 Phytozome_Pv:Phvul.003G075800 Phytozome_Pv:Phvul.009G161900
+Q2QRX6	Phytozome_Pv:Phvul.009G022100 Phytozome_Pv:Phvul.011G043000
+Q2QS13	Phytozome_Pv:Phvul.002G102900 Phytozome_Pv:Phvul.008G034900 Phytozome_Pv:Phvul.004G034500
+Q2QS14	Phytozome_Pv:Phvul.002G102900 Phytozome_Pv:Phvul.008G034900 Phytozome_Pv:Phvul.004G034500
+Q2QT32	Phytozome_Pv:Phvul.003G051100 Phytozome_Pv:Phvul.001G266600
+Q2QTJ1	Phytozome_Pv:Phvul.004G073400 Phytozome_Pv:Phvul.004G064800 Phytozome_Pv:Phvul.004G064900
+Q2QTL0	Phytozome_Pv:Phvul.003G202900
+Q2QTQ1	Phytozome_Pv:Phvul.006G131100
+Q2QUG4	Phytozome_Pv:Phvul.010G033500
+Q2QUI0	Phytozome_Pv:Phvul.006G094500 Phytozome_Pv:Phvul.006G094700 Phytozome_Pv:Phvul.006G094600
+Q2QVC1	Phytozome_Pv:Phvul.003G209800
+Q2QWD0	Phytozome_Pv:Phvul.L008600 Phytozome_Pv:Phvul.009G259200 Phytozome_Pv:Phvul.009G259500 Phytozome_Pv:Phvul.009G258600 Phytozome_Pv:Phvul.009G259100 Phytozome_Pv:Phvul.009G258800 Phytozome_Pv:Phvul.009G258700 Phytozome_Pv:Phvul.009G258900 Phytozome_Pv:Phvul.009G259300 Phytozome_Pv:Phvul.009G259000
+Q2QWK9	Phytozome_Pv:Phvul.006G216300
+Q2QWV7	Phytozome_Pv:Phvul.007G262800 Phytozome_Pv:Phvul.001G200100
+Q2QX58	Phytozome_Pv:Phvul.009G124800 Phytozome_Pv:Phvul.008G163100
+Q2QXK5	Phytozome_Pv:Phvul.007G152600
+Q2QXL0	Phytozome_Pv:Phvul.005G124100
+Q2QXP0	Phytozome_Pv:Phvul.003G188200 Phytozome_Pv:Phvul.009G248100
+Q2QXY1	Phytozome_Pv:Phvul.007G247900
+Q2QXY9	Phytozome_Pv:Phvul.007G004600
+Q2QXZ1	Phytozome_Pv:Phvul.001G126000
+Q2QY34	Phytozome_Pv:Phvul.002G330300 Phytozome_Pv:Phvul.004G150600 Phytozome_Pv:Phvul.003G032500 Phytozome_Pv:Phvul.002G094000
+Q2QY63	Phytozome_Pv:Phvul.008G053200
+Q2QYB7	Phytozome_Pv:Phvul.006G009000
+Q2QYV3	Phytozome_Pv:Phvul.006G071000
+Q2QYW4	Phytozome_Pv:Phvul.008G098100 Phytozome_Pv:Phvul.010G076200
+Q2QZ14	Phytozome_Pv:Phvul.002G074300 Phytozome_Pv:Phvul.002G074200
+Q2R1G8	Phytozome_Pv:Phvul.002G254200
+Q2R1L4	Phytozome_Pv:Phvul.008G006200
+Q2R2Q2	Phytozome_Pv:Phvul.011G157500
+Q2R2W1	Phytozome_Pv:Phvul.002G321800
+Q2R2W2	Phytozome_Pv:Phvul.008G004300
+Q2R2W3	Phytozome_Pv:Phvul.004G177100
+Q2R2W8	Phytozome_Pv:Phvul.002G009900
+Q2R339	Phytozome_Pv:Phvul.005G041600
+Q2R3A1	Phytozome_Pv:Phvul.001G083000
+Q2R3F5	Phytozome_Pv:Phvul.002G282200 Phytozome_Pv:Phvul.003G075800 Phytozome_Pv:Phvul.009G161900
+Q2R3K3	Phytozome_Pv:Phvul.004G071100
+Q2R3K5	Phytozome_Pv:Phvul.001G087000 Phytozome_Pv:Phvul.007G166200 Phytozome_Pv:Phvul.001G202600
+Q2R432	Phytozome_Pv:Phvul.002G285800
+Q2R481	Phytozome_Pv:Phvul.009G022100 Phytozome_Pv:Phvul.011G043000
+Q2R8T7	Phytozome_Pv:Phvul.004G004700
+Q2RAM8	Phytozome_Pv:Phvul.001G265400
+Q2RAP0	Phytozome_Pv:Phvul.007G247900
+Q2RAP4	Phytozome_Pv:Phvul.001G242200 Phytozome_Pv:Phvul.008G224600
+Q2RAP8	Phytozome_Pv:Phvul.007G004600
+Q2RAP9	Phytozome_Pv:Phvul.001G126000
+Q2RAY0	Phytozome_Pv:Phvul.008G053200
+Q2RB02	Phytozome_Pv:Phvul.008G026000 Phytozome_Pv:Phvul.009G145600 Phytozome_Pv:Phvul.003G084100 Phytozome_Pv:Phvul.007G141400
+Q2RB23	Phytozome_Pv:Phvul.006G009000
+Q2RBN0	Phytozome_Pv:Phvul.006G071000
+Q2RBP2	Phytozome_Pv:Phvul.006G068500 Phytozome_Pv:Phvul.008G261000 Phytozome_Pv:Phvul.001G243900
+Q336M7	Phytozome_Pv:Phvul.002G132900
+Q336N7	Phytozome_Pv:Phvul.002G137400
+Q336P5	Phytozome_Pv:Phvul.002G141500 Phytozome_Pv:Phvul.003G285700
+Q336R6	Phytozome_Pv:Phvul.002G002500 Phytozome_Pv:Phvul.003G226300
+Q336U3	Phytozome_Pv:Phvul.002G300800 Phytozome_Pv:Phvul.004G047900 Phytozome_Pv:Phvul.008G022000
+Q336V3	Phytozome_Pv:Phvul.007G226500
+Q336X9	Phytozome_Pv:Phvul.010G102800
+Q337F0	Phytozome_Pv:Phvul.010G094700 Phytozome_Pv:Phvul.008G068700
+Q337F3	Phytozome_Pv:Phvul.008G230100
+Q338J0	Phytozome_Pv:Phvul.001G165600
+Q338N8	Phytozome_Pv:Phvul.010G123200
+Q338Z4	Phytozome_Pv:Phvul.009G037700
+Q339V1	Phytozome_Pv:Phvul.006G092900
+Q33AE4	Phytozome_Pv:Phvul.007G064900
+Q33CD8	Phytozome_Pv:Phvul.008G005300
+Q33CD9	Phytozome_Pv:Phvul.008G005300
+Q40710	Phytozome_Pv:Phvul.007G203400 Phytozome_Pv:Phvul.001G223700 Phytozome_Pv:Phvul.001G215300
+Q42971	Phytozome_Pv:Phvul.001G186100 Phytozome_Pv:Phvul.004G127500
+Q42982	Phytozome_Pv:Phvul.003G147000 Phytozome_Pv:Phvul.005G184500 Phytozome_Pv:Phvul.003G146900
+Q43007	Phytozome_Pv:Phvul.010G155000 Phytozome_Pv:Phvul.005G177200 Phytozome_Pv:Phvul.005G177300
+Q43009	Phytozome_Pv:Phvul.001G209600 Phytozome_Pv:Phvul.009G223800 Phytozome_Pv:Phvul.003G127500
+Q43011	Phytozome_Pv:Phvul.006G069300 Phytozome_Pv:Phvul.001G252200 Phytozome_Pv:Phvul.008G259900
+Q4W8D0	Phytozome_Pv:Phvul.008G237400 Phytozome_Pv:Phvul.008G237500 Phytozome_Pv:Phvul.004G148300 Phytozome_Pv:Phvul.001G229500
+Q52QH4	Phytozome_Pv:Phvul.002G275000 Phytozome_Pv:Phvul.009G152900 Phytozome_Pv:Phvul.009G125900 Phytozome_Pv:Phvul.001G072200 Phytozome_Pv:Phvul.009G152800
+Q53JG7	Phytozome_Pv:Phvul.008G106300 Phytozome_Pv:Phvul.010G003600
+Q53JI9	Phytozome_Pv:Phvul.006G031700 Phytozome_Pv:Phvul.005G002600
+Q53JP2	Phytozome_Pv:Phvul.010G000300 Phytozome_Pv:Phvul.008G223500 Phytozome_Pv:Phvul.008G098500 Phytozome_Pv:Phvul.001G244000
+Q53KL7	Phytozome_Pv:Phvul.011G177300
+Q53L28	Phytozome_Pv:Phvul.002G248000
+Q53MS9	Phytozome_Pv:Phvul.002G322400
+Q53NW6	Phytozome_Pv:Phvul.001G177800 Phytozome_Pv:Phvul.007G096300 Phytozome_Pv:Phvul.007G150500 Phytozome_Pv:Phvul.001G177700
+Q53P49	Phytozome_Pv:Phvul.010G111400 Phytozome_Pv:Phvul.006G110900
+Q53Q70	Phytozome_Pv:Phvul.008G169000 Phytozome_Pv:Phvul.001G249300 Phytozome_Pv:Phvul.002G263400 Phytozome_Pv:Phvul.011G093700
+Q53QJ0	Phytozome_Pv:Phvul.009G167500
+Q53RH0	Phytozome_Pv:Phvul.001G210200
+Q5CCK1	Phytozome_Pv:Phvul.001G242200 Phytozome_Pv:Phvul.008G224600
+Q5CCK3	Phytozome_Pv:Phvul.002G029700 Phytozome_Pv:Phvul.003G253100
+Q5JJV0	Phytozome_Pv:Phvul.001G036800
+Q5JK18	Phytozome_Pv:Phvul.004G070100
+Q5JK20	Phytozome_Pv:Phvul.002G282200 Phytozome_Pv:Phvul.003G075800 Phytozome_Pv:Phvul.009G161900
+Q5JK39	Phytozome_Pv:Phvul.004G071100
+Q5JLS4	Phytozome_Pv:Phvul.008G272500 Phytozome_Pv:Phvul.007G124400
+Q5JMA1	Phytozome_Pv:Phvul.002G196600
+Q5JMA6	Phytozome_Pv:Phvul.004G171500
+Q5JMB6	Phytozome_Pv:Phvul.011G197100 Phytozome_Pv:Phvul.005G017000
+Q5JMC7	Phytozome_Pv:Phvul.002G265800
+Q5JMM6	Phytozome_Pv:Phvul.005G069200
+Q5JMX5	Phytozome_Pv:Phvul.003G026900
+Q5JMX9	Phytozome_Pv:Phvul.006G022500
+Q5JN19	Phytozome_Pv:Phvul.004G032900
+Q5JN63	Phytozome_Pv:Phvul.002G240200 Phytozome_Pv:Phvul.009G090100
+Q5JNB0	Phytozome_Pv:Phvul.003G060200
+Q5MBR3	Phytozome_Pv:Phvul.005G051600 Phytozome_Pv:Phvul.007G198800
+Q5MBR5	Phytozome_Pv:Phvul.005G051600 Phytozome_Pv:Phvul.007G198800
+Q5N725	Phytozome_Pv:Phvul.008G189200 Phytozome_Pv:Phvul.008G282000 Phytozome_Pv:Phvul.007G222900
+Q5N7L0	Phytozome_Pv:Phvul.007G028100
+Q5N7Z8	Phytozome_Pv:Phvul.004G118900 Phytozome_Pv:Phvul.009G172000 Phytozome_Pv:Phvul.004G118700 Phytozome_Pv:Phvul.004G119300 Phytozome_Pv:Phvul.002G226700 Phytozome_Pv:Phvul.004G118800 Phytozome_Pv:Phvul.004G119200 Phytozome_Pv:Phvul.009G172100
+Q5N892	Phytozome_Pv:Phvul.008G106300 Phytozome_Pv:Phvul.010G003600
+Q5N8G1	Phytozome_Pv:Phvul.003G090900
+Q5N8H9	Phytozome_Pv:Phvul.009G078400 Phytozome_Pv:Phvul.001G037100
+Q5N9N2	Phytozome_Pv:Phvul.008G231200 Phytozome_Pv:Phvul.001G236000
+Q5N9Z8	Phytozome_Pv:Phvul.001G250600 Phytozome_Pv:Phvul.002G262100
+Q5NA81	Phytozome_Pv:Phvul.011G123200 Phytozome_Pv:Phvul.005G099800
+Q5NAY4	Phytozome_Pv:Phvul.002G198300 Phytozome_Pv:Phvul.006G126900
+Q5NAZ7	Phytozome_Pv:Phvul.010G111400 Phytozome_Pv:Phvul.006G110900
+Q5NB25	Phytozome_Pv:Phvul.010G147200 Phytozome_Pv:Phvul.009G146000 Phytozome_Pv:Phvul.003G286200 Phytozome_Pv:Phvul.002G311500 Phytozome_Pv:Phvul.004G166400 Phytozome_Pv:Phvul.002G142500 Phytozome_Pv:Phvul.005G169600
+Q5NBQ1	Phytozome_Pv:Phvul.001G082700
+Q5NBT9	Phytozome_Pv:Phvul.001G227000 Phytozome_Pv:Phvul.007G198900
+Q5NTH3	Phytozome_Pv:Phvul.002G264800
+Q5NTH4	Phytozome_Pv:Phvul.002G264800
+Q5QN02	Phytozome_Pv:Phvul.007G188800
+Q5SMQ9	Phytozome_Pv:Phvul.002G330300 Phytozome_Pv:Phvul.004G150600 Phytozome_Pv:Phvul.003G032500 Phytozome_Pv:Phvul.002G094000
+Q5SMY2	Phytozome_Pv:Phvul.001G036500 Phytozome_Pv:Phvul.005G158600 Phytozome_Pv:Phvul.010G138200 Phytozome_Pv:Phvul.001G204700 Phytozome_Pv:Phvul.006G090800 Phytozome_Pv:Phvul.007G196100
+Q5SND7	Phytozome_Pv:Phvul.004G170700
+Q5U9F2	Phytozome_Pv:Phvul.001G189800
+Q5VMP0	Phytozome_Pv:Phvul.007G261900 Phytozome_Pv:Phvul.011G129700
+Q5VMP2	Phytozome_Pv:Phvul.001G197300 Phytozome_Pv:Phvul.001G204200
+Q5VN31	Phytozome_Pv:Phvul.006G047000
+Q5VNP5	Phytozome_Pv:Phvul.003G254000
+Q5VNW0	Phytozome_Pv:Phvul.010G082200
+Q5VP70	Phytozome_Pv:Phvul.002G330300 Phytozome_Pv:Phvul.004G150600 Phytozome_Pv:Phvul.003G032500 Phytozome_Pv:Phvul.002G094000
+Q5VPH2	Phytozome_Pv:Phvul.002G110300
+Q5VQG4	Phytozome_Pv:Phvul.001G214300 Phytozome_Pv:Phvul.009G175400 Phytozome_Pv:Phvul.004G007100
+Q5VQG8	Phytozome_Pv:Phvul.002G059200 Phytozome_Pv:Phvul.003G203500 Phytozome_Pv:Phvul.009G175300
+Q5VRM7	Phytozome_Pv:Phvul.006G123500 Phytozome_Pv:Phvul.006G123600 Phytozome_Pv:Phvul.002G005900
+Q5VRR0	Phytozome_Pv:Phvul.003G167700
+Q5VSB8	Phytozome_Pv:Phvul.009G095900
+Q5W670	Phytozome_Pv:Phvul.005G165600 Phytozome_Pv:Phvul.010G145000
+Q5W6F1	Phytozome_Pv:Phvul.008G247400 Phytozome_Pv:Phvul.006G079700
+Q5W6F9	Phytozome_Pv:Phvul.002G305000 Phytozome_Pv:Phvul.004G172300
+Q5W6H5	Phytozome_Pv:Phvul.008G096500
+Q5W6W7	Phytozome_Pv:Phvul.006G005500 Phytozome_Pv:Phvul.006G005400
+Q5WMV3	Phytozome_Pv:Phvul.009G041600
+Q5XLJ2	Phytozome_Pv:Phvul.005G041600
+Q5Z5B7	Phytozome_Pv:Phvul.008G241500
+Q5Z5R4	Phytozome_Pv:Phvul.005G183600
+Q5Z5R7	Phytozome_Pv:Phvul.005G183600
+Q5Z678	Phytozome_Pv:Phvul.009G127200
+Q5Z6D3	Phytozome_Pv:Phvul.003G106200 Phytozome_Pv:Phvul.003G040500 Phytozome_Pv:Phvul.007G056400 Phytozome_Pv:Phvul.007G056200 Phytozome_Pv:Phvul.007G056500
+Q5Z6E5	Phytozome_Pv:Phvul.003G023000
+Q5Z749	Phytozome_Pv:Phvul.010G147200 Phytozome_Pv:Phvul.009G146000 Phytozome_Pv:Phvul.003G286200 Phytozome_Pv:Phvul.002G311500 Phytozome_Pv:Phvul.004G166400 Phytozome_Pv:Phvul.002G142500 Phytozome_Pv:Phvul.005G169600
+Q5Z7R3	Phytozome_Pv:Phvul.011G157500
+Q5Z807	Phytozome_Pv:Phvul.011G018600
+Q5Z856	Phytozome_Pv:Phvul.007G094100
+Q5Z8K3	Phytozome_Pv:Phvul.009G239400 Phytozome_Pv:Phvul.009G239300
+Q5Z8S0	Phytozome_Pv:Phvul.001G034300 Phytozome_Pv:Phvul.009G077200
+Q5Z8T3	Phytozome_Pv:Phvul.010G143500
+Q5Z8V9	Phytozome_Pv:Phvul.009G127100
+Q5Z8Y4	Phytozome_Pv:Phvul.009G130500
+Q5Z8Z7	Phytozome_Pv:Phvul.005G161000 Phytozome_Pv:Phvul.010G141300
+Q5ZCV1	Phytozome_Pv:Phvul.002G227400 Phytozome_Pv:Phvul.003G035000
+Q5ZED1	Phytozome_Pv:Phvul.008G208700
+Q5ZEL4	Phytozome_Pv:Phvul.010G076000
+Q60EX6	Phytozome_Pv:Phvul.007G167400
+Q60EY1	Phytozome_Pv:Phvul.001G147300
+Q64MA9	Phytozome_Pv:Phvul.003G213200 Phytozome_Pv:Phvul.002G153600
+Q650W1	Phytozome_Pv:Phvul.005G127100 Phytozome_Pv:Phvul.011G090400
+Q651F0	Phytozome_Pv:Phvul.002G106700
+Q652A8	Phytozome_Pv:Phvul.002G286800
+Q652S1	Phytozome_Pv:Phvul.004G150100
+Q653D9	Phytozome_Pv:Phvul.001G197300 Phytozome_Pv:Phvul.001G204200
+Q653F4	Phytozome_Pv:Phvul.002G016000
+Q653H7	Phytozome_Pv:Phvul.011G080100 Phytozome_Pv:Phvul.007G149000 Phytozome_Pv:Phvul.005G134500
+Q653T6	Phytozome_Pv:Phvul.003G239100
+Q653U3	Phytozome_Pv:Phvul.002G233600 Phytozome_Pv:Phvul.004G177600 Phytozome_Pv:Phvul.006G084200 Phytozome_Pv:Phvul.002G177600 Phytozome_Pv:Phvul.008G197600 Phytozome_Pv:Phvul.008G242400
+Q655T1	Phytozome_Pv:Phvul.005G050800
+Q655W2	Phytozome_Pv:Phvul.005G059200
+Q655Y9	Phytozome_Pv:Phvul.002G213400
+Q656F1	Phytozome_Pv:Phvul.003G151000
+Q657X7	Phytozome_Pv:Phvul.003G169900 Phytozome_Pv:Phvul.003G222300 Phytozome_Pv:Phvul.001G184500 Phytozome_Pv:Phvul.003G169600 Phytozome_Pv:Phvul.003G169800 Phytozome_Pv:Phvul.007G225300 Phytozome_Pv:Phvul.003G169700
+Q65X14	Phytozome_Pv:Phvul.002G243600 Phytozome_Pv:Phvul.011G170300 Phytozome_Pv:Phvul.005G076500
+Q65XK0	Phytozome_Pv:Phvul.011G134200 Phytozome_Pv:Phvul.005G095900
+Q65XM9	Phytozome_Pv:Phvul.006G136300
+Q65XR9	Phytozome_Pv:Phvul.010G155000 Phytozome_Pv:Phvul.005G177200 Phytozome_Pv:Phvul.005G177300
+Q67J16	Phytozome_Pv:Phvul.003G295600
+Q67J19	Phytozome_Pv:Phvul.009G064300 Phytozome_Pv:Phvul.001G021300
+Q67TQ5	Phytozome_Pv:Phvul.009G065500 Phytozome_Pv:Phvul.003G291800
+Q67TZ7	Phytozome_Pv:Phvul.010G162000 Phytozome_Pv:Phvul.010G162100 Phytozome_Pv:Phvul.009G185700
+Q67UL3	Phytozome_Pv:Phvul.002G330300 Phytozome_Pv:Phvul.004G150600 Phytozome_Pv:Phvul.003G032500 Phytozome_Pv:Phvul.002G094000
+Q67UX0	Phytozome_Pv:Phvul.009G239400 Phytozome_Pv:Phvul.009G239300
+Q67UZ8	Phytozome_Pv:Phvul.009G026100 Phytozome_Pv:Phvul.008G168500
+Q67VM1	Phytozome_Pv:Phvul.004G048300
+Q67VR7	Phytozome_Pv:Phvul.008G166000 Phytozome_Pv:Phvul.002G152700
+Q67W29	Phytozome_Pv:Phvul.010G108900 Phytozome_Pv:Phvul.001G003100
+Q67W82	Phytozome_Pv:Phvul.003G147000 Phytozome_Pv:Phvul.005G184500 Phytozome_Pv:Phvul.003G146900
+Q67WN8	Phytozome_Pv:Phvul.003G170100
+Q67WR2	Phytozome_Pv:Phvul.008G090200
+Q688L9	Phytozome_Pv:Phvul.002G305000 Phytozome_Pv:Phvul.004G172300
+Q688Q8	Phytozome_Pv:Phvul.006G002000
+Q688Q9	Phytozome_Pv:Phvul.002G289200
+Q688T8	Phytozome_Pv:Phvul.011G044000 Phytozome_Pv:Phvul.009G059800 Phytozome_Pv:Phvul.009G023100 Phytozome_Pv:Phvul.001G012500
+Q688Y2	Phytozome_Pv:Phvul.011G157900
+Q689G6	Phytozome_Pv:Phvul.009G258300 Phytozome_Pv:Phvul.009G045000 Phytozome_Pv:Phvul.010G119700
+Q689G9	Phytozome_Pv:Phvul.009G185500 Phytozome_Pv:Phvul.003G188400
+Q69IM7	Phytozome_Pv:Phvul.005G152400
+Q69J27	Phytozome_Pv:Phvul.003G269600
+Q69K00	Phytozome_Pv:Phvul.001G181000
+Q69KM5	Phytozome_Pv:Phvul.003G214400 Phytozome_Pv:Phvul.003G152300 Phytozome_Pv:Phvul.010G082300 Phytozome_Pv:Phvul.001G267000
+Q69L93	Phytozome_Pv:Phvul.002G074300 Phytozome_Pv:Phvul.002G074200
+Q69LG7	Phytozome_Pv:Phvul.011G012000 Phytozome_Pv:Phvul.001G265600
+Q69MC9	Phytozome_Pv:Phvul.006G202600
+Q69MH0	Phytozome_Pv:Phvul.004G064600 Phytozome_Pv:Phvul.008G005600
+Q69NY7	Phytozome_Pv:Phvul.006G165800
+Q69P51	Phytozome_Pv:Phvul.011G211500 Phytozome_Pv:Phvul.002G188600 Phytozome_Pv:Phvul.009G242700
+Q69P94	Phytozome_Pv:Phvul.009G225300 Phytozome_Pv:Phvul.002G002000 Phytozome_Pv:Phvul.003G129200
+Q69QD7	Phytozome_Pv:Phvul.009G197300
+Q69RG7	Phytozome_Pv:Phvul.005G131400 Phytozome_Pv:Phvul.011G084300
+Q69RJ0	Phytozome_Pv:Phvul.001G123900
+Q69T90	Phytozome_Pv:Phvul.007G111800 Phytozome_Pv:Phvul.004G127600
+Q69T99	Phytozome_Pv:Phvul.008G284000
+Q69TF4	Phytozome_Pv:Phvul.010G086000
+Q69TT1	Phytozome_Pv:Phvul.002G096000
+Q69TV4	Phytozome_Pv:Phvul.010G162000 Phytozome_Pv:Phvul.010G162100 Phytozome_Pv:Phvul.009G185700
+Q69TV6	Phytozome_Pv:Phvul.010G162000 Phytozome_Pv:Phvul.010G162100 Phytozome_Pv:Phvul.009G185700
+Q69TV8	Phytozome_Pv:Phvul.010G162000 Phytozome_Pv:Phvul.010G162100 Phytozome_Pv:Phvul.009G185700
+Q69TW5	Phytozome_Pv:Phvul.009G065500 Phytozome_Pv:Phvul.003G291800
+Q69U93	Phytozome_Pv:Phvul.011G023300
+Q69UF5	Phytozome_Pv:Phvul.001G265400
+Q69UU3	Phytozome_Pv:Phvul.002G150800
+Q69V57	Phytozome_Pv:Phvul.008G189200 Phytozome_Pv:Phvul.008G282000 Phytozome_Pv:Phvul.007G222900
+Q69XD3	Phytozome_Pv:Phvul.001G265400
+Q69XS7	Phytozome_Pv:Phvul.009G059000 Phytozome_Pv:Phvul.002G033200 Phytozome_Pv:Phvul.011G044500 Phytozome_Pv:Phvul.011G044700
+Q6AT26	Phytozome_Pv:Phvul.009G094200
+Q6AT32	Phytozome_Pv:Phvul.009G146400 Phytozome_Pv:Phvul.009G107900
+Q6AT33	Phytozome_Pv:Phvul.010G147200 Phytozome_Pv:Phvul.009G146000 Phytozome_Pv:Phvul.003G286200 Phytozome_Pv:Phvul.002G311500 Phytozome_Pv:Phvul.004G166400 Phytozome_Pv:Phvul.002G142500 Phytozome_Pv:Phvul.005G169600
+Q6AT41	Phytozome_Pv:Phvul.004G169100
+Q6AT43	Phytozome_Pv:Phvul.002G008700
+Q6AT75	Phytozome_Pv:Phvul.010G053100
+Q6ATR2	Phytozome_Pv:Phvul.011G091500 Phytozome_Pv:Phvul.001G149400
+Q6AUB0	Phytozome_Pv:Phvul.L002800
+Q6AUJ8	Phytozome_Pv:Phvul.008G095400 Phytozome_Pv:Phvul.010G078000
+Q6AV34	Phytozome_Pv:Phvul.003G012000
+Q6AVG6	Phytozome_Pv:Phvul.011G047900
+Q6AVM5	Phytozome_Pv:Phvul.005G011600 Phytozome_Pv:Phvul.011G186800 Phytozome_Pv:Phvul.001G101000 Phytozome_Pv:Phvul.004G053300
+Q6AVR2	Phytozome_Pv:Phvul.002G248700
+Q6AVT2	Phytozome_Pv:Phvul.003G076500
+Q6BDZ9	Phytozome_Pv:Phvul.005G048500
+Q6EN48	Phytozome_Pv:Phvul.009G054800
+Q6EP31	Phytozome_Pv:Phvul.005G099100 Phytozome_Pv:Phvul.009G009800 Phytozome_Pv:Phvul.011G035400 Phytozome_Pv:Phvul.003G265200 Phytozome_Pv:Phvul.002G106600 Phytozome_Pv:Phvul.011G116400 Phytozome_Pv:Phvul.009G009700
+Q6EP59	Phytozome_Pv:Phvul.008G174700 Phytozome_Pv:Phvul.008G175300 Phytozome_Pv:Phvul.008G175500 Phytozome_Pv:Phvul.008G175600
+Q6EP77	Phytozome_Pv:Phvul.005G126600 Phytozome_Pv:Phvul.002G154000 Phytozome_Pv:Phvul.011G091400 Phytozome_Pv:Phvul.005G126300 Phytozome_Pv:Phvul.003G212800 Phytozome_Pv:Phvul.004G122000 Phytozome_Pv:Phvul.002G153900 Phytozome_Pv:Phvul.007G066500
+Q6EPN6	Phytozome_Pv:Phvul.002G159900
+Q6EPY7	Phytozome_Pv:Phvul.007G152600
+Q6EQW2	Phytozome_Pv:Phvul.005G064600 Phytozome_Pv:Phvul.005G064500
+Q6ERL4	Phytozome_Pv:Phvul.002G008200
+Q6ERR3	Phytozome_Pv:Phvul.005G182100 Phytozome_Pv:Phvul.010G160700
+Q6ES51	Phytozome_Pv:Phvul.002G319600 Phytozome_Pv:Phvul.003G021000
+Q6ESJ0	Phytozome_Pv:Phvul.002G288700
+Q6ESZ9	Phytozome_Pv:Phvul.006G209300
+Q6ET36	Phytozome_Pv:Phvul.001G152100 Phytozome_Pv:Phvul.001G151900
+Q6ET88	Phytozome_Pv:Phvul.002G181400
+Q6ETD3	Phytozome_Pv:Phvul.002G061200 Phytozome_Pv:Phvul.003G217900
+Q6ETN3	Phytozome_Pv:Phvul.003G147000 Phytozome_Pv:Phvul.005G184500 Phytozome_Pv:Phvul.003G146900
+Q6ETX4	Phytozome_Pv:Phvul.001G244100
+Q6EUF1	Phytozome_Pv:Phvul.005G079400
+Q6EUP4	Phytozome_Pv:Phvul.008G004300
+Q6EUS6	Phytozome_Pv:Phvul.011G127800
+Q6F361	Phytozome_Pv:Phvul.011G159000
+Q6F4N6	Phytozome_Pv:Phvul.003G044200 Phytozome_Pv:Phvul.008G022100
+Q6H4V1	Phytozome_Pv:Phvul.008G194300
+Q6H543	Phytozome_Pv:Phvul.005G165600 Phytozome_Pv:Phvul.010G145000
+Q6H5C7	Phytozome_Pv:Phvul.008G006200
+Q6H5Z4	Phytozome_Pv:Phvul.001G034300 Phytozome_Pv:Phvul.009G077200
+Q6H6C7	Phytozome_Pv:Phvul.005G050800
+Q6H6D2	Phytozome_Pv:Phvul.011G177100 Phytozome_Pv:Phvul.002G034500
+Q6H6G1	Phytozome_Pv:Phvul.009G099600
+Q6H6I1	Phytozome_Pv:Phvul.010G153800
+Q6H6P8	Phytozome_Pv:Phvul.001G187600 Phytozome_Pv:Phvul.009G011000
+Q6H703	Phytozome_Pv:Phvul.005G059200
+Q6H7Q6	Phytozome_Pv:Phvul.006G017100 Phytozome_Pv:Phvul.006G016900
+Q6H819	Phytozome_Pv:Phvul.009G087200 Phytozome_Pv:Phvul.001G041900
+Q6H849	Phytozome_Pv:Phvul.011G096700
+Q6H851	Phytozome_Pv:Phvul.011G096700
+Q6I581	Phytozome_Pv:Phvul.010G111400 Phytozome_Pv:Phvul.006G110900
+Q6I5C3	Phytozome_Pv:Phvul.010G112500
+Q6IVC3	Phytozome_Pv:Phvul.001G123300 Phytozome_Pv:Phvul.007G003600 Phytozome_Pv:Phvul.011G203400
+Q6J1A5	Phytozome_Pv:Phvul.005G126600 Phytozome_Pv:Phvul.002G154000 Phytozome_Pv:Phvul.011G091400 Phytozome_Pv:Phvul.005G126300 Phytozome_Pv:Phvul.003G212800 Phytozome_Pv:Phvul.004G122000 Phytozome_Pv:Phvul.002G153900 Phytozome_Pv:Phvul.007G066500
+Q6K1X7	Phytozome_Pv:Phvul.002G248000
+Q6K2E1	Phytozome_Pv:Phvul.003G090500
+Q6K2E8	Phytozome_Pv:Phvul.006G187400 Phytozome_Pv:Phvul.009G222200 Phytozome_Pv:Phvul.009G166100
+Q6K306	Phytozome_Pv:Phvul.008G218200
+Q6K3T2	Phytozome_Pv:Phvul.011G181800 Phytozome_Pv:Phvul.006G164300
+Q6K3Z3	Phytozome_Pv:Phvul.008G288400 Phytozome_Pv:Phvul.003G087600
+Q6K548	Phytozome_Pv:Phvul.010G011700
+Q6K5G8	Phytozome_Pv:Phvul.004G057600 Phytozome_Pv:Phvul.001G259000 Phytozome_Pv:Phvul.004G057700
+Q6K5U4	Phytozome_Pv:Phvul.011G157500
+Q6K6Q0	Phytozome_Pv:Phvul.001G177800 Phytozome_Pv:Phvul.007G096300 Phytozome_Pv:Phvul.007G150500 Phytozome_Pv:Phvul.001G177700
+Q6K6Q1	Phytozome_Pv:Phvul.001G177800 Phytozome_Pv:Phvul.007G096300 Phytozome_Pv:Phvul.007G150500 Phytozome_Pv:Phvul.001G177700
+Q6K755	Phytozome_Pv:Phvul.008G174700 Phytozome_Pv:Phvul.008G175300 Phytozome_Pv:Phvul.008G175500 Phytozome_Pv:Phvul.008G175600
+Q6K7V6	Phytozome_Pv:Phvul.009G108200
+Q6K846	Phytozome_Pv:Phvul.003G167700
+Q6K8E2	Phytozome_Pv:Phvul.001G087000 Phytozome_Pv:Phvul.007G166200 Phytozome_Pv:Phvul.001G202600
+Q6K8E7	Phytozome_Pv:Phvul.001G024100
+Q6K8J4	Phytozome_Pv:Phvul.005G135800
+Q6K969	Phytozome_Pv:Phvul.008G292300
+Q6K973	Phytozome_Pv:Phvul.004G142800
+Q6K9B8	Phytozome_Pv:Phvul.003G097900
+Q6K9M5	Phytozome_Pv:Phvul.003G214400 Phytozome_Pv:Phvul.003G152300 Phytozome_Pv:Phvul.010G082300 Phytozome_Pv:Phvul.001G267000
+Q6K9N6	Phytozome_Pv:Phvul.007G190800
+Q6K9X3	Phytozome_Pv:Phvul.005G070300
+Q6KAJ2	Phytozome_Pv:Phvul.001G047000
+Q6L479	Phytozome_Pv:Phvul.009G251700 Phytozome_Pv:Phvul.007G198600
+Q6L4G2	Phytozome_Pv:Phvul.007G028100
+Q6L4H5	Phytozome_Pv:Phvul.003G133700 Phytozome_Pv:Phvul.005G156300
+Q6L4L4	Phytozome_Pv:Phvul.005G137000 Phytozome_Pv:Phvul.011G073200
+Q6L4R7	Phytozome_Pv:Phvul.001G045300 Phytozome_Pv:Phvul.009G079600
+Q6L5F6	Phytozome_Pv:Phvul.008G055200
+Q6L5H6	Phytozome_Pv:Phvul.001G045300 Phytozome_Pv:Phvul.009G079600
+Q6Q9I2	Phytozome_Pv:Phvul.003G039200 Phytozome_Pv:Phvul.009G203400
+Q6VMN7	Phytozome_Pv:Phvul.002G217100
+Q6YPG5	Phytozome_Pv:Phvul.011G015300
+Q6YS33	Phytozome_Pv:Phvul.004G070100
+Q6YT73	Phytozome_Pv:Phvul.002G180300 Phytozome_Pv:Phvul.005G051800
+Q6YTI6	Phytozome_Pv:Phvul.009G026100 Phytozome_Pv:Phvul.008G168500
+Q6YTT3	Phytozome_Pv:Phvul.009G032300 Phytozome_Pv:Phvul.008G176200 Phytozome_Pv:Phvul.006G205200
+Q6YUI8	Phytozome_Pv:Phvul.010G162000 Phytozome_Pv:Phvul.010G162100 Phytozome_Pv:Phvul.009G185700
+Q6YUS0	Phytozome_Pv:Phvul.010G038400
+Q6YUU2	Phytozome_Pv:Phvul.001G124400
+Q6YV23	Phytozome_Pv:Phvul.009G147600
+Q6YVI0	Phytozome_Pv:Phvul.009G059600
+Q6YVY6	Phytozome_Pv:Phvul.008G032900 Phytozome_Pv:Phvul.003G042000
+Q6YWE1	Phytozome_Pv:Phvul.011G091500 Phytozome_Pv:Phvul.001G149400
+Q6YXI1	Phytozome_Pv:Phvul.009G143500 Phytozome_Pv:Phvul.008G180200
+Q6YXW6	Phytozome_Pv:Phvul.007G265500 Phytozome_Pv:Phvul.007G233700
+Q6YYB9	Phytozome_Pv:Phvul.006G037600 Phytozome_Pv:Phvul.006G040500
+Q6YYZ2	Phytozome_Pv:Phvul.002G132900
+Q6YZ18	Phytozome_Pv:Phvul.001G165600
+Q6YZ76	Phytozome_Pv:Phvul.011G081900 Phytozome_Pv:Phvul.007G151500 Phytozome_Pv:Phvul.005G133000 Phytozome_Pv:Phvul.007G151300
+Q6YZE2	Phytozome_Pv:Phvul.009G118500
+Q6YZH8	Phytozome_Pv:Phvul.006G152700
+Q6YZX6	Phytozome_Pv:Phvul.005G115100 Phytozome_Pv:Phvul.011G103700
+Q6Z0T7	Phytozome_Pv:Phvul.001G197300 Phytozome_Pv:Phvul.001G204200
+Q6Z2L5	Phytozome_Pv:Phvul.010G040300
+Q6Z2T6	Phytozome_Pv:Phvul.008G208000 Phytozome_Pv:Phvul.003G189600
+Q6Z2T9	Phytozome_Pv:Phvul.001G185800 Phytozome_Pv:Phvul.007G223800 Phytozome_Pv:Phvul.008G255800 Phytozome_Pv:Phvul.007G105400
+Q6Z312	Phytozome_Pv:Phvul.009G065500 Phytozome_Pv:Phvul.003G291800
+Q6Z351	Phytozome_Pv:Phvul.008G210000 Phytozome_Pv:Phvul.008G209900
+Q6Z368	Phytozome_Pv:Phvul.011G040100
+Q6Z398	Phytozome_Pv:Phvul.001G007000
+Q6Z3A3	Phytozome_Pv:Phvul.002G289200
+Q6Z3A4	Phytozome_Pv:Phvul.002G180400
+Q6Z3F1	Phytozome_Pv:Phvul.003G008300 Phytozome_Pv:Phvul.007G020900
+Q6Z3F9	Phytozome_Pv:Phvul.006G161600 Phytozome_Pv:Phvul.009G116200
+Q6Z3X5	Phytozome_Pv:Phvul.008G014400 Phytozome_Pv:Phvul.007G011400
+Q6Z3Y3	Phytozome_Pv:Phvul.011G071800
+Q6Z433	Phytozome_Pv:Phvul.002G213800 Phytozome_Pv:Phvul.008G254600 Phytozome_Pv:Phvul.009G035300
+Q6Z4E7	Phytozome_Pv:Phvul.003G169900 Phytozome_Pv:Phvul.003G222300 Phytozome_Pv:Phvul.001G184500 Phytozome_Pv:Phvul.003G169600 Phytozome_Pv:Phvul.003G169800 Phytozome_Pv:Phvul.007G225300 Phytozome_Pv:Phvul.003G169700
+Q6Z4I1	Phytozome_Pv:Phvul.009G005100
+Q6Z5M0	Phytozome_Pv:Phvul.003G124600
+Q6Z5M3	Phytozome_Pv:Phvul.002G009900
+Q6Z684	Phytozome_Pv:Phvul.008G174700 Phytozome_Pv:Phvul.008G175300 Phytozome_Pv:Phvul.008G175500 Phytozome_Pv:Phvul.008G175600
+Q6Z6F0	Phytozome_Pv:Phvul.001G265400
+Q6Z702	Phytozome_Pv:Phvul.007G232000
+Q6Z744	Phytozome_Pv:Phvul.004G148000
+Q6Z795	Phytozome_Pv:Phvul.001G051300 Phytozome_Pv:Phvul.003G165500 Phytozome_Pv:Phvul.009G080700 Phytozome_Pv:Phvul.009G207300 Phytozome_Pv:Phvul.009G093200
+Q6Z7Q3	Phytozome_Pv:Phvul.010G162000 Phytozome_Pv:Phvul.010G162100 Phytozome_Pv:Phvul.009G185700
+Q6Z836	Phytozome_Pv:Phvul.004G013800
+Q6Z8F4	Phytozome_Pv:Phvul.002G133100
+Q6Z8S2	Phytozome_Pv:Phvul.005G153700 Phytozome_Pv:Phvul.010G019400
+Q6Z8Z7	Phytozome_Pv:Phvul.005G116800
+Q6Z965	Phytozome_Pv:Phvul.003G131500 Phytozome_Pv:Phvul.003G131600
+Q6Z9A3	Phytozome_Pv:Phvul.008G230600
+Q6Z9E6	Phytozome_Pv:Phvul.009G087200 Phytozome_Pv:Phvul.001G041900
+Q6ZAC1	Phytozome_Pv:Phvul.003G147000 Phytozome_Pv:Phvul.005G184500 Phytozome_Pv:Phvul.003G146900
+Q6ZAH2	Phytozome_Pv:Phvul.008G080300
+Q6ZBE1	Phytozome_Pv:Phvul.008G174700 Phytozome_Pv:Phvul.008G175300 Phytozome_Pv:Phvul.008G175500 Phytozome_Pv:Phvul.008G175600
+Q6ZBH5	Phytozome_Pv:Phvul.003G213200 Phytozome_Pv:Phvul.002G153600
+Q6ZC33	Phytozome_Pv:Phvul.008G168000 Phytozome_Pv:Phvul.009G121000
+Q6ZC70	Phytozome_Pv:Phvul.002G277900
+Q6ZCF0	Phytozome_Pv:Phvul.011G024300
+Q6ZD10	Phytozome_Pv:Phvul.011G012000 Phytozome_Pv:Phvul.001G265600
+Q6ZD89	Phytozome_Pv:Phvul.L008600 Phytozome_Pv:Phvul.009G259200 Phytozome_Pv:Phvul.009G259500 Phytozome_Pv:Phvul.009G258600 Phytozome_Pv:Phvul.009G259100 Phytozome_Pv:Phvul.009G258800 Phytozome_Pv:Phvul.009G258700 Phytozome_Pv:Phvul.009G258900 Phytozome_Pv:Phvul.009G259300 Phytozome_Pv:Phvul.009G259000
+Q6ZDJ7	Phytozome_Pv:Phvul.003G090500
+Q6ZDQ1	Phytozome_Pv:Phvul.002G003600
+Q6ZDY8	Phytozome_Pv:Phvul.002G029800 Phytozome_Pv:Phvul.003G253200
+Q6ZEZ2	Phytozome_Pv:Phvul.006G100600
+Q6ZFT5	Phytozome_Pv:Phvul.006G033400
+Q6ZG77	Phytozome_Pv:Phvul.001G177300
+Q6ZG91	Phytozome_Pv:Phvul.003G063900
+Q6ZGS9	Phytozome_Pv:Phvul.002G007200
+Q6ZGW6	Phytozome_Pv:Phvul.007G023400 Phytozome_Pv:Phvul.001G142100 Phytozome_Pv:Phvul.007G259500
+Q6ZHA3	Phytozome_Pv:Phvul.005G099100 Phytozome_Pv:Phvul.009G009800 Phytozome_Pv:Phvul.011G035400 Phytozome_Pv:Phvul.003G265200 Phytozome_Pv:Phvul.002G106600 Phytozome_Pv:Phvul.011G116400 Phytozome_Pv:Phvul.009G009700
+Q6ZHB2	Phytozome_Pv:Phvul.003G227200 Phytozome_Pv:Phvul.002G002700
+Q6ZHH7	Phytozome_Pv:Phvul.008G168000 Phytozome_Pv:Phvul.009G121000
+Q6ZHS4	Phytozome_Pv:Phvul.007G039800
+Q6ZHU3	Phytozome_Pv:Phvul.006G055200 Phytozome_Pv:Phvul.008G277800 Phytozome_Pv:Phvul.001G170600 Phytozome_Pv:Phvul.010G110600
+Q6ZHZ1	Phytozome_Pv:Phvul.003G170100
+Q6ZI55	Phytozome_Pv:Phvul.002G114600 Phytozome_Pv:Phvul.003G268900 Phytozome_Pv:Phvul.008G291500
+Q6ZIA3	Phytozome_Pv:Phvul.003G210100 Phytozome_Pv:Phvul.001G114500
+Q6ZIK0	Phytozome_Pv:Phvul.011G017100 Phytozome_Pv:Phvul.011G017200
+Q6ZIX2	Phytozome_Pv:Phvul.005G023700 Phytozome_Pv:Phvul.011G011800
+Q6ZJ97	Phytozome_Pv:Phvul.002G190700
+Q6ZJK7	Phytozome_Pv:Phvul.001G165600
+Q6ZJU3	Phytozome_Pv:Phvul.002G319600 Phytozome_Pv:Phvul.003G021000
+Q6ZK11	Phytozome_Pv:Phvul.001G115300
+Q6ZKC0	Phytozome_Pv:Phvul.008G004300
+Q6ZKV8	Phytozome_Pv:Phvul.003G147900
+Q6ZL61	Phytozome_Pv:Phvul.001G156200
+Q6ZL94	Phytozome_Pv:Phvul.004G139300
+Q6ZLD3	Phytozome_Pv:Phvul.007G175500 Phytozome_Pv:Phvul.007G279000
+Q6ZLJ9	Phytozome_Pv:Phvul.001G135200 Phytozome_Pv:Phvul.007G253200 Phytozome_Pv:Phvul.008G282600
+Q75GB1	Phytozome_Pv:Phvul.010G147200 Phytozome_Pv:Phvul.009G146000 Phytozome_Pv:Phvul.003G286200 Phytozome_Pv:Phvul.002G311500 Phytozome_Pv:Phvul.004G166400 Phytozome_Pv:Phvul.002G142500 Phytozome_Pv:Phvul.005G169600
+Q75GK0	Phytozome_Pv:Phvul.007G109500
+Q75H77	Phytozome_Pv:Phvul.003G293600 Phytozome_Pv:Phvul.003G012300
+Q75HP7	Phytozome_Pv:Phvul.006G216000
+Q75HQ7	Phytozome_Pv:Phvul.001G177800 Phytozome_Pv:Phvul.007G096300 Phytozome_Pv:Phvul.007G150500 Phytozome_Pv:Phvul.001G177700
+Q75HZ9	Phytozome_Pv:Phvul.005G064200
+Q75I93	Phytozome_Pv:Phvul.004G151800
+Q75II5	Phytozome_Pv:Phvul.005G080700 Phytozome_Pv:Phvul.005G080600
+Q75KD7	Phytozome_Pv:Phvul.004G072000 Phytozome_Pv:Phvul.008G020200 Phytozome_Pv:Phvul.003G111500
+Q75KT7	Phytozome_Pv:Phvul.011G197100 Phytozome_Pv:Phvul.005G017000
+Q75L84	Phytozome_Pv:Phvul.007G164400 Phytozome_Pv:Phvul.001G175200
+Q75LL5	Phytozome_Pv:Phvul.011G100400
+Q75LR2	Phytozome_Pv:Phvul.009G032300 Phytozome_Pv:Phvul.008G176200 Phytozome_Pv:Phvul.006G205200
+Q75M18	Phytozome_Pv:Phvul.006G221800
+Q75V57	Phytozome_Pv:Phvul.003G293600 Phytozome_Pv:Phvul.003G012300
+Q75W16	Phytozome_Pv:Phvul.009G032300 Phytozome_Pv:Phvul.008G176200 Phytozome_Pv:Phvul.006G205200
+Q764B9	Phytozome_Pv:Phvul.003G014300
+Q7EYE4	Phytozome_Pv:Phvul.008G290600 Phytozome_Pv:Phvul.006G002900 Phytozome_Pv:Phvul.009G242400
+Q7EYM8	Phytozome_Pv:Phvul.003G060300
+Q7EZW6	Phytozome_Pv:Phvul.011G020100 Phytozome_Pv:Phvul.008G193000
+Q7EZZ0	Phytozome_Pv:Phvul.007G249500
+Q7F0B2	Phytozome_Pv:Phvul.001G238800 Phytozome_Pv:Phvul.001G238900
+Q7F0Q2	Phytozome_Pv:Phvul.011G038300
+Q7F190	Phytozome_Pv:Phvul.010G041000
+Q7F1X5	Phytozome_Pv:Phvul.009G167800 Phytozome_Pv:Phvul.009G167700
+Q7F8K7	Phytozome_Pv:Phvul.003G282500 Phytozome_Pv:Phvul.003G282400
+Q7F942	Phytozome_Pv:Phvul.009G020500 Phytozome_Pv:Phvul.009G020400
+Q7FAE1	Phytozome_Pv:Phvul.005G031500 Phytozome_Pv:Phvul.001G193400 Phytozome_Pv:Phvul.005G031600
+Q7FAH2	Phytozome_Pv:Phvul.004G057600 Phytozome_Pv:Phvul.001G259000 Phytozome_Pv:Phvul.004G057700
+Q7FAL6	Phytozome_Pv:Phvul.006G136300
+Q7FAS1	Phytozome_Pv:Phvul.002G180300 Phytozome_Pv:Phvul.005G051800
+Q7G065	Phytozome_Pv:Phvul.011G044000 Phytozome_Pv:Phvul.009G059800 Phytozome_Pv:Phvul.009G023100 Phytozome_Pv:Phvul.001G012500
+Q7G1V6	Phytozome_Pv:Phvul.005G069400 Phytozome_Pv:Phvul.008G127900 Phytozome_Pv:Phvul.004G117700 Phytozome_Pv:Phvul.004G117200 Phytozome_Pv:Phvul.003G068100 Phytozome_Pv:Phvul.003G044500 Phytozome_Pv:Phvul.006G192000 Phytozome_Pv:Phvul.011G078500 Phytozome_Pv:Phvul.004G016200 Phytozome_Pv:Phvul.005G062900 Phytozome_Pv:Phvul.004G096100 Phytozome_Pv:Phvul.004G106500 Phytozome_Pv:Phvul.008G138800 Phytozome_Pv:Phvul.005G071600 Phytozome_Pv:Phvul.008G272100 Phytozome_Pv:Phvul.004G016300 Phytozome_Pv:Phvul.008G131600 Phytozome_Pv:Phvul.008G128500 Phytozome_Pv:Phvul.004G036500 Phytozome_Pv:Phvul.004G118500 Phytozome_Pv:Phvul.011G155500 Phytozome_Pv:Phvul.010G138000 Phytozome_Pv:Phvul.004G036400 Phytozome_Pv:Phvul.008G272300 Phytozome_Pv:Phvul.008G124400 Phytozome_Pv:Phvul.004G032700 Phytozome_Pv:Phvul.004G015200 Phytozome_Pv:Phvul.008G127700 Phytozome_Pv:Phvul.009G213900 Phytozome_Pv:Phvul.004G118300 Phytozome_Pv:Phvul.011G108100 Phytozome_Pv:Phvul.010G096900 Phytozome_Pv:Phvul.008G272200 Phytozome_Pv:Phvul.004G015400 Phytozome_Pv:Phvul.008G124500 Phytozome_Pv:Phvul.004G018800 Phytozome_Pv:Phvul.004G016100 Phytozome_Pv:Phvul.004G015500 Phytozome_Pv:Phvul.003G209900 Phytozome_Pv:Phvul.003G123800 Phytozome_Pv:Phvul.008G129700 Phytozome_Pv:Phvul.008G124700 Phytozome_Pv:Phvul.004G016400 Phytozome_Pv:Phvul.004G118400 Phytozome_Pv:Phvul.009G214000 Phytozome_Pv:Phvul.008G131800 Phytozome_Pv:Phvul.008G265200 Phytozome_Pv:Phvul.009G214300 Phytozome_Pv:Phvul.004G015000 Phytozome_Pv:Phvul.001G017300 Phytozome_Pv:Phvul.010G096600 Phytozome_Pv:Phvul.004G016600 Phytozome_Pv:Phvul.004G015100 Phytozome_Pv:Phvul.008G129800 Phytozome_Pv:Phvul.009G214100
+Q7G2F7	Phytozome_Pv:Phvul.006G187600 Phytozome_Pv:Phvul.002G227600
+Q7G2H3	Phytozome_Pv:Phvul.003G012000
+Q7G4P2	Phytozome_Pv:Phvul.001G024100
+Q7G602	Phytozome_Pv:Phvul.003G185500 Phytozome_Pv:Phvul.006G015400 Phytozome_Pv:Phvul.009G192400 Phytozome_Pv:Phvul.006G018800
+Q7G7J6	Phytozome_Pv:Phvul.001G230500 Phytozome_Pv:Phvul.008G235500 Phytozome_Pv:Phvul.003G291500
+Q7X634	Phytozome_Pv:Phvul.007G122200 Phytozome_Pv:Phvul.006G105400
+Q7X720	Phytozome_Pv:Phvul.001G177800 Phytozome_Pv:Phvul.007G096300 Phytozome_Pv:Phvul.007G150500 Phytozome_Pv:Phvul.001G177700
+Q7X742	Phytozome_Pv:Phvul.008G041800 Phytozome_Pv:Phvul.002G088400 Phytozome_Pv:Phvul.003G067500 Phytozome_Pv:Phvul.004G027700 Phytozome_Pv:Phvul.009G189200
+Q7X7A1	Phytozome_Pv:Phvul.008G032100 Phytozome_Pv:Phvul.008G032000 Phytozome_Pv:Phvul.008G042400 Phytozome_Pv:Phvul.008G032500 Phytozome_Pv:Phvul.008G029400 Phytozome_Pv:Phvul.004G040100 Phytozome_Pv:Phvul.008G032400 Phytozome_Pv:Phvul.004G040200 Phytozome_Pv:Phvul.008G031900 Phytozome_Pv:Phvul.008G032200 Phytozome_Pv:Phvul.004G040700 Phytozome_Pv:Phvul.005G108800
+Q7X7H9	Phytozome_Pv:Phvul.002G264800
+Q7X7N2	Phytozome_Pv:Phvul.010G081600
+Q7X7X0	Phytozome_Pv:Phvul.007G262100
+Q7X8A1	Phytozome_Pv:Phvul.001G098100
+Q7X8V3	Phytozome_Pv:Phvul.001G177800 Phytozome_Pv:Phvul.007G096300 Phytozome_Pv:Phvul.007G150500 Phytozome_Pv:Phvul.001G177700
+Q7XAP2	Phytozome_Pv:Phvul.009G054800
+Q7XBY6	Phytozome_Pv:Phvul.002G141900 Phytozome_Pv:Phvul.003G285500
+Q7XC20	Phytozome_Pv:Phvul.003G227200 Phytozome_Pv:Phvul.002G002700
+Q7XCK3	Phytozome_Pv:Phvul.003G268700
+Q7XE48	Phytozome_Pv:Phvul.008G036600 Phytozome_Pv:Phvul.004G029100
+Q7XEH2	Phytozome_Pv:Phvul.001G153900
+Q7XEZ1	Phytozome_Pv:Phvul.010G127400
+Q7XEZ6	Phytozome_Pv:Phvul.009G221800 Phytozome_Pv:Phvul.003G125700 Phytozome_Pv:Phvul.004G149500
+Q7XGU4	Phytozome_Pv:Phvul.008G106300 Phytozome_Pv:Phvul.010G003600
+Q7XH05	Phytozome_Pv:Phvul.008G210000 Phytozome_Pv:Phvul.008G209900
+Q7XHL3	Phytozome_Pv:Phvul.001G165600
+Q7XHZ2	Phytozome_Pv:Phvul.007G094900
+Q7XI34	Phytozome_Pv:Phvul.001G238800 Phytozome_Pv:Phvul.001G238900
+Q7XI35	Phytozome_Pv:Phvul.001G238800 Phytozome_Pv:Phvul.001G238900
+Q7XI67	Phytozome_Pv:Phvul.008G089700
+Q7XI92	Phytozome_Pv:Phvul.003G251500 Phytozome_Pv:Phvul.002G026400
+Q7XI96	Phytozome_Pv:Phvul.002G026800 Phytozome_Pv:Phvul.009G056400 Phytozome_Pv:Phvul.001G016100
+Q7XK23	Phytozome_Pv:Phvul.002G114600 Phytozome_Pv:Phvul.003G268900 Phytozome_Pv:Phvul.008G291500
+Q7XKH9	Phytozome_Pv:Phvul.008G174700 Phytozome_Pv:Phvul.008G175300 Phytozome_Pv:Phvul.008G175500 Phytozome_Pv:Phvul.008G175600
+Q7XKI0	Phytozome_Pv:Phvul.008G174700 Phytozome_Pv:Phvul.008G175300 Phytozome_Pv:Phvul.008G175500 Phytozome_Pv:Phvul.008G175600
+Q7XKQ8	Phytozome_Pv:Phvul.006G187400 Phytozome_Pv:Phvul.009G222200 Phytozome_Pv:Phvul.009G166100
+Q7XM21	Phytozome_Pv:Phvul.003G261900
+Q7XMA8	Phytozome_Pv:Phvul.008G174700 Phytozome_Pv:Phvul.008G175300 Phytozome_Pv:Phvul.008G175500 Phytozome_Pv:Phvul.008G175600
+Q7XMU7	Phytozome_Pv:Phvul.008G132800 Phytozome_Pv:Phvul.008G132900 Phytozome_Pv:Phvul.011G002400 Phytozome_Pv:Phvul.011G002500
+Q7XNL8	Phytozome_Pv:Phvul.011G177300
+Q7XNX6	Phytozome_Pv:Phvul.004G142800
+Q7XPB5	Phytozome_Pv:Phvul.008G075400
+Q7XPR4	Phytozome_Pv:Phvul.005G052100
+Q7XPW5	Phytozome_Pv:Phvul.008G068100
+Q7XQ85	Phytozome_Pv:Phvul.002G293000
+Q7XR60	Phytozome_Pv:Phvul.007G040800 Phytozome_Pv:Phvul.007G040700
+Q7XR61	Phytozome_Pv:Phvul.007G040800 Phytozome_Pv:Phvul.007G040700
+Q7XRA1	Phytozome_Pv:Phvul.009G002500
+Q7XRT0	Phytozome_Pv:Phvul.001G240200
+Q7XRX3	Phytozome_Pv:Phvul.007G067800
+Q7XTE8	Phytozome_Pv:Phvul.008G004300
+Q7XTH0	Phytozome_Pv:Phvul.008G174700 Phytozome_Pv:Phvul.008G175300 Phytozome_Pv:Phvul.008G175500 Phytozome_Pv:Phvul.008G175600
+Q7XTK3	Phytozome_Pv:Phvul.007G180900
+Q7XTX7	Phytozome_Pv:Phvul.004G102800 Phytozome_Pv:Phvul.007G076700
+Q7XU28	Phytozome_Pv:Phvul.009G099600
+Q7XU29	Phytozome_Pv:Phvul.008G141600
+Q7XUA8	Phytozome_Pv:Phvul.009G038900
+Q7XUH5	Phytozome_Pv:Phvul.011G038300
+Q7XUK6	Phytozome_Pv:Phvul.002G189800
+Q7XUS2	Phytozome_Pv:Phvul.003G014300
+Q7XV13	Phytozome_Pv:Phvul.009G262900 Phytozome_Pv:Phvul.010G128800
+Q7XV42	Phytozome_Pv:Phvul.008G174700 Phytozome_Pv:Phvul.008G175300 Phytozome_Pv:Phvul.008G175500 Phytozome_Pv:Phvul.008G175600
+Q7XVK0	Phytozome_Pv:Phvul.008G132800 Phytozome_Pv:Phvul.008G132900 Phytozome_Pv:Phvul.011G002400 Phytozome_Pv:Phvul.011G002500
+Q7XVM2	Phytozome_Pv:Phvul.008G269300
+Q7XVM8	Phytozome_Pv:Phvul.001G087000 Phytozome_Pv:Phvul.007G166200 Phytozome_Pv:Phvul.001G202600
+Q7XVP0	Phytozome_Pv:Phvul.006G100600
+Q7XWP9	Phytozome_Pv:Phvul.003G037400 Phytozome_Pv:Phvul.007G006600
+Q7XX31	Phytozome_Pv:Phvul.007G262800 Phytozome_Pv:Phvul.001G200100
+Q7XX32	Phytozome_Pv:Phvul.007G262800 Phytozome_Pv:Phvul.001G200100
+Q7XXL2	Phytozome_Pv:Phvul.006G057300
+Q7XYS3	Phytozome_Pv:Phvul.011G049600
+Q7XZH5	Phytozome_Pv:Phvul.005G031500 Phytozome_Pv:Phvul.001G193400 Phytozome_Pv:Phvul.005G031600
+Q7Y0B9	Phytozome_Pv:Phvul.003G293600 Phytozome_Pv:Phvul.003G012300
+Q7Y0C8	Phytozome_Pv:Phvul.011G049600
+Q7Y0W5	Phytozome_Pv:Phvul.011G070700 Phytozome_Pv:Phvul.002G322000 Phytozome_Pv:Phvul.002G322300
+Q7Y152	Phytozome_Pv:Phvul.003G116700
+Q7Y1H9	Phytozome_Pv:Phvul.001G156200
+Q7Y1I6	Phytozome_Pv:Phvul.001G156200
+Q7Y1I9	Phytozome_Pv:Phvul.001G156200
+Q7Y1J1	Phytozome_Pv:Phvul.001G156200
+Q84JH5	Phytozome_Pv:Phvul.008G230600
+Q84JI0	Phytozome_Pv:Phvul.008G231200 Phytozome_Pv:Phvul.001G236000
+Q84LF7	Phytozome_Pv:Phvul.010G053100
+Q84LK3	Phytozome_Pv:Phvul.003G196700 Phytozome_Pv:Phvul.009G182300
+Q84M43	Phytozome_Pv:Phvul.005G022100
+Q84ME6	Phytozome_Pv:Phvul.002G139300
+Q84MN8	Phytozome_Pv:Phvul.007G062900 Phytozome_Pv:Phvul.004G045400
+Q84NP3	Phytozome_Pv:Phvul.008G098100 Phytozome_Pv:Phvul.010G076200
+Q84Q89	Phytozome_Pv:Phvul.005G153700 Phytozome_Pv:Phvul.010G019400
+Q84QA7	Phytozome_Pv:Phvul.008G226500 Phytozome_Pv:Phvul.001G240400
+Q84R94	Phytozome_Pv:Phvul.009G225300 Phytozome_Pv:Phvul.002G002000 Phytozome_Pv:Phvul.003G129200
+Q84RX6	Phytozome_Pv:Phvul.003G238400 Phytozome_Pv:Phvul.002G014200
+Q84VC7	Phytozome_Pv:Phvul.002G196600
+Q84YK8	Phytozome_Pv:Phvul.006G017100 Phytozome_Pv:Phvul.006G016900
+Q84ZN6	Phytozome_Pv:Phvul.005G022100
+Q84ZY2	Phytozome_Pv:Phvul.003G037400 Phytozome_Pv:Phvul.007G006600
+Q851L5	Phytozome_Pv:Phvul.009G038900
+Q851L6	Phytozome_Pv:Phvul.009G038900
+Q851Z6	Phytozome_Pv:Phvul.004G070100
+Q852C2	Phytozome_Pv:Phvul.001G238800 Phytozome_Pv:Phvul.001G238900
+Q852M1	Phytozome_Pv:Phvul.008G210000 Phytozome_Pv:Phvul.008G209900
+Q852M2	Phytozome_Pv:Phvul.008G210000 Phytozome_Pv:Phvul.008G209900
+Q8GRS2	Phytozome_Pv:Phvul.010G127400
+Q8GRU7	Phytozome_Pv:Phvul.009G114000
+Q8GSI0	Phytozome_Pv:Phvul.002G319600 Phytozome_Pv:Phvul.003G021000
+Q8GT01	Phytozome_Pv:Phvul.001G124300
+Q8GTK1	Phytozome_Pv:Phvul.011G081900 Phytozome_Pv:Phvul.007G151500 Phytozome_Pv:Phvul.005G133000 Phytozome_Pv:Phvul.007G151300
+Q8GVJ4	Phytozome_Pv:Phvul.007G023400 Phytozome_Pv:Phvul.001G142100 Phytozome_Pv:Phvul.007G259500
+Q8GVZ0	Phytozome_Pv:Phvul.L002800
+Q8GZY1	Phytozome_Pv:Phvul.002G111900 Phytozome_Pv:Phvul.003G259200 Phytozome_Pv:Phvul.003G259100
+Q8H016	Phytozome_Pv:Phvul.009G262900 Phytozome_Pv:Phvul.010G128800
+Q8H038	Phytozome_Pv:Phvul.007G153600
+Q8H048	Phytozome_Pv:Phvul.008G013400 Phytozome_Pv:Phvul.010G088900
+Q8H051	Phytozome_Pv:Phvul.003G213200 Phytozome_Pv:Phvul.002G153600
+Q8H075	Phytozome_Pv:Phvul.001G157600 Phytozome_Pv:Phvul.001G160400 Phytozome_Pv:Phvul.009G240900 Phytozome_Pv:Phvul.001G160100 Phytozome_Pv:Phvul.007G193900
+Q8H093	Phytozome_Pv:Phvul.008G013400 Phytozome_Pv:Phvul.010G088900
+Q8H0A1	Phytozome_Pv:Phvul.003G079600
+Q8H0B2	Phytozome_Pv:Phvul.002G251100 Phytozome_Pv:Phvul.006G122600
+Q8H0B6	Phytozome_Pv:Phvul.002G251100 Phytozome_Pv:Phvul.006G122600
+Q8H273	Phytozome_Pv:Phvul.005G126600 Phytozome_Pv:Phvul.002G154000 Phytozome_Pv:Phvul.011G091400 Phytozome_Pv:Phvul.005G126300 Phytozome_Pv:Phvul.003G212800 Phytozome_Pv:Phvul.004G122000 Phytozome_Pv:Phvul.002G153900 Phytozome_Pv:Phvul.007G066500
+Q8H2J9	Phytozome_Pv:Phvul.008G185600
+Q8H395	Phytozome_Pv:Phvul.009G225300 Phytozome_Pv:Phvul.002G002000 Phytozome_Pv:Phvul.003G129200
+Q8H3A4	Phytozome_Pv:Phvul.003G268700
+Q8H3C8	Phytozome_Pv:Phvul.009G038900
+Q8H3C9	Phytozome_Pv:Phvul.009G038900
+Q8H3L0	Phytozome_Pv:Phvul.004G064600 Phytozome_Pv:Phvul.008G005600
+Q8H3Q7	Phytozome_Pv:Phvul.003G148700
+Q8H4L3	Phytozome_Pv:Phvul.001G083000
+Q8H530	Phytozome_Pv:Phvul.002G213100
+Q8H539	Phytozome_Pv:Phvul.004G094100 Phytozome_Pv:Phvul.004G094000
+Q8H7S6	Phytozome_Pv:Phvul.003G016300 Phytozome_Pv:Phvul.011G127700 Phytozome_Pv:Phvul.007G031800
+Q8H7T7	Phytozome_Pv:Phvul.002G008700
+Q8H825	Phytozome_Pv:Phvul.003G036100
+Q8H8U0	Phytozome_Pv:Phvul.008G000300 Phytozome_Pv:Phvul.007G005600
+Q8H930	Phytozome_Pv:Phvul.002G251100 Phytozome_Pv:Phvul.006G122600
+Q8LGW5	Phytozome_Pv:Phvul.002G248700
+Q8LGZ9	Phytozome_Pv:Phvul.007G052000 Phytozome_Pv:Phvul.002G049000
+Q8LHD1	Phytozome_Pv:Phvul.002G211700
+Q8LI89	Phytozome_Pv:Phvul.002G328900
+Q8LJJ2	Phytozome_Pv:Phvul.003G133700 Phytozome_Pv:Phvul.005G156300
+Q8LM92	Phytozome_Pv:Phvul.003G185500 Phytozome_Pv:Phvul.006G015400 Phytozome_Pv:Phvul.009G192400 Phytozome_Pv:Phvul.006G018800
+Q8LMW8	Phytozome_Pv:Phvul.006G197400 Phytozome_Pv:Phvul.006G197300 Phytozome_Pv:Phvul.006G196900 Phytozome_Pv:Phvul.006G197100 Phytozome_Pv:Phvul.006G197200
+Q8LN68	Phytozome_Pv:Phvul.007G060100 Phytozome_Pv:Phvul.004G072100 Phytozome_Pv:Phvul.008G020400
+Q8LNU2	Phytozome_Pv:Phvul.007G035300
+Q8LQ34	Phytozome_Pv:Phvul.008G108600
+Q8RU95	Phytozome_Pv:Phvul.009G167800 Phytozome_Pv:Phvul.009G167700
+Q8RV06	Phytozome_Pv:Phvul.006G209300
+Q8RV34	Phytozome_Pv:Phvul.003G126800
+Q8RYL0	Phytozome_Pv:Phvul.004G071100
+Q8RYY6	Phytozome_Pv:Phvul.006G216000
+Q8S2E5	Phytozome_Pv:Phvul.002G150900
+Q8S2G0	Phytozome_Pv:Phvul.006G019500
+Q8S3R0	Phytozome_Pv:Phvul.003G254000
+Q8S5M6	Phytozome_Pv:Phvul.007G206700
+Q8S5N2	Phytozome_Pv:Phvul.002G261700 Phytozome_Pv:Phvul.001G251000
+Q8S5T1	Phytozome_Pv:Phvul.004G083600
+Q8S601	Phytozome_Pv:Phvul.008G272500 Phytozome_Pv:Phvul.007G124400
+Q8S919	Phytozome_Pv:Phvul.008G159300 Phytozome_Pv:Phvul.008G080800 Phytozome_Pv:Phvul.009G136900 Phytozome_Pv:Phvul.006G110100
+Q8S920	Phytozome_Pv:Phvul.008G159300 Phytozome_Pv:Phvul.008G080800 Phytozome_Pv:Phvul.009G136900 Phytozome_Pv:Phvul.006G110100
+Q8S983	Phytozome_Pv:Phvul.001G008200
+Q8S985	Phytozome_Pv:Phvul.003G290200 Phytozome_Pv:Phvul.006G181200
+Q8S9S4	Phytozome_Pv:Phvul.010G142600 Phytozome_Pv:Phvul.005G161700 Phytozome_Pv:Phvul.010G142700
+Q8S9Z2	Phytozome_Pv:Phvul.005G128500 Phytozome_Pv:Phvul.011G088900
+Q8VWH2	Phytozome_Pv:Phvul.001G097300 Phytozome_Pv:Phvul.004G074700 Phytozome_Pv:Phvul.008G003800
+Q8W0B6	Phytozome_Pv:Phvul.004G118900 Phytozome_Pv:Phvul.009G172000 Phytozome_Pv:Phvul.004G118700 Phytozome_Pv:Phvul.004G119300 Phytozome_Pv:Phvul.002G226700 Phytozome_Pv:Phvul.004G118800 Phytozome_Pv:Phvul.004G119200 Phytozome_Pv:Phvul.009G172100
+Q8W0E4	Phytozome_Pv:Phvul.006G055200 Phytozome_Pv:Phvul.008G277800 Phytozome_Pv:Phvul.001G170600 Phytozome_Pv:Phvul.010G110600
+Q8W1L6	Phytozome_Pv:Phvul.004G164800
+Q8W250	Phytozome_Pv:Phvul.003G200300
+Q8W3F9	Phytozome_Pv:Phvul.002G040200
+Q8W3J0	Phytozome_Pv:Phvul.005G142500 Phytozome_Pv:Phvul.011G065700 Phytozome_Pv:Phvul.011G065800
+Q8W3L9	Phytozome_Pv:Phvul.006G011200 Phytozome_Pv:Phvul.006G011300 Phytozome_Pv:Phvul.005G150100 Phytozome_Pv:Phvul.005G012200 Phytozome_Pv:Phvul.008G207000
+Q8W3M0	Phytozome_Pv:Phvul.006G011200 Phytozome_Pv:Phvul.006G011300 Phytozome_Pv:Phvul.005G150100 Phytozome_Pv:Phvul.005G012200 Phytozome_Pv:Phvul.008G207000
+Q93VC3	Phytozome_Pv:Phvul.008G166000 Phytozome_Pv:Phvul.002G152700
+Q93VD5	Phytozome_Pv:Phvul.009G109700
+Q93WI9	Phytozome_Pv:Phvul.001G097300 Phytozome_Pv:Phvul.004G074700 Phytozome_Pv:Phvul.008G003800
+Q93X08	Phytozome_Pv:Phvul.008G240600
+Q93XI4	Phytozome_Pv:Phvul.005G123100
+Q93Y73	Phytozome_Pv:Phvul.002G323900
+Q94E75	Phytozome_Pv:Phvul.007G265500 Phytozome_Pv:Phvul.007G233700
+Q94GF1	Phytozome_Pv:Phvul.007G014800 Phytozome_Pv:Phvul.001G241600 Phytozome_Pv:Phvul.001G241700
+Q94HG3	Phytozome_Pv:Phvul.009G064700 Phytozome_Pv:Phvul.001G021800
+Q94HG6	Phytozome_Pv:Phvul.009G064000
+Q94J90	Phytozome_Pv:Phvul.008G202200 Phytozome_Pv:Phvul.006G204400
+Q94JA2	Phytozome_Pv:Phvul.011G159000
+Q94JJ0	Phytozome_Pv:Phvul.011G039100 Phytozome_Pv:Phvul.007G033800
+Q94LU9	Phytozome_Pv:Phvul.002G290300
+Q94LV4	Phytozome_Pv:Phvul.002G008700
+Q9ASD3	Phytozome_Pv:Phvul.001G034800
+Q9ASP4	Phytozome_Pv:Phvul.003G118800
+Q9AUQ4	Phytozome_Pv:Phvul.002G318400
+Q9AUV6	Phytozome_Pv:Phvul.002G102900 Phytozome_Pv:Phvul.008G034900 Phytozome_Pv:Phvul.004G034500
+Q9AV47	Phytozome_Pv:Phvul.011G080100 Phytozome_Pv:Phvul.007G149000 Phytozome_Pv:Phvul.005G134500
+Q9AV71	Phytozome_Pv:Phvul.011G211500 Phytozome_Pv:Phvul.002G188600 Phytozome_Pv:Phvul.009G242700
+Q9AWL7	Phytozome_Pv:Phvul.004G088300 Phytozome_Pv:Phvul.007G083500
+Q9AWZ7	Phytozome_Pv:Phvul.010G104900
+Q9AWZ8	Phytozome_Pv:Phvul.010G104900
+Q9FDX8	Phytozome_Pv:Phvul.009G085300 Phytozome_Pv:Phvul.008G022800 Phytozome_Pv:Phvul.004G046600 Phytozome_Pv:Phvul.003G149000
+Q9FTN5	Phytozome_Pv:Phvul.009G059000 Phytozome_Pv:Phvul.002G033200 Phytozome_Pv:Phvul.011G044500 Phytozome_Pv:Phvul.011G044700
+Q9FTN6	Phytozome_Pv:Phvul.009G059000 Phytozome_Pv:Phvul.002G033200 Phytozome_Pv:Phvul.011G044500 Phytozome_Pv:Phvul.011G044700
+Q9FTR6	Phytozome_Pv:Phvul.008G006200
+Q9FTZ2	Phytozome_Pv:Phvul.004G160000
+Q9FU67	Phytozome_Pv:Phvul.001G182600 Phytozome_Pv:Phvul.001G182200 Phytozome_Pv:Phvul.002G016500 Phytozome_Pv:Phvul.001G182700 Phytozome_Pv:Phvul.001G182300 Phytozome_Pv:Phvul.001G182400 Phytozome_Pv:Phvul.002G016400 Phytozome_Pv:Phvul.001G182500 Phytozome_Pv:Phvul.001G183000 Phytozome_Pv:Phvul.001G182100
+Q9FU68	Phytozome_Pv:Phvul.001G182600 Phytozome_Pv:Phvul.001G182200 Phytozome_Pv:Phvul.002G016500 Phytozome_Pv:Phvul.001G182700 Phytozome_Pv:Phvul.001G182300 Phytozome_Pv:Phvul.001G182400 Phytozome_Pv:Phvul.002G016400 Phytozome_Pv:Phvul.001G182500 Phytozome_Pv:Phvul.001G183000 Phytozome_Pv:Phvul.001G182100
+Q9FU69	Phytozome_Pv:Phvul.001G182600 Phytozome_Pv:Phvul.001G182200 Phytozome_Pv:Phvul.002G016500 Phytozome_Pv:Phvul.001G182700 Phytozome_Pv:Phvul.001G182300 Phytozome_Pv:Phvul.001G182400 Phytozome_Pv:Phvul.002G016400 Phytozome_Pv:Phvul.001G182500 Phytozome_Pv:Phvul.001G183000 Phytozome_Pv:Phvul.001G182100
+Q9FWC1	Phytozome_Pv:Phvul.002G301500
+Q9FWK4	Phytozome_Pv:Phvul.007G275000
+Q9FWQ2	Phytozome_Pv:Phvul.005G008300 Phytozome_Pv:Phvul.011G006000
+Q9FXQ3	Phytozome_Pv:Phvul.008G292500
+Q9LD61	Phytozome_Pv:Phvul.008G270600
+Q9LDB7	Phytozome_Pv:Phvul.001G049900
+Q9LG86	Phytozome_Pv:Phvul.005G165600 Phytozome_Pv:Phvul.010G145000
+Q9LGL5	Phytozome_Pv:Phvul.008G095400 Phytozome_Pv:Phvul.010G078000
+Q9LGU6	Phytozome_Pv:Phvul.003G120300 Phytozome_Pv:Phvul.001G216600 Phytozome_Pv:Phvul.007G210700 Phytozome_Pv:Phvul.003G120000 Phytozome_Pv:Phvul.001G216700 Phytozome_Pv:Phvul.001G222800
+Q9LHZ0	Phytozome_Pv:Phvul.009G000700 Phytozome_Pv:Phvul.009G000600
+Q9LHZ7	Phytozome_Pv:Phvul.002G040200
+Q9LIZ8	Phytozome_Pv:Phvul.007G206700
+Q9LWJ2	Phytozome_Pv:Phvul.001G125400
+Q9LWV3	Phytozome_Pv:Phvul.010G146600 Phytozome_Pv:Phvul.009G109600 Phytozome_Pv:Phvul.005G170600 Phytozome_Pv:Phvul.004G169800 Phytozome_Pv:Phvul.001G073800
+Q9SDG5	Phytozome_Pv:Phvul.007G150400
+Q9SMB1	Phytozome_Pv:Phvul.003G052600 Phytozome_Pv:Phvul.002G072200
+Q9SNK3	Phytozome_Pv:Phvul.009G006600
+Q9SNN0	Phytozome_Pv:Phvul.009G002500
+Q9XEA6	Phytozome_Pv:Phvul.002G045200 Phytozome_Pv:Phvul.006G099100 Phytozome_Pv:Phvul.007G057600
+Q9XEA8	Phytozome_Pv:Phvul.002G045200 Phytozome_Pv:Phvul.006G099100 Phytozome_Pv:Phvul.007G057600
+Q9XFE5	Phytozome_Pv:Phvul.008G290600 Phytozome_Pv:Phvul.006G002900 Phytozome_Pv:Phvul.009G242400
+Q9XG80	Phytozome_Pv:Phvul.004G172400
+Q9XHL5	Phytozome_Pv:Phvul.003G271800 Phytozome_Pv:Phvul.002G118900 Phytozome_Pv:Phvul.008G208900 Phytozome_Pv:Phvul.006G008200
+Q9XJ03	Phytozome_Pv:Phvul.003G269600
+Q9XJ29	Phytozome_Pv:Phvul.007G014800 Phytozome_Pv:Phvul.001G241600 Phytozome_Pv:Phvul.001G241700
+Q9ZTP5	Phytozome_Pv:Phvul.003G188800
+UPI00000AA151	Phytozome_Pv:Phvul.001G049900
+UPI0001C7A9C3	Phytozome_Pv:Phvul.001G186600 Phytozome_Pv:Phvul.007G223500

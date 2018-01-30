@@ -1,0 +1,951 @@
+A2X747	Phytozome_Fv:gene34065 Phytozome_Fv:gene34602 Phytozome_Fv:gene34068 Phytozome_Fv:gene34081 Phytozome_Fv:gene01943 Phytozome_Fv:gene34032
+A2XPN8	Phytozome_Fv:gene29029
+A2Y626	Phytozome_Fv:gene27914
+A2Y8A8	Phytozome_Fv:gene32248
+A2ZRY8	Phytozome_Fv:gene22779
+A2ZW27	Phytozome_Fv:gene17827
+A2ZWY3	Phytozome_Fv:gene02708 Phytozome_Fv:gene02706
+A2ZWY7	Phytozome_Fv:gene02708 Phytozome_Fv:gene02706
+A3AAR2	Phytozome_Fv:gene30296
+A3AQC6	Phytozome_Fv:gene22572
+A3AZW5	Phytozome_Fv:gene18142 Phytozome_Fv:gene00357
+A3B7R7	Phytozome_Fv:gene28093
+A3B9A0	Phytozome_Fv:gene12224 Phytozome_Fv:gene12917
+A3BI64	Phytozome_Fv:gene34103
+A3BIR7	Phytozome_Fv:gene09988 Phytozome_Fv:gene32508 Phytozome_Fv:gene09985 Phytozome_Fv:gene19279 Phytozome_Fv:gene22676 Phytozome_Fv:gene27364
+A3C4N5	Phytozome_Fv:gene18067
+A3C6G9	Phytozome_Fv:gene10728
+A4LBC0	Phytozome_Fv:gene15627
+B7E8M5	Phytozome_Fv:gene03016 Phytozome_Fv:gene31452
+B7EA04	Phytozome_Fv:gene19994
+B7EJ81	Phytozome_Fv:gene04534
+B7F4K3	Phytozome_Fv:gene30140 Phytozome_Fv:gene05364
+B7F7B9	Phytozome_Fv:gene31122 Phytozome_Fv:gene11606
+B7F8T0	Phytozome_Fv:gene00370
+B7F9K3	Phytozome_Fv:gene30140 Phytozome_Fv:gene05364
+B7FA34	Phytozome_Fv:gene09386
+B7FA90	Phytozome_Fv:gene17004
+B7FA99	Phytozome_Fv:gene24982
+B7FAE9	Phytozome_Fv:gene14999
+B7FAP2	Phytozome_Fv:gene06599 Phytozome_Fv:gene06600 Phytozome_Fv:gene06601 Phytozome_Fv:gene06602
+B8AG62	Phytozome_Fv:gene23657
+B8AHI9	Phytozome_Fv:gene29114
+B8B8K7	Phytozome_Fv:gene05462
+B8BB38	Phytozome_Fv:gene15845
+B8BF84	Phytozome_Fv:gene14043
+B9EUK4	Phytozome_Fv:gene25123 Phytozome_Fv:gene19138
+B9EXM2	Phytozome_Fv:gene12265
+B9EZJ8	Phytozome_Fv:gene27796
+B9F3B6	Phytozome_Fv:gene19708
+B9FDB8	Phytozome_Fv:gene10538 Phytozome_Fv:gene02414
+B9FML1	Phytozome_Fv:gene05005
+B9FYX6	Phytozome_Fv:gene30397
+B9FZ46	Phytozome_Fv:gene32248
+B9G3A7	Phytozome_Fv:gene00676
+C7IYK7	Phytozome_Fv:gene24982
+C7J0P3	Phytozome_Fv:gene26058 Phytozome_Fv:gene10573
+C7J5F5	Phytozome_Fv:gene09694 Phytozome_Fv:gene09695 Phytozome_Fv:gene28799
+C7J5T9	Phytozome_Fv:gene09694 Phytozome_Fv:gene09695 Phytozome_Fv:gene28799
+I1QJ08	Phytozome_Fv:gene10071
+I1QQP8	Phytozome_Fv:gene32189
+I3QK18	Phytozome_Fv:gene08862
+O04226	Phytozome_Fv:gene20854 Phytozome_Fv:gene18372
+O04882	Phytozome_Fv:gene22172 Phytozome_Fv:gene01502 Phytozome_Fv:gene19848
+O22567	Phytozome_Fv:gene06697
+O24174	Phytozome_Fv:gene09492
+O24210	Phytozome_Fv:gene17530
+O64422	Phytozome_Fv:gene18764
+O64437	Phytozome_Fv:gene16378
+O82117	Phytozome_Fv:gene14981 Phytozome_Fv:gene04172
+O82427	Phytozome_Fv:gene08587
+P0C128	Phytozome_Fv:gene09007 Phytozome_Fv:gene25723
+P0C587	Phytozome_Fv:gene26838 Phytozome_Fv:gene01715
+P0C5A4	Phytozome_Fv:gene24726
+P0C5B2	Phytozome_Fv:gene13354 Phytozome_Fv:gene19425
+P14654	Phytozome_Fv:gene09347 Phytozome_Fv:gene30512
+P14655	Phytozome_Fv:gene06119
+P14656	Phytozome_Fv:gene09347 Phytozome_Fv:gene30512
+P15280	Phytozome_Fv:gene24265
+P16081	Phytozome_Fv:gene02263
+P17784	Phytozome_Fv:gene30155 Phytozome_Fv:gene30154
+P17814	Phytozome_Fv:gene15877 Phytozome_Fv:gene05255
+P18566	Phytozome_Fv:gene17686 Phytozome_Fv:gene03736
+P30298	Phytozome_Fv:gene11429 Phytozome_Fv:gene12940
+P31924	Phytozome_Fv:gene11429 Phytozome_Fv:gene12940
+P38419	Phytozome_Fv:gene29184 Phytozome_Fv:gene32226 Phytozome_Fv:gene26949 Phytozome_Fv:gene26944 Phytozome_Fv:gene20644 Phytozome_Fv:gene20645 Phytozome_Fv:gene26947
+P42862	Phytozome_Fv:gene15133
+P42863	Phytozome_Fv:gene15133
+P48642	Phytozome_Fv:gene29906
+P93438	Phytozome_Fv:gene22974 Phytozome_Fv:gene24556 Phytozome_Fv:gene22927
+Q01KF3	Phytozome_Fv:gene26169
+Q01M39	Phytozome_Fv:gene28033 Phytozome_Fv:gene11943 Phytozome_Fv:gene11947 Phytozome_Fv:gene11945 Phytozome_Fv:gene11944 Phytozome_Fv:gene24312 Phytozome_Fv:gene24313 Phytozome_Fv:gene34573 Phytozome_Fv:gene21496 Phytozome_Fv:gene28678 Phytozome_Fv:gene24307 Phytozome_Fv:gene24320 Phytozome_Fv:gene27357 Phytozome_Fv:gene24308 Phytozome_Fv:gene24318 Phytozome_Fv:gene24319 Phytozome_Fv:gene16276 Phytozome_Fv:gene00622 Phytozome_Fv:gene24317
+Q05JG2	Phytozome_Fv:gene28569 Phytozome_Fv:gene09100
+Q06967	Phytozome_Fv:gene10320
+Q0D3B6	Phytozome_Fv:gene18151
+Q0D3D2	Phytozome_Fv:gene07945 Phytozome_Fv:gene13476
+Q0D3F2	Phytozome_Fv:gene05196 Phytozome_Fv:gene31589
+Q0D4G3	Phytozome_Fv:gene27540
+Q0D759	Phytozome_Fv:gene09988 Phytozome_Fv:gene32508 Phytozome_Fv:gene09985 Phytozome_Fv:gene19279 Phytozome_Fv:gene22676 Phytozome_Fv:gene27364
+Q0D7E4	Phytozome_Fv:gene11234 Phytozome_Fv:gene15844
+Q0D7J0	Phytozome_Fv:gene34103
+Q0D7J3	Phytozome_Fv:gene34103
+Q0D7W4	Phytozome_Fv:gene16518
+Q0D8I9	Phytozome_Fv:gene09749
+Q0D8J6	Phytozome_Fv:gene31335 Phytozome_Fv:gene30616
+Q0D980	Phytozome_Fv:gene17105
+Q0DA35	Phytozome_Fv:gene23935
+Q0DAA4	Phytozome_Fv:gene19987
+Q0DBD3	Phytozome_Fv:gene00744
+Q0DBF4	Phytozome_Fv:gene08176 Phytozome_Fv:gene15052
+Q0DBN4	Phytozome_Fv:gene15784
+Q0DCE9	Phytozome_Fv:gene15453 Phytozome_Fv:gene09879
+Q0DEC8	Phytozome_Fv:gene12887
+Q0DG35	Phytozome_Fv:gene12856
+Q0DGG8	Phytozome_Fv:gene23522
+Q0DHF6	Phytozome_Fv:gene07945 Phytozome_Fv:gene13476
+Q0DJJ9	Phytozome_Fv:gene13505
+Q0DJT2	Phytozome_Fv:gene08827 Phytozome_Fv:gene11871
+Q0DKE8	Phytozome_Fv:gene31790 Phytozome_Fv:gene31791 Phytozome_Fv:gene03586
+Q0DKP3	Phytozome_Fv:gene24947 Phytozome_Fv:gene01376
+Q0DKY4	Phytozome_Fv:gene22974 Phytozome_Fv:gene24556 Phytozome_Fv:gene22927
+Q0DNU1	Phytozome_Fv:gene26537 Phytozome_Fv:gene26538 Phytozome_Fv:gene27406
+Q0DS76	Phytozome_Fv:gene18510
+Q0DSM1	Phytozome_Fv:gene26058 Phytozome_Fv:gene10573
+Q0DV32	Phytozome_Fv:gene28898 Phytozome_Fv:gene09603
+Q0DWC7	Phytozome_Fv:gene16612 Phytozome_Fv:gene32532
+Q0DWF2	Phytozome_Fv:gene27891 Phytozome_Fv:gene08336
+Q0DWH1	Phytozome_Fv:gene08364
+Q0DXA9	Phytozome_Fv:gene26047
+Q0DY86	Phytozome_Fv:gene14330
+Q0DYK7	Phytozome_Fv:gene17341
+Q0DZE0	Phytozome_Fv:gene23261 Phytozome_Fv:gene09753
+Q0E2P1	Phytozome_Fv:gene02672
+Q0E2P9	Phytozome_Fv:gene02708 Phytozome_Fv:gene02706
+Q0E2X2	Phytozome_Fv:gene09825 Phytozome_Fv:gene09821 Phytozome_Fv:gene26355 Phytozome_Fv:gene26347 Phytozome_Fv:gene00096 Phytozome_Fv:gene00095 Phytozome_Fv:gene00094 Phytozome_Fv:gene00125 Phytozome_Fv:gene18452
+Q0E3F2	Phytozome_Fv:gene25638
+Q0E3J1	Phytozome_Fv:gene19987
+Q0E3L4	Phytozome_Fv:gene28754
+Q0E4F0	Phytozome_Fv:gene01628
+Q0E4N2	Phytozome_Fv:gene23657
+Q0ILP7	Phytozome_Fv:gene26910 Phytozome_Fv:gene26907
+Q0INY7	Phytozome_Fv:gene17686 Phytozome_Fv:gene03736
+Q0INZ4	Phytozome_Fv:gene27140
+Q0IPE5	Phytozome_Fv:gene18481
+Q0IQ89	Phytozome_Fv:gene14819
+Q0IQQ5	Phytozome_Fv:gene13782
+Q0IRE6	Phytozome_Fv:gene22311
+Q0IS70	Phytozome_Fv:gene24982
+Q0ITU1	Phytozome_Fv:gene12526
+Q0ITW7	Phytozome_Fv:gene30069 Phytozome_Fv:gene30068
+Q0IZJ9	Phytozome_Fv:gene14373
+Q0IZX5	Phytozome_Fv:gene08590 Phytozome_Fv:gene14522 Phytozome_Fv:gene14529
+Q0J0L4	Phytozome_Fv:gene25903
+Q0J0M8	Phytozome_Fv:gene17371 Phytozome_Fv:gene17114 Phytozome_Fv:gene29194 Phytozome_Fv:gene17369 Phytozome_Fv:gene17368 Phytozome_Fv:gene13004
+Q0J0N3	Phytozome_Fv:gene29850 Phytozome_Fv:gene03902 Phytozome_Fv:gene32285
+Q0J185	Phytozome_Fv:gene28569 Phytozome_Fv:gene09100
+Q0J1C1	Phytozome_Fv:gene19733 Phytozome_Fv:gene01202
+Q0J1E1	Phytozome_Fv:gene24724
+Q0J270	Phytozome_Fv:gene01674
+Q0J2L7	Phytozome_Fv:gene26316 Phytozome_Fv:gene01934
+Q0J360	Phytozome_Fv:gene15508
+Q0J5Y4	Phytozome_Fv:gene00822
+Q0J7P4	Phytozome_Fv:gene23541 Phytozome_Fv:gene15525 Phytozome_Fv:gene09578
+Q0J7U6	Phytozome_Fv:gene12598
+Q0J8A4	Phytozome_Fv:gene26417
+Q0J951	Phytozome_Fv:gene22728 Phytozome_Fv:gene30394
+Q0J9F2	Phytozome_Fv:gene22172 Phytozome_Fv:gene01502 Phytozome_Fv:gene19848
+Q0J9K2	Phytozome_Fv:gene15991
+Q0J9Z0	Phytozome_Fv:gene19625
+Q0JA81	Phytozome_Fv:gene19699 Phytozome_Fv:gene19690
+Q0JA82	Phytozome_Fv:gene19699 Phytozome_Fv:gene19690
+Q0JAI1	Phytozome_Fv:gene33406 Phytozome_Fv:gene30683 Phytozome_Fv:gene30747 Phytozome_Fv:gene30750
+Q0JB49	Phytozome_Fv:gene32458 Phytozome_Fv:gene32457
+Q0JB99	Phytozome_Fv:gene10841 Phytozome_Fv:gene21165
+Q0JBF1	Phytozome_Fv:gene32247
+Q0JC10	Phytozome_Fv:gene03810 Phytozome_Fv:gene04494
+Q0JCU7	Phytozome_Fv:gene27958
+Q0JCZ4	Phytozome_Fv:gene06434
+Q0JDD2	Phytozome_Fv:gene30309
+Q0JDF7	Phytozome_Fv:gene14373
+Q0JDN5	Phytozome_Fv:gene26673
+Q0JDT1	Phytozome_Fv:gene16740
+Q0JE53	Phytozome_Fv:gene28033 Phytozome_Fv:gene11943 Phytozome_Fv:gene11947 Phytozome_Fv:gene11945 Phytozome_Fv:gene11944 Phytozome_Fv:gene24312 Phytozome_Fv:gene24313 Phytozome_Fv:gene34573 Phytozome_Fv:gene21496 Phytozome_Fv:gene28678 Phytozome_Fv:gene24307 Phytozome_Fv:gene24320 Phytozome_Fv:gene27357 Phytozome_Fv:gene24308 Phytozome_Fv:gene24318 Phytozome_Fv:gene24319 Phytozome_Fv:gene16276 Phytozome_Fv:gene00622 Phytozome_Fv:gene24317
+Q0JEK1	Phytozome_Fv:gene19393
+Q0JEP5	Phytozome_Fv:gene23468
+Q0JEZ8	Phytozome_Fv:gene19699 Phytozome_Fv:gene19690
+Q0JF02	Phytozome_Fv:gene19704
+Q0JF25	Phytozome_Fv:gene02395
+Q0JF26	Phytozome_Fv:gene02395
+Q0JF30	Phytozome_Fv:gene16612 Phytozome_Fv:gene32532
+Q0JGK4	Phytozome_Fv:gene31164
+Q0JIC2	Phytozome_Fv:gene00431
+Q0JIR6	Phytozome_Fv:gene02119
+Q0JJ01	Phytozome_Fv:gene28768 Phytozome_Fv:gene28770 Phytozome_Fv:gene20070
+Q0JJI1	Phytozome_Fv:gene28401
+Q0JJV0	Phytozome_Fv:gene01267
+Q0JK57	Phytozome_Fv:gene09386
+Q0JKD0	Phytozome_Fv:gene12856
+Q0JKG7	Phytozome_Fv:gene05555 Phytozome_Fv:gene11861 Phytozome_Fv:gene26830 Phytozome_Fv:gene25817 Phytozome_Fv:gene08191
+Q0JKI9	Phytozome_Fv:gene29771
+Q0JKY8	Phytozome_Fv:gene32646 Phytozome_Fv:gene00639 Phytozome_Fv:gene14136
+Q0JLT2	Phytozome_Fv:gene23037 Phytozome_Fv:gene02702 Phytozome_Fv:gene22505
+Q0JPT4	Phytozome_Fv:gene27313
+Q0JQ41	Phytozome_Fv:gene21441 Phytozome_Fv:gene27576
+Q0JRG4	Phytozome_Fv:gene01367
+Q109F2	Phytozome_Fv:gene14889 Phytozome_Fv:gene01556
+Q109K4	Phytozome_Fv:gene30696
+Q109W9	Phytozome_Fv:gene30696
+Q10A30	Phytozome_Fv:gene30155 Phytozome_Fv:gene30154
+Q10B63	Phytozome_Fv:gene07034
+Q10BA5	Phytozome_Fv:gene18798
+Q10BT5	Phytozome_Fv:gene18067
+Q10BX9	Phytozome_Fv:gene00793
+Q10CE4	Phytozome_Fv:gene30626 Phytozome_Fv:gene02361
+Q10CH5	Phytozome_Fv:gene08411
+Q10CQ1	Phytozome_Fv:gene04228 Phytozome_Fv:gene26119 Phytozome_Fv:gene04563 Phytozome_Fv:gene04562
+Q10CS9	Phytozome_Fv:gene20107
+Q10CU7	Phytozome_Fv:gene18473
+Q10D68	Phytozome_Fv:gene26440 Phytozome_Fv:gene22698
+Q10D87	Phytozome_Fv:gene01181
+Q10DK7	Phytozome_Fv:gene05580
+Q10DU0	Phytozome_Fv:gene22948
+Q10DZ5	Phytozome_Fv:gene14466 Phytozome_Fv:gene30080
+Q10EG4	Phytozome_Fv:gene09749
+Q10F04	Phytozome_Fv:gene13699
+Q10F25	Phytozome_Fv:gene26537 Phytozome_Fv:gene26538 Phytozome_Fv:gene27406
+Q10FE9	Phytozome_Fv:gene23760
+Q10G56	Phytozome_Fv:gene30368
+Q10HZ6	Phytozome_Fv:gene02395
+Q10J20	Phytozome_Fv:gene23992
+Q10J32	Phytozome_Fv:gene09480
+Q10L51	Phytozome_Fv:gene09825 Phytozome_Fv:gene09821 Phytozome_Fv:gene26355 Phytozome_Fv:gene26347 Phytozome_Fv:gene00096 Phytozome_Fv:gene00095 Phytozome_Fv:gene00094 Phytozome_Fv:gene00125 Phytozome_Fv:gene18452
+Q10LP5	Phytozome_Fv:gene11429 Phytozome_Fv:gene12940
+Q10LR5	Phytozome_Fv:gene11091 Phytozome_Fv:gene11092
+Q10M76	Phytozome_Fv:gene00230
+Q10MB0	Phytozome_Fv:gene00243 Phytozome_Fv:gene10568 Phytozome_Fv:gene00244 Phytozome_Fv:gene24544
+Q10MB4	Phytozome_Fv:gene05018 Phytozome_Fv:gene24516
+Q10ME8	Phytozome_Fv:gene00141
+Q10MG9	Phytozome_Fv:gene24884 Phytozome_Fv:gene11383
+Q10MK2	Phytozome_Fv:gene06894
+Q10MK5	Phytozome_Fv:gene26509
+Q10MQ2	Phytozome_Fv:gene24707 Phytozome_Fv:gene31308
+Q10MW3	Phytozome_Fv:gene07945 Phytozome_Fv:gene13476
+Q10MX3	Phytozome_Fv:gene07938
+Q10MX9	Phytozome_Fv:gene20986 Phytozome_Fv:gene07920 Phytozome_Fv:gene13454
+Q10N17	Phytozome_Fv:gene25333
+Q10N34	Phytozome_Fv:gene18151
+Q10NY1	Phytozome_Fv:gene22789 Phytozome_Fv:gene22788 Phytozome_Fv:gene23311
+Q10NY2	Phytozome_Fv:gene15974
+Q10P01	Phytozome_Fv:gene11985 Phytozome_Fv:gene09142
+Q10P67	Phytozome_Fv:gene31172
+Q10PL0	Phytozome_Fv:gene02644 Phytozome_Fv:gene05582
+Q10PY7	Phytozome_Fv:gene27005
+Q10QA5	Phytozome_Fv:gene02565
+Q10RP2	Phytozome_Fv:gene23252
+Q10S34	Phytozome_Fv:gene23775
+Q10S55	Phytozome_Fv:gene14208
+Q10S58	Phytozome_Fv:gene11414
+Q10S72	Phytozome_Fv:gene08621
+Q10SL7	Phytozome_Fv:gene13319
+Q10SM6	Phytozome_Fv:gene03016 Phytozome_Fv:gene31452
+Q10SP1	Phytozome_Fv:gene18693
+Q10SU1	Phytozome_Fv:gene20857
+Q10T43	Phytozome_Fv:gene08910
+Q25AR2	Phytozome_Fv:gene09861
+Q2MJA7	Phytozome_Fv:gene29850 Phytozome_Fv:gene03902 Phytozome_Fv:gene32285
+Q2MJA8	Phytozome_Fv:gene29850 Phytozome_Fv:gene03902 Phytozome_Fv:gene32285
+Q2QLJ0	Phytozome_Fv:gene26820
+Q2QLQ1	Phytozome_Fv:gene29607 Phytozome_Fv:gene29606
+Q2QLY5	Phytozome_Fv:gene14995 Phytozome_Fv:gene08023
+Q2QLY6	Phytozome_Fv:gene13111
+Q2QM47	Phytozome_Fv:gene23161
+Q2QM70	Phytozome_Fv:gene20272 Phytozome_Fv:gene29039
+Q2QM83	Phytozome_Fv:gene09548 Phytozome_Fv:gene00757
+Q2QMD4	Phytozome_Fv:gene18543
+Q2QME6	Phytozome_Fv:gene29971
+Q2QMK8	Phytozome_Fv:gene16103
+Q2QN06	Phytozome_Fv:gene02558 Phytozome_Fv:gene25547
+Q2QNM6	Phytozome_Fv:gene05824
+Q2QNM9	Phytozome_Fv:gene05306
+Q2QNN5	Phytozome_Fv:gene29184 Phytozome_Fv:gene32226 Phytozome_Fv:gene26949 Phytozome_Fv:gene26944 Phytozome_Fv:gene20644 Phytozome_Fv:gene20645 Phytozome_Fv:gene26947
+Q2QPI2	Phytozome_Fv:gene22311
+Q2QPR0	Phytozome_Fv:gene23261 Phytozome_Fv:gene09753
+Q2QQJ5	Phytozome_Fv:gene19699 Phytozome_Fv:gene19690
+Q2QQX6	Phytozome_Fv:gene06434
+Q2QR54	Phytozome_Fv:gene19815
+Q2QRX6	Phytozome_Fv:gene21812
+Q2QS13	Phytozome_Fv:gene25776 Phytozome_Fv:gene03123
+Q2QS14	Phytozome_Fv:gene25776 Phytozome_Fv:gene03123
+Q2QTJ1	Phytozome_Fv:gene17686 Phytozome_Fv:gene03736
+Q2QTL0	Phytozome_Fv:gene09966
+Q2QTQ1	Phytozome_Fv:gene00427
+Q2QUG4	Phytozome_Fv:gene09200 Phytozome_Fv:gene05329 Phytozome_Fv:gene19242 Phytozome_Fv:gene03231 Phytozome_Fv:gene09199 Phytozome_Fv:gene23438 Phytozome_Fv:gene18910
+Q2QUI0	Phytozome_Fv:gene22311
+Q2QVC1	Phytozome_Fv:gene11807 Phytozome_Fv:gene06367
+Q2QWD0	Phytozome_Fv:gene01858 Phytozome_Fv:gene18606
+Q2QWK9	Phytozome_Fv:gene11032
+Q2QWV7	Phytozome_Fv:gene00370
+Q2QX49	Phytozome_Fv:gene24496 Phytozome_Fv:gene06304
+Q2QX58	Phytozome_Fv:gene11172
+Q2QXB1	Phytozome_Fv:gene08029
+Q2QXK5	Phytozome_Fv:gene30309
+Q2QXL0	Phytozome_Fv:gene21797
+Q2QXP0	Phytozome_Fv:gene26058 Phytozome_Fv:gene10573
+Q2QXY1	Phytozome_Fv:gene21902
+Q2QXY9	Phytozome_Fv:gene20236 Phytozome_Fv:gene20259
+Q2QY63	Phytozome_Fv:gene16820
+Q2QYB7	Phytozome_Fv:gene07674
+Q2QYW4	Phytozome_Fv:gene20986 Phytozome_Fv:gene07920 Phytozome_Fv:gene13454
+Q2QZ14	Phytozome_Fv:gene01937
+Q2R0P3	Phytozome_Fv:gene26451
+Q2R1G8	Phytozome_Fv:gene16355
+Q2R1L4	Phytozome_Fv:gene10529 Phytozome_Fv:gene17269
+Q2R2W2	Phytozome_Fv:gene10320
+Q2R2W8	Phytozome_Fv:gene10438 Phytozome_Fv:gene05784
+Q2R339	Phytozome_Fv:gene26778
+Q2R3A1	Phytozome_Fv:gene26826 Phytozome_Fv:gene26825
+Q2R3F5	Phytozome_Fv:gene06434
+Q2R3K3	Phytozome_Fv:gene01378
+Q2R3K5	Phytozome_Fv:gene24947 Phytozome_Fv:gene01376
+Q2R3Y4	Phytozome_Fv:gene24496 Phytozome_Fv:gene06304
+Q2R432	Phytozome_Fv:gene01340
+Q2R481	Phytozome_Fv:gene21812
+Q2R8T7	Phytozome_Fv:gene27951
+Q2RA11	Phytozome_Fv:gene24496 Phytozome_Fv:gene06304
+Q2RAM8	Phytozome_Fv:gene06599 Phytozome_Fv:gene06600 Phytozome_Fv:gene06601 Phytozome_Fv:gene06602
+Q2RAP0	Phytozome_Fv:gene21902
+Q2RAP4	Phytozome_Fv:gene20962
+Q2RAP8	Phytozome_Fv:gene20236 Phytozome_Fv:gene20259
+Q2RAW4	Phytozome_Fv:gene00395
+Q2RAW8	Phytozome_Fv:gene00395
+Q2RAY0	Phytozome_Fv:gene16820
+Q2RB02	Phytozome_Fv:gene16223 Phytozome_Fv:gene13615 Phytozome_Fv:gene28083 Phytozome_Fv:gene02246 Phytozome_Fv:gene10121 Phytozome_Fv:gene14731 Phytozome_Fv:gene29549 Phytozome_Fv:gene13573 Phytozome_Fv:gene13886 Phytozome_Fv:gene16507 Phytozome_Fv:gene06471 Phytozome_Fv:gene07804 Phytozome_Fv:gene08297 Phytozome_Fv:gene31401 Phytozome_Fv:gene31525 Phytozome_Fv:gene18755 Phytozome_Fv:gene10095 Phytozome_Fv:gene10119 Phytozome_Fv:gene16725 Phytozome_Fv:gene29551 Phytozome_Fv:gene04166 Phytozome_Fv:gene25520 Phytozome_Fv:gene24176 Phytozome_Fv:gene00657 Phytozome_Fv:gene19760 Phytozome_Fv:gene00651 Phytozome_Fv:gene10620 Phytozome_Fv:gene13876 Phytozome_Fv:gene04344 Phytozome_Fv:gene14729 Phytozome_Fv:gene10011 Phytozome_Fv:gene14727 Phytozome_Fv:gene08264 Phytozome_Fv:gene22680 Phytozome_Fv:gene19939 Phytozome_Fv:gene17271 Phytozome_Fv:gene23023 Phytozome_Fv:gene04484 Phytozome_Fv:gene07785 Phytozome_Fv:gene31316 Phytozome_Fv:gene18127 Phytozome_Fv:gene04340 Phytozome_Fv:gene06315 Phytozome_Fv:gene06499 Phytozome_Fv:gene12594 Phytozome_Fv:gene10106 Phytozome_Fv:gene10107 Phytozome_Fv:gene25552 Phytozome_Fv:gene14972
+Q2RB23	Phytozome_Fv:gene07674
+Q2RBN0	Phytozome_Fv:gene07842
+Q2RBP2	Phytozome_Fv:gene07912 Phytozome_Fv:gene20979
+Q2V0P1	Phytozome_Fv:gene24494 Phytozome_Fv:gene25070 Phytozome_Fv:gene24852
+Q336M7	Phytozome_Fv:gene13673
+Q336N7	Phytozome_Fv:gene31885 Phytozome_Fv:gene13739
+Q336R6	Phytozome_Fv:gene10661 Phytozome_Fv:gene03031
+Q336U3	Phytozome_Fv:gene03806
+Q336V3	Phytozome_Fv:gene00959
+Q336X9	Phytozome_Fv:gene19238
+Q337F0	Phytozome_Fv:gene19100
+Q337F3	Phytozome_Fv:gene20857
+Q337H3	Phytozome_Fv:gene10087
+Q338J0	Phytozome_Fv:gene08353
+Q338N8	Phytozome_Fv:gene05462
+Q338Z4	Phytozome_Fv:gene12064
+Q339V1	Phytozome_Fv:gene22571
+Q33AE4	Phytozome_Fv:gene13359
+Q40704	Phytozome_Fv:gene24494 Phytozome_Fv:gene25070 Phytozome_Fv:gene24852
+Q40710	Phytozome_Fv:gene00243 Phytozome_Fv:gene10568 Phytozome_Fv:gene00244 Phytozome_Fv:gene24544
+Q42971	Phytozome_Fv:gene13419 Phytozome_Fv:gene30134
+Q42982	Phytozome_Fv:gene15877 Phytozome_Fv:gene05255
+Q43007	Phytozome_Fv:gene15700
+Q43009	Phytozome_Fv:gene11429 Phytozome_Fv:gene12940
+Q43011	Phytozome_Fv:gene16316
+Q4W8D0	Phytozome_Fv:gene09347 Phytozome_Fv:gene30512
+Q52QH4	Phytozome_Fv:gene11226
+Q53JI9	Phytozome_Fv:gene31164
+Q53JP2	Phytozome_Fv:gene18341 Phytozome_Fv:gene20980
+Q53KL7	Phytozome_Fv:gene28497
+Q53L28	Phytozome_Fv:gene29713 Phytozome_Fv:gene10139
+Q53M09	Phytozome_Fv:gene29279
+Q53MU8	Phytozome_Fv:gene11733
+Q53NW6	Phytozome_Fv:gene23261 Phytozome_Fv:gene09753
+Q53P49	Phytozome_Fv:gene18907
+Q53Q70	Phytozome_Fv:gene31322
+Q53QJ0	Phytozome_Fv:gene06363
+Q53RH0	Phytozome_Fv:gene21106 Phytozome_Fv:gene11090
+Q5CCK1	Phytozome_Fv:gene20962
+Q5CCK3	Phytozome_Fv:gene14783
+Q5JJV0	Phytozome_Fv:gene15508
+Q5JK18	Phytozome_Fv:gene01389
+Q5JK20	Phytozome_Fv:gene06434
+Q5JK39	Phytozome_Fv:gene01378
+Q5JLS4	Phytozome_Fv:gene19756
+Q5JMA1	Phytozome_Fv:gene30547
+Q5JMA6	Phytozome_Fv:gene31460
+Q5JMB6	Phytozome_Fv:gene21441 Phytozome_Fv:gene27576
+Q5JMC7	Phytozome_Fv:gene21138
+Q5JME6	Phytozome_Fv:gene27988
+Q5JMX5	Phytozome_Fv:gene01138
+Q5JMX9	Phytozome_Fv:gene28745
+Q5JN42	Phytozome_Fv:gene02018
+Q5JN63	Phytozome_Fv:gene29698
+Q5JNB0	Phytozome_Fv:gene24251
+Q5MBR3	Phytozome_Fv:gene31335 Phytozome_Fv:gene30616
+Q5MBR5	Phytozome_Fv:gene31335 Phytozome_Fv:gene30616
+Q5N725	Phytozome_Fv:gene30155 Phytozome_Fv:gene30154
+Q5N7C7	Phytozome_Fv:gene21797
+Q5N7L0	Phytozome_Fv:gene30601 Phytozome_Fv:gene06080 Phytozome_Fv:gene27343 Phytozome_Fv:gene03725
+Q5N7Z8	Phytozome_Fv:gene09982 Phytozome_Fv:gene27568
+Q5N8G1	Phytozome_Fv:gene29120
+Q5N8H9	Phytozome_Fv:gene02708 Phytozome_Fv:gene02706
+Q5N9N2	Phytozome_Fv:gene26316 Phytozome_Fv:gene01934
+Q5N9Z8	Phytozome_Fv:gene31741
+Q5NA81	Phytozome_Fv:gene17765
+Q5NAZ7	Phytozome_Fv:gene18907
+Q5NB25	Phytozome_Fv:gene05555 Phytozome_Fv:gene11861 Phytozome_Fv:gene26830 Phytozome_Fv:gene25817 Phytozome_Fv:gene08191
+Q5NBQ1	Phytozome_Fv:gene13632 Phytozome_Fv:gene28637
+Q5NBT9	Phytozome_Fv:gene07071
+Q5NTH3	Phytozome_Fv:gene31604
+Q5NTH4	Phytozome_Fv:gene31604
+Q5QN02	Phytozome_Fv:gene26199
+Q5SMY2	Phytozome_Fv:gene23037 Phytozome_Fv:gene02702 Phytozome_Fv:gene22505
+Q5SND7	Phytozome_Fv:gene11287
+Q5U9F2	Phytozome_Fv:gene30296
+Q5VMP0	Phytozome_Fv:gene15755
+Q5VMP2	Phytozome_Fv:gene18270
+Q5VN31	Phytozome_Fv:gene03420
+Q5VNP5	Phytozome_Fv:gene14758 Phytozome_Fv:gene14761
+Q5VNW0	Phytozome_Fv:gene03903
+Q5VPH2	Phytozome_Fv:gene14864
+Q5VQG4	Phytozome_Fv:gene31787 Phytozome_Fv:gene28489
+Q5VQG8	Phytozome_Fv:gene31790 Phytozome_Fv:gene31791 Phytozome_Fv:gene03586
+Q5VRB9	Phytozome_Fv:gene27796
+Q5VRH4	Phytozome_Fv:gene27194
+Q5VRM7	Phytozome_Fv:gene03240 Phytozome_Fv:gene10730
+Q5VRR0	Phytozome_Fv:gene31097
+Q5VSB8	Phytozome_Fv:gene11698
+Q5W670	Phytozome_Fv:gene09007 Phytozome_Fv:gene25723
+Q5W6F1	Phytozome_Fv:gene28093
+Q5W6F9	Phytozome_Fv:gene11392 Phytozome_Fv:gene11391
+Q5W6H5	Phytozome_Fv:gene13467
+Q5W6W7	Phytozome_Fv:gene15543
+Q5XLJ2	Phytozome_Fv:gene26778
+Q5Z5B7	Phytozome_Fv:gene31674 Phytozome_Fv:gene28765
+Q5Z5R4	Phytozome_Fv:gene08176 Phytozome_Fv:gene15052
+Q5Z5R7	Phytozome_Fv:gene08176 Phytozome_Fv:gene15052
+Q5Z678	Phytozome_Fv:gene11194
+Q5Z6D3	Phytozome_Fv:gene15453 Phytozome_Fv:gene09879
+Q5Z6E5	Phytozome_Fv:gene29895
+Q5Z749	Phytozome_Fv:gene05555 Phytozome_Fv:gene11861 Phytozome_Fv:gene26830 Phytozome_Fv:gene25817 Phytozome_Fv:gene08191
+Q5Z7R3	Phytozome_Fv:gene24982
+Q5Z807	Phytozome_Fv:gene29870
+Q5Z856	Phytozome_Fv:gene23299 Phytozome_Fv:gene23313
+Q5Z8K3	Phytozome_Fv:gene16999
+Q5Z8S0	Phytozome_Fv:gene02675
+Q5Z8T3	Phytozome_Fv:gene22904
+Q5Z8V9	Phytozome_Fv:gene11195
+Q5Z8Y4	Phytozome_Fv:gene10960
+Q5Z8Z7	Phytozome_Fv:gene02672
+Q5ZCV1	Phytozome_Fv:gene21107 Phytozome_Fv:gene22236 Phytozome_Fv:gene22235
+Q5ZEL4	Phytozome_Fv:gene13457
+Q60EI7	Phytozome_Fv:gene02119
+Q60EX6	Phytozome_Fv:gene27763
+Q60EY1	Phytozome_Fv:gene27740
+Q650W1	Phytozome_Fv:gene14373
+Q652A8	Phytozome_Fv:gene32417
+Q652S1	Phytozome_Fv:gene09367
+Q653D9	Phytozome_Fv:gene18270
+Q653F4	Phytozome_Fv:gene23860
+Q653H7	Phytozome_Fv:gene23280 Phytozome_Fv:gene09733 Phytozome_Fv:gene16844
+Q653T6	Phytozome_Fv:gene30385
+Q653U3	Phytozome_Fv:gene22728 Phytozome_Fv:gene30394
+Q655T1	Phytozome_Fv:gene18539
+Q655W2	Phytozome_Fv:gene18492
+Q656F1	Phytozome_Fv:gene04987
+Q657X7	Phytozome_Fv:gene08835 Phytozome_Fv:gene08881
+Q65X70	Phytozome_Fv:gene14447 Phytozome_Fv:gene14411
+Q65XC6	Phytozome_Fv:gene27796
+Q65XK0	Phytozome_Fv:gene17827
+Q65XM9	Phytozome_Fv:gene22172 Phytozome_Fv:gene01502 Phytozome_Fv:gene19848
+Q65XR9	Phytozome_Fv:gene15700
+Q67J19	Phytozome_Fv:gene09085
+Q67TQ5	Phytozome_Fv:gene09110 Phytozome_Fv:gene28250
+Q67TZ7	Phytozome_Fv:gene26047
+Q67UX0	Phytozome_Fv:gene16999
+Q67UZ8	Phytozome_Fv:gene02238
+Q67V61	Phytozome_Fv:gene00619
+Q67VM1	Phytozome_Fv:gene03800
+Q67VR7	Phytozome_Fv:gene11130 Phytozome_Fv:gene11126
+Q67W29	Phytozome_Fv:gene31172
+Q67W82	Phytozome_Fv:gene15877 Phytozome_Fv:gene05255
+Q67WK8	Phytozome_Fv:gene27540
+Q67WN8	Phytozome_Fv:gene31122 Phytozome_Fv:gene11606
+Q67WR2	Phytozome_Fv:gene27650
+Q688L9	Phytozome_Fv:gene11392 Phytozome_Fv:gene11391
+Q688Q8	Phytozome_Fv:gene30039 Phytozome_Fv:gene15954
+Q688Q9	Phytozome_Fv:gene32478
+Q688T8	Phytozome_Fv:gene25195 Phytozome_Fv:gene15178
+Q688Y2	Phytozome_Fv:gene00324
+Q689G6	Phytozome_Fv:gene12454 Phytozome_Fv:gene18611
+Q689G9	Phytozome_Fv:gene26055
+Q69IM7	Phytozome_Fv:gene21692
+Q69J27	Phytozome_Fv:gene12551 Phytozome_Fv:gene08070
+Q69JI7	Phytozome_Fv:gene04534
+Q69K00	Phytozome_Fv:gene07388
+Q69KM5	Phytozome_Fv:gene29850 Phytozome_Fv:gene03902 Phytozome_Fv:gene32285
+Q69L93	Phytozome_Fv:gene01937
+Q69LG7	Phytozome_Fv:gene12400
+Q69M33	Phytozome_Fv:gene19701
+Q69MC9	Phytozome_Fv:gene27425
+Q69MH0	Phytozome_Fv:gene10304
+Q69NY7	Phytozome_Fv:gene30624 Phytozome_Fv:gene24321
+Q69P51	Phytozome_Fv:gene08316
+Q69P84	Phytozome_Fv:gene12521
+Q69P94	Phytozome_Fv:gene12541 Phytozome_Fv:gene05383
+Q69QD7	Phytozome_Fv:gene31007
+Q69RG7	Phytozome_Fv:gene28898 Phytozome_Fv:gene09603
+Q69RJ0	Phytozome_Fv:gene21578
+Q69T99	Phytozome_Fv:gene24265
+Q69TF4	Phytozome_Fv:gene09913
+Q69TH6	Phytozome_Fv:gene25089 Phytozome_Fv:gene25080 Phytozome_Fv:gene25083 Phytozome_Fv:gene25082 Phytozome_Fv:gene25085
+Q69TV4	Phytozome_Fv:gene26047
+Q69TV6	Phytozome_Fv:gene26047
+Q69TV8	Phytozome_Fv:gene26047
+Q69TW5	Phytozome_Fv:gene09110 Phytozome_Fv:gene28250
+Q69U01	Phytozome_Fv:gene14436 Phytozome_Fv:gene29502
+Q69U03	Phytozome_Fv:gene14436 Phytozome_Fv:gene29502
+Q69U04	Phytozome_Fv:gene14436 Phytozome_Fv:gene29502
+Q69U93	Phytozome_Fv:gene22398
+Q69UF5	Phytozome_Fv:gene06599 Phytozome_Fv:gene06600 Phytozome_Fv:gene06601 Phytozome_Fv:gene06602
+Q69V57	Phytozome_Fv:gene30155 Phytozome_Fv:gene30154
+Q69XD3	Phytozome_Fv:gene06599 Phytozome_Fv:gene06600 Phytozome_Fv:gene06601 Phytozome_Fv:gene06602
+Q69XJ0	Phytozome_Fv:gene31039
+Q69XS7	Phytozome_Fv:gene25258 Phytozome_Fv:gene25260 Phytozome_Fv:gene25257 Phytozome_Fv:gene15165 Phytozome_Fv:gene15166
+Q6AT26	Phytozome_Fv:gene11665
+Q6AT32	Phytozome_Fv:gene08813 Phytozome_Fv:gene26845
+Q6AT33	Phytozome_Fv:gene05555 Phytozome_Fv:gene11861 Phytozome_Fv:gene26830 Phytozome_Fv:gene25817 Phytozome_Fv:gene08191
+Q6AT41	Phytozome_Fv:gene11875
+Q6ATR2	Phytozome_Fv:gene23509
+Q6AUB0	Phytozome_Fv:gene16810
+Q6AUJ8	Phytozome_Fv:gene07945 Phytozome_Fv:gene13476
+Q6AUV1	Phytozome_Fv:gene14653
+Q6AV34	Phytozome_Fv:gene31915
+Q6AVG6	Phytozome_Fv:gene19681
+Q6AVM5	Phytozome_Fv:gene00393
+Q6AVT2	Phytozome_Fv:gene05910
+Q6BDZ9	Phytozome_Fv:gene19699 Phytozome_Fv:gene19690
+Q6EN48	Phytozome_Fv:gene12854
+Q6EP31	Phytozome_Fv:gene07653
+Q6EP59	Phytozome_Fv:gene28033 Phytozome_Fv:gene11943 Phytozome_Fv:gene11947 Phytozome_Fv:gene11945 Phytozome_Fv:gene11944 Phytozome_Fv:gene24312 Phytozome_Fv:gene24313 Phytozome_Fv:gene34573 Phytozome_Fv:gene21496 Phytozome_Fv:gene28678 Phytozome_Fv:gene24307 Phytozome_Fv:gene24320 Phytozome_Fv:gene27357 Phytozome_Fv:gene24308 Phytozome_Fv:gene24318 Phytozome_Fv:gene24319 Phytozome_Fv:gene16276 Phytozome_Fv:gene00622 Phytozome_Fv:gene24317
+Q6EP77	Phytozome_Fv:gene13329 Phytozome_Fv:gene32378 Phytozome_Fv:gene30226
+Q6EPN6	Phytozome_Fv:gene31840
+Q6EPY7	Phytozome_Fv:gene30309
+Q6EQW2	Phytozome_Fv:gene27138
+Q6ERL4	Phytozome_Fv:gene05598
+Q6ERR3	Phytozome_Fv:gene15845
+Q6ES51	Phytozome_Fv:gene16036 Phytozome_Fv:gene09356
+Q6ESJ0	Phytozome_Fv:gene32458 Phytozome_Fv:gene32457
+Q6ESZ9	Phytozome_Fv:gene32644
+Q6ET36	Phytozome_Fv:gene20288 Phytozome_Fv:gene27799 Phytozome_Fv:gene27801 Phytozome_Fv:gene20295
+Q6ET88	Phytozome_Fv:gene23759
+Q6ETD3	Phytozome_Fv:gene32247
+Q6ETN3	Phytozome_Fv:gene15877 Phytozome_Fv:gene05255
+Q6ETX4	Phytozome_Fv:gene22760 Phytozome_Fv:gene20984
+Q6EUF1	Phytozome_Fv:gene27313
+Q6EUNO	Phytozome_Fv:gene26168
+Q6EUP4	Phytozome_Fv:gene10320
+Q6EUS6	Phytozome_Fv:gene15784
+Q6F4N6	Phytozome_Fv:gene03810 Phytozome_Fv:gene04494
+Q6H4H9	Phytozome_Fv:gene14436 Phytozome_Fv:gene29502
+Q6H543	Phytozome_Fv:gene09007 Phytozome_Fv:gene25723
+Q6H5C7	Phytozome_Fv:gene10529 Phytozome_Fv:gene17269
+Q6H5U3	Phytozome_Fv:gene30403
+Q6H5Z4	Phytozome_Fv:gene02675
+Q6H6C7	Phytozome_Fv:gene18539
+Q6H6D2	Phytozome_Fv:gene00804 Phytozome_Fv:gene00410
+Q6H6G1	Phytozome_Fv:gene15452
+Q6H6I1	Phytozome_Fv:gene08900
+Q6H6P8	Phytozome_Fv:gene30233
+Q6H703	Phytozome_Fv:gene18492
+Q6H7M1	Phytozome_Fv:gene19762
+Q6H7Q6	Phytozome_Fv:gene29184 Phytozome_Fv:gene32226 Phytozome_Fv:gene26949 Phytozome_Fv:gene26944 Phytozome_Fv:gene20644 Phytozome_Fv:gene20645 Phytozome_Fv:gene26947
+Q6H819	Phytozome_Fv:gene15010 Phytozome_Fv:gene04385
+Q6H849	Phytozome_Fv:gene08450
+Q6H851	Phytozome_Fv:gene08450
+Q6I581	Phytozome_Fv:gene18907
+Q6I5C3	Phytozome_Fv:gene19210 Phytozome_Fv:gene13100
+Q6IVC3	Phytozome_Fv:gene14220 Phytozome_Fv:gene21882
+Q6J1A5	Phytozome_Fv:gene13329 Phytozome_Fv:gene32378 Phytozome_Fv:gene30226
+Q6K1S6	Phytozome_Fv:gene08084 Phytozome_Fv:gene12564 Phytozome_Fv:gene08694 Phytozome_Fv:gene19065
+Q6K1X7	Phytozome_Fv:gene29713 Phytozome_Fv:gene10139
+Q6K2E8	Phytozome_Fv:gene09201
+Q6K3T2	Phytozome_Fv:gene30595
+Q6K3Z3	Phytozome_Fv:gene15533
+Q6K548	Phytozome_Fv:gene25950
+Q6K5G8	Phytozome_Fv:gene26417
+Q6K5U4	Phytozome_Fv:gene24982
+Q6K678	Phytozome_Fv:gene15918
+Q6K6Q0	Phytozome_Fv:gene23261 Phytozome_Fv:gene09753
+Q6K6Q1	Phytozome_Fv:gene23261 Phytozome_Fv:gene09753
+Q6K755	Phytozome_Fv:gene28033 Phytozome_Fv:gene11943 Phytozome_Fv:gene11947 Phytozome_Fv:gene11945 Phytozome_Fv:gene11944 Phytozome_Fv:gene24312 Phytozome_Fv:gene24313 Phytozome_Fv:gene34573 Phytozome_Fv:gene21496 Phytozome_Fv:gene28678 Phytozome_Fv:gene24307 Phytozome_Fv:gene24320 Phytozome_Fv:gene27357 Phytozome_Fv:gene24308 Phytozome_Fv:gene24318 Phytozome_Fv:gene24319 Phytozome_Fv:gene16276 Phytozome_Fv:gene00622 Phytozome_Fv:gene24317
+Q6K7V6	Phytozome_Fv:gene08819
+Q6K846	Phytozome_Fv:gene31097
+Q6K8E2	Phytozome_Fv:gene24947 Phytozome_Fv:gene01376
+Q6K8E7	Phytozome_Fv:gene11985 Phytozome_Fv:gene09142
+Q6K8J4	Phytozome_Fv:gene04974
+Q6K969	Phytozome_Fv:gene17335
+Q6K9M5	Phytozome_Fv:gene29850 Phytozome_Fv:gene03902 Phytozome_Fv:gene32285
+Q6K9N6	Phytozome_Fv:gene08289
+Q6K9X3	Phytozome_Fv:gene00960
+Q6KAJ2	Phytozome_Fv:gene15040
+Q6L479	Phytozome_Fv:gene31535 Phytozome_Fv:gene07060
+Q6L4G2	Phytozome_Fv:gene30601 Phytozome_Fv:gene06080 Phytozome_Fv:gene27343 Phytozome_Fv:gene03725
+Q6L4H5	Phytozome_Fv:gene12702 Phytozome_Fv:gene07514
+Q6L4L4	Phytozome_Fv:gene28560 Phytozome_Fv:gene23211
+Q6L4R0	Phytozome_Fv:gene14904
+Q6L4R7	Phytozome_Fv:gene15427 Phytozome_Fv:gene07500 Phytozome_Fv:gene12691
+Q6L540	Phytozome_Fv:gene02421 Phytozome_Fv:gene02422
+Q6L545	Phytozome_Fv:gene22353 Phytozome_Fv:gene20092
+Q6L5F6	Phytozome_Fv:gene16792
+Q6L5H6	Phytozome_Fv:gene15427 Phytozome_Fv:gene07500 Phytozome_Fv:gene12691
+Q6Q9I2	Phytozome_Fv:gene04228 Phytozome_Fv:gene26119 Phytozome_Fv:gene04563 Phytozome_Fv:gene04562
+Q6VMN7	Phytozome_Fv:gene24707 Phytozome_Fv:gene31308
+Q6YS33	Phytozome_Fv:gene01389
+Q6YSA1	Phytozome_Fv:gene00618 Phytozome_Fv:gene09325
+Q6YT73	Phytozome_Fv:gene30626 Phytozome_Fv:gene02361
+Q6YTI6	Phytozome_Fv:gene02238
+Q6YTT3	Phytozome_Fv:gene11963 Phytozome_Fv:gene16261
+Q6YU51	Phytozome_Fv:gene20709
+Q6YUI8	Phytozome_Fv:gene26047
+Q6YUS0	Phytozome_Fv:gene00923
+Q6YUS3	Phytozome_Fv:gene23716 Phytozome_Fv:gene23715
+Q6YUU2	Phytozome_Fv:gene21899
+Q6YV04	Phytozome_Fv:gene17127
+Q6YV23	Phytozome_Fv:gene11051 Phytozome_Fv:gene20658
+Q6YVI0	Phytozome_Fv:gene15173
+Q6YVY0	Phytozome_Fv:gene29255
+Q6YWE1	Phytozome_Fv:gene23509
+Q6YWS8	Phytozome_Fv:gene26168
+Q6YWY7	Phytozome_Fv:gene27540
+Q6YXI1	Phytozome_Fv:gene12096
+Q6YXW6	Phytozome_Fv:gene18142 Phytozome_Fv:gene00357
+Q6YYB9	Phytozome_Fv:gene03204
+Q6YYZ2	Phytozome_Fv:gene13673
+Q6YZ18	Phytozome_Fv:gene08353
+Q6YZ76	Phytozome_Fv:gene09694 Phytozome_Fv:gene09695 Phytozome_Fv:gene28799
+Q6YZH8	Phytozome_Fv:gene21485
+Q6YZX6	Phytozome_Fv:gene23775
+Q6Z0T7	Phytozome_Fv:gene18270
+Q6Z156	Phytozome_Fv:gene08317
+Q6Z1Z3	Phytozome_Fv:gene03871 Phytozome_Fv:gene26847 Phytozome_Fv:gene10330 Phytozome_Fv:gene07828
+Q6Z2L5	Phytozome_Fv:gene03246
+Q6Z2T6	Phytozome_Fv:gene26018
+Q6Z312	Phytozome_Fv:gene09110 Phytozome_Fv:gene28250
+Q6Z351	Phytozome_Fv:gene07687
+Q6Z398	Phytozome_Fv:gene08515
+Q6Z3A3	Phytozome_Fv:gene32478
+Q6Z3A4	Phytozome_Fv:gene30368
+Q6Z3F9	Phytozome_Fv:gene17083
+Q6Z3X5	Phytozome_Fv:gene26673
+Q6Z3Y3	Phytozome_Fv:gene25333
+Q6Z433	Phytozome_Fv:gene26537 Phytozome_Fv:gene26538 Phytozome_Fv:gene27406
+Q6Z4E7	Phytozome_Fv:gene08835 Phytozome_Fv:gene08881
+Q6Z4I1	Phytozome_Fv:gene21844
+Q6Z4U1	Phytozome_Fv:gene14436 Phytozome_Fv:gene29502
+Q6Z5B5	Phytozome_Fv:gene14436 Phytozome_Fv:gene29502
+Q6Z5M0	Phytozome_Fv:gene22779
+Q6Z5M3	Phytozome_Fv:gene10438 Phytozome_Fv:gene05784
+Q6Z684	Phytozome_Fv:gene28033 Phytozome_Fv:gene11943 Phytozome_Fv:gene11947 Phytozome_Fv:gene11945 Phytozome_Fv:gene11944 Phytozome_Fv:gene24312 Phytozome_Fv:gene24313 Phytozome_Fv:gene34573 Phytozome_Fv:gene21496 Phytozome_Fv:gene28678 Phytozome_Fv:gene24307 Phytozome_Fv:gene24320 Phytozome_Fv:gene27357 Phytozome_Fv:gene24308 Phytozome_Fv:gene24318 Phytozome_Fv:gene24319 Phytozome_Fv:gene16276 Phytozome_Fv:gene00622 Phytozome_Fv:gene24317
+Q6Z6F0	Phytozome_Fv:gene06599 Phytozome_Fv:gene06600 Phytozome_Fv:gene06601 Phytozome_Fv:gene06602
+Q6Z702	Phytozome_Fv:gene27892 Phytozome_Fv:gene27894
+Q6Z744	Phytozome_Fv:gene09343
+Q6Z795	Phytozome_Fv:gene31045 Phytozome_Fv:gene11633
+Q6Z7F5	Phytozome_Fv:gene29279
+Q6Z7Q3	Phytozome_Fv:gene26047
+Q6Z836	Phytozome_Fv:gene28414
+Q6Z8F4	Phytozome_Fv:gene13677
+Q6Z8S2	Phytozome_Fv:gene01674
+Q6Z8Z7	Phytozome_Fv:gene23976
+Q6Z9A3	Phytozome_Fv:gene20851
+Q6Z9E6	Phytozome_Fv:gene15010 Phytozome_Fv:gene04385
+Q6ZAC1	Phytozome_Fv:gene15877 Phytozome_Fv:gene05255
+Q6ZAH2	Phytozome_Fv:gene00822
+Q6ZBE1	Phytozome_Fv:gene28033 Phytozome_Fv:gene11943 Phytozome_Fv:gene11947 Phytozome_Fv:gene11945 Phytozome_Fv:gene11944 Phytozome_Fv:gene24312 Phytozome_Fv:gene24313 Phytozome_Fv:gene34573 Phytozome_Fv:gene21496 Phytozome_Fv:gene28678 Phytozome_Fv:gene24307 Phytozome_Fv:gene24320 Phytozome_Fv:gene27357 Phytozome_Fv:gene24308 Phytozome_Fv:gene24318 Phytozome_Fv:gene24319 Phytozome_Fv:gene16276 Phytozome_Fv:gene00622 Phytozome_Fv:gene24317
+Q6ZC33	Phytozome_Fv:gene02263
+Q6ZCF0	Phytozome_Fv:gene24209 Phytozome_Fv:gene24212
+Q6ZD10	Phytozome_Fv:gene12400
+Q6ZD89	Phytozome_Fv:gene01858 Phytozome_Fv:gene18606
+Q6ZDQ1	Phytozome_Fv:gene10520
+Q6ZDY8	Phytozome_Fv:gene14782
+Q6ZEZ2	Phytozome_Fv:gene16545
+Q6ZFT5	Phytozome_Fv:gene28710
+Q6ZG91	Phytozome_Fv:gene03590
+Q6ZGS9	Phytozome_Fv:gene10695
+Q6ZGW6	Phytozome_Fv:gene24414 Phytozome_Fv:gene22642
+Q6ZHA3	Phytozome_Fv:gene07653
+Q6ZHB2	Phytozome_Fv:gene10640
+Q6ZHH7	Phytozome_Fv:gene02263
+Q6ZHS4	Phytozome_Fv:gene26302 Phytozome_Fv:gene26301
+Q6ZHU3	Phytozome_Fv:gene23522
+Q6ZHZ1	Phytozome_Fv:gene31122 Phytozome_Fv:gene11606
+Q6ZI39	Phytozome_Fv:gene12179
+Q6ZI55	Phytozome_Fv:gene13065
+Q6ZIA3	Phytozome_Fv:gene25903
+Q6ZIK0	Phytozome_Fv:gene30138
+Q6ZIX2	Phytozome_Fv:gene29356
+Q6ZJ97	Phytozome_Fv:gene19994
+Q6ZJK7	Phytozome_Fv:gene08353
+Q6ZJM9	Phytozome_Fv:gene10964
+Q6ZJU3	Phytozome_Fv:gene16036 Phytozome_Fv:gene09356
+Q6ZK11	Phytozome_Fv:gene13505
+Q6ZKC0	Phytozome_Fv:gene10320
+Q6ZKV8	Phytozome_Fv:gene25633
+Q6ZL51	Phytozome_Fv:gene14436 Phytozome_Fv:gene29502
+Q6ZLD3	Phytozome_Fv:gene20272 Phytozome_Fv:gene29039
+Q6ZLJ9	Phytozome_Fv:gene25218 Phytozome_Fv:gene01468
+Q75GB1	Phytozome_Fv:gene05555 Phytozome_Fv:gene11861 Phytozome_Fv:gene26830 Phytozome_Fv:gene25817 Phytozome_Fv:gene08191
+Q75H77	Phytozome_Fv:gene31902 Phytozome_Fv:gene24096
+Q75HP7	Phytozome_Fv:gene29492 Phytozome_Fv:gene11045
+Q75HQ7	Phytozome_Fv:gene23261 Phytozome_Fv:gene09753
+Q75HZ9	Phytozome_Fv:gene27140
+Q75I93	Phytozome_Fv:gene08509
+Q75II5	Phytozome_Fv:gene27292
+Q75KD7	Phytozome_Fv:gene10328 Phytozome_Fv:gene03869
+Q75KT7	Phytozome_Fv:gene21441 Phytozome_Fv:gene27576
+Q75LL5	Phytozome_Fv:gene07715 Phytozome_Fv:gene31329
+Q75LR2	Phytozome_Fv:gene11963 Phytozome_Fv:gene16261
+Q75M18	Phytozome_Fv:gene29111
+Q75V57	Phytozome_Fv:gene31902 Phytozome_Fv:gene24096
+Q75W16	Phytozome_Fv:gene11963 Phytozome_Fv:gene16261
+Q7EXZ2	Phytozome_Fv:gene22660
+Q7EYE4	Phytozome_Fv:gene24222
+Q7EZW6	Phytozome_Fv:gene17115
+Q7EZZ0	Phytozome_Fv:gene21945
+Q7F0B2	Phytozome_Fv:gene34103
+Q7F0Q2	Phytozome_Fv:gene01677
+Q7F190	Phytozome_Fv:gene03093
+Q7F1X5	Phytozome_Fv:gene06385
+Q7F8K7	Phytozome_Fv:gene00897
+Q7F8U7	Phytozome_Fv:gene20439
+Q7FAE1	Phytozome_Fv:gene14429 Phytozome_Fv:gene15341
+Q7FAH2	Phytozome_Fv:gene26417
+Q7FAL6	Phytozome_Fv:gene22172 Phytozome_Fv:gene01502 Phytozome_Fv:gene19848
+Q7FAS1	Phytozome_Fv:gene30626 Phytozome_Fv:gene02361
+Q7G065	Phytozome_Fv:gene25195 Phytozome_Fv:gene15178
+Q7G1V6	Phytozome_Fv:gene11190 Phytozome_Fv:gene11191 Phytozome_Fv:gene11192 Phytozome_Fv:gene11193 Phytozome_Fv:gene04428 Phytozome_Fv:gene23275 Phytozome_Fv:gene27283 Phytozome_Fv:gene19465 Phytozome_Fv:gene25428 Phytozome_Fv:gene25422 Phytozome_Fv:gene25425 Phytozome_Fv:gene30335 Phytozome_Fv:gene30336 Phytozome_Fv:gene30333 Phytozome_Fv:gene24652 Phytozome_Fv:gene28986 Phytozome_Fv:gene29928 Phytozome_Fv:gene00322 Phytozome_Fv:gene00327 Phytozome_Fv:gene01825 Phytozome_Fv:gene01826 Phytozome_Fv:gene30326 Phytozome_Fv:gene01972 Phytozome_Fv:gene32465 Phytozome_Fv:gene32464 Phytozome_Fv:gene32463 Phytozome_Fv:gene27352 Phytozome_Fv:gene30329 Phytozome_Fv:gene10672 Phytozome_Fv:gene31378 Phytozome_Fv:gene31379 Phytozome_Fv:gene10674 Phytozome_Fv:gene31372 Phytozome_Fv:gene31373 Phytozome_Fv:gene31370 Phytozome_Fv:gene31376 Phytozome_Fv:gene31377 Phytozome_Fv:gene31374 Phytozome_Fv:gene15655 Phytozome_Fv:gene15653 Phytozome_Fv:gene12104 Phytozome_Fv:gene32472 Phytozome_Fv:gene25290 Phytozome_Fv:gene25680 Phytozome_Fv:gene23825 Phytozome_Fv:gene27353 Phytozome_Fv:gene30861 Phytozome_Fv:gene29162 Phytozome_Fv:gene29163 Phytozome_Fv:gene08681 Phytozome_Fv:gene22309 Phytozome_Fv:gene07485 Phytozome_Fv:gene21285 Phytozome_Fv:gene10089 Phytozome_Fv:gene32369 Phytozome_Fv:gene25045 Phytozome_Fv:gene25044 Phytozome_Fv:gene32462 Phytozome_Fv:gene28510 Phytozome_Fv:gene10764 Phytozome_Fv:gene26657 Phytozome_Fv:gene10763 Phytozome_Fv:gene31595 Phytozome_Fv:gene00317 Phytozome_Fv:gene11319 Phytozome_Fv:gene02574 Phytozome_Fv:gene05917 Phytozome_Fv:gene10090 Phytozome_Fv:gene22911 Phytozome_Fv:gene13866 Phytozome_Fv:gene25291 Phytozome_Fv:gene25293 Phytozome_Fv:gene18574 Phytozome_Fv:gene06402 Phytozome_Fv:gene06403 Phytozome_Fv:gene06400 Phytozome_Fv:gene32368 Phytozome_Fv:gene01979 Phytozome_Fv:gene21759 Phytozome_Fv:gene01973 Phytozome_Fv:gene05914 Phytozome_Fv:gene27311 Phytozome_Fv:gene01970 Phytozome_Fv:gene01977 Phytozome_Fv:gene01976 Phytozome_Fv:gene01974 Phytozome_Fv:gene19295 Phytozome_Fv:gene25488 Phytozome_Fv:gene31136 Phytozome_Fv:gene31137 Phytozome_Fv:gene30299 Phytozome_Fv:gene15565 Phytozome_Fv:gene15564 Phytozome_Fv:gene15567 Phytozome_Fv:gene15560 Phytozome_Fv:gene00406 Phytozome_Fv:gene15562 Phytozome_Fv:gene26860 Phytozome_Fv:gene01968 Phytozome_Fv:gene21274 Phytozome_Fv:gene21272 Phytozome_Fv:gene06927 Phytozome_Fv:gene31140 Phytozome_Fv:gene31142 Phytozome_Fv:gene15574 Phytozome_Fv:gene15575 Phytozome_Fv:gene15572 Phytozome_Fv:gene15573 Phytozome_Fv:gene15570 Phytozome_Fv:gene15571 Phytozome_Fv:gene22667 Phytozome_Fv:gene25310 Phytozome_Fv:gene28553 Phytozome_Fv:gene25307
+Q7G2F7	Phytozome_Fv:gene30409
+Q7G2H3	Phytozome_Fv:gene31915
+Q7G4P2	Phytozome_Fv:gene11985 Phytozome_Fv:gene09142
+Q7G602	Phytozome_Fv:gene25801
+Q7G6M2	Phytozome_Fv:gene02421 Phytozome_Fv:gene02422
+Q7G7J6	Phytozome_Fv:gene30958
+Q7X634	Phytozome_Fv:gene16656
+Q7X720	Phytozome_Fv:gene23261 Phytozome_Fv:gene09753
+Q7X742	Phytozome_Fv:gene25979
+Q7X7A1	Phytozome_Fv:gene03834 Phytozome_Fv:gene03835 Phytozome_Fv:gene04257 Phytozome_Fv:gene04259 Phytozome_Fv:gene04258 Phytozome_Fv:gene04261 Phytozome_Fv:gene29347 Phytozome_Fv:gene04264 Phytozome_Fv:gene04266 Phytozome_Fv:gene29348 Phytozome_Fv:gene04262
+Q7X7H9	Phytozome_Fv:gene31604
+Q7X7N2	Phytozome_Fv:gene03912
+Q7X7X0	Phytozome_Fv:gene21701
+Q7X8D4	Phytozome_Fv:gene16166
+Q7X8R0	Phytozome_Fv:gene14427 Phytozome_Fv:gene09222
+Q7X8V3	Phytozome_Fv:gene23261 Phytozome_Fv:gene09753
+Q7X993	Phytozome_Fv:gene14220 Phytozome_Fv:gene21882
+Q7XAP2	Phytozome_Fv:gene12854
+Q7XBY6	Phytozome_Fv:gene10508
+Q7XC20	Phytozome_Fv:gene10640
+Q7XCK3	Phytozome_Fv:gene13067 Phytozome_Fv:gene12523
+Q7XE48	Phytozome_Fv:gene04452
+Q7XEH2	Phytozome_Fv:gene29971
+Q7XEZ6	Phytozome_Fv:gene12975
+Q7XH05	Phytozome_Fv:gene07687
+Q7XHL3	Phytozome_Fv:gene08353
+Q7XHZ2	Phytozome_Fv:gene23284
+Q7XI34	Phytozome_Fv:gene34103
+Q7XI35	Phytozome_Fv:gene34103
+Q7XI45	Phytozome_Fv:gene30023
+Q7XI92	Phytozome_Fv:gene29522
+Q7XI96	Phytozome_Fv:gene15105 Phytozome_Fv:gene29525
+Q7XK23	Phytozome_Fv:gene13065
+Q7XKH9	Phytozome_Fv:gene28033 Phytozome_Fv:gene11943 Phytozome_Fv:gene11947 Phytozome_Fv:gene11945 Phytozome_Fv:gene11944 Phytozome_Fv:gene24312 Phytozome_Fv:gene24313 Phytozome_Fv:gene34573 Phytozome_Fv:gene21496 Phytozome_Fv:gene28678 Phytozome_Fv:gene24307 Phytozome_Fv:gene24320 Phytozome_Fv:gene27357 Phytozome_Fv:gene24308 Phytozome_Fv:gene24318 Phytozome_Fv:gene24319 Phytozome_Fv:gene16276 Phytozome_Fv:gene00622 Phytozome_Fv:gene24317
+Q7XKI0	Phytozome_Fv:gene28033 Phytozome_Fv:gene11943 Phytozome_Fv:gene11947 Phytozome_Fv:gene11945 Phytozome_Fv:gene11944 Phytozome_Fv:gene24312 Phytozome_Fv:gene24313 Phytozome_Fv:gene34573 Phytozome_Fv:gene21496 Phytozome_Fv:gene28678 Phytozome_Fv:gene24307 Phytozome_Fv:gene24320 Phytozome_Fv:gene27357 Phytozome_Fv:gene24308 Phytozome_Fv:gene24318 Phytozome_Fv:gene24319 Phytozome_Fv:gene16276 Phytozome_Fv:gene00622 Phytozome_Fv:gene24317
+Q7XKQ8	Phytozome_Fv:gene09201
+Q7XM21	Phytozome_Fv:gene14611
+Q7XMA8	Phytozome_Fv:gene28033 Phytozome_Fv:gene11943 Phytozome_Fv:gene11947 Phytozome_Fv:gene11945 Phytozome_Fv:gene11944 Phytozome_Fv:gene24312 Phytozome_Fv:gene24313 Phytozome_Fv:gene34573 Phytozome_Fv:gene21496 Phytozome_Fv:gene28678 Phytozome_Fv:gene24307 Phytozome_Fv:gene24320 Phytozome_Fv:gene27357 Phytozome_Fv:gene24308 Phytozome_Fv:gene24318 Phytozome_Fv:gene24319 Phytozome_Fv:gene16276 Phytozome_Fv:gene00622 Phytozome_Fv:gene24317
+Q7XN11	Phytozome_Fv:gene24209 Phytozome_Fv:gene24212
+Q7XNL8	Phytozome_Fv:gene28497
+Q7XPB5	Phytozome_Fv:gene19393
+Q7XPW5	Phytozome_Fv:gene19090
+Q7XQ85	Phytozome_Fv:gene31839
+Q7XQN1	Phytozome_Fv:gene01457
+Q7XR02	Phytozome_Fv:gene17448
+Q7XR52	Phytozome_Fv:gene09148
+Q7XR60	Phytozome_Fv:gene26251
+Q7XR61	Phytozome_Fv:gene26251
+Q7XRA1	Phytozome_Fv:gene00390 Phytozome_Fv:gene01668
+Q7XRT0	Phytozome_Fv:gene20910 Phytozome_Fv:gene29967
+Q7XSS9	Phytozome_Fv:gene23072
+Q7XTE8	Phytozome_Fv:gene10320
+Q7XTH0	Phytozome_Fv:gene28033 Phytozome_Fv:gene11943 Phytozome_Fv:gene11947 Phytozome_Fv:gene11945 Phytozome_Fv:gene11944 Phytozome_Fv:gene24312 Phytozome_Fv:gene24313 Phytozome_Fv:gene34573 Phytozome_Fv:gene21496 Phytozome_Fv:gene28678 Phytozome_Fv:gene24307 Phytozome_Fv:gene24320 Phytozome_Fv:gene27357 Phytozome_Fv:gene24308 Phytozome_Fv:gene24318 Phytozome_Fv:gene24319 Phytozome_Fv:gene16276 Phytozome_Fv:gene00622 Phytozome_Fv:gene24317
+Q7XTK3	Phytozome_Fv:gene22572
+Q7XTX7	Phytozome_Fv:gene13150 Phytozome_Fv:gene13151
+Q7XU28	Phytozome_Fv:gene15452
+Q7XU29	Phytozome_Fv:gene04863
+Q7XUA8	Phytozome_Fv:gene15613 Phytozome_Fv:gene15612 Phytozome_Fv:gene15615
+Q7XUH5	Phytozome_Fv:gene01677
+Q7XUK6	Phytozome_Fv:gene01673 Phytozome_Fv:gene10161
+Q7XV13	Phytozome_Fv:gene05306
+Q7XV42	Phytozome_Fv:gene28033 Phytozome_Fv:gene11943 Phytozome_Fv:gene11947 Phytozome_Fv:gene11945 Phytozome_Fv:gene11944 Phytozome_Fv:gene24312 Phytozome_Fv:gene24313 Phytozome_Fv:gene34573 Phytozome_Fv:gene21496 Phytozome_Fv:gene28678 Phytozome_Fv:gene24307 Phytozome_Fv:gene24320 Phytozome_Fv:gene27357 Phytozome_Fv:gene24308 Phytozome_Fv:gene24318 Phytozome_Fv:gene24319 Phytozome_Fv:gene16276 Phytozome_Fv:gene00622 Phytozome_Fv:gene24317
+Q7XVM2	Phytozome_Fv:gene23955 Phytozome_Fv:gene03335
+Q7XVM8	Phytozome_Fv:gene24947 Phytozome_Fv:gene01376
+Q7XVP0	Phytozome_Fv:gene16545
+Q7XWP9	Phytozome_Fv:gene03904
+Q7XX31	Phytozome_Fv:gene00370
+Q7XX32	Phytozome_Fv:gene00370
+Q7XXQ9	Phytozome_Fv:gene03228
+Q7XYS3	Phytozome_Fv:gene31967
+Q7XZH5	Phytozome_Fv:gene14429 Phytozome_Fv:gene15341
+Q7Y0B9	Phytozome_Fv:gene31902 Phytozome_Fv:gene24096
+Q7Y0C8	Phytozome_Fv:gene31967
+Q7Y0Y6	Phytozome_Fv:gene17127
+Q7Y0Y8	Phytozome_Fv:gene17127
+Q7Y152	Phytozome_Fv:gene05070
+Q84JH5	Phytozome_Fv:gene20851
+Q84JI0	Phytozome_Fv:gene26316 Phytozome_Fv:gene01934
+Q84LK3	Phytozome_Fv:gene09492
+Q84M43	Phytozome_Fv:gene26807
+Q84ME6	Phytozome_Fv:gene30544
+Q84MN8	Phytozome_Fv:gene29029
+Q84NP3	Phytozome_Fv:gene20986 Phytozome_Fv:gene07920 Phytozome_Fv:gene13454
+Q84Q89	Phytozome_Fv:gene01674
+Q84QA7	Phytozome_Fv:gene20913
+Q84QC0	Phytozome_Fv:gene26168
+Q84R94	Phytozome_Fv:gene12541 Phytozome_Fv:gene05383
+Q84VC7	Phytozome_Fv:gene30547
+Q84YK8	Phytozome_Fv:gene29184 Phytozome_Fv:gene32226 Phytozome_Fv:gene26949 Phytozome_Fv:gene26944 Phytozome_Fv:gene20644 Phytozome_Fv:gene20645 Phytozome_Fv:gene26947
+Q84ZN6	Phytozome_Fv:gene26807
+Q84ZY2	Phytozome_Fv:gene03904
+Q851L5	Phytozome_Fv:gene15613 Phytozome_Fv:gene15612 Phytozome_Fv:gene15615
+Q851L6	Phytozome_Fv:gene15613 Phytozome_Fv:gene15612 Phytozome_Fv:gene15615
+Q851Z6	Phytozome_Fv:gene01389
+Q852C2	Phytozome_Fv:gene34103
+Q852M1	Phytozome_Fv:gene07687
+Q852M2	Phytozome_Fv:gene07687
+Q852Q1	Phytozome_Fv:gene04397
+Q8GRU7	Phytozome_Fv:gene26910 Phytozome_Fv:gene26907
+Q8GSI0	Phytozome_Fv:gene16036 Phytozome_Fv:gene09356
+Q8GT01	Phytozome_Fv:gene21897
+Q8GTK1	Phytozome_Fv:gene09694 Phytozome_Fv:gene09695 Phytozome_Fv:gene28799
+Q8GVJ4	Phytozome_Fv:gene24414 Phytozome_Fv:gene22642
+Q8GVN6	Phytozome_Fv:gene17085
+Q8GVZ0	Phytozome_Fv:gene16810
+Q8GZY1	Phytozome_Fv:gene14889 Phytozome_Fv:gene01556
+Q8H016	Phytozome_Fv:gene05306
+Q8H038	Phytozome_Fv:gene08349 Phytozome_Fv:gene02225
+Q8H048	Phytozome_Fv:gene18966
+Q8H093	Phytozome_Fv:gene18966
+Q8H0A1	Phytozome_Fv:gene19631
+Q8H0B2	Phytozome_Fv:gene20126
+Q8H0B6	Phytozome_Fv:gene20126
+Q8H273	Phytozome_Fv:gene13329 Phytozome_Fv:gene32378 Phytozome_Fv:gene30226
+Q8H2J9	Phytozome_Fv:gene21361
+Q8H395	Phytozome_Fv:gene12541 Phytozome_Fv:gene05383
+Q8H3A4	Phytozome_Fv:gene13067 Phytozome_Fv:gene12523
+Q8H3C8	Phytozome_Fv:gene15613 Phytozome_Fv:gene15612 Phytozome_Fv:gene15615
+Q8H3C9	Phytozome_Fv:gene15613 Phytozome_Fv:gene15612 Phytozome_Fv:gene15615
+Q8H3L0	Phytozome_Fv:gene10304
+Q8H4L3	Phytozome_Fv:gene26826 Phytozome_Fv:gene26825
+Q8H530	Phytozome_Fv:gene27413
+Q8H539	Phytozome_Fv:gene19685 Phytozome_Fv:gene19686 Phytozome_Fv:gene19687
+Q8H7S6	Phytozome_Fv:gene14043
+Q8H825	Phytozome_Fv:gene03745
+Q8H8U0	Phytozome_Fv:gene23339
+Q8H930	Phytozome_Fv:gene20126
+Q8LGZ9	Phytozome_Fv:gene03182
+Q8LHD1	Phytozome_Fv:gene09229
+Q8LI89	Phytozome_Fv:gene25104
+Q8LJJ2	Phytozome_Fv:gene12702 Phytozome_Fv:gene07514
+Q8LM92	Phytozome_Fv:gene25801
+Q8LMW8	Phytozome_Fv:gene01774 Phytozome_Fv:gene01729
+Q8LN68	Phytozome_Fv:gene26211 Phytozome_Fv:gene03882
+Q8LNU2	Phytozome_Fv:gene03621
+Q8LQ34	Phytozome_Fv:gene18791
+Q8RU95	Phytozome_Fv:gene06385
+Q8RV06	Phytozome_Fv:gene32644
+Q8RV34	Phytozome_Fv:gene12961
+Q8RYL0	Phytozome_Fv:gene01378
+Q8RZV7	Phytozome_Fv:gene13302
+Q8S0G4	Phytozome_Fv:gene14447 Phytozome_Fv:gene14411
+Q8S2E5	Phytozome_Fv:gene03591
+Q8S2G0	Phytozome_Fv:gene15368
+Q8S2G5	Phytozome_Fv:gene14447 Phytozome_Fv:gene14411
+Q8S3R0	Phytozome_Fv:gene14758 Phytozome_Fv:gene14761
+Q8S5M6	Phytozome_Fv:gene22949 Phytozome_Fv:gene11789 Phytozome_Fv:gene11400
+Q8S5N2	Phytozome_Fv:gene16378
+Q8S5T1	Phytozome_Fv:gene29906
+Q8S601	Phytozome_Fv:gene19756
+Q8S7T9	Phytozome_Fv:gene22060 Phytozome_Fv:gene32419
+Q8S919	Phytozome_Fv:gene32027 Phytozome_Fv:gene13574 Phytozome_Fv:gene28066 Phytozome_Fv:gene13119
+Q8S920	Phytozome_Fv:gene32027 Phytozome_Fv:gene13574 Phytozome_Fv:gene28066 Phytozome_Fv:gene13119
+Q8S983	Phytozome_Fv:gene08492
+Q8S985	Phytozome_Fv:gene29771
+Q8S9S4	Phytozome_Fv:gene11364 Phytozome_Fv:gene23127
+Q8S9Z2	Phytozome_Fv:gene14468
+Q8VWH2	Phytozome_Fv:gene21535
+Q8W0B6	Phytozome_Fv:gene09982 Phytozome_Fv:gene27568
+Q8W0E4	Phytozome_Fv:gene23522
+Q8W1L6	Phytozome_Fv:gene30926
+Q8W250	Phytozome_Fv:gene32183 Phytozome_Fv:gene32184 Phytozome_Fv:gene12981
+Q8W3F9	Phytozome_Fv:gene12575
+Q8W3G2	Phytozome_Fv:gene13734
+Q8W3J0	Phytozome_Fv:gene26639
+Q8W3L9	Phytozome_Fv:gene00392 Phytozome_Fv:gene25474 Phytozome_Fv:gene00379
+Q8W3M0	Phytozome_Fv:gene00392 Phytozome_Fv:gene25474 Phytozome_Fv:gene00379
+Q93VC3	Phytozome_Fv:gene11130 Phytozome_Fv:gene11126
+Q93VD5	Phytozome_Fv:gene08839
+Q93WI9	Phytozome_Fv:gene21535
+Q93X08	Phytozome_Fv:gene31637
+Q93XI4	Phytozome_Fv:gene21763
+Q945X3	Phytozome_Fv:gene29279
+Q948T6	Phytozome_Fv:gene19634
+Q94E75	Phytozome_Fv:gene18142 Phytozome_Fv:gene00357
+Q94EE9	Phytozome_Fv:gene02421 Phytozome_Fv:gene02422
+Q94HG3	Phytozome_Fv:gene09093
+Q94IW5	Phytozome_Fv:gene14904
+Q94J90	Phytozome_Fv:gene15359
+Q94JJ0	Phytozome_Fv:gene01653
+Q94LU9	Phytozome_Fv:gene32500
+Q9ASD3	Phytozome_Fv:gene02683
+Q9ASP4	Phytozome_Fv:gene05005
+Q9AUV6	Phytozome_Fv:gene25776 Phytozome_Fv:gene03123
+Q9AV47	Phytozome_Fv:gene23280 Phytozome_Fv:gene09733 Phytozome_Fv:gene16844
+Q9AV71	Phytozome_Fv:gene08316
+Q9AWL7	Phytozome_Fv:gene27581
+Q9AWZ7	Phytozome_Fv:gene19017 Phytozome_Fv:gene19016
+Q9AWZ8	Phytozome_Fv:gene19017 Phytozome_Fv:gene19016
+Q9AY73	Phytozome_Fv:gene20183 Phytozome_Fv:gene20188
+Q9FDX8	Phytozome_Fv:gene14981 Phytozome_Fv:gene04172
+Q9FDY4	Phytozome_Fv:gene12668
+Q9FRX7	Phytozome_Fv:gene00664 Phytozome_Fv:gene32166 Phytozome_Fv:gene00662
+Q9FTN5	Phytozome_Fv:gene25258 Phytozome_Fv:gene25260 Phytozome_Fv:gene25257 Phytozome_Fv:gene15165 Phytozome_Fv:gene15166
+Q9FTN6	Phytozome_Fv:gene25258 Phytozome_Fv:gene25260 Phytozome_Fv:gene25257 Phytozome_Fv:gene15165 Phytozome_Fv:gene15166
+Q9FTR6	Phytozome_Fv:gene10529 Phytozome_Fv:gene17269
+Q9FTZ2	Phytozome_Fv:gene00204
+Q9FU67	Phytozome_Fv:gene09825 Phytozome_Fv:gene09821 Phytozome_Fv:gene26355 Phytozome_Fv:gene26347 Phytozome_Fv:gene00096 Phytozome_Fv:gene00095 Phytozome_Fv:gene00094 Phytozome_Fv:gene00125 Phytozome_Fv:gene18452
+Q9FU68	Phytozome_Fv:gene09825 Phytozome_Fv:gene09821 Phytozome_Fv:gene26355 Phytozome_Fv:gene26347 Phytozome_Fv:gene00096 Phytozome_Fv:gene00095 Phytozome_Fv:gene00094 Phytozome_Fv:gene00125 Phytozome_Fv:gene18452
+Q9FU69	Phytozome_Fv:gene09825 Phytozome_Fv:gene09821 Phytozome_Fv:gene26355 Phytozome_Fv:gene26347 Phytozome_Fv:gene00096 Phytozome_Fv:gene00095 Phytozome_Fv:gene00094 Phytozome_Fv:gene00125 Phytozome_Fv:gene18452
+Q9FUE1	Phytozome_Fv:gene29279
+Q9FWC1	Phytozome_Fv:gene25101
+Q9FWK4	Phytozome_Fv:gene11533
+Q9FWQ2	Phytozome_Fv:gene32245 Phytozome_Fv:gene29565 Phytozome_Fv:gene21227
+Q9FXQ3	Phytozome_Fv:gene17341
+Q9LD61	Phytozome_Fv:gene05256 Phytozome_Fv:gene19162
+Q9LDB7	Phytozome_Fv:gene11602
+Q9LG86	Phytozome_Fv:gene09007 Phytozome_Fv:gene25723
+Q9LGL5	Phytozome_Fv:gene07945 Phytozome_Fv:gene13476
+Q9LGU6	Phytozome_Fv:gene22974 Phytozome_Fv:gene24556 Phytozome_Fv:gene22927
+Q9LHZ0	Phytozome_Fv:gene07372
+Q9LHZ7	Phytozome_Fv:gene12575
+Q9LIZ8	Phytozome_Fv:gene22949 Phytozome_Fv:gene11789 Phytozome_Fv:gene11400
+Q9LRI6	Phytozome_Fv:gene00664 Phytozome_Fv:gene32166 Phytozome_Fv:gene00662
+Q9LWU9	Phytozome_Fv:gene32389
+Q9LWV3	Phytozome_Fv:gene08838
+Q9SDG5	Phytozome_Fv:gene09754
+Q9SMB1	Phytozome_Fv:gene32164
+Q9SNK3	Phytozome_Fv:gene31500
+Q9SNN0	Phytozome_Fv:gene00390 Phytozome_Fv:gene01668
+Q9SNQ6	Phytozome_Fv:gene02656 Phytozome_Fv:gene22895
+Q9XEA6	Phytozome_Fv:gene16483 Phytozome_Fv:gene09775
+Q9XEA8	Phytozome_Fv:gene16483 Phytozome_Fv:gene09775
+Q9XFE5	Phytozome_Fv:gene24222
+Q9XG80	Phytozome_Fv:gene11389
+Q9XHL5	Phytozome_Fv:gene17371 Phytozome_Fv:gene17114 Phytozome_Fv:gene29194 Phytozome_Fv:gene17369 Phytozome_Fv:gene17368 Phytozome_Fv:gene13004
+Q9XJ03	Phytozome_Fv:gene12551 Phytozome_Fv:gene08070
+Q9XJ60	Phytozome_Fv:gene13354 Phytozome_Fv:gene19425
+Q9ZTP5	Phytozome_Fv:gene26048
+UPI00000AA151	Phytozome_Fv:gene11602
+UPI0001C7A9C3	Phytozome_Fv:gene30145

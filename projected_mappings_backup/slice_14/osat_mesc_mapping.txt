@@ -1,0 +1,720 @@
+A2X747	Phytozome_Me:cassava4.1_008063m Phytozome_Me:cassava4.1_008045m
+A2Y626	Phytozome_Me:cassava4.1_005910m
+A2Y8A8	Phytozome_Me:cassava4.1_004070m Phytozome_Me:cassava4.1_004463m
+A2ZRY8	Phytozome_Me:cassava4.1_033998m Phytozome_Me:cassava4.1_031187m
+A2ZW27	Phytozome_Me:cassava4.1_004227m Phytozome_Me:cassava4.1_004114m
+A2ZWY7	Phytozome_Me:cassava4.1_005510m
+A3AAR2	Phytozome_Me:cassava4.1_030574m
+A3AQC6	Phytozome_Me:cassava4.1_010118m Phytozome_Me:cassava4.1_011198m Phytozome_Me:cassava4.1_012874m
+A3AZW5	Phytozome_Me:cassava4.1_008177m Phytozome_Me:cassava4.1_009570m Phytozome_Me:cassava4.1_008254m
+A3B7R7	Phytozome_Me:cassava4.1_005978m Phytozome_Me:cassava4.1_006549m
+A9CM06	Phytozome_Me:cassava4.1_008219m
+B7E8M5	Phytozome_Me:cassava4.1_007935m
+B7EA04	Phytozome_Me:cassava4.1_006282m
+B7EJ81	Phytozome_Me:cassava4.1_004528m Phytozome_Me:cassava4.1_005340m
+B7ERE7	Phytozome_Me:cassava4.1_005672m Phytozome_Me:cassava4.1_004194m
+B7F4K3	Phytozome_Me:cassava4.1_015381m
+B7F8T0	Phytozome_Me:cassava4.1_007963m Phytozome_Me:cassava4.1_007376m
+B7F956	Phytozome_Me:cassava4.1_005940m
+B7F9K3	Phytozome_Me:cassava4.1_015381m
+B7FA34	Phytozome_Me:cassava4.1_006377m Phytozome_Me:cassava4.1_007104m Phytozome_Me:cassava4.1_005801m
+B7FA90	Phytozome_Me:cassava4.1_028765m
+B7FAE9	Phytozome_Me:cassava4.1_015090m Phytozome_Me:cassava4.1_015084m
+B7FAP2	Phytozome_Me:cassava4.1_007134m
+B8ACC6	Phytozome_Me:cassava4.1_030944m
+B8AHI9	Phytozome_Me:cassava4.1_017181m Phytozome_Me:cassava4.1_017437m Phytozome_Me:cassava4.1_017420m
+B8AZ97	Phytozome_Me:cassava4.1_021931m Phytozome_Me:cassava4.1_007934m
+B8B8K7	Phytozome_Me:cassava4.1_006577m Phytozome_Me:cassava4.1_005265m
+B8BB38	Phytozome_Me:cassava4.1_013560m Phytozome_Me:cassava4.1_011283m Phytozome_Me:cassava4.1_026592m
+B8BF84	Phytozome_Me:cassava4.1_001596m Phytozome_Me:cassava4.1_001584m Phytozome_Me:cassava4.1_001583m Phytozome_Me:cassava4.1_001575m
+B9EXM2	Phytozome_Me:cassava4.1_000597m
+B9EZJ8	Phytozome_Me:cassava4.1_021776m Phytozome_Me:cassava4.1_030007m Phytozome_Me:cassava4.1_008218m
+B9F2Q1	Phytozome_Me:cassava4.1_030576m Phytozome_Me:cassava4.1_004683m
+B9FML1	Phytozome_Me:cassava4.1_005856m
+B9FRT6	Phytozome_Me:cassava4.1_007019m Phytozome_Me:cassava4.1_029606m Phytozome_Me:cassava4.1_008957m
+B9FYX6	Phytozome_Me:cassava4.1_002937m
+B9G3A7	Phytozome_Me:cassava4.1_001541m Phytozome_Me:cassava4.1_001517m Phytozome_Me:cassava4.1_001537m Phytozome_Me:cassava4.1_029065m
+C7J5F5	Phytozome_Me:cassava4.1_023722m Phytozome_Me:cassava4.1_033578m
+C7J5T9	Phytozome_Me:cassava4.1_023722m Phytozome_Me:cassava4.1_033578m
+H6TFZ4	Phytozome_Me:cassava4.1_001283m
+I1QJ08	Phytozome_Me:cassava4.1_008237m Phytozome_Me:cassava4.1_005244m
+I1QQP8	Phytozome_Me:cassava4.1_001324m Phytozome_Me:cassava4.1_001294m
+I3QK18	Phytozome_Me:cassava4.1_001054m
+O04226	Phytozome_Me:cassava4.1_002374m Phytozome_Me:cassava4.1_002371m Phytozome_Me:cassava4.1_002381m
+O04882	Phytozome_Me:cassava4.1_011120m Phytozome_Me:cassava4.1_031819m
+O22105	Phytozome_Me:cassava4.1_008632m Phytozome_Me:cassava4.1_008622m
+O22567	Phytozome_Me:cassava4.1_002536m
+O24210	Phytozome_Me:cassava4.1_012000m
+O64422	Phytozome_Me:cassava4.1_030397m Phytozome_Me:cassava4.1_008668m
+O64437	Phytozome_Me:cassava4.1_005857m Phytozome_Me:cassava4.1_005838m
+O82427	Phytozome_Me:cassava4.1_010340m Phytozome_Me:cassava4.1_010412m Phytozome_Me:cassava4.1_010431m
+P0C132	Phytozome_Me:cassava4.1_014849m Phytozome_Me:cassava4.1_014900m Phytozome_Me:cassava4.1_024173m Phytozome_Me:cassava4.1_014928m
+P0C587	Phytozome_Me:cassava4.1_004888m Phytozome_Me:cassava4.1_004701m
+P0C5B2	Phytozome_Me:cassava4.1_026051m
+P14655	Phytozome_Me:cassava4.1_008019m Phytozome_Me:cassava4.1_008013m
+P14656	Phytozome_Me:cassava4.1_010581m Phytozome_Me:cassava4.1_010597m
+P15280	Phytozome_Me:cassava4.1_005446m Phytozome_Me:cassava4.1_005518m
+P16081	Phytozome_Me:cassava4.1_031400m
+P17784	Phytozome_Me:cassava4.1_010509m Phytozome_Me:cassava4.1_010502m
+P18566	Phytozome_Me:cassava4.1_017170m Phytozome_Me:cassava4.1_017243m Phytozome_Me:cassava4.1_017372m Phytozome_Me:cassava4.1_018735m
+P30298	Phytozome_Me:cassava4.1_001912m Phytozome_Me:cassava4.1_002265m Phytozome_Me:cassava4.1_001864m Phytozome_Me:cassava4.1_001867m Phytozome_Me:cassava4.1_001871m
+P31924	Phytozome_Me:cassava4.1_001912m Phytozome_Me:cassava4.1_002265m Phytozome_Me:cassava4.1_001864m Phytozome_Me:cassava4.1_001867m Phytozome_Me:cassava4.1_001871m
+P37833	Phytozome_Me:cassava4.1_007709m Phytozome_Me:cassava4.1_009745m
+P38419	Phytozome_Me:cassava4.1_001314m Phytozome_Me:cassava4.1_001332m Phytozome_Me:cassava4.1_001321m Phytozome_Me:cassava4.1_021342m Phytozome_Me:cassava4.1_001361m
+P42862	Phytozome_Me:cassava4.1_004581m
+P42863	Phytozome_Me:cassava4.1_004581m
+P48642	Phytozome_Me:cassava4.1_006188m
+P93438	Phytozome_Me:cassava4.1_009283m Phytozome_Me:cassava4.1_009260m Phytozome_Me:cassava4.1_009245m Phytozome_Me:cassava4.1_009281m
+Q01KF3	Phytozome_Me:cassava4.1_009901m
+Q05JG2	Phytozome_Me:cassava4.1_007006m
+Q0D3B6	Phytozome_Me:cassava4.1_002346m Phytozome_Me:cassava4.1_002301m Phytozome_Me:cassava4.1_002119m
+Q0D7I3	Phytozome_Me:cassava4.1_032653m
+Q0D7W4	Phytozome_Me:cassava4.1_004265m
+Q0D8I9	Phytozome_Me:cassava4.1_000348m Phytozome_Me:cassava4.1_000347m Phytozome_Me:cassava4.1_000557m Phytozome_Me:cassava4.1_000353m Phytozome_Me:cassava4.1_000351m
+Q0D980	Phytozome_Me:cassava4.1_031079m
+Q0DA35	Phytozome_Me:cassava4.1_020307m
+Q0DAA4	Phytozome_Me:cassava4.1_000844m Phytozome_Me:cassava4.1_000848m
+Q0DBD3	Phytozome_Me:cassava4.1_012496m Phytozome_Me:cassava4.1_012521m
+Q0DBF4	Phytozome_Me:cassava4.1_005841m
+Q0DBN4	Phytozome_Me:cassava4.1_008470m
+Q0DCE9	Phytozome_Me:cassava4.1_003008m Phytozome_Me:cassava4.1_003029m Phytozome_Me:cassava4.1_003031m
+Q0DDS1	Phytozome_Me:cassava4.1_009075m Phytozome_Me:cassava4.1_008909m Phytozome_Me:cassava4.1_009958m Phytozome_Me:cassava4.1_009391m
+Q0DEC8	Phytozome_Me:cassava4.1_004619m
+Q0DG35	Phytozome_Me:cassava4.1_000038m Phytozome_Me:cassava4.1_000061m Phytozome_Me:cassava4.1_000039m Phytozome_Me:cassava4.1_000040m
+Q0DGG8	Phytozome_Me:cassava4.1_012923m Phytozome_Me:cassava4.1_011032m
+Q0DJJ9	Phytozome_Me:cassava4.1_028608m
+Q0DKE8	Phytozome_Me:cassava4.1_023834m
+Q0DKY4	Phytozome_Me:cassava4.1_009247m
+Q0DS76	Phytozome_Me:cassava4.1_000089m
+Q0DSM1	Phytozome_Me:cassava4.1_034186m Phytozome_Me:cassava4.1_007254m
+Q0DV32	Phytozome_Me:cassava4.1_005052m
+Q0DWF2	Phytozome_Me:cassava4.1_012387m Phytozome_Me:cassava4.1_012530m Phytozome_Me:cassava4.1_012706m
+Q0DY86	Phytozome_Me:cassava4.1_008270m Phytozome_Me:cassava4.1_008574m
+Q0DYK7	Phytozome_Me:cassava4.1_004779m Phytozome_Me:cassava4.1_004773m Phytozome_Me:cassava4.1_031489m
+Q0DZE0	Phytozome_Me:cassava4.1_002709m Phytozome_Me:cassava4.1_002591m Phytozome_Me:cassava4.1_002628m Phytozome_Me:cassava4.1_034377m
+Q0E2P1	Phytozome_Me:cassava4.1_005714m Phytozome_Me:cassava4.1_005711m Phytozome_Me:cassava4.1_005706m
+Q0E3F2	Phytozome_Me:cassava4.1_025126m
+Q0E3J1	Phytozome_Me:cassava4.1_000844m Phytozome_Me:cassava4.1_000848m
+Q0E4F0	Phytozome_Me:cassava4.1_004776m Phytozome_Me:cassava4.1_004787m Phytozome_Me:cassava4.1_004782m
+Q0E4N2	Phytozome_Me:cassava4.1_008567m
+Q0INY7	Phytozome_Me:cassava4.1_017170m Phytozome_Me:cassava4.1_017243m Phytozome_Me:cassava4.1_017372m Phytozome_Me:cassava4.1_018735m
+Q0INZ4	Phytozome_Me:cassava4.1_008417m
+Q0IPE5	Phytozome_Me:cassava4.1_013111m Phytozome_Me:cassava4.1_013110m
+Q0IRE6	Phytozome_Me:cassava4.1_004677m Phytozome_Me:cassava4.1_006560m
+Q0ITU1	Phytozome_Me:cassava4.1_009634m
+Q0IZS0	Phytozome_Me:cassava4.1_010947m
+Q0IZX5	Phytozome_Me:cassava4.1_025855m
+Q0J0L4	Phytozome_Me:cassava4.1_006635m Phytozome_Me:cassava4.1_008301m
+Q0J0M8	Phytozome_Me:cassava4.1_004209m Phytozome_Me:cassava4.1_003982m Phytozome_Me:cassava4.1_004261m Phytozome_Me:cassava4.1_003670m Phytozome_Me:cassava4.1_003914m Phytozome_Me:cassava4.1_021573m
+Q0J0N3	Phytozome_Me:cassava4.1_007323m Phytozome_Me:cassava4.1_007387m
+Q0J185	Phytozome_Me:cassava4.1_006983m Phytozome_Me:cassava4.1_023248m Phytozome_Me:cassava4.1_026107m
+Q0J1C1	Phytozome_Me:cassava4.1_012052m Phytozome_Me:cassava4.1_012282m Phytozome_Me:cassava4.1_012045m
+Q0J1E1	Phytozome_Me:cassava4.1_003479m
+Q0J360	Phytozome_Me:cassava4.1_004485m Phytozome_Me:cassava4.1_021472m Phytozome_Me:cassava4.1_034059m Phytozome_Me:cassava4.1_004482m
+Q0J7U6	Phytozome_Me:cassava4.1_000544m Phytozome_Me:cassava4.1_000554m Phytozome_Me:cassava4.1_000545m
+Q0J951	Phytozome_Me:cassava4.1_001923m Phytozome_Me:cassava4.1_002377m Phytozome_Me:cassava4.1_001769m
+Q0J9K2	Phytozome_Me:cassava4.1_027307m
+Q0J9Z0	Phytozome_Me:cassava4.1_000528m Phytozome_Me:cassava4.1_001042m
+Q0JA82	Phytozome_Me:cassava4.1_001945m
+Q0JA83	Phytozome_Me:cassava4.1_001945m
+Q0JAI1	Phytozome_Me:cassava4.1_032718m Phytozome_Me:cassava4.1_031323m
+Q0JB49	Phytozome_Me:cassava4.1_015085m Phytozome_Me:cassava4.1_017755m
+Q0JB91	Phytozome_Me:cassava4.1_010588m
+Q0JB99	Phytozome_Me:cassava4.1_013138m Phytozome_Me:cassava4.1_022027m
+Q0JC10	Phytozome_Me:cassava4.1_024246m
+Q0JCU7	Phytozome_Me:cassava4.1_003132m
+Q0JCZ4	Phytozome_Me:cassava4.1_004533m Phytozome_Me:cassava4.1_002969m Phytozome_Me:cassava4.1_004521m
+Q0JDF7	Phytozome_Me:cassava4.1_034329m Phytozome_Me:cassava4.1_034143m Phytozome_Me:cassava4.1_034114m
+Q0JDT1	Phytozome_Me:cassava4.1_008263m
+Q0JEK1	Phytozome_Me:cassava4.1_010211m Phytozome_Me:cassava4.1_010182m
+Q0JEP5	Phytozome_Me:cassava4.1_003565m Phytozome_Me:cassava4.1_003573m
+Q0JEZ8	Phytozome_Me:cassava4.1_001945m
+Q0JF25	Phytozome_Me:cassava4.1_005079m Phytozome_Me:cassava4.1_005059m
+Q0JF26	Phytozome_Me:cassava4.1_005079m Phytozome_Me:cassava4.1_005059m
+Q0JF30	Phytozome_Me:cassava4.1_002152m Phytozome_Me:cassava4.1_027924m Phytozome_Me:cassava4.1_002150m Phytozome_Me:cassava4.1_002165m
+Q0JGK4	Phytozome_Me:cassava4.1_024105m
+Q0JJI1	Phytozome_Me:cassava4.1_013902m Phytozome_Me:cassava4.1_016518m
+Q0JK57	Phytozome_Me:cassava4.1_006377m Phytozome_Me:cassava4.1_007104m Phytozome_Me:cassava4.1_005801m
+Q0JKD0	Phytozome_Me:cassava4.1_000038m Phytozome_Me:cassava4.1_000061m Phytozome_Me:cassava4.1_000039m Phytozome_Me:cassava4.1_000040m
+Q0JKI9	Phytozome_Me:cassava4.1_002399m
+Q0JKY8	Phytozome_Me:cassava4.1_011104m Phytozome_Me:cassava4.1_014338m Phytozome_Me:cassava4.1_014390m Phytozome_Me:cassava4.1_013547m Phytozome_Me:cassava4.1_014374m Phytozome_Me:cassava4.1_013910m Phytozome_Me:cassava4.1_015281m Phytozome_Me:cassava4.1_011843m Phytozome_Me:cassava4.1_011848m Phytozome_Me:cassava4.1_011560m Phytozome_Me:cassava4.1_011432m Phytozome_Me:cassava4.1_015976m
+Q0JPT4	Phytozome_Me:cassava4.1_011718m Phytozome_Me:cassava4.1_011523m Phytozome_Me:cassava4.1_011709m Phytozome_Me:cassava4.1_011677m
+Q0JRG4	Phytozome_Me:cassava4.1_012682m
+Q109F2	Phytozome_Me:cassava4.1_029232m Phytozome_Me:cassava4.1_024692m
+Q109K4	Phytozome_Me:cassava4.1_009607m Phytozome_Me:cassava4.1_009590m
+Q10A30	Phytozome_Me:cassava4.1_010509m Phytozome_Me:cassava4.1_010502m
+Q10A97	Phytozome_Me:cassava4.1_015856m Phytozome_Me:cassava4.1_015691m Phytozome_Me:cassava4.1_022781m Phytozome_Me:cassava4.1_025572m Phytozome_Me:cassava4.1_015566m Phytozome_Me:cassava4.1_015673m
+Q10BT5	Phytozome_Me:cassava4.1_012260m Phytozome_Me:cassava4.1_012184m Phytozome_Me:cassava4.1_012258m Phytozome_Me:cassava4.1_012257m
+Q10BX9	Phytozome_Me:cassava4.1_009776m
+Q10CE4	Phytozome_Me:cassava4.1_010126m Phytozome_Me:cassava4.1_010148m Phytozome_Me:cassava4.1_010145m Phytozome_Me:cassava4.1_010243m
+Q10CQ1	Phytozome_Me:cassava4.1_029935m Phytozome_Me:cassava4.1_015321m Phytozome_Me:cassava4.1_031659m
+Q10D68	Phytozome_Me:cassava4.1_005682m Phytozome_Me:cassava4.1_005814m Phytozome_Me:cassava4.1_005710m Phytozome_Me:cassava4.1_005816m
+Q10D87	Phytozome_Me:cassava4.1_016412m Phytozome_Me:cassava4.1_016386m Phytozome_Me:cassava4.1_013855m
+Q10DK7	Phytozome_Me:cassava4.1_032631m Phytozome_Me:cassava4.1_031356m
+Q10DU0	Phytozome_Me:cassava4.1_000575m
+Q10DZ5	Phytozome_Me:cassava4.1_003924m Phytozome_Me:cassava4.1_003889m
+Q10E50	Phytozome_Me:cassava4.1_017739m
+Q10EG4	Phytozome_Me:cassava4.1_000348m Phytozome_Me:cassava4.1_000347m Phytozome_Me:cassava4.1_000557m Phytozome_Me:cassava4.1_000353m Phytozome_Me:cassava4.1_000351m
+Q10F04	Phytozome_Me:cassava4.1_031545m
+Q10FE9	Phytozome_Me:cassava4.1_033019m
+Q10G56	Phytozome_Me:cassava4.1_006859m
+Q10HZ6	Phytozome_Me:cassava4.1_005079m Phytozome_Me:cassava4.1_005059m
+Q10J20	Phytozome_Me:cassava4.1_013852m Phytozome_Me:cassava4.1_028107m
+Q10J32	Phytozome_Me:cassava4.1_005387m Phytozome_Me:cassava4.1_004609m Phytozome_Me:cassava4.1_004541m
+Q10LP5	Phytozome_Me:cassava4.1_001840m Phytozome_Me:cassava4.1_002238m
+Q10LR5	Phytozome_Me:cassava4.1_007064m Phytozome_Me:cassava4.1_027209m
+Q10MB0	Phytozome_Me:cassava4.1_013310m Phytozome_Me:cassava4.1_011443m Phytozome_Me:cassava4.1_011421m Phytozome_Me:cassava4.1_011354m
+Q10MG9	Phytozome_Me:cassava4.1_000531m
+Q10MK5	Phytozome_Me:cassava4.1_005207m Phytozome_Me:cassava4.1_008755m
+Q10MQ2	Phytozome_Me:cassava4.1_007234m
+Q10MS2	Phytozome_Me:cassava4.1_016054m Phytozome_Me:cassava4.1_023235m
+Q10MW3	Phytozome_Me:cassava4.1_003934m Phytozome_Me:cassava4.1_003946m
+Q10MX9	Phytozome_Me:cassava4.1_011346m Phytozome_Me:cassava4.1_007451m Phytozome_Me:cassava4.1_007398m Phytozome_Me:cassava4.1_007542m
+Q10N17	Phytozome_Me:cassava4.1_009280m
+Q10N34	Phytozome_Me:cassava4.1_002346m Phytozome_Me:cassava4.1_002301m Phytozome_Me:cassava4.1_002119m
+Q10NY1	Phytozome_Me:cassava4.1_007932m
+Q10NY2	Phytozome_Me:cassava4.1_000547m Phytozome_Me:cassava4.1_000540m Phytozome_Me:cassava4.1_000539m
+Q10P02	Phytozome_Me:cassava4.1_006550m
+Q10P71	Phytozome_Me:cassava4.1_006838m Phytozome_Me:cassava4.1_006423m
+Q10PY7	Phytozome_Me:cassava4.1_004944m Phytozome_Me:cassava4.1_021705m
+Q10QA5	Phytozome_Me:cassava4.1_013999m
+Q10QN3	Phytozome_Me:cassava4.1_009213m
+Q10QR9	Phytozome_Me:cassava4.1_031984m
+Q10RP2	Phytozome_Me:cassava4.1_015294m Phytozome_Me:cassava4.1_015293m Phytozome_Me:cassava4.1_033642m Phytozome_Me:cassava4.1_015314m
+Q10S55	Phytozome_Me:cassava4.1_012281m Phytozome_Me:cassava4.1_008771m Phytozome_Me:cassava4.1_012051m Phytozome_Me:cassava4.1_008859m
+Q10S58	Phytozome_Me:cassava4.1_010801m Phytozome_Me:cassava4.1_010831m
+Q10S72	Phytozome_Me:cassava4.1_005114m Phytozome_Me:cassava4.1_004909m
+Q10SD6	Phytozome_Me:cassava4.1_008465m
+Q10SL7	Phytozome_Me:cassava4.1_012764m
+Q10SM6	Phytozome_Me:cassava4.1_007935m
+Q10SP1	Phytozome_Me:cassava4.1_016729m
+Q10SU1	Phytozome_Me:cassava4.1_001828m
+Q25AR2	Phytozome_Me:cassava4.1_012747m Phytozome_Me:cassava4.1_013687m Phytozome_Me:cassava4.1_016147m Phytozome_Me:cassava4.1_013891m
+Q2KNB4	Phytozome_Me:cassava4.1_005952m Phytozome_Me:cassava4.1_005907m
+Q2MJA7	Phytozome_Me:cassava4.1_007944m Phytozome_Me:cassava4.1_007942m
+Q2MJA8	Phytozome_Me:cassava4.1_007323m Phytozome_Me:cassava4.1_007387m
+Q2QLJ0	Phytozome_Me:cassava4.1_022943m
+Q2QLY5	Phytozome_Me:cassava4.1_001712m Phytozome_Me:cassava4.1_002156m Phytozome_Me:cassava4.1_001773m
+Q2QLY6	Phytozome_Me:cassava4.1_004757m
+Q2QM47	Phytozome_Me:cassava4.1_000897m
+Q2QMD4	Phytozome_Me:cassava4.1_009852m Phytozome_Me:cassava4.1_010108m Phytozome_Me:cassava4.1_009895m Phytozome_Me:cassava4.1_009845m Phytozome_Me:cassava4.1_009860m
+Q2QME6	Phytozome_Me:cassava4.1_011199m Phytozome_Me:cassava4.1_011139m Phytozome_Me:cassava4.1_011138m
+Q2QMK8	Phytozome_Me:cassava4.1_017195m
+Q2QN06	Phytozome_Me:cassava4.1_014662m Phytozome_Me:cassava4.1_014607m
+Q2QN88	Phytozome_Me:cassava4.1_003429m
+Q2QNF7	Phytozome_Me:cassava4.1_009997m
+Q2QNS6	Phytozome_Me:cassava4.1_000512m
+Q2QPI2	Phytozome_Me:cassava4.1_004677m Phytozome_Me:cassava4.1_006560m
+Q2QQJ5	Phytozome_Me:cassava4.1_001945m
+Q2QQX6	Phytozome_Me:cassava4.1_001567m Phytozome_Me:cassava4.1_001964m Phytozome_Me:cassava4.1_001542m Phytozome_Me:cassava4.1_001855m Phytozome_Me:cassava4.1_001544m
+Q2QS13	Phytozome_Me:cassava4.1_006657m Phytozome_Me:cassava4.1_006663m Phytozome_Me:cassava4.1_020987m
+Q2QS14	Phytozome_Me:cassava4.1_006657m Phytozome_Me:cassava4.1_006663m Phytozome_Me:cassava4.1_020987m
+Q2QT32	Phytozome_Me:cassava4.1_006924m Phytozome_Me:cassava4.1_006915m
+Q2QTJ1	Phytozome_Me:cassava4.1_017170m Phytozome_Me:cassava4.1_017243m Phytozome_Me:cassava4.1_017372m Phytozome_Me:cassava4.1_018735m
+Q2QTQ1	Phytozome_Me:cassava4.1_009887m Phytozome_Me:cassava4.1_012317m
+Q2QUG4	Phytozome_Me:cassava4.1_012894m
+Q2QVC1	Phytozome_Me:cassava4.1_006286m
+Q2QWK9	Phytozome_Me:cassava4.1_004678m
+Q2QWV7	Phytozome_Me:cassava4.1_007963m Phytozome_Me:cassava4.1_007376m
+Q2QX58	Phytozome_Me:cassava4.1_002785m
+Q2QXL0	Phytozome_Me:cassava4.1_006304m Phytozome_Me:cassava4.1_006319m
+Q2QXY1	Phytozome_Me:cassava4.1_003984m Phytozome_Me:cassava4.1_003971m
+Q2QXY9	Phytozome_Me:cassava4.1_003425m
+Q2QXZ1	Phytozome_Me:cassava4.1_011807m
+Q2QY63	Phytozome_Me:cassava4.1_002740m Phytozome_Me:cassava4.1_003203m
+Q2QYB7	Phytozome_Me:cassava4.1_009811m Phytozome_Me:cassava4.1_010494m
+Q2QZ14	Phytozome_Me:cassava4.1_013821m Phytozome_Me:cassava4.1_012163m Phytozome_Me:cassava4.1_011820m
+Q2R1G8	Phytozome_Me:cassava4.1_002855m
+Q2R1L4	Phytozome_Me:cassava4.1_007953m Phytozome_Me:cassava4.1_007966m
+Q2R2Q2	Phytozome_Me:cassava4.1_008219m
+Q2R2W1	Phytozome_Me:cassava4.1_003629m Phytozome_Me:cassava4.1_003627m Phytozome_Me:cassava4.1_003633m
+Q2R339	Phytozome_Me:cassava4.1_006853m
+Q2R3A1	Phytozome_Me:cassava4.1_009295m Phytozome_Me:cassava4.1_009676m Phytozome_Me:cassava4.1_009206m Phytozome_Me:cassava4.1_009402m Phytozome_Me:cassava4.1_030049m
+Q2R3F5	Phytozome_Me:cassava4.1_001567m Phytozome_Me:cassava4.1_001964m Phytozome_Me:cassava4.1_001542m Phytozome_Me:cassava4.1_001855m Phytozome_Me:cassava4.1_001544m
+Q2R3K3	Phytozome_Me:cassava4.1_006401m Phytozome_Me:cassava4.1_006389m Phytozome_Me:cassava4.1_006394m
+Q2R481	Phytozome_Me:cassava4.1_005413m
+Q2RAP0	Phytozome_Me:cassava4.1_003984m Phytozome_Me:cassava4.1_003971m
+Q2RAP4	Phytozome_Me:cassava4.1_006864m
+Q2RAP8	Phytozome_Me:cassava4.1_003425m
+Q2RAP9	Phytozome_Me:cassava4.1_011807m
+Q2RAY0	Phytozome_Me:cassava4.1_002740m Phytozome_Me:cassava4.1_003203m
+Q2RB02	Phytozome_Me:cassava4.1_010458m
+Q2RB23	Phytozome_Me:cassava4.1_009811m Phytozome_Me:cassava4.1_010494m
+Q2RBP2	Phytozome_Me:cassava4.1_000616m Phytozome_Me:cassava4.1_000614m
+Q336M7	Phytozome_Me:cassava4.1_004723m
+Q336N7	Phytozome_Me:cassava4.1_009543m
+Q336P5	Phytozome_Me:cassava4.1_003046m Phytozome_Me:cassava4.1_002918m
+Q336R6	Phytozome_Me:cassava4.1_013518m Phytozome_Me:cassava4.1_013569m Phytozome_Me:cassava4.1_013515m Phytozome_Me:cassava4.1_013558m Phytozome_Me:cassava4.1_013582m Phytozome_Me:cassava4.1_013709m Phytozome_Me:cassava4.1_013605m Phytozome_Me:cassava4.1_013753m
+Q336U3	Phytozome_Me:cassava4.1_028293m
+Q336V3	Phytozome_Me:cassava4.1_005019m
+Q336X9	Phytozome_Me:cassava4.1_009957m Phytozome_Me:cassava4.1_010005m
+Q337F0	Phytozome_Me:cassava4.1_033566m Phytozome_Me:cassava4.1_004048m Phytozome_Me:cassava4.1_003978m Phytozome_Me:cassava4.1_003967m Phytozome_Me:cassava4.1_005281m
+Q337F3	Phytozome_Me:cassava4.1_001828m
+Q338Z4	Phytozome_Me:cassava4.1_005104m
+Q339V1	Phytozome_Me:cassava4.1_009542m Phytozome_Me:cassava4.1_009489m
+Q33AE4	Phytozome_Me:cassava4.1_003452m Phytozome_Me:cassava4.1_003471m
+Q40710	Phytozome_Me:cassava4.1_013310m Phytozome_Me:cassava4.1_011443m Phytozome_Me:cassava4.1_011421m Phytozome_Me:cassava4.1_011354m
+Q42971	Phytozome_Me:cassava4.1_007673m Phytozome_Me:cassava4.1_007678m
+Q42982	Phytozome_Me:cassava4.1_004658m Phytozome_Me:cassava4.1_004136m
+Q43007	Phytozome_Me:cassava4.1_001848m Phytozome_Me:cassava4.1_001858m Phytozome_Me:cassava4.1_001860m
+Q43009	Phytozome_Me:cassava4.1_001912m Phytozome_Me:cassava4.1_002265m Phytozome_Me:cassava4.1_001864m Phytozome_Me:cassava4.1_001867m Phytozome_Me:cassava4.1_001871m
+Q43011	Phytozome_Me:cassava4.1_004530m
+Q53JI9	Phytozome_Me:cassava4.1_000839m Phytozome_Me:cassava4.1_000827m
+Q53L28	Phytozome_Me:cassava4.1_021137m
+Q53MS9	Phytozome_Me:cassava4.1_016470m
+Q53MU8	Phytozome_Me:cassava4.1_028084m Phytozome_Me:cassava4.1_024367m
+Q53Q70	Phytozome_Me:cassava4.1_006304m Phytozome_Me:cassava4.1_006319m
+Q53QJ0	Phytozome_Me:cassava4.1_015513m Phytozome_Me:cassava4.1_013295m Phytozome_Me:cassava4.1_013161m
+Q53RH0	Phytozome_Me:cassava4.1_003472m Phytozome_Me:cassava4.1_002404m Phytozome_Me:cassava4.1_003488m Phytozome_Me:cassava4.1_002375m Phytozome_Me:cassava4.1_002394m
+Q5CCK1	Phytozome_Me:cassava4.1_006864m
+Q5CCK3	Phytozome_Me:cassava4.1_006368m
+Q5JK39	Phytozome_Me:cassava4.1_006401m Phytozome_Me:cassava4.1_006389m Phytozome_Me:cassava4.1_006394m
+Q5JLS4	Phytozome_Me:cassava4.1_008324m
+Q5JMA1	Phytozome_Me:cassava4.1_000719m
+Q5JMB6	Phytozome_Me:cassava4.1_013292m Phytozome_Me:cassava4.1_010746m
+Q5JMC7	Phytozome_Me:cassava4.1_034146m
+Q5JMX5	Phytozome_Me:cassava4.1_026066m
+Q5JMX9	Phytozome_Me:cassava4.1_009051m
+Q5JN19	Phytozome_Me:cassava4.1_029630m
+Q5JN63	Phytozome_Me:cassava4.1_000992m
+Q5MBR3	Phytozome_Me:cassava4.1_024373m Phytozome_Me:cassava4.1_003979m Phytozome_Me:cassava4.1_026283m Phytozome_Me:cassava4.1_034379m
+Q5MBR5	Phytozome_Me:cassava4.1_024373m Phytozome_Me:cassava4.1_003979m Phytozome_Me:cassava4.1_026283m Phytozome_Me:cassava4.1_034379m
+Q5N725	Phytozome_Me:cassava4.1_010509m Phytozome_Me:cassava4.1_010502m
+Q5N7L0	Phytozome_Me:cassava4.1_034264m Phytozome_Me:cassava4.1_032584m
+Q5N7Z8	Phytozome_Me:cassava4.1_005940m
+Q5N892	Phytozome_Me:cassava4.1_006474m Phytozome_Me:cassava4.1_006570m
+Q5N8G1	Phytozome_Me:cassava4.1_033965m
+Q5N9N2	Phytozome_Me:cassava4.1_013372m Phytozome_Me:cassava4.1_008067m Phytozome_Me:cassava4.1_008162m Phytozome_Me:cassava4.1_007913m Phytozome_Me:cassava4.1_011327m
+Q5N9Z8	Phytozome_Me:cassava4.1_006601m
+Q5NA81	Phytozome_Me:cassava4.1_006502m Phytozome_Me:cassava4.1_032898m
+Q5NAY4	Phytozome_Me:cassava4.1_006391m
+Q5NB25	Phytozome_Me:cassava4.1_012135m Phytozome_Me:cassava4.1_010089m Phytozome_Me:cassava4.1_011048m Phytozome_Me:cassava4.1_024870m Phytozome_Me:cassava4.1_010080m Phytozome_Me:cassava4.1_012069m Phytozome_Me:cassava4.1_009755m Phytozome_Me:cassava4.1_010103m Phytozome_Me:cassava4.1_012324m Phytozome_Me:cassava4.1_010074m
+Q5NBQ1	Phytozome_Me:cassava4.1_016366m Phytozome_Me:cassava4.1_013178m
+Q5NBT9	Phytozome_Me:cassava4.1_000560m Phytozome_Me:cassava4.1_000561m
+Q5NTH3	Phytozome_Me:cassava4.1_024327m Phytozome_Me:cassava4.1_012500m
+Q5NTH4	Phytozome_Me:cassava4.1_024327m Phytozome_Me:cassava4.1_012500m
+Q5QN02	Phytozome_Me:cassava4.1_004007m
+Q5SMQ9	Phytozome_Me:cassava4.1_003794m Phytozome_Me:cassava4.1_003807m
+Q5SMY2	Phytozome_Me:cassava4.1_004973m Phytozome_Me:cassava4.1_004983m
+Q5SND7	Phytozome_Me:cassava4.1_011132m Phytozome_Me:cassava4.1_011090m
+Q5U9F2	Phytozome_Me:cassava4.1_030574m
+Q5VMP0	Phytozome_Me:cassava4.1_034396m Phytozome_Me:cassava4.1_003186m
+Q5VNP5	Phytozome_Me:cassava4.1_013113m Phytozome_Me:cassava4.1_022895m
+Q5VNW0	Phytozome_Me:cassava4.1_005539m
+Q5VP70	Phytozome_Me:cassava4.1_003367m
+Q5VPH2	Phytozome_Me:cassava4.1_023284m Phytozome_Me:cassava4.1_022761m
+Q5VQG4	Phytozome_Me:cassava4.1_002019m
+Q5VQG8	Phytozome_Me:cassava4.1_023834m
+Q5VRB9	Phytozome_Me:cassava4.1_033764m Phytozome_Me:cassava4.1_023373m
+Q5VRM7	Phytozome_Me:cassava4.1_026580m Phytozome_Me:cassava4.1_006198m Phytozome_Me:cassava4.1_006204m
+Q5VSB8	Phytozome_Me:cassava4.1_025355m Phytozome_Me:cassava4.1_002567m
+Q5W670	Phytozome_Me:cassava4.1_010892m Phytozome_Me:cassava4.1_029587m Phytozome_Me:cassava4.1_010966m
+Q5W6F9	Phytozome_Me:cassava4.1_033963m Phytozome_Me:cassava4.1_030220m
+Q5W6H5	Phytozome_Me:cassava4.1_009920m
+Q5W6W7	Phytozome_Me:cassava4.1_002554m
+Q5WMV3	Phytozome_Me:cassava4.1_010989m
+Q5XLJ2	Phytozome_Me:cassava4.1_006853m
+Q5Z5B7	Phytozome_Me:cassava4.1_008056m Phytozome_Me:cassava4.1_008121m
+Q5Z5R4	Phytozome_Me:cassava4.1_005841m
+Q5Z5R7	Phytozome_Me:cassava4.1_005841m
+Q5Z678	Phytozome_Me:cassava4.1_006985m Phytozome_Me:cassava4.1_006690m Phytozome_Me:cassava4.1_007927m
+Q5Z6D3	Phytozome_Me:cassava4.1_003008m Phytozome_Me:cassava4.1_003029m Phytozome_Me:cassava4.1_003031m
+Q5Z6E5	Phytozome_Me:cassava4.1_027647m
+Q5Z856	Phytozome_Me:cassava4.1_001256m
+Q5Z8K3	Phytozome_Me:cassava4.1_003776m
+Q5Z8S0	Phytozome_Me:cassava4.1_017054m Phytozome_Me:cassava4.1_029748m
+Q5Z8T3	Phytozome_Me:cassava4.1_012639m
+Q5Z8V9	Phytozome_Me:cassava4.1_008036m Phytozome_Me:cassava4.1_010057m
+Q5Z8Y4	Phytozome_Me:cassava4.1_030904m
+Q5Z8Z7	Phytozome_Me:cassava4.1_005714m Phytozome_Me:cassava4.1_005711m Phytozome_Me:cassava4.1_005706m
+Q5ZED1	Phytozome_Me:cassava4.1_012375m Phytozome_Me:cassava4.1_012373m
+Q5ZEL4	Phytozome_Me:cassava4.1_007825m
+Q60EX6	Phytozome_Me:cassava4.1_001464m Phytozome_Me:cassava4.1_001402m
+Q60EY1	Phytozome_Me:cassava4.1_028756m
+Q64MA9	Phytozome_Me:cassava4.1_007081m
+Q651F0	Phytozome_Me:cassava4.1_007682m Phytozome_Me:cassava4.1_008873m
+Q652A8	Phytozome_Me:cassava4.1_010908m Phytozome_Me:cassava4.1_013492m
+Q652S1	Phytozome_Me:cassava4.1_032962m
+Q653F4	Phytozome_Me:cassava4.1_006067m Phytozome_Me:cassava4.1_006028m
+Q653H7	Phytozome_Me:cassava4.1_002980m Phytozome_Me:cassava4.1_002960m
+Q653T6	Phytozome_Me:cassava4.1_012624m
+Q653U3	Phytozome_Me:cassava4.1_001357m Phytozome_Me:cassava4.1_001154m Phytozome_Me:cassava4.1_001328m
+Q655T1	Phytozome_Me:cassava4.1_009020m Phytozome_Me:cassava4.1_009003m
+Q655W2	Phytozome_Me:cassava4.1_008220m Phytozome_Me:cassava4.1_008225m
+Q655Y9	Phytozome_Me:cassava4.1_008978m
+Q656F1	Phytozome_Me:cassava4.1_005070m
+Q65X14	Phytozome_Me:cassava4.1_023440m Phytozome_Me:cassava4.1_001215m Phytozome_Me:cassava4.1_001223m Phytozome_Me:cassava4.1_021281m
+Q65XK0	Phytozome_Me:cassava4.1_004227m Phytozome_Me:cassava4.1_004114m
+Q65XM9	Phytozome_Me:cassava4.1_011120m Phytozome_Me:cassava4.1_031819m
+Q67J16	Phytozome_Me:cassava4.1_003505m
+Q67UL3	Phytozome_Me:cassava4.1_003794m Phytozome_Me:cassava4.1_003807m
+Q67UX0	Phytozome_Me:cassava4.1_003776m
+Q67VM1	Phytozome_Me:cassava4.1_006016m
+Q67VR7	Phytozome_Me:cassava4.1_010809m Phytozome_Me:cassava4.1_011784m
+Q67W29	Phytozome_Me:cassava4.1_012014m
+Q67W82	Phytozome_Me:cassava4.1_005014m Phytozome_Me:cassava4.1_005006m
+Q67WR2	Phytozome_Me:cassava4.1_010874m
+Q688L9	Phytozome_Me:cassava4.1_033963m Phytozome_Me:cassava4.1_030220m
+Q688Q8	Phytozome_Me:cassava4.1_007524m Phytozome_Me:cassava4.1_006975m
+Q688Q9	Phytozome_Me:cassava4.1_005513m Phytozome_Me:cassava4.1_029735m
+Q688T8	Phytozome_Me:cassava4.1_006360m Phytozome_Me:cassava4.1_005409m Phytozome_Me:cassava4.1_006048m Phytozome_Me:cassava4.1_005421m Phytozome_Me:cassava4.1_005437m
+Q688Y2	Phytozome_Me:cassava4.1_012963m
+Q689G6	Phytozome_Me:cassava4.1_002434m Phytozome_Me:cassava4.1_033332m
+Q689G9	Phytozome_Me:cassava4.1_004850m Phytozome_Me:cassava4.1_008452m
+Q69IM7	Phytozome_Me:cassava4.1_011491m
+Q69J27	Phytozome_Me:cassava4.1_031506m Phytozome_Me:cassava4.1_027867m Phytozome_Me:cassava4.1_013379m Phytozome_Me:cassava4.1_028215m Phytozome_Me:cassava4.1_010003m
+Q69K00	Phytozome_Me:cassava4.1_012057m Phytozome_Me:cassava4.1_013392m Phytozome_Me:cassava4.1_012016m
+Q69L93	Phytozome_Me:cassava4.1_013821m Phytozome_Me:cassava4.1_012163m Phytozome_Me:cassava4.1_011820m
+Q69LG7	Phytozome_Me:cassava4.1_001254m
+Q69MC9	Phytozome_Me:cassava4.1_012242m Phytozome_Me:cassava4.1_012277m
+Q69MH0	Phytozome_Me:cassava4.1_021112m Phytozome_Me:cassava4.1_005653m
+Q69NY7	Phytozome_Me:cassava4.1_026855m Phytozome_Me:cassava4.1_019045m Phytozome_Me:cassava4.1_018315m
+Q69P51	Phytozome_Me:cassava4.1_001280m
+Q69QD7	Phytozome_Me:cassava4.1_009744m
+Q69RJ0	Phytozome_Me:cassava4.1_000214m
+Q69T90	Phytozome_Me:cassava4.1_010114m
+Q69TF4	Phytozome_Me:cassava4.1_032006m Phytozome_Me:cassava4.1_016121m
+Q69TH6	Phytozome_Me:cassava4.1_033176m
+Q69TT1	Phytozome_Me:cassava4.1_003733m
+Q69TV4	Phytozome_Me:cassava4.1_004330m Phytozome_Me:cassava4.1_004549m Phytozome_Me:cassava4.1_004355m
+Q69TV6	Phytozome_Me:cassava4.1_004330m Phytozome_Me:cassava4.1_004549m Phytozome_Me:cassava4.1_004355m
+Q69U93	Phytozome_Me:cassava4.1_009595m
+Q69UU3	Phytozome_Me:cassava4.1_006658m Phytozome_Me:cassava4.1_006617m Phytozome_Me:cassava4.1_006626m
+Q69V57	Phytozome_Me:cassava4.1_010561m
+Q69XS7	Phytozome_Me:cassava4.1_012448m Phytozome_Me:cassava4.1_025191m
+Q6AT26	Phytozome_Me:cassava4.1_000659m Phytozome_Me:cassava4.1_000660m
+Q6AT32	Phytozome_Me:cassava4.1_007765m
+Q6AT41	Phytozome_Me:cassava4.1_005884m Phytozome_Me:cassava4.1_010031m Phytozome_Me:cassava4.1_005790m
+Q6AT43	Phytozome_Me:cassava4.1_008523m Phytozome_Me:cassava4.1_008467m Phytozome_Me:cassava4.1_012023m
+Q6ATR2	Phytozome_Me:cassava4.1_031403m Phytozome_Me:cassava4.1_011922m Phytozome_Me:cassava4.1_011434m Phytozome_Me:cassava4.1_028388m
+Q6AUB0	Phytozome_Me:cassava4.1_012693m Phytozome_Me:cassava4.1_012623m Phytozome_Me:cassava4.1_015727m
+Q6AV34	Phytozome_Me:cassava4.1_008996m
+Q6AVG6	Phytozome_Me:cassava4.1_007171m Phytozome_Me:cassava4.1_007197m
+Q6AVM5	Phytozome_Me:cassava4.1_011841m
+Q6AVT2	Phytozome_Me:cassava4.1_028396m Phytozome_Me:cassava4.1_005507m
+Q6BDZ9	Phytozome_Me:cassava4.1_001945m
+Q6EN48	Phytozome_Me:cassava4.1_010048m Phytozome_Me:cassava4.1_010050m Phytozome_Me:cassava4.1_030319m
+Q6EP31	Phytozome_Me:cassava4.1_016681m
+Q6EP77	Phytozome_Me:cassava4.1_015843m Phytozome_Me:cassava4.1_015361m
+Q6EQW2	Phytozome_Me:cassava4.1_031966m
+Q6ERL4	Phytozome_Me:cassava4.1_007313m
+Q6ERR3	Phytozome_Me:cassava4.1_013560m Phytozome_Me:cassava4.1_011283m Phytozome_Me:cassava4.1_026592m
+Q6ES51	Phytozome_Me:cassava4.1_008829m Phytozome_Me:cassava4.1_009790m Phytozome_Me:cassava4.1_014779m Phytozome_Me:cassava4.1_009349m Phytozome_Me:cassava4.1_011377m Phytozome_Me:cassava4.1_010738m Phytozome_Me:cassava4.1_011418m Phytozome_Me:cassava4.1_013329m Phytozome_Me:cassava4.1_008790m Phytozome_Me:cassava4.1_009865m Phytozome_Me:cassava4.1_008816m Phytozome_Me:cassava4.1_009889m Phytozome_Me:cassava4.1_014775m
+Q6ESJ0	Phytozome_Me:cassava4.1_015085m Phytozome_Me:cassava4.1_017755m
+Q6ESZ9	Phytozome_Me:cassava4.1_006529m Phytozome_Me:cassava4.1_006753m
+Q6ET36	Phytozome_Me:cassava4.1_028948m Phytozome_Me:cassava4.1_021835m
+Q6ET88	Phytozome_Me:cassava4.1_011215m
+Q6ETD3	Phytozome_Me:cassava4.1_003183m Phytozome_Me:cassava4.1_004675m
+Q6ETN3	Phytozome_Me:cassava4.1_005014m Phytozome_Me:cassava4.1_005006m
+Q6ETX4	Phytozome_Me:cassava4.1_013686m
+Q6EUS6	Phytozome_Me:cassava4.1_008470m
+Q6F361	Phytozome_Me:cassava4.1_011133m Phytozome_Me:cassava4.1_011026m
+Q6F4N6	Phytozome_Me:cassava4.1_024246m
+Q6H4V1	Phytozome_Me:cassava4.1_007612m
+Q6H5Z4	Phytozome_Me:cassava4.1_017054m Phytozome_Me:cassava4.1_029748m
+Q6H6C7	Phytozome_Me:cassava4.1_009020m Phytozome_Me:cassava4.1_009003m
+Q6H6D2	Phytozome_Me:cassava4.1_009678m
+Q6H6G1	Phytozome_Me:cassava4.1_010643m Phytozome_Me:cassava4.1_010782m
+Q6H6I1	Phytozome_Me:cassava4.1_014674m
+Q6H6P8	Phytozome_Me:cassava4.1_001686m Phytozome_Me:cassava4.1_001701m
+Q6H703	Phytozome_Me:cassava4.1_008220m Phytozome_Me:cassava4.1_008225m
+Q6H7Q6	Phytozome_Me:cassava4.1_001314m Phytozome_Me:cassava4.1_001332m Phytozome_Me:cassava4.1_001321m Phytozome_Me:cassava4.1_021342m Phytozome_Me:cassava4.1_001361m
+Q6H819	Phytozome_Me:cassava4.1_014305m
+Q6H849	Phytozome_Me:cassava4.1_010906m Phytozome_Me:cassava4.1_009445m
+Q6H851	Phytozome_Me:cassava4.1_010906m Phytozome_Me:cassava4.1_009445m
+Q6I581	Phytozome_Me:cassava4.1_004899m Phytozome_Me:cassava4.1_004446m
+Q6K1X7	Phytozome_Me:cassava4.1_021137m
+Q6K2E8	Phytozome_Me:cassava4.1_003589m Phytozome_Me:cassava4.1_003211m
+Q6K3T2	Phytozome_Me:cassava4.1_024832m
+Q6K3Z3	Phytozome_Me:cassava4.1_008916m
+Q6K548	Phytozome_Me:cassava4.1_026548m
+Q6K5U4	Phytozome_Me:cassava4.1_008219m
+Q6K6Q0	Phytozome_Me:cassava4.1_002709m Phytozome_Me:cassava4.1_002591m Phytozome_Me:cassava4.1_002628m Phytozome_Me:cassava4.1_034377m
+Q6K6Q1	Phytozome_Me:cassava4.1_002709m Phytozome_Me:cassava4.1_002591m Phytozome_Me:cassava4.1_002628m Phytozome_Me:cassava4.1_034377m
+Q6K7V6	Phytozome_Me:cassava4.1_016080m
+Q6K8E2	Phytozome_Me:cassava4.1_003543m Phytozome_Me:cassava4.1_003408m
+Q6K8E7	Phytozome_Me:cassava4.1_006550m
+Q6K8J4	Phytozome_Me:cassava4.1_002363m Phytozome_Me:cassava4.1_002358m
+Q6K969	Phytozome_Me:cassava4.1_010180m
+Q6K973	Phytozome_Me:cassava4.1_001283m
+Q6K9B8	Phytozome_Me:cassava4.1_024246m
+Q6K9M5	Phytozome_Me:cassava4.1_008065m
+Q6K9N6	Phytozome_Me:cassava4.1_008387m
+Q6K9X3	Phytozome_Me:cassava4.1_010653m
+Q6KAJ2	Phytozome_Me:cassava4.1_007094m
+Q6L479	Phytozome_Me:cassava4.1_029600m Phytozome_Me:cassava4.1_000629m
+Q6L4G2	Phytozome_Me:cassava4.1_034264m Phytozome_Me:cassava4.1_032584m
+Q6L4H5	Phytozome_Me:cassava4.1_005355m Phytozome_Me:cassava4.1_005543m
+Q6L4L4	Phytozome_Me:cassava4.1_001909m Phytozome_Me:cassava4.1_002688m Phytozome_Me:cassava4.1_001468m Phytozome_Me:cassava4.1_001716m Phytozome_Me:cassava4.1_001474m
+Q6L4R0	Phytozome_Me:cassava4.1_006470m
+Q6L4R7	Phytozome_Me:cassava4.1_005503m Phytozome_Me:cassava4.1_004942m Phytozome_Me:cassava4.1_005524m Phytozome_Me:cassava4.1_004984m Phytozome_Me:cassava4.1_004996m Phytozome_Me:cassava4.1_004932m Phytozome_Me:cassava4.1_005520m
+Q6L545	Phytozome_Me:cassava4.1_011041m Phytozome_Me:cassava4.1_011066m Phytozome_Me:cassava4.1_011040m Phytozome_Me:cassava4.1_011074m Phytozome_Me:cassava4.1_011042m
+Q6Q9I2	Phytozome_Me:cassava4.1_029935m Phytozome_Me:cassava4.1_015321m Phytozome_Me:cassava4.1_031659m
+Q6YPG5	Phytozome_Me:cassava4.1_007735m
+Q6YS33	Phytozome_Me:cassava4.1_005415m Phytozome_Me:cassava4.1_004817m
+Q6YSA1	Phytozome_Me:cassava4.1_008460m Phytozome_Me:cassava4.1_007903m Phytozome_Me:cassava4.1_025153m
+Q6YT73	Phytozome_Me:cassava4.1_010126m Phytozome_Me:cassava4.1_010148m Phytozome_Me:cassava4.1_010145m Phytozome_Me:cassava4.1_010243m
+Q6YTI6	Phytozome_Me:cassava4.1_009223m Phytozome_Me:cassava4.1_009122m
+Q6YU51	Phytozome_Me:cassava4.1_030091m Phytozome_Me:cassava4.1_002639m
+Q6YUS0	Phytozome_Me:cassava4.1_004306m
+Q6YUU2	Phytozome_Me:cassava4.1_006019m Phytozome_Me:cassava4.1_006021m Phytozome_Me:cassava4.1_006006m
+Q6YV23	Phytozome_Me:cassava4.1_008319m
+Q6YVI0	Phytozome_Me:cassava4.1_009303m Phytozome_Me:cassava4.1_009985m
+Q6YVY0	Phytozome_Me:cassava4.1_004533m Phytozome_Me:cassava4.1_002969m Phytozome_Me:cassava4.1_004521m
+Q6YWE1	Phytozome_Me:cassava4.1_031403m Phytozome_Me:cassava4.1_011922m Phytozome_Me:cassava4.1_011434m Phytozome_Me:cassava4.1_028388m
+Q6YXI1	Phytozome_Me:cassava4.1_031246m
+Q6YXW6	Phytozome_Me:cassava4.1_008177m Phytozome_Me:cassava4.1_009570m Phytozome_Me:cassava4.1_008254m
+Q6YYB9	Phytozome_Me:cassava4.1_006819m Phytozome_Me:cassava4.1_007004m
+Q6YYZ2	Phytozome_Me:cassava4.1_004723m
+Q6YZ18	Phytozome_Me:cassava4.1_030446m
+Q6YZ76	Phytozome_Me:cassava4.1_023722m Phytozome_Me:cassava4.1_033578m
+Q6YZE2	Phytozome_Me:cassava4.1_006730m Phytozome_Me:cassava4.1_006894m
+Q6YZH8	Phytozome_Me:cassava4.1_003805m
+Q6YZX6	Phytozome_Me:cassava4.1_000908m Phytozome_Me:cassava4.1_000903m
+Q6Z0T7	Phytozome_Me:cassava4.1_018935m Phytozome_Me:cassava4.1_018934m
+Q6Z2L5	Phytozome_Me:cassava4.1_009073m
+Q6Z2T6	Phytozome_Me:cassava4.1_006931m
+Q6Z312	Phytozome_Me:cassava4.1_006205m Phytozome_Me:cassava4.1_007256m Phytozome_Me:cassava4.1_007778m Phytozome_Me:cassava4.1_007772m Phytozome_Me:cassava4.1_010216m
+Q6Z351	Phytozome_Me:cassava4.1_021582m Phytozome_Me:cassava4.1_000330m
+Q6Z368	Phytozome_Me:cassava4.1_008632m Phytozome_Me:cassava4.1_008622m
+Q6Z398	Phytozome_Me:cassava4.1_007221m Phytozome_Me:cassava4.1_011831m
+Q6Z3A3	Phytozome_Me:cassava4.1_005513m Phytozome_Me:cassava4.1_029735m
+Q6Z3F1	Phytozome_Me:cassava4.1_005672m Phytozome_Me:cassava4.1_004194m
+Q6Z3F9	Phytozome_Me:cassava4.1_007803m
+Q6Z3X5	Phytozome_Me:cassava4.1_000828m Phytozome_Me:cassava4.1_000822m
+Q6Z3Y3	Phytozome_Me:cassava4.1_009280m
+Q6Z433	Phytozome_Me:cassava4.1_024131m Phytozome_Me:cassava4.1_013130m Phytozome_Me:cassava4.1_013436m Phytozome_Me:cassava4.1_012906m
+Q6Z434	Phytozome_Me:cassava4.1_024691m
+Q6Z4E7	Phytozome_Me:cassava4.1_028198m
+Q6Z5M3	Phytozome_Me:cassava4.1_028965m Phytozome_Me:cassava4.1_027503m
+Q6Z684	Phytozome_Me:cassava4.1_006654m Phytozome_Me:cassava4.1_006649m Phytozome_Me:cassava4.1_005558m Phytozome_Me:cassava4.1_006353m Phytozome_Me:cassava4.1_023166m Phytozome_Me:cassava4.1_029261m
+Q6Z702	Phytozome_Me:cassava4.1_005847m Phytozome_Me:cassava4.1_005842m Phytozome_Me:cassava4.1_005859m Phytozome_Me:cassava4.1_005874m
+Q6Z744	Phytozome_Me:cassava4.1_008175m
+Q6Z795	Phytozome_Me:cassava4.1_003269m Phytozome_Me:cassava4.1_003246m Phytozome_Me:cassava4.1_003247m
+Q6Z7Q3	Phytozome_Me:cassava4.1_004330m Phytozome_Me:cassava4.1_004549m Phytozome_Me:cassava4.1_004355m
+Q6Z836	Phytozome_Me:cassava4.1_003339m Phytozome_Me:cassava4.1_003341m
+Q6Z8F4	Phytozome_Me:cassava4.1_008849m Phytozome_Me:cassava4.1_008894m
+Q6Z8Z7	Phytozome_Me:cassava4.1_006101m
+Q6Z965	Phytozome_Me:cassava4.1_009119m
+Q6ZAH2	Phytozome_Me:cassava4.1_010455m Phytozome_Me:cassava4.1_012379m
+Q6ZBH5	Phytozome_Me:cassava4.1_007081m
+Q6ZC33	Phytozome_Me:cassava4.1_031400m
+Q6ZC70	Phytozome_Me:cassava4.1_015242m
+Q6ZCF0	Phytozome_Me:cassava4.1_005703m Phytozome_Me:cassava4.1_005772m Phytozome_Me:cassava4.1_007506m
+Q6ZD10	Phytozome_Me:cassava4.1_001254m
+Q6ZD89	Phytozome_Me:cassava4.1_010187m Phytozome_Me:cassava4.1_010203m
+Q6ZDQ1	Phytozome_Me:cassava4.1_004702m
+Q6ZDY8	Phytozome_Me:cassava4.1_003478m Phytozome_Me:cassava4.1_003519m Phytozome_Me:cassava4.1_004079m
+Q6ZEZ2	Phytozome_Me:cassava4.1_013281m Phytozome_Me:cassava4.1_027961m
+Q6ZFT5	Phytozome_Me:cassava4.1_011783m
+Q6ZG77	Phytozome_Me:cassava4.1_006432m
+Q6ZG91	Phytozome_Me:cassava4.1_004292m Phytozome_Me:cassava4.1_007667m Phytozome_Me:cassava4.1_004267m Phytozome_Me:cassava4.1_004297m
+Q6ZGS9	Phytozome_Me:cassava4.1_014881m
+Q6ZGW6	Phytozome_Me:cassava4.1_027186m Phytozome_Me:cassava4.1_009611m Phytozome_Me:cassava4.1_009603m Phytozome_Me:cassava4.1_009597m Phytozome_Me:cassava4.1_032166m Phytozome_Me:cassava4.1_009593m
+Q6ZHB2	Phytozome_Me:cassava4.1_010639m Phytozome_Me:cassava4.1_032871m
+Q6ZHH7	Phytozome_Me:cassava4.1_031400m
+Q6ZHS4	Phytozome_Me:cassava4.1_008738m
+Q6ZHZ1	Phytozome_Me:cassava4.1_000744m Phytozome_Me:cassava4.1_001062m Phytozome_Me:cassava4.1_000732m
+Q6ZI55	Phytozome_Me:cassava4.1_009951m Phytozome_Me:cassava4.1_009952m Phytozome_Me:cassava4.1_010100m
+Q6ZIA3	Phytozome_Me:cassava4.1_006635m Phytozome_Me:cassava4.1_008301m
+Q6ZIK0	Phytozome_Me:cassava4.1_010835m
+Q6ZIX2	Phytozome_Me:cassava4.1_010993m Phytozome_Me:cassava4.1_010995m
+Q6ZJ97	Phytozome_Me:cassava4.1_006282m
+Q6ZJK7	Phytozome_Me:cassava4.1_030446m
+Q6ZJU3	Phytozome_Me:cassava4.1_008829m Phytozome_Me:cassava4.1_009790m Phytozome_Me:cassava4.1_014779m Phytozome_Me:cassava4.1_009349m Phytozome_Me:cassava4.1_011377m Phytozome_Me:cassava4.1_010738m Phytozome_Me:cassava4.1_011418m Phytozome_Me:cassava4.1_013329m Phytozome_Me:cassava4.1_008790m Phytozome_Me:cassava4.1_009865m Phytozome_Me:cassava4.1_008816m Phytozome_Me:cassava4.1_009889m Phytozome_Me:cassava4.1_014775m
+Q6ZK11	Phytozome_Me:cassava4.1_028608m
+Q6ZKC0	Phytozome_Me:cassava4.1_014068m Phytozome_Me:cassava4.1_014081m Phytozome_Me:cassava4.1_014092m Phytozome_Me:cassava4.1_013801m Phytozome_Me:cassava4.1_014065m Phytozome_Me:cassava4.1_014077m
+Q6ZKV8	Phytozome_Me:cassava4.1_031207m
+Q6ZL61	Phytozome_Me:cassava4.1_013756m Phytozome_Me:cassava4.1_012189m
+Q6ZL94	Phytozome_Me:cassava4.1_010959m
+Q6ZLD3	Phytozome_Me:cassava4.1_011157m Phytozome_Me:cassava4.1_008950m
+Q6ZLJ9	Phytozome_Me:cassava4.1_002059m Phytozome_Me:cassava4.1_002070m
+Q75GB1	Phytozome_Me:cassava4.1_012135m Phytozome_Me:cassava4.1_010089m Phytozome_Me:cassava4.1_011048m Phytozome_Me:cassava4.1_024870m Phytozome_Me:cassava4.1_010080m Phytozome_Me:cassava4.1_012069m Phytozome_Me:cassava4.1_009755m Phytozome_Me:cassava4.1_010103m Phytozome_Me:cassava4.1_012324m Phytozome_Me:cassava4.1_010074m
+Q75H77	Phytozome_Me:cassava4.1_010358m
+Q75HP7	Phytozome_Me:cassava4.1_004768m
+Q75HQ7	Phytozome_Me:cassava4.1_002709m Phytozome_Me:cassava4.1_002591m Phytozome_Me:cassava4.1_002628m Phytozome_Me:cassava4.1_034377m
+Q75HZ9	Phytozome_Me:cassava4.1_008417m
+Q75II5	Phytozome_Me:cassava4.1_009541m
+Q75KD7	Phytozome_Me:cassava4.1_022180m Phytozome_Me:cassava4.1_014582m
+Q75KT7	Phytozome_Me:cassava4.1_013292m Phytozome_Me:cassava4.1_010746m
+Q75L84	Phytozome_Me:cassava4.1_031170m Phytozome_Me:cassava4.1_029083m
+Q75LL5	Phytozome_Me:cassava4.1_009305m
+Q75LR2	Phytozome_Me:cassava4.1_005209m Phytozome_Me:cassava4.1_023162m
+Q75M18	Phytozome_Me:cassava4.1_000661m Phytozome_Me:cassava4.1_000665m
+Q75V57	Phytozome_Me:cassava4.1_010358m
+Q75W16	Phytozome_Me:cassava4.1_005209m Phytozome_Me:cassava4.1_023162m
+Q764B9	Phytozome_Me:cassava4.1_023625m
+Q7EYE4	Phytozome_Me:cassava4.1_029197m
+Q7EYM8	Phytozome_Me:cassava4.1_009342m
+Q7EZW6	Phytozome_Me:cassava4.1_021390m
+Q7EZZ0	Phytozome_Me:cassava4.1_031000m
+Q7F0Q2	Phytozome_Me:cassava4.1_014400m
+Q7F190	Phytozome_Me:cassava4.1_003615m
+Q7F8K7	Phytozome_Me:cassava4.1_020490m Phytozome_Me:cassava4.1_020555m Phytozome_Me:cassava4.1_020556m
+Q7FAE1	Phytozome_Me:cassava4.1_013704m Phytozome_Me:cassava4.1_022198m Phytozome_Me:cassava4.1_013798m
+Q7FAH2	Phytozome_Me:cassava4.1_011345m Phytozome_Me:cassava4.1_011340m Phytozome_Me:cassava4.1_011366m Phytozome_Me:cassava4.1_011347m
+Q7G065	Phytozome_Me:cassava4.1_006360m Phytozome_Me:cassava4.1_005409m Phytozome_Me:cassava4.1_006048m Phytozome_Me:cassava4.1_005421m Phytozome_Me:cassava4.1_005437m
+Q7G2F7	Phytozome_Me:cassava4.1_000394m
+Q7G2H3	Phytozome_Me:cassava4.1_008996m
+Q7G4P2	Phytozome_Me:cassava4.1_006550m
+Q7G602	Phytozome_Me:cassava4.1_005702m Phytozome_Me:cassava4.1_005668m
+Q7G7J6	Phytozome_Me:cassava4.1_003741m Phytozome_Me:cassava4.1_029701m Phytozome_Me:cassava4.1_033968m
+Q7X634	Phytozome_Me:cassava4.1_025839m Phytozome_Me:cassava4.1_010497m Phytozome_Me:cassava4.1_010519m
+Q7X7H9	Phytozome_Me:cassava4.1_024327m Phytozome_Me:cassava4.1_012500m
+Q7X7N2	Phytozome_Me:cassava4.1_011323m Phytozome_Me:cassava4.1_011300m
+Q7X7X0	Phytozome_Me:cassava4.1_024055m
+Q7X8A1	Phytozome_Me:cassava4.1_008960m Phytozome_Me:cassava4.1_008965m
+Q7X8V3	Phytozome_Me:cassava4.1_002709m Phytozome_Me:cassava4.1_002591m Phytozome_Me:cassava4.1_002628m Phytozome_Me:cassava4.1_034377m
+Q7XAP2	Phytozome_Me:cassava4.1_010048m Phytozome_Me:cassava4.1_010050m Phytozome_Me:cassava4.1_030319m
+Q7XBY6	Phytozome_Me:cassava4.1_016053m
+Q7XCK3	Phytozome_Me:cassava4.1_009918m
+Q7XE48	Phytozome_Me:cassava4.1_002278m Phytozome_Me:cassava4.1_028098m
+Q7XH05	Phytozome_Me:cassava4.1_021582m Phytozome_Me:cassava4.1_000330m
+Q7XHZ2	Phytozome_Me:cassava4.1_003792m Phytozome_Me:cassava4.1_005009m
+Q7XI35	Phytozome_Me:cassava4.1_007674m Phytozome_Me:cassava4.1_031775m Phytozome_Me:cassava4.1_029835m Phytozome_Me:cassava4.1_021325m Phytozome_Me:cassava4.1_007065m
+Q7XI67	Phytozome_Me:cassava4.1_001079m
+Q7XI92	Phytozome_Me:cassava4.1_010020m
+Q7XI96	Phytozome_Me:cassava4.1_012105m Phytozome_Me:cassava4.1_012297m
+Q7XKQ8	Phytozome_Me:cassava4.1_003589m Phytozome_Me:cassava4.1_003211m
+Q7XM21	Phytozome_Me:cassava4.1_010212m
+Q7XNX6	Phytozome_Me:cassava4.1_001283m
+Q7XPW5	Phytozome_Me:cassava4.1_014729m
+Q7XQ85	Phytozome_Me:cassava4.1_028340m Phytozome_Me:cassava4.1_032007m Phytozome_Me:cassava4.1_006665m
+Q7XR02	Phytozome_Me:cassava4.1_034432m Phytozome_Me:cassava4.1_017600m
+Q7XR60	Phytozome_Me:cassava4.1_008528m Phytozome_Me:cassava4.1_008549m Phytozome_Me:cassava4.1_008547m Phytozome_Me:cassava4.1_008531m
+Q7XR61	Phytozome_Me:cassava4.1_008528m Phytozome_Me:cassava4.1_008549m Phytozome_Me:cassava4.1_008547m Phytozome_Me:cassava4.1_008531m
+Q7XRT0	Phytozome_Me:cassava4.1_011368m Phytozome_Me:cassava4.1_009395m Phytozome_Me:cassava4.1_009376m
+Q7XTK3	Phytozome_Me:cassava4.1_010118m Phytozome_Me:cassava4.1_011198m Phytozome_Me:cassava4.1_012874m
+Q7XU28	Phytozome_Me:cassava4.1_010643m Phytozome_Me:cassava4.1_010782m
+Q7XU29	Phytozome_Me:cassava4.1_032749m
+Q7XUH5	Phytozome_Me:cassava4.1_014400m
+Q7XUK6	Phytozome_Me:cassava4.1_015762m
+Q7XUS2	Phytozome_Me:cassava4.1_013570m
+Q7XVK0	Phytozome_Me:cassava4.1_012422m Phytozome_Me:cassava4.1_031433m Phytozome_Me:cassava4.1_025273m Phytozome_Me:cassava4.1_011655m Phytozome_Me:cassava4.1_013703m Phytozome_Me:cassava4.1_012412m Phytozome_Me:cassava4.1_011671m Phytozome_Me:cassava4.1_011588m Phytozome_Me:cassava4.1_011652m Phytozome_Me:cassava4.1_011633m Phytozome_Me:cassava4.1_011650m Phytozome_Me:cassava4.1_022385m
+Q7XVM2	Phytozome_Me:cassava4.1_006919m Phytozome_Me:cassava4.1_006912m Phytozome_Me:cassava4.1_006909m
+Q7XVM8	Phytozome_Me:cassava4.1_004514m Phytozome_Me:cassava4.1_004520m
+Q7XX31	Phytozome_Me:cassava4.1_007963m Phytozome_Me:cassava4.1_007376m
+Q7XX32	Phytozome_Me:cassava4.1_007963m Phytozome_Me:cassava4.1_007376m
+Q7XXL2	Phytozome_Me:cassava4.1_030552m Phytozome_Me:cassava4.1_023640m
+Q7XYS3	Phytozome_Me:cassava4.1_006532m
+Q7XZH5	Phytozome_Me:cassava4.1_028354m Phytozome_Me:cassava4.1_013608m
+Q7Y152	Phytozome_Me:cassava4.1_027071m Phytozome_Me:cassava4.1_006123m
+Q7Y1H9	Phytozome_Me:cassava4.1_013756m Phytozome_Me:cassava4.1_012189m
+Q84JH5	Phytozome_Me:cassava4.1_010391m Phytozome_Me:cassava4.1_010389m Phytozome_Me:cassava4.1_010369m Phytozome_Me:cassava4.1_010388m
+Q84LK3	Phytozome_Me:cassava4.1_006024m Phytozome_Me:cassava4.1_006072m
+Q84M43	Phytozome_Me:cassava4.1_000673m Phytozome_Me:cassava4.1_000695m
+Q84ME6	Phytozome_Me:cassava4.1_013313m Phytozome_Me:cassava4.1_013282m
+Q84MN8	Phytozome_Me:cassava4.1_007160m
+Q84Q89	Phytozome_Me:cassava4.1_028087m Phytozome_Me:cassava4.1_023404m
+Q84R94	Phytozome_Me:cassava4.1_015195m Phytozome_Me:cassava4.1_013620m Phytozome_Me:cassava4.1_013723m
+Q84RX6	Phytozome_Me:cassava4.1_003467m
+Q84VC7	Phytozome_Me:cassava4.1_000719m
+Q84YK8	Phytozome_Me:cassava4.1_001314m Phytozome_Me:cassava4.1_001332m Phytozome_Me:cassava4.1_001321m Phytozome_Me:cassava4.1_021342m Phytozome_Me:cassava4.1_001361m
+Q84ZN6	Phytozome_Me:cassava4.1_000673m Phytozome_Me:cassava4.1_000695m
+Q84ZY2	Phytozome_Me:cassava4.1_002307m
+Q851L5	Phytozome_Me:cassava4.1_026678m
+Q851L6	Phytozome_Me:cassava4.1_026678m
+Q851Z6	Phytozome_Me:cassava4.1_005415m Phytozome_Me:cassava4.1_004817m
+Q852C2	Phytozome_Me:cassava4.1_007674m Phytozome_Me:cassava4.1_031775m Phytozome_Me:cassava4.1_029835m Phytozome_Me:cassava4.1_021325m Phytozome_Me:cassava4.1_007065m
+Q852M1	Phytozome_Me:cassava4.1_021582m Phytozome_Me:cassava4.1_000330m
+Q852M2	Phytozome_Me:cassava4.1_021582m Phytozome_Me:cassava4.1_000330m
+Q8GRU7	Phytozome_Me:cassava4.1_004778m
+Q8GT01	Phytozome_Me:cassava4.1_013665m
+Q8GTK1	Phytozome_Me:cassava4.1_023722m Phytozome_Me:cassava4.1_033578m
+Q8GZY1	Phytozome_Me:cassava4.1_029232m Phytozome_Me:cassava4.1_024692m
+Q8H016	Phytozome_Me:cassava4.1_001238m Phytozome_Me:cassava4.1_002443m Phytozome_Me:cassava4.1_003042m Phytozome_Me:cassava4.1_001241m
+Q8H038	Phytozome_Me:cassava4.1_004031m Phytozome_Me:cassava4.1_004268m
+Q8H048	Phytozome_Me:cassava4.1_001620m
+Q8H075	Phytozome_Me:cassava4.1_026612m Phytozome_Me:cassava4.1_018662m
+Q8H093	Phytozome_Me:cassava4.1_001620m
+Q8H273	Phytozome_Me:cassava4.1_015843m Phytozome_Me:cassava4.1_015361m
+Q8H2J9	Phytozome_Me:cassava4.1_012296m Phytozome_Me:cassava4.1_007794m
+Q8H395	Phytozome_Me:cassava4.1_015195m Phytozome_Me:cassava4.1_013620m Phytozome_Me:cassava4.1_013723m
+Q8H3A4	Phytozome_Me:cassava4.1_009458m
+Q8H3C9	Phytozome_Me:cassava4.1_026678m
+Q8H3L0	Phytozome_Me:cassava4.1_021112m Phytozome_Me:cassava4.1_005653m
+Q8H3Q7	Phytozome_Me:cassava4.1_031238m Phytozome_Me:cassava4.1_006656m
+Q8H530	Phytozome_Me:cassava4.1_008627m
+Q8H539	Phytozome_Me:cassava4.1_014773m Phytozome_Me:cassava4.1_014084m
+Q8H7T7	Phytozome_Me:cassava4.1_008523m Phytozome_Me:cassava4.1_008467m Phytozome_Me:cassava4.1_012023m
+Q8H825	Phytozome_Me:cassava4.1_011730m Phytozome_Me:cassava4.1_011630m
+Q8H8U0	Phytozome_Me:cassava4.1_011666m Phytozome_Me:cassava4.1_009828m
+Q8H930	Phytozome_Me:cassava4.1_008521m
+Q8LHD1	Phytozome_Me:cassava4.1_000375m
+Q8LI89	Phytozome_Me:cassava4.1_002423m
+Q8LJJ2	Phytozome_Me:cassava4.1_005355m Phytozome_Me:cassava4.1_005543m
+Q8LM92	Phytozome_Me:cassava4.1_005702m Phytozome_Me:cassava4.1_005668m
+Q8LMW8	Phytozome_Me:cassava4.1_026516m Phytozome_Me:cassava4.1_017950m Phytozome_Me:cassava4.1_023198m Phytozome_Me:cassava4.1_017929m
+Q8LNU2	Phytozome_Me:cassava4.1_001478m Phytozome_Me:cassava4.1_001472m
+Q8LQ34	Phytozome_Me:cassava4.1_027960m
+Q8RU95	Phytozome_Me:cassava4.1_004643m
+Q8RYY6	Phytozome_Me:cassava4.1_004768m
+Q8S2G0	Phytozome_Me:cassava4.1_009309m Phytozome_Me:cassava4.1_009412m Phytozome_Me:cassava4.1_012743m
+Q8S5M6	Phytozome_Me:cassava4.1_002485m Phytozome_Me:cassava4.1_002487m Phytozome_Me:cassava4.1_002480m
+Q8S5T1	Phytozome_Me:cassava4.1_004749m Phytozome_Me:cassava4.1_004754m
+Q8S919	Phytozome_Me:cassava4.1_018463m Phytozome_Me:cassava4.1_018458m Phytozome_Me:cassava4.1_018424m Phytozome_Me:cassava4.1_018439m Phytozome_Me:cassava4.1_018466m Phytozome_Me:cassava4.1_018465m Phytozome_Me:cassava4.1_018443m
+Q8S983	Phytozome_Me:cassava4.1_001105m Phytozome_Me:cassava4.1_001355m
+Q8S985	Phytozome_Me:cassava4.1_002399m
+Q8S9S4	Phytozome_Me:cassava4.1_007828m
+Q8S9Z2	Phytozome_Me:cassava4.1_009358m Phytozome_Me:cassava4.1_009410m Phytozome_Me:cassava4.1_009751m
+Q8VWH2	Phytozome_Me:cassava4.1_032045m
+Q8W0B6	Phytozome_Me:cassava4.1_005940m
+Q8W0E4	Phytozome_Me:cassava4.1_012923m Phytozome_Me:cassava4.1_011032m
+Q8W250	Phytozome_Me:cassava4.1_006899m Phytozome_Me:cassava4.1_006908m
+Q8W3J0	Phytozome_Me:cassava4.1_028367m Phytozome_Me:cassava4.1_010972m Phytozome_Me:cassava4.1_010948m Phytozome_Me:cassava4.1_010996m
+Q8W3L9	Phytozome_Me:cassava4.1_003701m
+Q8W3M0	Phytozome_Me:cassava4.1_003701m
+Q93VC3	Phytozome_Me:cassava4.1_010809m Phytozome_Me:cassava4.1_011784m
+Q93VD5	Phytozome_Me:cassava4.1_005134m
+Q93WI9	Phytozome_Me:cassava4.1_032045m
+Q93X08	Phytozome_Me:cassava4.1_006979m Phytozome_Me:cassava4.1_006965m Phytozome_Me:cassava4.1_006973m
+Q93XI4	Phytozome_Me:cassava4.1_015675m
+Q93Y73	Phytozome_Me:cassava4.1_009803m
+Q941W8	Phytozome_Me:cassava4.1_015315m Phytozome_Me:cassava4.1_034305m
+Q94E75	Phytozome_Me:cassava4.1_008177m Phytozome_Me:cassava4.1_009570m Phytozome_Me:cassava4.1_008254m
+Q94GF1	Phytozome_Me:cassava4.1_004435m
+Q94HG3	Phytozome_Me:cassava4.1_034158m Phytozome_Me:cassava4.1_004131m
+Q94IW5	Phytozome_Me:cassava4.1_006470m
+Q94J90	Phytozome_Me:cassava4.1_005238m
+Q94JA2	Phytozome_Me:cassava4.1_011133m Phytozome_Me:cassava4.1_011026m
+Q94JJ0	Phytozome_Me:cassava4.1_009233m Phytozome_Me:cassava4.1_009217m
+Q94LU9	Phytozome_Me:cassava4.1_002074m
+Q94LV4	Phytozome_Me:cassava4.1_008523m Phytozome_Me:cassava4.1_008467m Phytozome_Me:cassava4.1_012023m
+Q9ASD3	Phytozome_Me:cassava4.1_027499m Phytozome_Me:cassava4.1_014738m Phytozome_Me:cassava4.1_014908m
+Q9ASP4	Phytozome_Me:cassava4.1_005856m
+Q9AUQ4	Phytozome_Me:cassava4.1_004336m Phytozome_Me:cassava4.1_004332m
+Q9AUV6	Phytozome_Me:cassava4.1_006657m Phytozome_Me:cassava4.1_006663m Phytozome_Me:cassava4.1_020987m
+Q9AV71	Phytozome_Me:cassava4.1_000906m Phytozome_Me:cassava4.1_000770m
+Q9AWL7	Phytozome_Me:cassava4.1_001069m Phytozome_Me:cassava4.1_000500m
+Q9AWZ8	Phytozome_Me:cassava4.1_010608m
+Q9FDX8	Phytozome_Me:cassava4.1_009662m Phytozome_Me:cassava4.1_009557m
+Q9FTR6	Phytozome_Me:cassava4.1_007953m Phytozome_Me:cassava4.1_007966m
+Q9FTZ2	Phytozome_Me:cassava4.1_015812m
+Q9FU67	Phytozome_Me:cassava4.1_034384m Phytozome_Me:cassava4.1_033869m
+Q9FU68	Phytozome_Me:cassava4.1_034384m Phytozome_Me:cassava4.1_033869m
+Q9FU69	Phytozome_Me:cassava4.1_034384m Phytozome_Me:cassava4.1_033869m
+Q9FWC1	Phytozome_Me:cassava4.1_004491m
+Q9FWK4	Phytozome_Me:cassava4.1_017479m
+Q9FWQ2	Phytozome_Me:cassava4.1_031249m Phytozome_Me:cassava4.1_009837m Phytozome_Me:cassava4.1_009204m Phytozome_Me:cassava4.1_031945m
+Q9FXQ3	Phytozome_Me:cassava4.1_004779m Phytozome_Me:cassava4.1_004773m Phytozome_Me:cassava4.1_031489m
+Q9LD61	Phytozome_Me:cassava4.1_009456m
+Q9LDB7	Phytozome_Me:cassava4.1_011052m
+Q9LGU6	Phytozome_Me:cassava4.1_009247m
+Q9LHZ0	Phytozome_Me:cassava4.1_014161m
+Q9LHZ7	Phytozome_Me:cassava4.1_000529m
+Q9LIZ8	Phytozome_Me:cassava4.1_002485m Phytozome_Me:cassava4.1_002487m Phytozome_Me:cassava4.1_002480m
+Q9LWJ2	Phytozome_Me:cassava4.1_007019m Phytozome_Me:cassava4.1_029606m Phytozome_Me:cassava4.1_008957m
+Q9S7D3	Phytozome_Me:cassava4.1_013361m Phytozome_Me:cassava4.1_013362m
+Q9SDG5	Phytozome_Me:cassava4.1_012059m Phytozome_Me:cassava4.1_009796m
+Q9SMB1	Phytozome_Me:cassava4.1_011190m Phytozome_Me:cassava4.1_011152m
+Q9SNK3	Phytozome_Me:cassava4.1_007468m Phytozome_Me:cassava4.1_007523m Phytozome_Me:cassava4.1_007476m
+Q9SNN0	Phytozome_Me:cassava4.1_002558m Phytozome_Me:cassava4.1_002501m
+Q9XEA6	Phytozome_Me:cassava4.1_011785m Phytozome_Me:cassava4.1_011822m Phytozome_Me:cassava4.1_011809m Phytozome_Me:cassava4.1_011826m
+Q9XEA8	Phytozome_Me:cassava4.1_011785m Phytozome_Me:cassava4.1_011822m Phytozome_Me:cassava4.1_011809m Phytozome_Me:cassava4.1_011826m
+Q9XFE5	Phytozome_Me:cassava4.1_029197m
+Q9XG80	Phytozome_Me:cassava4.1_028462m
+Q9XHL5	Phytozome_Me:cassava4.1_004209m Phytozome_Me:cassava4.1_003982m Phytozome_Me:cassava4.1_004261m Phytozome_Me:cassava4.1_003670m Phytozome_Me:cassava4.1_003914m Phytozome_Me:cassava4.1_021573m
+Q9XJ03	Phytozome_Me:cassava4.1_031506m Phytozome_Me:cassava4.1_027867m Phytozome_Me:cassava4.1_013379m Phytozome_Me:cassava4.1_028215m Phytozome_Me:cassava4.1_010003m
+Q9XJ29	Phytozome_Me:cassava4.1_003888m Phytozome_Me:cassava4.1_006448m
+Q9ZTP5	Phytozome_Me:cassava4.1_013479m Phytozome_Me:cassava4.1_013469m
+UPI00000AA151	Phytozome_Me:cassava4.1_011052m
