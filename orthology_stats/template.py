@@ -26,9 +26,17 @@ def get_product_data(sub_dict, rxn_dict):
     new_response = requests.get(new_full, headers=headers).json
     for party in new_response:
         if party.schemaClass != "SimpleEntity":
-        sub_dict[party.peDbId] = {}
-            #for entity in party.refEntities:
+        #for entity in party.refEntities:
                 #tggrgdrg
+        if entity.schemaClass == "ReferenceGeneProduct":
+            sub_dict[party.peDbId][entity.dbID] = {}
+            sub_dict[party.peDbId][entity.dbID][UniProt] = entity.identifier
+            for name in entity.geneName:
+                if name.startswith("OS"):
+                    sub_dict[party.peDbId][entity.dbID][RAP] = name
+                if name.startswith("LOC"):
+                    sub_dict[party.peDbId][entity.dbID][MSU] = name
+            get_ortho_data()
     return
 
 def get_ortho_data(event, species_dict):
@@ -37,7 +45,7 @@ def get_ortho_data(event, species_dict):
         new_path = ('/data/orthology/' + event.stId + '/species/' + id)
         new_full = url_base + new_path
         new_response = requests.get(new_full, headers=headers).json
-        event.children
+        if new_response =
     return
 
 def get_path_data(rxn_dict, species_dict):
@@ -45,10 +53,10 @@ def get_path_data(rxn_dict, species_dict):
         if child.type == "Pathway":
             get path_data(child, species_dict)
         else if child.type == "Reaction":
-            child.children = []
+            child.children = {}
             get_ortho_data(child, species_dict)
         else if child.type == "BlackBoxEvent":
-            child.children = []
+            child.children = {}
             get_ortho_data(child, species_dict)
 
 def get_species_data():
@@ -87,14 +95,6 @@ species_dict = get_species_data()
 
 
 
-                if entity.schemaClass == "ReferenceGeneProduct":
-                    sub_dict[party.peDbId][entity.dbID] = {}
-                    sub_dict[party.peDbId][entity.dbID][UniProt] = entity.identifier
-                    for name in entity.geneName:
-                        if name.startswith("OS"):
-                            sub_dict[party.peDbId][entity.dbID][RAP] = name
-                        if name.startswith("LOC"):
-                            sub_dict[party.peDbId][entity.dbID][MSU] = name
-                    get_ortho_data()
+
 
 
