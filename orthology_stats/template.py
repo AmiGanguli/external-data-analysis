@@ -45,7 +45,7 @@ def get_ortho_data(event, species_dict):
         new_path = ('/data/orthology/' + event.stId + '/species/' + id)
         new_full = url_base + new_path
         new_response = requests.get(new_full, headers=headers).json
-        if new_response =
+        if 
     return
 
 def get_path_data(rxn_dict, species_dict):
@@ -58,6 +58,7 @@ def get_path_data(rxn_dict, species_dict):
         else if child.type == "BlackBoxEvent":
             child.children = {}
             get_ortho_data(child, species_dict)
+    return
 
 def get_species_data():
     path_url = 'data/species/all'
