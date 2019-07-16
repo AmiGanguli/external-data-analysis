@@ -1,27 +1,15 @@
-#!
+#!C:\Program Files (x86)\Python
 import requests
 import re
 import sys
 import math
 import time
+import json
+import pandas as pd
+import copy
 url_base = 'https://plantreactome.gramene.org/ContentService'
 headers = {'accept': 'application/json'}
 
-'''def get_path_data(rxn_dict):
-    new_path = ('/data/pathway/' + rxn_dict.stID + '/containedEvents')
-    new_full = url_base + new_path
-    new_response = requests.get(new_full, headers=headers).json
-    rxn_only = 1
-    for sub_event in new_response:
-        if sub_event.schemaClass == "Pathway":
-            #get_path_data(sub_event.stID, rxn_dict)
-            rxn_only = 0
-    if rxn_only == 1:
-        if sub_event.stID not in rxn_dict:
-            rxn_dict[sub_event.stID] = {}
-            for rxn in rxn_dict[sub_event.stID]:
-                get_rxn_data(rxn.stID, rxn_dict[sub_event.stID])
-    return'''
 #########################################################################
 #                     Method Call Hierarchy                             #
 #    1) Call Event Hierarchy method on species of interest              #
@@ -37,15 +25,58 @@ headers = {'accept': 'application/json'}
 #           Add orthologs to species dict and reaction dict             #
 #########################################################################
 
-# path_url = '/data/pathway/R-OSA-2744345/containedEvents'
+
+def usefulPrint(rxn_dict, path_depth, depth, outfile):
+    if depth == 0:
+        path_reach = path_depth*"Pathway\t"
+        outfile.write(f"{path_reach}Reaction\tUniProt_ID\tMSU?\tRAP?\tSpecies\tOrthologs\n")
+    if 'species' in rxn_dict:
+        extra = 0
+        if 'MSU' in rxn_dict:
+            outfile.write(f"{rxn_dict['MSU']}\t")
+            extra += 4
+        else:
+            outfile.write(f"No MSU\t")
+            extra += 4
+        if 'RAP' in rxn_dict:
+            outfile.write(f"{rxn_dict['RAP']}\t")
+            extra += 4
+        else:
+            outfile.write(f"No RAP\t")
+            extra +=4
+        usefulPrint(rxn_dict['species'], path_depth-1, depth + extra, outfile)
+        # outfile.write(f'\n')
+        if len(rxn_dict['species']) > 0 and len(rxn_dict) > 0:
+            print("no linebreak")
+            # for tabs in range(0, depth):
+            #    outfile.write(f"\t")
+        else:
+            outfile.write(f'\n')
+    else:
+        # rxn_keys = [*rxn_dict]
+        for element in rxn_dict:
+            print(f"{element} Depth: {depth}")
+            outfile.write(f"{element}\t")
+            extra = math.floor(len(element)/4) + 1
+            print(f"{element} Extra Depth added: {extra}")
+            if type(rxn_dict) == dict:
+                usefulPrint(rxn_dict[element], path_depth-1, depth + extra, outfile)
+            else:
+                outfile.write(f'\n')
 
 
-def get_multi_product_data(setId,rxn_list):
-    new_path = (f'/data/query/{setId}')
+def get_multi_product_data(setId, df_dict, ortho_spec, UniProtId):
+    new_path = f'/data/query/{setId}'
     new_full = url_base + new_path
     new_response = requests.get(new_full, headers=headers).json()
     for member in new_response['hasMember']:
-        rxn_list.append(member['name'][0])
+        print(f'DBUG9.2 --- Name: {member["name"][0]} --- Schema Class: {member["schemaClass"]} --- Query: '
+              f'Query[hasMember]')
+        if member['schemaClass'] == "EntityWithAccessionedSequence":
+            if ortho_spec in df_dict:
+                if UniProtId not in df_dict[ortho_spec]:
+                    df_dict[ortho_spec][UniProtId] = []
+                df_dict[ortho_spec][UniProtId].append(member['name'][0])
     '''if new_response.schemaClass == "DefinedSet":
         for member in new_response.hasMember:
             if member.schemaClass != "SimpleEntity":
@@ -59,118 +90,223 @@ def get_multi_product_data(setId,rxn_list):
     return
 
 
-def get_ortho_data(ewas, rxn_dict):
+def get_ortho_data(ewas, df_dict, UniProtId):
+    if 'inferredTo' in ewas:
+        for ortholog in ewas['inferredTo']:
+            ortho_spec = ortholog['speciesName']
+            print(f'DBUG9.1 --- Name: {ortholog["name"][0]} --- Schema Class: {ortholog["schemaClass"]} --- Query: '
+                  f'Query[inferredTo]')
+
+            if ortholog['schemaClass'] == "EntityWithAccessionedSequence":
+                if ortho_spec in df_dict:
+                    df_dict[ortho_spec][UniProtId].append(ortholog['name'][0])
+            elif ortholog['schemaClass'] == 'DefinedSet':
+                get_multi_product_data(ortholog['stId'], df_dict, ortho_spec, UniProtId)
+    return
+
+
+def get_prot_data(ewas, rxn_dict, df_dict):
     if 'identifier' in ewas['referenceEntity']:
         UniProtId = ewas['referenceEntity']['identifier']
     else:
         UniProtId = ewas['referenceEntity']['secondaryIdentifier'][0]
+
     rxn_dict[UniProtId] = {}
-    # print(f'DBUG8: {ewas}')
+    print(f'DBUG8.1 --- Name: {ewas["displayName"]} --- stId: {ewas["stId"]} --- UniProt: {UniProtId} --- Query: Query')
+
     if 'geneName' in ewas['referenceEntity']:
+        RAP_flag = False
+        MSU_flag = False
         for name in ewas['referenceEntity']['geneName']:
-            match = re.match("OS..G........", name)
-            if match:
-                rxn_dict[UniProtId]["RAP"] = name[0:12]
-            match1 = re.match("LOC_OS..G.....", name)
-            if match1:
-                rxn_dict[UniProtId]['MSU'] = name
-    if 'inferredTo' in ewas:
-        rxn_dict[UniProtId]['species'] = {}
-        for ortholog in ewas['inferredTo']:
-            # print(f'DBUG9: {ortholog}')
-            rxn_dict[UniProtId]['species'][ortholog['speciesName']] = []
-            if ortholog['schemaClass'] == "EntityWithAccessionedSequence":
-                rxn_dict[UniProtId]['species'][ortholog['speciesName']].append(ortholog['name'][0])
-            if ortholog['schemaClass'] == 'DefinedSet':
-                get_multi_product_data(ortholog['stId'], rxn_dict[UniProtId]['species'][ortholog['speciesName']])
-    return
+            match = re.match("OS..G........", name.upper())
+            if match and RAP_flag is False:
+                rxn_dict[UniProtId]["RAP ID"] = name[0:12]
+                print(f'DBUG8.2 --- RAP ID found: {name[0:12]}')
+                RAP_flag = True
+            match1 = re.match("LOC_OS..G.....", name.upper())
+            if match1 and MSU_flag is False:
+                rxn_dict[UniProtId]["MSU ID"] = name
+                print(f'DBUG8.3 --- MSU ID found: {name}')
+                MSU_flag = True
+            if RAP_flag is True and MSU_flag is True:
+                print(f'DBUG8.4 --- both Secondary IDs found')
+                break
+
+    for species in df_dict:
+        if UniProtId not in df_dict[species]:
+            df_dict[species][UniProtId] = []
+    get_ortho_data(ewas, df_dict, UniProtId)
+
+    for species in df_dict:
+        if len(df_dict[species][UniProtId]) == 0:
+            df_dict[species][UniProtId].append("")
+        temp_string = ",".join(df_dict[species][UniProtId])
+        df_dict[species][UniProtId] = copy.copy(temp_string)
 
 
-def get_product_data(entityId, rxn_dict):
-    new_path = (f'/data/query/{entityId}')
+def get_product_data(entityId, rxn_dict, df_dict):
+    new_path = f'/data/query/{entityId}'
     new_full = url_base + new_path
     new_response = requests.get(new_full, headers=headers).json()
-    print(f'DBUG7: {new_response}')
+
+    if 'stId' in new_response:
+        newId = new_response['stId']
+    else:
+        newId = new_response['dbId']
+
+    print(f'DBUG6.1 --- Name: {new_response["displayName"]} --- ID: {newId} --- Schema Class: '
+          f'{new_response["schemaClass"]} --- Query: Query')
+
     if new_response['schemaClass'] == "CatalystActivity":
-        get_product_data(new_response['physicalEntity']['stId'], rxn_dict)
-        print('-> Catalyst')
+        get_product_data(new_response['physicalEntity']['stId'], rxn_dict, df_dict)
+
     elif new_response['schemaClass'] == "DefinedSet":
-        print('-> Set')
         for member in new_response['hasMember']:
-            print(f'--->{member["schemaClass"]}')
             if member['schemaClass'] != "SimpleEntity":
-                get_product_data(member['stId'], rxn_dict)
+                print(f'DBUG7.2 --- Name: {member["displayName"]} --- stID: {member["stId"]} --- Schema Class: '
+                      f'{member["schemaClass"]} --- Query: Query')
+                get_product_data(member['stId'], rxn_dict, df_dict)
+
     elif new_response['schemaClass'] == 'Complex':
-        print('->Complex')
         for component in new_response['hasComponent']:
             if component['schemaClass'] != "SimpleEntity":
-                print(f'--->{component["schemaClass"]}')
-                get_product_data(component['stId'], rxn_dict)
+                print(f'DBUG7.3 --- Name: {component["displayName"]} --- stID: {component["stId"]} --- Schema Class: '
+                      f'{component["schemaClass"]} --- Query: Query')
+                get_product_data(component['stId'], rxn_dict, df_dict)
+
     elif new_response['schemaClass'] == "EntityWithAccessionedSequence":
-        print('->EWAS')
-        get_ortho_data(new_response, rxn_dict)
-    return
+        get_prot_data(new_response, rxn_dict, df_dict)
+
+
+# altered version of get_parts_data that skips over CatalystActivity call
+def get_parts_data(event, rxn_dict, df_dict):
+    new_path = f'/data/participants/{event["stId"]}/participatingPhysicalEntities'
+    new_full = url_base + new_path
+    new_response = requests.get(new_full, headers=headers).json()
+
+    for party in new_response:
+        sClass = party['schemaClass']
+
+        if sClass == "CatalystActivity":
+            print(f'DBUG5.1 --- Name: {party["displayName"]} --- dbId: {party["peDbId"]} --- Query: '
+                  f'participatingPhysicalEntities')
+            get_product_data(party['peDbId'], rxn_dict, df_dict)
+
+        elif sClass == "DefinedSet" or sClass == "Complex" or sClass == "EntityWithAccessionedSequence":
+            print(f'DBUG5.2 --- Name: {party["displayName"]} --- stId: {party["stId"]} --- Query: '
+                  f'participatingPhysicalEntities')
+            get_product_data(party['stId'], rxn_dict, df_dict)
 
 
 # Something of a wrapper function to reach CatalystActivity
-def get_parts_data(event, rxn_dict):
-    new_path = ('/data/participants/' + event['stId'])
+'''def get_parts_data(event, rxn_dict):
+    new_path = f'/data/participants/{event["stId"]})'
     new_full = url_base + new_path
     new_response = requests.get(new_full, headers=headers).json()
     for party in new_response:
         if party['schemaClass'] == "CatalystActivity":
             print(f'DBUG6: {party}')
             get_product_data(party['peDbId'], rxn_dict)
-    return
+    return'''
+
+
+def build_species_dict(df_dict):
+    new_path = f'/data/species/all'
+    new_full = url_base + new_path
+    spec_res = requests.get(new_full, headers=headers).json()
+
+    for species in spec_res:
+        if species["displayName"] not in df_dict:
+            df_dict[species["displayName"]] = {}
+
+
+def term_path_adapter(sub_dict):
+    print(f'DBUG4.1 --- Terminal Path Reached --- Name: {sub_dict["name"]} --- stID: {sub_dict["stId"]}')
+
+    rxn_dict = {}
+    df_dict = {}
+    build_species_dict(df_dict)
+
+    for child in sub_dict['children']:
+        print(f'DBUG4.2 --- Name: {child["name"]} --- stID: {child["stId"]} --- Type: {child["type"]} --- '
+              f'Query: eventsHierarchy subtree')
+        rxn_dict[child['name']] = {}
+        get_parts_data(child, rxn_dict[child['name']], df_dict)
+
+    start_time1 = time.time()
+
+    outfile = open(fileout, "a")
+    json.dump(rxn_dict, outfile)
+    outfile.close()
+    time2 = time.time() - start_time1
+    print("--- %s seconds ---" % time2)
+
+    df = pd.DataFrame.from_dict(data=df_dict, orient='columns')
+    df.to_csv(path_or_buf=frameout, mode="a",)
+    df_dict.clear()
+    rxn_dict.clear() # Not sure if this is the best way to free the dictionary's memory
 
 
 # (child['stId'] == 'R-OSA-1119263' or
 # Dives into pathways and constructs pathway hierarchy
-def get_path_data(sub_dict, rxn_dict, path_list):
-    if path_list:
-        for child in sub_dict['children']:
-            # print(f'3.5: {child}')
-            if child['stId'] in path_list:
-                if 'children' in child:
+def get_path_data(sub_dict, path_list):
+    rxn_flag = False
+    for child in sub_dict['children']:
+        # print(f'3.5: {child}')
+        if child['stId'] in path_list:
+            if 'children' in child:
+                for grandkid in child['children']:
+                    if grandkid['type'] == 'Pathway':
+                        path_list.append(grandkid['stId'])
+                print(f"DBUG_CHILD: Child reached, grandchildren ID grabbed: {path_list}\t---\t{grandkid}")
+        if child['stId'] not in path_list:
+            if 'children' in child:
+                grandflag = False
+                for grandkid in child['children']:
+                    if grandkid['stId'] in path_list:
+                        if child['stId'] not in path_list:
+                            path_list.append(child['stId'])
+                            print(f"DBUG_GRAND: Grandchild desired, child ID grabbed\t---\t{path_list}")
+                            grandflag = True
+                            break
+                if grandflag is False:
                     for grandkid in child['children']:
-                        if grandkid['type'] == 'Pathway':
-                            path_list.append(grandkid['stId'])
-                            print(f"DBUG: Child reached, grandchildren IDs grabbed")
-                            print(path_list)
-            if child['stId'] not in path_list:
-                if 'children' in child:
-                    for grandkid in child['children']:
-                        if grandkid['stId'] in path_list:
-                            if child['stId'] not in path_list:
-                                path_list.append(child['stId'])
-                                print(f"DBUG: Grandchild desired, child ID grabbed")
-                                print(path_list)
-            if child['type'] == 'Pathway' and child['stId'] in path_list:  # and child['stId'] in path_list
-                print(f'DBUG4: {child}')
-                rxn_dict[child['name']] = {}
-                get_path_data(child, rxn_dict[child['name']], path_list)
-            elif child['type'] == 'Reaction' or child['type'] == 'BlackBoxEvent':
-                print(f'DBUG5: {child}')
-                rxn_dict[child['name']] = {}
-                get_parts_data(child, rxn_dict[child['name']])
-    else:
-        for child in sub_dict['hasEvent']:
-            if child['schemaClass'] == 'Pathway':
-                print(f'DBUG4: {child}')
-                rxn_dict[child['displayName']] = {}
-                path_url = f'/data/query/{child["stId"]}'
-                full_url = url_base + path_url
-                response = requests.get(full_url, headers=headers).json()
-                print(f"DBUG3.2: QueryNeeded: {response}")
-                get_path_data(response, rxn_dict[child['displayName']], 0)
-            elif child['schemaClass'] == 'Reaction' or child['schemaClass'] == 'BlackBoxEvent':
-                print(f'DBUG5: {child}')
-                rxn_dict[child['displayName']] = {}
-                get_parts_data(child, rxn_dict[child['displayName']])
-        # else if child.type == "BlackBoxEvent":
-        #    child['children'] = {}
-        #    get_ortho_data(child)
+                        if 'children' in grandkid:
+                            for greatgrandkid in grandkid['children']:
+                                if greatgrandkid['stId'] in path_list:
+                                    if child['stId'] not in path_list:
+                                        path_list.append(child['stId'])
+                                        print(f"DBUG_GREAT: Greatgrandchild desired, child ID grabbed\t---\t"
+                                              f"{path_list}")
+        if child['type'] == 'Pathway' and child['stId'] in path_list:  # and child['stId'] in path_list
+            print(f'DBUG3.1 --- Name: {child["name"]} --- stID: {child["stId"]} --- Type: Pathway --- Query: '
+                  f'eventsHierarchy subtree')
+            # rxn_dict[child['name']] = {}
+            # get_path_data(child, rxn_dict[child['name']], path_list)
+            get_path_data(child, path_list)
+        elif (child['type'] == 'Reaction' or child['type'] == 'BlackBoxEvent') and rxn_flag is False:
+            term_path_adapter(sub_dict)
+            rxn_flag = True
     return
+
+
+'''else:
+    for child in sub_dict['hasEvent']:
+        if child['schemaClass'] == 'Pathway':
+            print(f'DBUG3.2: {child}')
+            rxn_dict[child['displayName']] = {}
+            path_url = f'/data/query/{child["stId"]}'
+            full_url = url_base + path_url
+            response = requests.get(full_url, headers=headers).json()
+            print(f"DBUG4.2: QueryNeeded: {response}")
+            get_path_data(response, rxn_dict[child['displayName']], 0)
+        elif child['schemaClass'] == 'Reaction' or child['schemaClass'] == 'BlackBoxEvent':
+            print(f'DBUG5.1: {child}')
+            rxn_dict[child['displayName']] = {}
+            get_parts_data(child, rxn_dict[child['displayName']])
+    # else if child.type == "BlackBoxEvent":
+    #    child['children'] = {}
+    #    get_ortho_data(child)'''
 
 
 # Base function to which all other functions are subordinate
@@ -178,17 +314,17 @@ def get_hier_data(entryId):
     path_url = '/data/eventsHierarchy/4530'
     full_url = url_base+path_url
     response = requests.get(full_url, headers=headers).json()
-    print(f'DBUG1.1: {response}')
+    print(f'DBUG1.1 --- Species: Oryza sativa --- taxID: 4530 --- Query: eventsHierarchy')
     # print(type(response))
     base_dict = {}
     for TopLevel in response:
         if TopLevel['name'] == "Metabolism and regulation":
             base_dict = TopLevel
             break
-    print(f'DBUG2.1: {base_dict}')
+    print(f'DBUG2.1 --- Name: {base_dict["name"]} --- stID: {base_dict["stId"]} --- Query: eventsHierarchy subtree')
     rxn_dict = {}
-    get_path_data(base_dict, rxn_dict, entryId)
-    print(f'DBUG3.1: {rxn_dict}')
+    get_path_data(base_dict, entryId)
+    print(f'DBUG10.1 --- {rxn_dict}')
     return rxn_dict
 
 
@@ -232,11 +368,7 @@ def prettyPrint(rxn_dict, depth, outfile):
         prettyPrint(rxn_dict['species'], depth + extra, outfile)
         # outfile.write(f'\n')
         # print(depth)
-        if len(rxn_dict['species']) > 0 and len(rxn_dict) > 0:
-            # for tabs in range(0, depth):
-            #    outfile.write(f"\t")
-            print('to test this')
-        else:
+        if not len(rxn_dict['species']) > 0 and len(rxn_dict) > 0:
             outfile.write(f'\n')
     else:
         rxn_keys = [*rxn_dict]
@@ -257,58 +389,37 @@ def prettyPrint(rxn_dict, depth, outfile):
                 # print(bigstring)
 
 
-def usefulPrint(rxn_dict, path_depth, depth, outfile):
-    if depth == 0:
-        path_reach = path_depth*"Pathway\t"
-        outfile.write(f"{path_reach}Reaction\tUniProt_ID\tMSU?\tRAP?\tSpecies\tOrthologs\n")
-    if 'species' in rxn_dict:
-        extra = 0
-        if 'MSU' in rxn_dict:
-            outfile.write(f"{rxn_dict['MSU']}\t")
-            extra += 4
-        else:
-            outfile.write(f"No MSU\t")
-            extra += 4
-        if 'RAP' in rxn_dict:
-            outfile.write(f"{rxn_dict['RAP']}\t")
-            extra += 4
-        else:
-            outfile.write(f"No RAP\t")
-            extra +=4
-        usefulPrint(rxn_dict['species'], path_depth-1, depth + extra, outfile)
-        # outfile.write(f'\n')
-        if len(rxn_dict['species']) > 0 and len(rxn_dict) > 0:
-            print("no linebreak")
-            # for tabs in range(0, depth):
-            #    outfile.write(f"\t")
-        else:
-            outfile.write(f'\n')
-    else:
-        rxn_keys = [*rxn_dict]
-        for element in rxn_dict:
-            print(f"{element} Depth: {depth}")
-            outfile.write(f"{element}\t")
-            extra = math.floor(len(element)/4) + 1
-            print(f"{element} Extra Depth added: {extra}")
-            if type(rxn_dict) == dict:
-                usefulPrint(rxn_dict[element], path_depth-1, depth + extra, outfile)
-            else:
-                outfile.write(f'\n')
+if __name__ == '__main__':
+    sys.argv = ['testcase.py', 'testcaseout.txt', 'testframeout.txt', 'R-OSA-1119263']
+    fileout = sys.argv[1]
+    frameout = sys.argv[2]
+    pathways = sys.argv[3:]
 
+    df_handle = open(fileout, "w")
+    df_handle.write("")
+    df_handle.close()
 
-sys.argv = ['testcase.py', 'R-OSA-5655122']
-fileout = "testcaseout.txt"
-start_time = time.time()
-comp_struct = get_hier_data([sys.argv[1]])
-print(f'finally: {comp_struct}')
-print("--- %s seconds ---" % (time.time() - start_time))
-input("Press Enter to continue...")
-start_time = time.time()
-df_handle = open(fileout, "w")
-prettyPrint(comp_struct, 0, df_handle)
-# print(stringy)
-print("--- %s seconds ---" % (time.time() - start_time))
-exit(1)
+    df_handle = open(frameout, "w")
+    df_handle.write("")
+    df_handle.close()
+
+    start_time = time.time()
+    comp_struct = get_hier_data(pathways)
+    print(f'finally: {comp_struct}')
+    time1 = time.time() - start_time
+
+    print("--- %s seconds ---" % time1)
+
+    # input("Press Enter to continue...")
+    # start_time1 = time.time()
+    # df_handle = open(fileout, "w")
+    # prettyPrint(comp_struct, 0, df_handle)
+    # print(stringy)
+    # time2 = time.time() - start_time1
+    # print("--- %s seconds ---" % time2)
+    # print("--- Time ratio: %f ---" % (time1/time2))
+
+    exit(1)
 
 
 '''def get_species_data():
