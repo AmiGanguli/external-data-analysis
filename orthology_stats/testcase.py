@@ -7,7 +7,7 @@ import time
 import json
 import pandas as pd
 import copy
-url_base = 'https://plantreactome.gramene.org/ContentService'
+url_base = 'https://plantreactomedev.gramene.org/ContentService'
 headers = {'accept': 'application/json'}
 
 #########################################################################
@@ -120,12 +120,12 @@ def get_prot_data(ewas, rxn_dict, df_dict):
         for name in ewas['referenceEntity']['geneName']:
             match = re.match("OS..G........", name.upper())
             if match and RAP_flag is False:
-                rxn_dict[UniProtId]["RAP ID"] = name[0:12]
+                rxn_dict[UniProtId]["RAP_ID"] = name[0:12]
                 print(f'DBUG8.2 --- RAP ID found: {name[0:12]}')
                 RAP_flag = True
             match1 = re.match("LOC_OS..G.....", name.upper())
             if match1 and MSU_flag is False:
-                rxn_dict[UniProtId]["MSU ID"] = name
+                rxn_dict[UniProtId]["MSU_ID"] = name
                 print(f'DBUG8.3 --- MSU ID found: {name}')
                 MSU_flag = True
             if RAP_flag is True and MSU_flag is True:
@@ -236,7 +236,8 @@ def term_path_adapter(sub_dict):
     start_time1 = time.time()
 
     outfile = open(fileout, "a")
-    json.dump(rxn_dict, outfile)
+    entry = (f"{sub_dict['stId']}:" + json.dumps(rxn_dict) + ",\n")
+    outfile.write(entry)
     outfile.close()
     time2 = time.time() - start_time1
     print("--- %s seconds ---" % time2)
@@ -258,7 +259,7 @@ def get_path_data(sub_dict, path_list):
                 for grandkid in child['children']:
                     if grandkid['type'] == 'Pathway':
                         path_list.append(grandkid['stId'])
-                print(f"DBUG_CHILD: Child reached, grandchildren ID grabbed: {path_list}\t---\t{grandkid}")
+                        print(f"DBUG_CHILD: Child reached, grandchildren ID grabbed: {path_list}\t---\t{grandkid}")
         if child['stId'] not in path_list:
             if 'children' in child:
                 grandflag = False
@@ -324,6 +325,9 @@ def get_hier_data(entryId):
     print(f'DBUG2.1 --- Name: {base_dict["name"]} --- stID: {base_dict["stId"]} --- Query: eventsHierarchy subtree')
     rxn_dict = {}
     get_path_data(base_dict, entryId)
+    outfile = open(fileout, "a")
+    outfile.write("}")
+    outfile.close()
     print(f'DBUG10.1 --- {rxn_dict}')
     return rxn_dict
 
@@ -396,7 +400,7 @@ if __name__ == '__main__':
     pathways = sys.argv[3:]
 
     df_handle = open(fileout, "w")
-    df_handle.write("")
+    df_handle.write("{")
     df_handle.close()
 
     df_handle = open(frameout, "w")
