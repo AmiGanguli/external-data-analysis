@@ -7,6 +7,7 @@ import time
 import json
 import pandas as pd
 import copy
+import os
 url_base = 'https://plantreactomedev.gramene.org/ContentService'
 headers = {'accept': 'application/json'}
 
@@ -140,7 +141,7 @@ def get_prot_data(ewas, rxn_dict, df_dict):
     for species in df_dict:
         if len(df_dict[species][UniProtId]) == 0:
             df_dict[species][UniProtId].append("")
-        temp_string = ",".join(df_dict[species][UniProtId])
+        temp_string = "|".join(df_dict[species][UniProtId])
         df_dict[species][UniProtId] = copy.copy(temp_string)
 
 
@@ -235,20 +236,20 @@ def term_path_adapter(sub_dict):
 
     start_time1 = time.time()
 
-    outfile = open(fileout, "a")
-    entry = (f"{sub_dict['stId']}:" + json.dumps(rxn_dict) + ",\n")
+    outfile = open(outDict, "a")
+    entry = (f"\n\"{sub_dict['stId']}\": " + json.dumps(rxn_dict, indent=4) + ",")
     outfile.write(entry)
     outfile.close()
     time2 = time.time() - start_time1
     print("--- %s seconds ---" % time2)
 
     df = pd.DataFrame.from_dict(data=df_dict, orient='columns')
-    df.to_csv(path_or_buf=frameout, mode="a",)
+    df.to_csv(path_or_buf=outFrame, mode="a", )
     df_dict.clear()
     rxn_dict.clear() # Not sure if this is the best way to free the dictionary's memory
 
 
-# (child['stId'] == 'R-OSA-1119263' or
+# TODO : simplify tree walk
 # Dives into pathways and constructs pathway hierarchy
 def get_path_data(sub_dict, path_list):
     rxn_flag = False
@@ -290,6 +291,10 @@ def get_path_data(sub_dict, path_list):
             rxn_flag = True
     return
 
+    for child in sub_dict['children']:
+        if child['stId'] in path_list:
+
+
 
 '''else:
     for child in sub_dict['hasEvent']:
@@ -325,8 +330,11 @@ def get_hier_data(entryId):
     print(f'DBUG2.1 --- Name: {base_dict["name"]} --- stID: {base_dict["stId"]} --- Query: eventsHierarchy subtree')
     rxn_dict = {}
     get_path_data(base_dict, entryId)
-    outfile = open(fileout, "a")
-    outfile.write("}")
+    with open(outDict, 'rb+') as filehandle:
+        filehandle.seek(-1, os.SEEK_END)
+        filehandle.truncate()
+    outfile = open(outDict, "a")
+    outfile.write("\n}")
     outfile.close()
     print(f'DBUG10.1 --- {rxn_dict}')
     return rxn_dict
@@ -394,16 +402,16 @@ def prettyPrint(rxn_dict, depth, outfile):
 
 
 if __name__ == '__main__':
-    sys.argv = ['testcase.py', 'testcaseout.txt', 'testframeout.txt', 'R-OSA-1119263']
-    fileout = sys.argv[1]
-    frameout = sys.argv[2]
+    sys.argv = ['orthology_data_grabber.py', 'ortho_RPP_inter.json', 'ortho_DF_inter.csv', 'R-OSA-1119263']
+    outDict = sys.argv[1]
+    outFrame = sys.argv[2]
     pathways = sys.argv[3:]
 
-    df_handle = open(fileout, "w")
+    df_handle = open(outDict, "w")
     df_handle.write("{")
     df_handle.close()
 
-    df_handle = open(frameout, "w")
+    df_handle = open(outFrame, "w")
     df_handle.write("")
     df_handle.close()
 
