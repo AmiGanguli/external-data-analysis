@@ -148,10 +148,8 @@ if CountFlag is True:
                 dfWork.loc[i, c] = 0
 
 
-ax = sns.heatmap(data=dfWork,
-                 cmap="BuGn")
-plt.savefig("heatMapExample.png", bbox_inches='tight')
+ax = sns.heatmap(data=dfWork, cmap="BuGn", figsize=(10, 16))
+plt.savefig(f"heatMap_Type{levelFlag}.png", bbox_inches='tight')
 
-bx = sns.clustermap(data=dfWork,
-                    cmap="BuGn")
-plt.savefig("clusterMapExample.png", bbox_inches='tight')
+bx = sns.clustermap(data=dfWork, cmap="BuGn", figsize=(16, 10))
+plt.savefig(f"clusterMap_Type{levelFlag}.png", bbox_inches='tight')
