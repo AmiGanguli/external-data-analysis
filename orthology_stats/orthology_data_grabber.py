@@ -291,8 +291,8 @@ def get_path_data(sub_dict, path_list):
             rxn_flag = True
     return
 
-    for child in sub_dict['children']:
-        if child['stId'] in path_list:
+#    for child in sub_dict['children']:
+#        if child['stId'] in path_list:
 
 
 
