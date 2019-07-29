@@ -15,7 +15,7 @@ headers = {'accept': 'application/json'}
 #                     Method Call Hierarchy                             #
 #    1) Call Event Hierarchy method on species of interest              #
 #           If only one toplevel path is desired, grab here.            #
-#    2) get_path_data to recursively search down pathways until         #
+#    2) recurs_get_paths to recursively search down pathways until      #
 #           reaction-like events are found.                             #
 #    3) Call Participants on reaction-like events                       #
 #           Grab anything that might have EWAS, mostly Cat. Activity    #
@@ -27,6 +27,8 @@ headers = {'accept': 'application/json'}
 #########################################################################
 
 
+# This function prints out a tab delimited .txt file with the information collected. Could probably be replaced by
+# turning these into a dataframe and all, since we're doing that anyway.
 def usefulPrint(rxn_dict, path_depth, depth, outfile):
     if depth == 0:
         path_reach = path_depth*"Pathway\t"
@@ -66,6 +68,8 @@ def usefulPrint(rxn_dict, path_depth, depth, outfile):
                 outfile.write(f'\n')
 
 
+# This function makes sure that if there are multiple Orthologs of a single UniProtID for a single species, we grab
+# them all, and inserts them into the dictionary that's going to be used for the dataframe construction.
 def get_multi_product_data(setId, df_dict, ortho_spec, UniProtId):
     new_path = f'/data/query/{setId}'
     new_full = url_base + new_path
@@ -91,6 +95,8 @@ def get_multi_product_data(setId, df_dict, ortho_spec, UniProtId):
     return
 
 
+# This function serves as an intermediate, checking for the presence of orthologs and calling get_multi_product_data if
+# the ortholog reference turns out to be multiple orthologs bundled together.
 def get_ortho_data(ewas, df_dict, UniProtId):
     if 'inferredTo' in ewas:
         for ortholog in ewas['inferredTo']:
@@ -106,6 +112,8 @@ def get_ortho_data(ewas, df_dict, UniProtId):
     return
 
 
+# This function calls get_ortho_data after checking for the protein's UniProt, RAP, and MSU IDs; once it has collected
+# the ortholog data, it uses that data to format the strings in the dictionary used for the dictionary
 def get_prot_data(ewas, rxn_dict, df_dict):
     if 'identifier' in ewas['referenceEntity']:
         UniProtId = ewas['referenceEntity']['identifier']
@@ -145,6 +153,7 @@ def get_prot_data(ewas, rxn_dict, df_dict):
         df_dict[species][UniProtId] = copy.copy(temp_string)
 
 
+# semi-recursive function that pushes through to find the EWAS entries from their containers.
 def get_product_data(entityId, rxn_dict, df_dict):
     new_path = f'/data/query/{entityId}'
     new_full = url_base + new_path
@@ -249,9 +258,8 @@ def term_path_adapter(sub_dict):
     rxn_dict.clear() # Not sure if this is the best way to free the dictionary's memory
 
 
-# TODO : simplify tree walk
 # Dives into pathways and constructs pathway hierarchy
-def get_path_data(sub_dict, path_list):
+'''def get_path_data(sub_dict, path_list):
     rxn_flag = False
     for child in sub_dict['children']:
         # print(f'3.5: {child}')
@@ -289,11 +297,26 @@ def get_path_data(sub_dict, path_list):
         elif (child['type'] == 'Reaction' or child['type'] == 'BlackBoxEvent') and rxn_flag is False:
             term_path_adapter(sub_dict)
             rxn_flag = True
+    return'''
+
+
+def recurs_get_paths(sub_dict, path_list):
+    pathTypes = ['Pathway', 'TopLevelPathway']
+    rxnTypes = ['Reaction', 'BlackBoxEvent']
+    if sub_dict['stId'] in path_list and sub_dict['type'] in pathTypes:
+        term_path_flag = False
+        for child in sub_dict['children']:
+            if child['type'] == 'Pathway':
+                path_list.append(child['stId'])
+                recurs_get_paths(child, path_list)
+            elif child['type'] in rxnTypes and term_path_flag is False:
+                term_path_flag = True
+                term_path_adapter(sub_dict)
+    elif sub_dict['type'] in pathTypes:
+        for child in sub_dict['children']:
+            if child['type'] in pathTypes:
+                recurs_get_paths(child, path_list)
     return
-
-#    for child in sub_dict['children']:
-#        if child['stId'] in path_list:
-
 
 
 '''else:
@@ -329,7 +352,7 @@ def get_hier_data(entryId):
             break
     print(f'DBUG2.1 --- Name: {base_dict["name"]} --- stID: {base_dict["stId"]} --- Query: eventsHierarchy subtree')
     rxn_dict = {}
-    get_path_data(base_dict, entryId)
+    recurs_get_paths(base_dict, entryId)
     with open(outDict, 'rb+') as filehandle:
         filehandle.seek(-1, os.SEEK_END)
         filehandle.truncate()
