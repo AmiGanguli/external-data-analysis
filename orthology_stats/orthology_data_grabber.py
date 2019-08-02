@@ -23,8 +23,23 @@ headers = {'accept': 'application/json'}
 #           If SimpleEntity, ignore                                     #
 #           If not an EWAS, call Query recursively until EWAS           #
 #    5) Call Query on EWAS and search through inferredTo                #
-#           Add orthologs to species dict and reaction dict             #
+#           Use Protein IDs to construct a DataFrame from Orthologs     #
 #########################################################################
+
+
+# Program outputs an intermediate JSON file and a DataFrame in the form of a csv file.
+# The JSON file has three levels of dictionaries+lists. The top level dictionary has Pathway stIds as keys, containing
+# two-item lists in which the first item is the name of the Pathway, and the second item is the next dictionary level.
+# The second level of dictionary contains Reaction stIds as keys, containing two-item lists in which the first item is
+# the name of the Reaction, and the second item is the next dictionary level.
+# The third level of dictionary contains UniProt IDs as keys, containing two-item lists in which the first item is the
+# MSU ID of the Gene Product, and the second item is the RAP ID of the Gene Product.
+# The DataFrame contains UniProt ID row indexes, with Species name column indexes; the values are |-delimited lists in
+# string format, containing the IDs of the orthologs to the given Gene Products in Oryza Sativa.
+
+
+# Flag to indicate whether header for DataFrame output has been added or not
+head_flag = False
 
 
 # This function prints out a tab delimited .txt file with the information collected. Could probably be replaced by
@@ -122,6 +137,7 @@ def get_prot_data(ewas, rxn_dict, df_dict):
 
     rxn_dict[UniProtId] = {}
     print(f'DBUG8.1 --- Name: {ewas["displayName"]} --- stId: {ewas["stId"]} --- UniProt: {UniProtId} --- Query: Query')
+    rxn_dict[UniProtId] = ["", ""]
 
     if 'geneName' in ewas['referenceEntity']:
         RAP_flag = False
@@ -129,12 +145,12 @@ def get_prot_data(ewas, rxn_dict, df_dict):
         for name in ewas['referenceEntity']['geneName']:
             match = re.match("OS..G........", name.upper())
             if match and RAP_flag is False:
-                rxn_dict[UniProtId]["RAP_ID"] = name[0:12]
+                rxn_dict[UniProtId][0] = name[0:12]
                 print(f'DBUG8.2 --- RAP ID found: {name[0:12]}')
                 RAP_flag = True
             match1 = re.match("LOC_OS..G.....", name.upper())
             if match1 and MSU_flag is False:
-                rxn_dict[UniProtId]["MSU_ID"] = name
+                rxn_dict[UniProtId][1] = name
                 print(f'DBUG8.3 --- MSU ID found: {name}')
                 MSU_flag = True
             if RAP_flag is True and MSU_flag is True:
@@ -144,6 +160,8 @@ def get_prot_data(ewas, rxn_dict, df_dict):
     for species in df_dict:
         if UniProtId not in df_dict[species]:
             df_dict[species][UniProtId] = []
+        else:
+            df_dict[species][UniProtId] = df_dict[species][UniProtId].split("|")
     get_ortho_data(ewas, df_dict, UniProtId)
 
     for species in df_dict:
@@ -194,6 +212,7 @@ def get_parts_data(event, rxn_dict, df_dict):
     new_full = url_base + new_path
     new_response = requests.get(new_full, headers=headers).json()
 
+    sTypes = ["DefinedSet", "Complex", "EntityWithAccessionedSequence"]
     for party in new_response:
         sClass = party['schemaClass']
 
@@ -202,7 +221,7 @@ def get_parts_data(event, rxn_dict, df_dict):
                   f'participatingPhysicalEntities')
             get_product_data(party['peDbId'], rxn_dict, df_dict)
 
-        elif sClass == "DefinedSet" or sClass == "Complex" or sClass == "EntityWithAccessionedSequence":
+        elif sClass in sTypes:
             print(f'DBUG5.2 --- Name: {party["displayName"]} --- stId: {party["stId"]} --- Query: '
                   f'participatingPhysicalEntities')
             get_product_data(party['stId'], rxn_dict, df_dict)
@@ -220,6 +239,7 @@ def get_parts_data(event, rxn_dict, df_dict):
     return'''
 
 
+# Grabs species information to use as base for comparison
 def build_species_dict(df_dict):
     new_path = f'/data/species/all'
     new_full = url_base + new_path
@@ -240,22 +260,29 @@ def term_path_adapter(sub_dict):
     for child in sub_dict['children']:
         print(f'DBUG4.2 --- Name: {child["name"]} --- stID: {child["stId"]} --- Type: {child["type"]} --- '
               f'Query: eventsHierarchy subtree')
-        rxn_dict[child['name']] = {}
-        get_parts_data(child, rxn_dict[child['name']], df_dict)
+        rxn_dict[child['stId']] = ["",{}]
+        rxn_dict[child['stId']][0] = child['name']
+        get_parts_data(child, rxn_dict[child['stId']][1], df_dict)
+
+    TopListFormat = f"\t\"{sub_dict['name']}\",\n"
 
     start_time1 = time.time()
-
     outfile = open(outDict, "a")
-    entry = (f"\n\"{sub_dict['stId']}\": " + json.dumps(rxn_dict, indent=4) + ",")
+    entry = (f"\n\"{sub_dict['stId']}\": [\n" + TopListFormat + json.dumps(rxn_dict, indent=4) + "\n],")
     outfile.write(entry)
     outfile.close()
     time2 = time.time() - start_time1
     print("--- %s seconds ---" % time2)
 
     df = pd.DataFrame.from_dict(data=df_dict, orient='columns')
-    df.to_csv(path_or_buf=outFrame, mode="a", )
+    global head_flag
+    if head_flag is False:
+        df.to_csv(path_or_buf=outFrame, mode="w")
+        head_flag = True
+    else:
+        df.to_csv(path_or_buf=outFrame, mode="a", header=False)
     df_dict.clear()
-    rxn_dict.clear() # Not sure if this is the best way to free the dictionary's memory
+    rxn_dict.clear()  # Not sure if this is the best way to free the dictionary's memory
 
 
 # Dives into pathways and constructs pathway hierarchy
@@ -383,7 +410,8 @@ def get_hier_data(entryId):
     return rxn_dict'''
 
 
-def prettyPrint(rxn_dict, depth, outfile):
+# Obsolete method of printing out a pretty-looking text file with dictionary information
+'''def prettyPrint(rxn_dict, depth, outfile):
     if depth == 0:
         outfile.write(f"Pathway\tReaction\tUniProt_ID\tMSU?\tRAP?\tSpecies\tOrthologs\n")
     if 'species' in rxn_dict:
@@ -399,7 +427,7 @@ def prettyPrint(rxn_dict, depth, outfile):
             extra += 4
         else:
             outfile.write(f"No RAP\t\t\t")
-            extra +=4
+            extra += 4
         prettyPrint(rxn_dict['species'], depth + extra, outfile)
         # outfile.write(f'\n')
         # print(depth)
@@ -421,7 +449,7 @@ def prettyPrint(rxn_dict, depth, outfile):
                 outfile.write(f'\n')
             # else:
             #   outfile.write(f'\n')
-                # print(bigstring)
+                # print(bigstring)'''
 
 
 if __name__ == '__main__':
@@ -432,10 +460,6 @@ if __name__ == '__main__':
 
     df_handle = open(outDict, "w")
     df_handle.write("{")
-    df_handle.close()
-
-    df_handle = open(outFrame, "w")
-    df_handle.write("")
     df_handle.close()
 
     start_time = time.time()
