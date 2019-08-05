@@ -43,8 +43,8 @@ head_flag = False
 
 
 # This function prints out a tab delimited .txt file with the information collected. Could probably be replaced by
-# turning these into a dataframe and all, since we're doing that anyway.
-def usefulPrint(rxn_dict, path_depth, depth, outfile):
+# turning these into a DataFrame and all, since we're doing that anyway.
+'''def usefulPrint(rxn_dict, path_depth, depth, outfile):
     if depth == 0:
         path_reach = path_depth*"Pathway\t"
         outfile.write(f"{path_reach}Reaction\tUniProt_ID\tMSU?\tRAP?\tSpecies\tOrthologs\n")
@@ -80,7 +80,7 @@ def usefulPrint(rxn_dict, path_depth, depth, outfile):
             if type(rxn_dict) == dict:
                 usefulPrint(rxn_dict[element], path_depth-1, depth + extra, outfile)
             else:
-                outfile.write(f'\n')
+                outfile.write(f'\n')'''
 
 
 # This function makes sure that if there are multiple Orthologs of a single UniProtID for a single species, we grab
@@ -90,8 +90,8 @@ def get_multi_product_data(setId, df_dict, ortho_spec, UniProtId):
     new_full = url_base + new_path
     new_response = requests.get(new_full, headers=headers).json()
     for member in new_response['hasMember']:
-        print(f'DBUG9.2 --- Name: {member["name"][0]} --- Schema Class: {member["schemaClass"]} --- Query: '
-              f'Query[hasMember]')
+        # print(f'DBUG9.2 --- Name: {member["name"][0]} --- Schema Class: {member["schemaClass"]} --- Query: '
+        #      f'Query[hasMember]')
         if member['schemaClass'] == "EntityWithAccessionedSequence":
             if ortho_spec in df_dict:
                 if UniProtId not in df_dict[ortho_spec]:
@@ -116,9 +116,8 @@ def get_ortho_data(ewas, df_dict, UniProtId):
     if 'inferredTo' in ewas:
         for ortholog in ewas['inferredTo']:
             ortho_spec = ortholog['speciesName']
-            print(f'DBUG9.1 --- Name: {ortholog["name"][0]} --- Schema Class: {ortholog["schemaClass"]} --- Query: '
-                  f'Query[inferredTo]')
-
+            # print(f'DBUG9.1 --- Name: {ortholog["name"][0]} --- Schema Class: {ortholog["schemaClass"]} --- Query: '
+            #     f'Query[inferredTo]')
             if ortholog['schemaClass'] == "EntityWithAccessionedSequence":
                 if ortho_spec in df_dict:
                     df_dict[ortho_spec][UniProtId].append(ortholog['name'][0])
@@ -132,8 +131,10 @@ def get_ortho_data(ewas, df_dict, UniProtId):
 def get_prot_data(ewas, rxn_dict, df_dict):
     if 'identifier' in ewas['referenceEntity']:
         UniProtId = ewas['referenceEntity']['identifier']
-    else:
+    elif 'secondaryIdentifier' in ewas['referenceEntity']:
         UniProtId = ewas['referenceEntity']['secondaryIdentifier'][0]
+    else:
+        UniProtId = ewas['referenceEntity']['name'][0]
 
     rxn_dict[UniProtId] = {}
     print(f'DBUG8.1 --- Name: {ewas["displayName"]} --- stId: {ewas["stId"]} --- UniProt: {UniProtId} --- Query: Query')
@@ -190,17 +191,19 @@ def get_product_data(entityId, rxn_dict, df_dict):
 
     elif new_response['schemaClass'] == "DefinedSet":
         for member in new_response['hasMember']:
-            if member['schemaClass'] != "SimpleEntity":
-                print(f'DBUG7.2 --- Name: {member["displayName"]} --- stID: {member["stId"]} --- Schema Class: '
-                      f'{member["schemaClass"]} --- Query: Query')
-                get_product_data(member['stId'], rxn_dict, df_dict)
+            if type(member) is dict:
+                if member['schemaClass'] != "SimpleEntity":
+                    print(f'DBUG7.2 --- Name: {member["displayName"]} --- stID: {member["stId"]} --- Schema Class: '
+                          f'{member["schemaClass"]} --- Query: Query')
+                    get_product_data(member['stId'], rxn_dict, df_dict)
 
     elif new_response['schemaClass'] == 'Complex':
         for component in new_response['hasComponent']:
-            if component['schemaClass'] != "SimpleEntity":
-                print(f'DBUG7.3 --- Name: {component["displayName"]} --- stID: {component["stId"]} --- Schema Class: '
-                      f'{component["schemaClass"]} --- Query: Query')
-                get_product_data(component['stId'], rxn_dict, df_dict)
+            if type(component) is dict:
+                if component['schemaClass'] != "SimpleEntity":
+                    print(f'DBUG7.3 --- Name: {component["displayName"]} --- stID: {component["stId"]} --- Schema Class: '
+                          f'{component["schemaClass"]} --- Query: Query')
+                    get_product_data(component['stId'], rxn_dict, df_dict)
 
     elif new_response['schemaClass'] == "EntityWithAccessionedSequence":
         get_prot_data(new_response, rxn_dict, df_dict)
@@ -453,7 +456,8 @@ def get_hier_data(entryId):
 
 
 if __name__ == '__main__':
-    sys.argv = ['orthology_data_grabber.py', 'ortho_RPP_inter.json', 'ortho_DF_inter.csv', 'R-OSA-1119263']
+    sys.argv = ['orthology_data_grabber.py', 'ortho_RPP_inter.json', 'ortho_DF_inter.csv',
+                'R-OSA-2744345']
     outDict = sys.argv[1]
     outFrame = sys.argv[2]
     pathways = sys.argv[3:]
