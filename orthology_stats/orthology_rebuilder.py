@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import requests
 import seaborn as sns
+import copy
 
 url_base = 'https://plantreactomedev.gramene.org/ContentService'
 headers = {'accept': 'application/json'}
@@ -31,10 +32,11 @@ species_list = ["Actinidia chinensis", "Aegilops tauschii", "Amborella trichopod
                 "Vigna radiata", "Vitis vinifera", "Zea mays"]
 
 
-def recurs_get_paths(sub_dict, path_list, IDs):
+def recurs_get_paths(sub_dict, path_list, term_path_list, IDs):
     pathTypes = ['Pathway', 'TopLevelPathway']
     rxnTypes = ['Reaction', 'BlackBoxEvent']
     if sub_dict['stId'] in path_list and sub_dict['type'] in pathTypes:
+        # termFlag = False
         for child in sub_dict['children']:
             if child['type'] == 'Pathway':
                 path_list.append(child['stId'])
@@ -42,6 +44,11 @@ def recurs_get_paths(sub_dict, path_list, IDs):
 
                 recurs_get_paths(child, path_list, IDs)
             elif child['type'] in rxnTypes:
+                # termFlag = True
+                sub_term_list = ["", ""]
+                sub_term_list[0] = sub_dict['stId']
+                sub_term_list[1] = sub_dict['name']
+                term_path_list.append(sub_term_list)
                 IDs[f"{child['name']}"] = child['stId']
     elif sub_dict['type'] in pathTypes:
         for child in sub_dict['children']:
@@ -55,10 +62,11 @@ CountFlag = True
 
 # something something interface for user to decide which pathways they want?
 sys.argv = ['orthology_rebuilder.py', 'P', '-r',
-            'R-OSA-1119263']
+            'R-OSA-2744345']
 # P -> Protein Level; R -> Reaction Level; W -> pathWay Level
 levelFlag = sys.argv[1]
 path_list = sys.argv[3:]
+term_path_list = []
 ratioFlag = False
 if sys.argv[2] is '-r':
     ratioFlag = True
@@ -73,13 +81,19 @@ for TopLevel in response:
         base_dict = TopLevel
         break
 ID_dict = {}
-recurs_get_paths(base_dict, path_list, ID_dict)
+recurs_get_paths(base_dict, path_list, term_path_list, ID_dict)
 
 # take in testcaseout json file, read in as list of dictionaries
-infile_name = "ortho_RPP_inter.json"
-infile = open(infile_name)
-base_data = json.load(infile)
-infile.close()
+full_data = {}
+base_data = {}
+for termpath in term_path_list:
+    infile_name = f"ortho_RPP_inter{termpath}.json"
+    infile = open(infile_name)
+    base_data = json.load(infile)
+    full_data[f"{termpath[0]}"] = ["", ""]
+    full_data[f"{termpath[0]}"][0] = termpath[1]
+    full_data[f"{termpath[0]}"][1] = copy.copy(base_data)
+    infile.close()
 # take in testframeout, read in as pandas file
 infile_name = "ortho_DF_inter.csv"
 infile = open(infile_name)
