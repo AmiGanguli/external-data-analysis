@@ -511,7 +511,7 @@ def get_hier_data(entryId, checkFrame):
 
 if __name__ == '__main__':
     sys.argv = ['orthology_data_grabber.py', 'ortho_RPP_inter', 'ortho_DF_inter.csv', 'F',
-                'R-OSA-2744344']
+                'R-OSA-2744345']
     outDict = sys.argv[1]
     outFrame = sys.argv[2]
     # head_flag = True

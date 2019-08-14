@@ -1,8 +1,8 @@
 #!C:\Program Files (x86)\Python
 import json
 import sys
-import fastcluster
 import matplotlib.pyplot as plt
+import numpy as np
 import pandas as pd
 import requests
 import seaborn as sns
@@ -11,49 +11,57 @@ import copy
 url_base = 'https://plantreactomedev.gramene.org/ContentService'
 headers = {'accept': 'application/json'}
 
-species_list = ["Actinidia chinensis", "Aegilops tauschii", "Amborella trichopoda", "Arabidopsis halleri",
-                "Arabidopsis lyrata", "Arabidopsis thaliana", "Arachis duranensis", "Arachis ipaensis", "Beta vulgaris",
-                "Brachypodium distachyon", "Brassica napus", "Brassica oleracea", "Brassica rapa", "Cajanus cajan",
-                "Capsicum annuum", "Chlamydomonas reinhardtii", "Chondrus crispus", "Cicer arietinum",
-                "Citrus sinensis", "Coffea canephora", "Corchorus capsularis", "Cucumis sativus",
-                "Cyanidioschyzon merolae", "Daucus carota", "Dioscorea rotundata", "Erythranthe guttata",
-                "Eucalyptus grandis", "Fragaria vesca", "Galdieria sulphuraria", "Glycine max", "Gossypium raimondii",
-                "Helianthus annuus", "Hordeum vulgare", "Jatropha curcas", "Leersia perrieri", "Lupinus angustifolius",
-                "Malus domestica", "Manihot esculenta", "Medicago truncatula", "Musa acuminata", "Nicotiana attenuata",
-                "Oryza australiensis", "Oryza barthii", "Oryza brachyantha", "Oryza glaberrima", "Oryza glumaepatula",
-                "Oryza longistaminata", "Oryza meridionalis", "Oryza meyeriana var. granulata", "Oryza minuta",
-                "Oryza nivara", "Oryza officinalis", "Oryza punctata", "Oryza rufipogon", "Oryza sativa Indica Group",
-                "Oryza sativa aus subgroup", "Oryza sativa subsp. japonica", "Ostreococcus lucimarinus",
-                "Panicum hallii FIL2", "Panicum hallii var. hallii HAL2", "Phaseolus vulgaris", "Phoenix dactylifera",
-                "Physcomitrella patens", "Picea abies", "Pinus taeda", "Populus trichocarpa", "Prunus persica",
-                "Selaginella moellendorffii", "Setaria italica", "Solanum lycopersicum", "Solanum tuberosum",
-                "Sorghum bicolor", "Synechocystis sp. PCC 6803", "Theobroma cacao", "Trifolium pratense",
-                "Triticum aestivum", "Triticum dicoccoides", "Triticum turgidum", "Triticum urartu", "Vigna angularis",
-                "Vigna radiata", "Vitis vinifera", "Zea mays"]
+species_list = [  # Oryza genus
+                "Oryza sativa Indica Group", "Oryza sativa aus subgroup", "Oryza australiensis", "Oryza barthii",
+                "Oryza brachyantha", "Oryza glaberrima", "Oryza glumaepatula", "Oryza longistaminata",
+                "Oryza meridionalis", "Oryza meyeriana var. granulata", "Oryza minuta", "Oryza nivara",
+                "Oryza officinalis", "Oryza punctata", "Oryza rufipogon",
+                # Monocots
+                "Musa acuminata", "Zea mays", "Sorghum bicolor", "Setaria italica", "Leersia perrieri",
+                "Brachypodium distachyon",  "Aegilops tauschii", "Triticum aestivum", "Triticum dicoccoides",
+                "Triticum turgidum", "Triticum urartu", "Hordeum vulgare", "Panicum hallii FIL2",
+                "Panicum hallii var. hallii HAL2", "Phoenix dactylifera", "Dioscorea rotundata",
+                # Dicots
+                "Solanum lycopersicum", "Solanum tuberosum", "Brassica napus", "Brassica oleracea", "Brassica rapa",
+                "Arabidopsis halleri", "Arabidopsis lyrata", "Arabidopsis thaliana", "Beta vulgaris",
+                "Nicotiana attenuata", "Helianthus annuus", "Vigna angularis", "Vigna radiata", "Vitis vinifera",
+                "Lupinus angustifolius", "Daucus carota", "Theobroma cacao", "Trifolium pratense",  "Manihot esculenta",
+                "Medicago truncatula",  "Cucumis sativus", "Corchorus capsularis", "Glycine max", "Phaseolus vulgaris",
+                "Prunus persica", "Populus trichocarpa", "Gossypium raimondii", "Citrus sinensis", "Capsicum annuum",
+                "Actinidia chinensis", "Arachis duranensis", "Arachis ipaensis", "Cajanus cajan", "Coffea canephora",
+                "Cicer arietinum", "Erythranthe guttata", "Eucalyptus grandis", "Fragaria vesca", "Jatropha curcas",
+                "Malus domestica",
+                # Seed plants
+                "Pinus taeda", "Picea abies",
+                # Lower Plants
+                "Ostreococcus lucimarinus", "Amborella trichopoda", "Chlamydomonas reinhardtii", "Chondrus crispus",
+                "Cyanidioschyzon merolae", "Selaginella moellendorffii", "Physcomitrella patens",
+                "Galdieria sulphuraria", "Synechocystis sp. PCC 6803",
+                ]
 
 
-def recurs_get_paths(sub_dict, path_list, term_path_list, IDs):
+def recurs_get_paths(sub_dict, path_list, term_path_list):
     pathTypes = ['Pathway', 'TopLevelPathway']
     rxnTypes = ['Reaction', 'BlackBoxEvent']
     if sub_dict['stId'] in path_list and sub_dict['type'] in pathTypes:
-        # termFlag = False
+        termFlag = False
         for child in sub_dict['children']:
             if child['type'] == 'Pathway':
                 path_list.append(child['stId'])
-                IDs[f"{child['stId']}"] = child['name']
+                # IDs[f"{child['stId']}"] = child['name']
 
-                recurs_get_paths(child, path_list, IDs)
-            elif child['type'] in rxnTypes:
-                # termFlag = True
+                recurs_get_paths(child, path_list, term_path_list)
+            elif child['type'] in rxnTypes and termFlag is False:
+                termFlag = True
                 sub_term_list = ["", ""]
                 sub_term_list[0] = sub_dict['stId']
                 sub_term_list[1] = sub_dict['name']
                 term_path_list.append(sub_term_list)
-                IDs[f"{child['name']}"] = child['stId']
+                # IDs[f"{child['name']}"] = child['stId']
     elif sub_dict['type'] in pathTypes:
         for child in sub_dict['children']:
             if child['type'] in pathTypes:
-                recurs_get_paths(child, path_list, IDs)
+                recurs_get_paths(child, path_list, term_path_list)
     return
 
 
@@ -61,15 +69,25 @@ def recurs_get_paths(sub_dict, path_list, term_path_list, IDs):
 CountFlag = True
 
 # something something interface for user to decide which pathways they want?
-sys.argv = ['orthology_rebuilder.py', 'P', '-r',
+sys.argv = ['orthology_rebuilder.py', 'A', '-r', '-log',
             'R-OSA-2744345']
-# P -> Protein Level; R -> Reaction Level; W -> pathWay Level
+# P -> Protein Level; R -> Reaction Level; W -> pathWay Level; A -> All three
+if sys.argv[1] not in ['P', 'R', 'W', 'A']:
+    print("Sorry, that is not an option for group sorting level. The options are:\n"
+          "\'P\': sort by Protein ID.\n"
+          "\'R\': sort by Reaction ID.\n"
+          "\'W\': sort by pathWay ID.\n"
+          "\'A\': sort by All of the above.")
+    exit()
 levelFlag = sys.argv[1]
-path_list = sys.argv[3:]
-term_path_list = []
 ratioFlag = False
 if sys.argv[2] is '-r':
     ratioFlag = True
+logFlag = False
+if sys.argv[3] is '-log':
+    logFlag = True
+path_list = sys.argv[4:]
+term_path_list = []
 
 path_url = '/data/eventsHierarchy/4530'
 full_url = url_base + path_url
@@ -80,18 +98,19 @@ for TopLevel in response:
     if TopLevel['name'] == "Metabolism and regulation":
         base_dict = TopLevel
         break
-ID_dict = {}
-recurs_get_paths(base_dict, path_list, term_path_list, ID_dict)
+recurs_get_paths(base_dict, path_list, term_path_list)
 
 # take in testcaseout json file, read in as list of dictionaries
 full_data = {}
 base_data = {}
+# print(term_path_list)
 for termpath in term_path_list:
-    infile_name = f"ortho_RPP_inter{termpath}.json"
+    infile_name = f"ortho_RPP_inter{termpath[0]}.json"
     infile = open(infile_name)
     base_data = json.load(infile)
     full_data[f"{termpath[0]}"] = ["", ""]
     full_data[f"{termpath[0]}"][0] = termpath[1]
+    # print(f"DBUG1: {termpath[0]}: {termpath[1]}")
     full_data[f"{termpath[0]}"][1] = copy.copy(base_data)
     infile.close()
 # take in testframeout, read in as pandas file
@@ -113,19 +132,26 @@ dfb.insert(4, "MSU_ID", "")
 dfb.insert(5, "RAP_ID", "")
 
 for path in path_list:
-    if path in base_data:
+    if path in full_data:
         # new_dict[path] = {}
-        for rxn in base_data[path][1]:
+        for rxn in full_data[path][1]:
             # new_dict[path][rxn] = {}
-            for prot in base_data[path][1][rxn][1]:
+            for prot in full_data[path][1][rxn][1]:
                 # new_dict[path][rxn][prot] = {}
                 if prot in dfb.index:
-                    dfb.loc[prot, "Pathway"] = base_data[path][0]
+                    dfb.loc[prot, "Pathway"] = full_data[path][0]
+                    # print(f"DBUG3: {full_data[path][0]}")
                     dfb.loc[prot, "Pathway_ID"] = path
-                    dfb.loc[prot, "Reaction"] = base_data[path][1][rxn][0].capitalize()
+                    # print(f"DBUG4: {path}")
+                    dfb.loc[prot, "Reaction"] = full_data[path][1][rxn][0].capitalize()
+                    # print(f"DBUG5: {full_data[path][1][rxn][0]}")
                     dfb.loc[prot, "Reaction_ID"] = rxn
-                    dfb.loc[prot, "MSU_ID"] = base_data[path][1][rxn][1][prot][0]
-                    dfb.loc[prot, "RAP_ID"] = base_data[path][1][rxn][1][prot][1]
+                    # print(f"DBUG6: {rxn}")
+                    dfb.loc[prot, "MSU_ID"] = full_data[path][1][rxn][1][prot][0]
+                    dfb.loc[prot, "RAP_ID"] = full_data[path][1][rxn][1][prot][1]
+                print(f"{path} - {rxn} - {prot} processed")
+            print(f"{path} - {rxn} processed")
+        print(f"{path} processed")
 
 dfb.reset_index(inplace=True)
 dfb.rename(columns={'index': 'UniProt_ID'}, inplace=True)
@@ -144,6 +170,10 @@ df_filtered = dfb.filter(items=species_list)
 df_filtered.to_csv(path_or_buf="ortho_DF_filtered.csv", mode="w")
 
 dfWork = df_filtered.applymap(lambda x: len(x.split("|")) if isinstance(x, str) else 0)
+
+# Sorting to pick out which proteins have no orthologs
+
+
 dfWork.to_csv(path_or_buf="ortho_DF_work.csv", mode="w")
 '''if CountFlag is True:
     for i in dfWork.index:
@@ -156,62 +186,98 @@ dfWork.to_csv(path_or_buf="ortho_DF_work.csv", mode="w")
             else:
                 dfWork.loc[i, c] = 0'''
 
+# Create the various sorted dataframes; use .sum() to find total number of orthologs if ratioFlag is false, or .mean()
+# to find the average value, which corresponds to the relative frequency of orthologs compared to rice proteins in a
+# given reaction or pathway; this helps even out the data between reactions or pathways with many proteins to begin with
+# and those with very few, helping shed light on when a species actually has a relatively high number of orthologs.
 if ratioFlag is False:
-    if levelFlag is 'W':
-        df_med = dfWork.groupby(level=0).sum()
-    elif levelFlag is 'R':
-        df_med = dfWork.groupby(level=1).sum()
-    elif levelFlag is 'P':
-        df_med = dfWork.groupby(level=2).sum()
-    elif levelFlag is 'A':
-        df_W = dfWork.groupby(level=0).sum()
-        df_R = dfWork.groupby(level=1).sum()
-        df_P = dfWork.groupby(level=2).sum()
-    else:
-        print("Sorry, something's gone wrong; you may have entered what you wanted to sort by incorrectly.\nCurrently "
-              "acceptable choices are:\n\'P\' - UniProtID\n\'R\' - Reaction\n\'W\' - Terminal Pathway")
-        exit()
+    df_W = dfWork.groupby(level=0).sum()
+    df_R = dfWork.groupby(level=1).sum()
+    df_P = dfWork.groupby(level=2).sum()
 else:
-    if levelFlag is 'W':
-        df_med = dfWork.groupby(level=0).mean()
-    elif levelFlag is 'R':
-        df_med = dfWork.groupby(level=1).mean()
-    elif levelFlag is 'P':
-        df_med = dfWork.groupby(level=2).mean()
-    elif levelFlag is 'A':
-        df_W = dfWork.groupby(level=0).mean()
-        df_R = dfWork.groupby(level=1).mean()
-        df_P = dfWork.groupby(level=2).mean()
-    else:
-        print("Sorry, something's gone wrong; you may have entered what you wanted to sort by incorrectly.\nCurrently "
-              "acceptable choices are:\n\'P\' - UniProtID\n\'R\' - Reaction\n\'W\' - Terminal Pathway")
-        exit()
+    df_W = dfWork.groupby(level=0).mean()
+    df_R = dfWork.groupby(level=1).mean()
+    df_P = dfWork.groupby(level=2).mean()
 
-if levelFlag is 'A':
-    aWx = sns.heatmap(data=df_W, cmap="plasma", xticklabels=True, yticklabels=True)
-    plt.savefig(f"heatMap_TypeW.png", bbox_inches='tight')
+# Here we find and then filter out those values for which no orthologs are currently present in the database for any
+# species.
+dfSortW = df_W.apply(np.sum, axis=1)
+dfSortW[dfSortW == 0].to_csv(path_or_buf="ortho_DF_sortP.csv", mode="w", header=True)
+print("Successfully saved Data Missing Pathway Table")
+dfSortR = df_R.apply(np.sum, axis=1)
+dfSortR[dfSortR == 0].to_csv(path_or_buf="ortho_DF_sortR.csv", mode="w", header=True)
+print("Successfully saved Data Missing Reaction Table")
+dfSortP = df_P.apply(np.sum, axis=1)
+dfSortP[dfSortP == 0].to_csv(path_or_buf="ortho_DF_sortP.csv", mode="w", header=True)
+print("Successfully saved Data Missing Protein Table")
 
-    bWx = sns.clustermap(data=df_W, cmap="plasma", xticklabels=True, yticklabels=True)
+if logFlag is True:
+    df_Wm = df_W.drop(labels=dfSortW[dfSortW == 0].index, axis=0,)
+    df_Rm = df_R.drop(labels=dfSortR[dfSortR == 0].index, axis=0,)
+    df_Pm = df_P.drop(labels=dfSortP[dfSortP == 0].index, axis=0,)
+
+    # Here we take the log of the values; suspect this may be most useful with ratioFlag set to True.
+    df_W = np.log2(df_Wm)
+    df_W.replace(to_replace=float('-Inf'), value=-1, inplace=True)
+    df_R = np.log2(df_Rm)
+    df_R.replace(to_replace=float('-Inf'), value=-1, inplace=True)
+    df_P = np.log2(df_Pm)
+    df_P.replace(to_replace=float('-Inf'), value=-1, inplace=True)
+else:
+    df_W.drop(labels=dfSortW[dfSortW == 0].index, axis=0,inplace=True)
+    df_R.drop(labels=dfSortR[dfSortR == 0].index, axis=0, inplace=True)
+    df_P.drop(labels=dfSortP[dfSortP == 0].index, axis=0, inplace=True)
+
+# Pathway heatmap and clustermap
+if levelFlag is 'A' or levelFlag is 'W':
+    aWx = sns.heatmap(data=df_W, cmap="viridis", xticklabels=True,
+                      # yticklabels=True,
+                      )
+    aWx.set_xticklabels(aWx.get_xmajorticklabels(), fontsize=4)
+    plt.savefig(f"heatMap_TypeWT.png", bbox_inches='tight')
+    print("Successfully saved Pathway Heatmap")
+
+    bWx = sns.clustermap(data=df_W, cmap="viridis", xticklabels=True,
+                         # yticklabels=True
+                         col_cluster=False
+                         )
     bWx.ax_heatmap.tick_params(axis='x', labelsize=6)
-    plt.savefig(f"clusterMap_TypeW.png", bbox_inches='tight')
+    plt.savefig(f"clusterMap_TypeWT.png", bbox_inches='tight')
+    print("Successfully saved Pathway Clustermap")
+    plt.show()
 
-    aRx = sns.heatmap(data=df_R, cmap="plasma", xticklabels=True, yticklabels=True)
-    plt.savefig(f"heatMap_TypeR.png", bbox_inches='tight')
+# Reaction heatmap and clustermap
+if levelFlag is 'A' or levelFlag is 'R':
+    aRx = sns.heatmap(data=df_R, cmap="viridis", xticklabels=True,
+                      # yticklabels=True,
+                      )
+    aRx.set_xticklabels(aRx.get_xmajorticklabels(), fontsize=4)
+    plt.savefig(f"heatMap_TypeRT.png", bbox_inches='tight')
+    print("Successfully saved Reaction Heatmap")
 
-    bRx = sns.clustermap(data=df_R, cmap="plasma", xticklabels=True, yticklabels=True)
+    bRx = sns.clustermap(data=df_R, cmap="viridis", xticklabels=True,
+                         # yticklabels=True,
+                         col_cluster=False,
+                         )
     bRx.ax_heatmap.tick_params(axis='x', labelsize=6)
-    plt.savefig(f"clusterMap_TypeR.png", bbox_inches='tight')
+    plt.savefig(f"clusterMap_TypeRT.png", bbox_inches='tight')
+    print("Successfully saved Reaction Clustermap")
+    plt.show()
+# Protein heatmap and clustermap
+if levelFlag is 'A' or levelFlag is 'P':
+    aPx = sns.heatmap(data=df_P, cmap="viridis", xticklabels=True,
+                      # yticklabels=True,
+                      )
+    aPx.set_xticklabels(aPx.get_xmajorticklabels(), fontsize=4)
+    plt.savefig(f"heatMap_TypePT.png", bbox_inches='tight')
+    print("Successfully saved Protein Heatmap")
 
-    aPx = sns.heatmap(data=df_P, cmap="plasma", xticklabels=True, yticklabels=True)
-    plt.savefig(f"heatMap_TypeP.png", bbox_inches='tight')
-
-    bPx = sns.clustermap(data=df_P, cmap="plasma", xticklabels=True, yticklabels=True)
-    bPx.ax_heatmap.tick_params(labelsize=5)
-    plt.savefig(f"clusterMap_TypeP.png", bbox_inches='tight')
-else:
-    df_med.to_csv(path_or_buf="ortho_DF_med.csv", mode="w")
-    ax = sns.heatmap(data=df_med, cmap="plasma")
-    plt.savefig(f"heatMap_Type{levelFlag}.png", bbox_inches='tight')
-
-    bx = sns.clustermap(data=df_med, cmap="plasma")
-    plt.savefig(f"clusterMap_Type{levelFlag}.png", bbox_inches='tight')
+    bPx = sns.clustermap(data=df_P, cmap="viridis", xticklabels=True,
+                         # yticklabels=True,
+                         col_cluster=False,
+                         )
+    bPx.ax_heatmap.tick_params(axis='x', labelsize=5)
+    plt.savefig(f"clusterMap_TypePT.png", bbox_inches='tight')
+    print("Successfully saved Protein Clustermap")
+    plt.show()
+print("Successfully reached end of program!")
