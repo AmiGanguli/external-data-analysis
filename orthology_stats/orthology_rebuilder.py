@@ -244,7 +244,7 @@ if levelFlag is 'A' or levelFlag is 'W':
                          yticklabels=True,
                          col_cluster=False,
                          figsize=[10, 24],
-                         cbar_kws={'label': 'Log2 TPM Expression',
+                         cbar_kws={'label': 'Gene-Orthology-Based Pathway Projections',
                                    'orientation': 'horizontal'},
                          )
     bWx.ax_col_dendrogram.set_visible(False)
@@ -279,7 +279,7 @@ if levelFlag is 'A' or levelFlag is 'R':
                          yticklabels=2,
                          col_cluster=False,
                          figsize=[10, 24],
-                         cbar_kws={'label': 'Log2 TPM Expression',
+                         cbar_kws={'label': 'Gene-Orthology-Based Reaction Projections',
                                    'orientation': 'horizontal'},
                          )
     bRx.ax_col_dendrogram.set_visible(False)
@@ -315,7 +315,7 @@ if levelFlag is 'A' or levelFlag is 'P':
                          yticklabels=6,
                          col_cluster=False,
                          figsize=[10, 24],
-                         cbar_kws={'label': 'Log2 TPM Expression',
+                         cbar_kws={'label': 'Gene-Orthology-Based Protein Projections',
                                    'orientation': 'horizontal'},
                          )
     bPx.ax_col_dendrogram.set_visible(False)
