@@ -226,7 +226,7 @@ if logFlag is True:
     df_P = np.log2(df_Pm)
     df_P.replace(to_replace=float('-Inf'), value=-1, inplace=True)
 else:
-    df_W.drop(labels=dfSortW[dfSortW == 0].index, axis=0,inplace=True)
+    df_W.drop(labels=dfSortW[dfSortW == 0].index, axis=0, inplace=True)
     df_R.drop(labels=dfSortR[dfSortR == 0].index, axis=0, inplace=True)
     df_P.drop(labels=dfSortP[dfSortP == 0].index, axis=0, inplace=True)
 
@@ -239,11 +239,28 @@ if levelFlag is 'A' or levelFlag is 'W':
     plt.savefig(f"heatMap_TypeWT.png", bbox_inches='tight')
     print("Successfully saved Pathway Heatmap")
 
-    bWx = sns.clustermap(data=df_W, cmap="viridis", xticklabels=True,
-                         # yticklabels=True
-                         col_cluster=False
+    bWx = sns.clustermap(data=df_W, cmap="viridis",
+                         xticklabels=True,
+                         yticklabels=True,
+                         col_cluster=False,
+                         figsize=[10, 24],
+                         cbar_kws={'label': 'Log2 TPM Expression',
+                                   'orientation': 'horizontal'},
                          )
+    bWx.ax_col_dendrogram.set_visible(False)
+    W_DendroBox = bWx.ax_col_dendrogram.get_position()
+    print(W_DendroBox)
+    W_DendroBox.y0 =(W_DendroBox.y0 + 9 * W_DendroBox.y1) / 10
+    W_DendroWid = W_DendroBox.y0 - W_DendroBox.y1
+    W_DendroBox.y0 = bWx.ax_col_dendrogram.get_position().y0
+    W_DendroBox.y1 = W_DendroBox.y0 - W_DendroWid
+    print(W_DendroBox)
+    bWx.cax.set_position(W_DendroBox)
+    bWx.cax.xaxis.set_ticks_position(position="top")
+    bWx.cax.xaxis.set_label_position(position="top")
     bWx.ax_heatmap.tick_params(axis='x', labelsize=6)
+    bWx.ax_heatmap.tick_params(axis='y', labelsize=6)
+    bWx.ax_heatmap.set_ylabel("Pathway stIDs")
     plt.savefig(f"clusterMap_TypeWT.png", bbox_inches='tight')
     print("Successfully saved Pathway Clustermap")
     plt.show()
@@ -257,28 +274,64 @@ if levelFlag is 'A' or levelFlag is 'R':
     plt.savefig(f"heatMap_TypeRT.png", bbox_inches='tight')
     print("Successfully saved Reaction Heatmap")
 
-    bRx = sns.clustermap(data=df_R, cmap="viridis", xticklabels=True,
-                         # yticklabels=True,
+    bRx = sns.clustermap(data=df_R, cmap="viridis",
+                         xticklabels=True,
+                         yticklabels=2,
                          col_cluster=False,
+                         figsize=[10, 24],
+                         cbar_kws={'label': 'Log2 TPM Expression',
+                                   'orientation': 'horizontal'},
                          )
+    bRx.ax_col_dendrogram.set_visible(False)
+    R_DendroBox = bRx.ax_col_dendrogram.get_position()
+    print(R_DendroBox)
+    R_DendroBox.y0 = (R_DendroBox.y0 + 9 * R_DendroBox.y1) / 10
+    R_DendroWid = R_DendroBox.y0 - R_DendroBox.y1
+    R_DendroBox.y0 = bRx.ax_col_dendrogram.get_position().y0
+    R_DendroBox.y1 = R_DendroBox.y0 - R_DendroWid
+    print(R_DendroBox)
+    bRx.cax.set_position(R_DendroBox)
+    bRx.cax.xaxis.set_ticks_position(position="top")
+    bRx.cax.xaxis.set_label_position(position="top")
     bRx.ax_heatmap.tick_params(axis='x', labelsize=6)
+    bRx.ax_heatmap.tick_params(axis='y', labelsize=5)
+    bRx.ax_heatmap.set_ylabel("Reaction stIDs")
     plt.savefig(f"clusterMap_TypeRT.png", bbox_inches='tight')
     print("Successfully saved Reaction Clustermap")
     plt.show()
+
 # Protein heatmap and clustermap
 if levelFlag is 'A' or levelFlag is 'P':
-    aPx = sns.heatmap(data=df_P, cmap="viridis", xticklabels=True,
+    aPx = sns.heatmap(data=df_P, cmap="viridis",
+                      # xticklabels=True,
                       # yticklabels=True,
                       )
-    aPx.set_xticklabels(aPx.get_xmajorticklabels(), fontsize=4)
+    aPx.set_xticklabels(aPx.get_xmajorticklabels(), fontsize=5)
     plt.savefig(f"heatMap_TypePT.png", bbox_inches='tight')
     print("Successfully saved Protein Heatmap")
 
-    bPx = sns.clustermap(data=df_P, cmap="viridis", xticklabels=True,
-                         # yticklabels=True,
+    bPx = sns.clustermap(data=df_P, cmap="viridis",
+                         xticklabels=True,
+                         yticklabels=6,
                          col_cluster=False,
+                         figsize=[10, 24],
+                         cbar_kws={'label': 'Log2 TPM Expression',
+                                   'orientation': 'horizontal'},
                          )
-    bPx.ax_heatmap.tick_params(axis='x', labelsize=5)
+    bPx.ax_col_dendrogram.set_visible(False)
+    P_DendroBox = bPx.ax_col_dendrogram.get_position()
+    print(P_DendroBox)
+    P_DendroBox.y0 = (P_DendroBox.y0 + 9 * P_DendroBox.y1) / 10
+    P_DendroWid = P_DendroBox.y0 - P_DendroBox.y1
+    P_DendroBox.y0 = bPx.ax_col_dendrogram.get_position().y0
+    P_DendroBox.y1 = P_DendroBox.y0 - P_DendroWid
+    print(P_DendroBox)
+    bPx.cax.set_position(P_DendroBox)
+    bPx.cax.xaxis.set_ticks_position(position="top")
+    bPx.cax.xaxis.set_label_position(position="top")
+    bPx.ax_heatmap.tick_params(axis='x', labelsize=6)
+    bPx.ax_heatmap.tick_params(axis='y', labelsize=5)
+    bPx.ax_heatmap.set_ylabel("UniProt IDs in Oryza Sativa")
     plt.savefig(f"clusterMap_TypePT.png", bbox_inches='tight')
     print("Successfully saved Protein Clustermap")
     plt.show()
