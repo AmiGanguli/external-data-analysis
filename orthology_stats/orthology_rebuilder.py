@@ -11,32 +11,34 @@ import copy
 url_base = 'https://plantreactomedev.gramene.org/ContentService'
 headers = {'accept': 'application/json'}
 
-species_list = [  # Oryza genus
-                "Oryza sativa Indica Group", "Oryza sativa aus subgroup", "Oryza australiensis", "Oryza barthii",
-                "Oryza brachyantha", "Oryza glaberrima", "Oryza glumaepatula", "Oryza longistaminata",
-                "Oryza meridionalis", "Oryza meyeriana var. granulata", "Oryza minuta", "Oryza nivara",
-                "Oryza officinalis", "Oryza punctata", "Oryza rufipogon",
+species_list = [# Dicots
+                "Arabidopsis halleri", "Arabidopsis lyrata", "Arabidopsis thaliana", "Brassica napus",
+                "Brassica oleracea", "Brassica rapa", "Theobroma cacao", "Gossypium raimondii", "Corchorus capsularis",
+                "Citrus sinensis", "Manihot esculenta", "Populus trichocarpa", "Jatropha curcas", "Medicago truncatula",
+                "Phaseolus vulgaris", "Glycine max", "Trifolium pratense", "Vigna radiata", "Vigna angularis",
+                "Arachis duranensis", "Arachis ipaensis", "Lupinus angustifolius", "Cajanus cajan", "Cicer arietinum",
+                "Prunus persica", "Fragaria vesca",  "Malus domestica", "Cucumis sativus", "Eucalyptus grandis",
+                "Coffea canephora", "Solanum lycopersicum", "Solanum tuberosum", "Erythranthe guttata",
+                "Capsicum annuum", "Nicotiana attenuata", "Actinidia chinensis", "Beta vulgaris", "Helianthus annuus",
+                "Daucus carota", "Vitis vinifera",
                 # Monocots
-                "Musa acuminata", "Zea mays", "Sorghum bicolor", "Setaria italica", "Leersia perrieri",
-                "Brachypodium distachyon",  "Aegilops tauschii", "Triticum aestivum", "Triticum dicoccoides",
-                "Triticum turgidum", "Triticum urartu", "Hordeum vulgare", "Panicum hallii FIL2",
-                "Panicum hallii var. hallii HAL2", "Phoenix dactylifera", "Dioscorea rotundata",
-                # Dicots
-                "Solanum lycopersicum", "Solanum tuberosum", "Brassica napus", "Brassica oleracea", "Brassica rapa",
-                "Arabidopsis halleri", "Arabidopsis lyrata", "Arabidopsis thaliana", "Beta vulgaris",
-                "Nicotiana attenuata", "Helianthus annuus", "Vigna angularis", "Vigna radiata", "Vitis vinifera",
-                "Lupinus angustifolius", "Daucus carota", "Theobroma cacao", "Trifolium pratense",  "Manihot esculenta",
-                "Medicago truncatula",  "Cucumis sativus", "Corchorus capsularis", "Glycine max", "Phaseolus vulgaris",
-                "Prunus persica", "Populus trichocarpa", "Gossypium raimondii", "Citrus sinensis", "Capsicum annuum",
-                "Actinidia chinensis", "Arachis duranensis", "Arachis ipaensis", "Cajanus cajan", "Coffea canephora",
-                "Cicer arietinum", "Erythranthe guttata", "Eucalyptus grandis", "Fragaria vesca", "Jatropha curcas",
-                "Malus domestica",
+                "Musa acuminata", "Phoenix dactylifera",
+                # Oryza genus
+                "Oryza australiensis", "Oryza meyeriana var. granulata", "Oryza minuta", "Oryza officinalis",
+                "Oryza rufipogon", "Oryza sativa Indica Group", "Oryza sativa aus subgroup", "Oryza nivara",
+                "Oryza glaberrima",  "Oryza barthii", "Oryza glumaepatula", "Oryza meridionalis", "Oryza punctata",
+                "Oryza brachyantha", "Oryza longistaminata",
+                # Monocots+
+                "Leersia perrieri", "Brachypodium distachyon", "Triticum urartu", "Triticum aestivum",
+                "Triticum dicoccoides", "Triticum turgidum",  "Aegilops tauschii", "Hordeum vulgare", "Zea mays",
+                "Setaria italica", "Sorghum bicolor", "Panicum hallii FIL2", "Panicum hallii var. hallii HAL2",
+                "Dioscorea rotundata", "Amborella trichopoda",
                 # Seed plants
                 "Pinus taeda", "Picea abies",
                 # Lower Plants
-                "Ostreococcus lucimarinus", "Amborella trichopoda", "Chlamydomonas reinhardtii", "Chondrus crispus",
-                "Cyanidioschyzon merolae", "Selaginella moellendorffii", "Physcomitrella patens",
-                "Galdieria sulphuraria", "Synechocystis sp. PCC 6803",
+                "Selaginella moellendorffii", "Physcomitrella patens", "Chlamydomonas reinhardtii", "Chondrus crispus",
+                "Cyanidioschyzon merolae", "Ostreococcus lucimarinus", "Galdieria sulphuraria",
+                "Synechocystis sp. PCC 6803",
                 ]
 
 
