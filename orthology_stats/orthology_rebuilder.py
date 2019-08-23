@@ -229,13 +229,13 @@ else:
     df_W.drop(labels=dfSortW[dfSortW == 0].index, axis=0, inplace=True)
     df_R.drop(labels=dfSortR[dfSortR == 0].index, axis=0, inplace=True)
     df_P.drop(labels=dfSortP[dfSortP == 0].index, axis=0, inplace=True)
-
+kwargs = {"family": 'arial', "style": 'italic'}
 # Pathway heatmap and clustermap
 if levelFlag is 'A' or levelFlag is 'W':
     aWx = sns.heatmap(data=df_W, cmap="viridis", xticklabels=True,
                       # yticklabels=True,
                       )
-    aWx.set_xticklabels(aWx.get_xmajorticklabels(), fontsize=4)
+    aWx.set_xticklabels(aWx.get_xmajorticklabels(), fontsize=4, **kwargs)
     plt.savefig(f"heatMap_TypeWT.png", bbox_inches='tight')
     print("Successfully saved Pathway Heatmap")
 
@@ -261,6 +261,7 @@ if levelFlag is 'A' or levelFlag is 'W':
     bWx.ax_heatmap.tick_params(axis='x', labelsize=6)
     bWx.ax_heatmap.tick_params(axis='y', labelsize=6)
     bWx.ax_heatmap.set_ylabel("Pathway stIDs")
+    bWx.ax_heatmap.set_xticklabels(bWx.ax_heatmap.get_xticklabels(), **kwargs)
     plt.savefig(f"clusterMap_TypeWT.png", bbox_inches='tight')
     print("Successfully saved Pathway Clustermap")
     plt.show()
@@ -270,7 +271,7 @@ if levelFlag is 'A' or levelFlag is 'R':
     aRx = sns.heatmap(data=df_R, cmap="viridis", xticklabels=True,
                       # yticklabels=True,
                       )
-    aRx.set_xticklabels(aRx.get_xmajorticklabels(), fontsize=4)
+    aRx.set_xticklabels(aRx.get_xmajorticklabels(), fontsize=4, **kwargs)
     plt.savefig(f"heatMap_TypeRT.png", bbox_inches='tight')
     print("Successfully saved Reaction Heatmap")
 
@@ -296,6 +297,7 @@ if levelFlag is 'A' or levelFlag is 'R':
     bRx.ax_heatmap.tick_params(axis='x', labelsize=6)
     bRx.ax_heatmap.tick_params(axis='y', labelsize=5)
     bRx.ax_heatmap.set_ylabel("Reaction stIDs")
+    bRx.ax_heatmap.set_xticklabels(bRx.ax_heatmap.get_xticklabels(), **kwargs)
     plt.savefig(f"clusterMap_TypeRT.png", bbox_inches='tight')
     print("Successfully saved Reaction Clustermap")
     plt.show()
@@ -306,7 +308,7 @@ if levelFlag is 'A' or levelFlag is 'P':
                       # xticklabels=True,
                       # yticklabels=True,
                       )
-    aPx.set_xticklabels(aPx.get_xmajorticklabels(), fontsize=5)
+    aPx.set_xticklabels(aPx.get_xmajorticklabels(), fontsize=5, **kwargs)
     plt.savefig(f"heatMap_TypePT.png", bbox_inches='tight')
     print("Successfully saved Protein Heatmap")
 
@@ -332,6 +334,7 @@ if levelFlag is 'A' or levelFlag is 'P':
     bPx.ax_heatmap.tick_params(axis='x', labelsize=6)
     bPx.ax_heatmap.tick_params(axis='y', labelsize=5)
     bPx.ax_heatmap.set_ylabel("UniProt IDs in Oryza Sativa")
+    bPx.ax_heatmap.set_xticklabels(bPx.ax_heatmap.get_xticklabels(), **kwargs)
     plt.savefig(f"clusterMap_TypePT.png", bbox_inches='tight')
     print("Successfully saved Protein Clustermap")
     plt.show()

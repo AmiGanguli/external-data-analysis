@@ -4,9 +4,17 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import sys
 
-XL_Name = r"C:\Users\rolep\Documents\Naithani Lab\SDRLK_Expression_Data\Biotic-data-file-02-for-Daemon-08-22-2019.csv"
+
 sys.argv = ['diffX_cluster.py']
+XL_Name = r"C:\Users\rolep\Documents\Naithani Lab\SDRLK_Expression_Data\Biotic Data\Biotic-data-file-02-for-Daemon-08-22-2019.csv"
 metrix = 'euclidean'
+if len(sys.argv) > 1:
+    if sys.argv[1] == '-m':
+        metrix = sys.argv[2]
+        if len(sys.argv) > 3:
+            XL_Name = sys.argv[3]
+    else:
+        XL_Name = sys.argv[1]
 
 XL_handle = open(XL_Name, "r")
 df_Diff_XL = ["","","","",""]
@@ -36,6 +44,11 @@ df_Diff_XL[2] = pd.read_csv(XL_handle,
                             nrows=71,
                             )
 XL_handle.close()
+print(df_Diff_XL[2].columns)
+df_Diff_XL[2].columns = ["CL161(R)_seedling; B. glumae",
+                         "CL151(S)_seedling; B. glumae",
+                         "CL161(R)_vs._ CL151(S)_ \nflowering stage; B. glumae",
+                         ]
 XL_handle = open(XL_Name, "r")
 df_Diff_XL[3] = pd.read_csv(XL_handle,
                             index_col=0,
@@ -84,7 +97,7 @@ for t in range(0,5):
                                   cbar_kws={"label": 'Log2 Expression Fold-Change',
                                             'orientation': 'horizontal'},
                                   center=0.0,
-                                  #vmax=6.0
+                                  # vmax=6.0
                                   )
     Diff_XL_clus.ax_col_dendrogram.set_visible(False)
     DiffDendroBox = Diff_XL_clus.ax_col_dendrogram.get_position()
@@ -97,7 +110,8 @@ for t in range(0,5):
     Diff_XL_clus.cax.xaxis.set_ticks_position("top")
     Diff_XL_clus.cax.xaxis.set_label_position("top")
     Diff_XL_clus.ax_heatmap.set_ylabel("Gene IDs")
-    Diff_XL_clus.ax_heatmap.tick_params(labelsize=7)
+    Diff_XL_clus.ax_heatmap.tick_params(axis='y', labelsize=7)
+    Diff_XL_clus.ax_heatmap.tick_params(axis='x', labelsize=10)
     plt.savefig(f"Diff_XL_SDRLK_clus_{metrix}_{name}.png",
                 bbox_inches='tight',
                 )
