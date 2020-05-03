@@ -28,12 +28,11 @@ headers = {'accept': 'application/json'}
 #########################################################################
 
 
-# Program outputs an intermediate JSON file and a DataFrame in the form of a csv file.
-# The JSON file has three levels of dictionaries+lists. The top level dictionary has Pathway stIds as keys, containing
-# two-item lists in which the first item is the name of the Pathway, and the second item is the next dictionary level.
-# The second level of dictionary contains Reaction stIds as keys, containing two-item lists in which the first item is
+# Program outputs intermediate JSON files and a DataFrame in the form of a csv file.
+# The JSON files has two levels of dictionaries+lists.
+# The top level of dictionary contains Reaction stIds as keys, containing two-item lists in which the first item is
 # the name of the Reaction, and the second item is the next dictionary level.
-# The third level of dictionary contains UniProt IDs as keys, containing two-item lists in which the first item is the
+# The second level of dictionary contains UniProt IDs as keys, containing two-item lists in which the first item is the
 # MSU ID of the Gene Product, and the second item is the RAP ID of the Gene Product.
 # The DataFrame contains UniProt ID row indexes, with Species name column indexes; the values are |-delimited lists in
 # string format, containing the IDs of the orthologs to the given Gene Products in Oryza Sativa.

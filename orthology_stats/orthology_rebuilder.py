@@ -71,7 +71,7 @@ def recurs_get_paths(sub_dict, path_list, term_path_list):
 CountFlag = True
 
 # something something interface for user to decide which pathways they want?
-sys.argv = ['orthology_rebuilder.py', 'A', '-r', '-log',
+sys.argv = ['orthology_rebuilder.py', 'W', '-r', '-log',
             'R-OSA-2744345']
 # P -> Protein Level; R -> Reaction Level; W -> pathWay Level; A -> All three
 if sys.argv[1] not in ['P', 'R', 'W', 'A']:
@@ -235,8 +235,8 @@ if levelFlag is 'A' or levelFlag is 'W':
     aWx = sns.heatmap(data=df_W, cmap="viridis", xticklabels=True,
                       # yticklabels=True,
                       )
-    aWx.set_xticklabels(aWx.get_xmajorticklabels(), fontsize=4, **kwargs)
-    plt.savefig(f"heatMap_TypeWT.png", bbox_inches='tight')
+    aWx.set_xticklabels(aWx.get_xticklabels(), fontsize=5, **kwargs)
+    plt.savefig(f"heatMap_TypeWT.pdf", bbox_inches='tight')
     print("Successfully saved Pathway Heatmap")
 
     bWx = sns.clustermap(data=df_W, cmap="viridis",
@@ -258,11 +258,11 @@ if levelFlag is 'A' or levelFlag is 'W':
     bWx.cax.set_position(W_DendroBox)
     bWx.cax.xaxis.set_ticks_position(position="top")
     bWx.cax.xaxis.set_label_position(position="top")
-    bWx.ax_heatmap.tick_params(axis='x', labelsize=6)
-    bWx.ax_heatmap.tick_params(axis='y', labelsize=6)
+    bWx.ax_heatmap.tick_params(axis='x', labelsize=7)
+    bWx.ax_heatmap.tick_params(axis='y', labelsize=7)
     bWx.ax_heatmap.set_ylabel("Pathway stIDs")
     bWx.ax_heatmap.set_xticklabels(bWx.ax_heatmap.get_xticklabels(), **kwargs)
-    plt.savefig(f"clusterMap_TypeWT.png", bbox_inches='tight')
+    plt.savefig(f"clusterMap_TypeWT.pdf", bbox_inches='tight')
     print("Successfully saved Pathway Clustermap")
     plt.show()
 

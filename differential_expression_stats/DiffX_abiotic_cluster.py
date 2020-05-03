@@ -5,7 +5,7 @@ import sys
 
 
 sys.argv = ['diffX_cluster.py']
-XL_Name = r"C:\Users\rolep\Documents\Naithani Lab\SDRLK_Expression_Data\Biotic Data\Biotic-data-file-02-for-Daemon-08-22-2019.csv"
+XL_namebase = r"C:\Users\rolep\Documents\Naithani Lab\SDRLK_Expression_Data\Abiotic Data"
 metrix = 'euclidean'
 if len(sys.argv) > 1:
     if sys.argv[1] == '-m':
@@ -15,89 +15,67 @@ if len(sys.argv) > 1:
     else:
         XL_Name = sys.argv[1]
 
-XL_handle = open(XL_Name, "r")
-df_Diff_XL = ["","","","",""]
+XL_handle = open((XL_namebase + r"\E-GEOD-38023-A-AFFY-126-query-results-C.txt"), "r")
+df_Diff_XL = ["","","",""]
 df_Diff_XL[0] = pd.read_csv(XL_handle,
                             index_col=0,
                             na_values="",
-                            usecols=[0, 1, 2, 3],
-                            skiprows=[0],
-                            nrows=18,
-                            header=0,
-                            names=["genes","EPS-", "[E/L]PS-", "WT"],
                             )
 XL_handle.close()
-XL_handle = open(XL_Name, "r")
+df_Diff_XL[0].drop(labels=["Gene Name", "Design Element"], axis=1, inplace=True)
+XL_handle = open((XL_namebase + r"\E-GEOD-41647-A-AFFY-126-query-results-C.txt"), "r")
 df_Diff_XL[1] = pd.read_csv(XL_handle,
                             index_col=0,
                             na_values="",
-                            usecols=range(4, 23),
-                            skiprows=[0],
-                            nrows=43,
                             )
 XL_handle.close()
-XL_handle = open(XL_Name, "r")
+df_Diff_XL[1].drop(labels=["Gene Name", "Design Element"], axis=1, inplace=True)
+XL_handle = open((XL_namebase + r"\E-MTAB-4994-A-AFFY-126-query-results-C.txt"), "r")
 df_Diff_XL[2] = pd.read_csv(XL_handle,
                             index_col=0,
                             na_values="",
-                            usecols=range(23, 27),
-                            skiprows=[0],
-                            nrows=71,
                             )
 XL_handle.close()
-print(df_Diff_XL[2].columns)
-df_Diff_XL[2].columns = ["CL161(R)_seedling; B. glumae",
-                         "CL151(S)_seedling; B. glumae",
-                         "CL161(R)_vs._ CL151(S)_ \nflowering stage; B. glumae",
-                         ]
-XL_handle = open(XL_Name, "r")
+df_Diff_XL[2].drop(labels=["Gene Name", "Design Element"], axis=1, inplace=True)
+XL_handle = open((XL_namebase + r"\E-MTAB-5941-query-results-C.txt"), "r")
 df_Diff_XL[3] = pd.read_csv(XL_handle,
                             index_col=0,
                             na_values="",
-                            usecols=range(27, 31),
-                            skiprows=[0],
-                            nrows=41,
                             )
 XL_handle.close()
-XL_handle = open(XL_Name, "r")
-df_Diff_XL[4] = pd.read_csv(XL_handle,
-                            index_col=0,
-                            na_values="",
-                            usecols=range(31, 36),
-                            skiprows=[0],
-                            nrows=39,
-                            )
-XL_handle.close()
-
-sp_cols = df_Diff_XL[0].columns.tolist()
-sp_cols = sp_cols[-1:] + sp_cols[:-1]
-df_Diff_XL[0] = df_Diff_XL[0][sp_cols]
+df_Diff_XL[3].drop(labels=["Gene Name"], axis=1, inplace=True)
 
 # df_Diff_XL.replace(to_replace="", value="0", inplace=True)
-for t in range(0,5):
+for t in range(0, 4):
     df_Diff_XL[t].fillna(value=0, inplace=True)
+    df_cur = df_Diff_XL[t].filter(like='.foldChange')
     if t == 1:
-        name = "X-oryzae-E-GEOD-36272"
-        curfig = [8, 8]
+        name = "E-GEOD-41647-new"
+        curfig = [2.5, 5]
+        metrica=metrix
+        xticks=["B1", "B2", 'B3', 'B4']
     elif t == 2:
-        name = "E-MTAB-4406"
-        curfig = [3.5, 16]
+        name = "E-MTAB-4994-new"
+        curfig = [1.5, 4]
+        metrica=metrix
+        xticks=['C1']
     elif t == 3:
-        name = "E-MTAB-5025"
-        curfig = [3.5, 8]
-    elif t == 4:
-        name = "R. solani testing"
-        curfig = [3.5, 8]
+        name = "E-MTAB-5941-new"
+        curfig = [2.5, 8]
+        metrica=metrix
+        xticks=['D1', 'D2', 'D3', 'D4', 'D5', 'D6', 'D7']
     else:
-        name = "X1-E-GEOD-61833"
-        curfig = [2.5, 4]
+        name = "E-GEOD-38023-new"
+        curfig = [2.5, 10]
+        xticks=['A1', 'A2', 'A3', 'A4', 'A5', 'A6', 'A7', 'A8', 'A9', 'A10']
+        metrica=metrix
 
-    Diff_XL_clus = sns.clustermap(df_Diff_XL[t],
-                                  metric=metrix,
-                                  cmap='RdBu_r',
+    Diff_XL_clus = sns.clustermap(df_cur,
+                                  metric=metrica,
+                                  cmap='RdBu',
                                   figsize=curfig,
                                   col_cluster=False,
-                                  xticklabels=True,
+                                  xticklabels=xticks,
                                   yticklabels=True,
                                   cbar_kws={"label": 'Log2 Expression Fold-Change',
                                             'orientation': 'horizontal'},
@@ -115,8 +93,8 @@ for t in range(0,5):
     Diff_XL_clus.cax.xaxis.set_ticks_position("top")
     Diff_XL_clus.cax.xaxis.set_label_position("top")
     Diff_XL_clus.ax_heatmap.set_ylabel("Gene IDs")
-    Diff_XL_clus.ax_heatmap.tick_params(axis='y', labelsize=10)
+    Diff_XL_clus.ax_heatmap.tick_params(axis='y', labelsize=7)
     Diff_XL_clus.ax_heatmap.tick_params(axis='x', labelsize=10)
-    plt.savefig(f"Diff_XL_SDRLK_clus_{metrix}_{name}_special-order3.png",
+    plt.savefig(f"Diff_XL_SDRLK_abiotic_clus_{metrix}_{name}.png",
                 bbox_inches='tight',
                 )
