@@ -34,13 +34,13 @@ if __name__ == '__main__':
         entryId = sys.argv[1:]
     else:
         entryId = ['R-OSA-2744345']
-    path_url = '/data/eventsHierarchy/4530'
+    path_url = '/data/eventsHierarchy/4530' # rice as reference (NCBI tax id)
     full_url = url_base + path_url
     response = requests.get(full_url, headers=headers).json()
     base_dict = {}
     term_dict = {'Header': False}
     for TopLevel in response:
-        if TopLevel['name'] == "Metabolism and regulation":
+        if TopLevel['name'] == "Metabolism and regulation":  # configure top level pathway by name here
             base_dict = TopLevel
             break
     recurs_get_paths(base_dict, term_dict, entryId)

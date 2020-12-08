@@ -11,6 +11,7 @@ import copy
 url_base = 'https://plantreactomedev.gramene.org/ContentService'
 headers = {'accept': 'application/json'}
 
+# customizable species list
 species_list = [# Dicots
                 "Arabidopsis halleri", "Arabidopsis lyrata", "Arabidopsis thaliana", "Brassica napus",
                 "Brassica oleracea", "Brassica rapa", "Theobroma cacao", "Gossypium raimondii", "Corchorus capsularis",
@@ -41,6 +42,8 @@ species_list = [# Dicots
                 "Synechocystis sp. PCC 6803",
                 ]
 
+# example customization
+# species_list = ["Arabidopsis thaliana","speciesB","..."]
 
 def recurs_get_paths(sub_dict, path_list, term_path_list):
     pathTypes = ['Pathway', 'TopLevelPathway']
