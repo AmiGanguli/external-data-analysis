@@ -12,33 +12,29 @@ url_base = 'https://plantreactomedev.gramene.org/ContentService'
 headers = {'accept': 'application/json'}
 
 # customizable species list
-species_list = [# Dicots
-                "Arabidopsis halleri", "Arabidopsis lyrata", "Arabidopsis thaliana", "Brassica napus",
-                "Brassica oleracea", "Brassica rapa", "Theobroma cacao", "Gossypium raimondii", "Corchorus capsularis",
-                "Citrus sinensis", "Manihot esculenta", "Populus trichocarpa", "Jatropha curcas", "Medicago truncatula",
-                "Phaseolus vulgaris", "Glycine max", "Trifolium pratense", "Vigna radiata", "Vigna angularis",
-                "Arachis duranensis", "Arachis ipaensis", "Lupinus angustifolius", "Cajanus cajan", "Cicer arietinum",
-                "Prunus persica", "Fragaria vesca",  "Malus domestica", "Cucumis sativus", "Eucalyptus grandis",
-                "Coffea canephora", "Solanum lycopersicum", "Solanum tuberosum", "Erythranthe guttata",
-                "Capsicum annuum", "Nicotiana attenuata", "Actinidia chinensis", "Beta vulgaris", "Helianthus annuus",
-                "Daucus carota", "Vitis vinifera",
-                # Monocots
-                "Musa acuminata", "Phoenix dactylifera",
-                # Oryza genus
-                "Oryza australiensis", "Oryza meyeriana var. granulata", "Oryza minuta", "Oryza officinalis",
-                "Oryza rufipogon", "Oryza sativa Indica Group", "Oryza sativa aus subgroup", "Oryza nivara",
-                "Oryza glaberrima",  "Oryza barthii", "Oryza glumaepatula", "Oryza meridionalis", "Oryza punctata",
-                "Oryza brachyantha", "Oryza longistaminata",
-                # Monocots+
-                "Leersia perrieri", "Brachypodium distachyon", "Triticum urartu", "Triticum aestivum",
-                "Triticum dicoccoides", "Triticum turgidum",  "Aegilops tauschii", "Hordeum vulgare", "Zea mays",
-                "Setaria italica", "Sorghum bicolor", "Panicum hallii FIL2", "Panicum hallii var. hallii HAL2",
-                "Dioscorea rotundata", "Amborella trichopoda",
-                # Seed plants
+species_list = [# Monocots
+                "Oryza sativa Indica", "Oryza sativa aus kasalath", "Oryza australiensis", "Oryza barthii", "Oryza brachyantha", "Oryza glaberrima", "Oryza glumaepatula", 
+                "Oryza granulata", "Oryza longistaminata", "Oryza meridionalis", "Oryza minuta", "Oryza nivara", "Oryza officinalis", "Oryza punctata", "Oryza rufipogon", "Hordeum vulgare",
+                "Setaria italica", "Sorghum bicolor", "Triticum aestivum", "Triticum turgidum", "Triticum urartu", "Triticum dicoccoides", "Zea mays", "Brachypodium distachyon",
+                "Aegilops tauschii", "Eragrostis curvula", "Eragrostis tef", "Phyllostachys edulis", "Saccharum spontaneum", "Leersia perrieri",
+                "Panicum hallii FIL2", "Panicum hallii var. hallii HAL2", "Zoysia japonica", "Ananas comosus", "Asparagus officinalis", "Musa acuminata",
+                "Dioscorea rotundata", 
+                
+                # Dicots
+                "Beta vulgaris",  "Eucalyptus grandis", "Coffea canephora", "Phoenix dactylifera", "Vitis vinifera", "Nelumbo nucifera", "Helianthus annuus", "Cynara cardunculus", "Salvia hispanica", "Erythranthe guttata", "Olea europaea var. sylvestris", "Ipomoea triloba", "Nicotiana attenuata", 
+                "Solanum tuberosum", "Solanum lycopersicum",  "Capsicum annuum", "Daucus carota", "Arachis ipaensis", "Arachis duranensis", "Trifolium pratense", "Vigna radiata", "Vigna angularis", "Phaseolus vulgaris", "Medicago truncatula", "Lupinus angustifolius", 
+                "Glycine max", "Cicer arietinum", "Cajanus cajan", "Capsella rubella", "Brassica oleracea", "Brassica rapa", "Brassica napus", "Arabidopsis thaliana",
+                "Arabidopsis lyrata", "Arabidopsis halleri", "Populus trichocarpa", "Manihot esculenta", "Jatropha curcas", "Cucumis sativus", "Citrullus lanatus", "Corchorus capsularis",
+                "Corchorus olitorius", "Gossypium raimondii", "Theobroma cacao", "Actinidia chinensis", "Fragaria vesca", "Prunus persica", "Prunus avium", "Malus domestica",
+                "Humulus lupulus primary", "Humulus lupulus haplotig", "Cannabis sativa", "Cannabis sativa subsp. indica", "Pistacia vera", "Citrus clementina", "Citrus sinensis",
+         
+                # Basal angiosperm
+                "Amborella trichopoda",
+                # Gymnosperms
                 "Pinus taeda", "Picea abies",
                 # Lower Plants
-                "Selaginella moellendorffii", "Physcomitrella patens", "Chlamydomonas reinhardtii", "Chondrus crispus",
-                "Cyanidioschyzon merolae", "Ostreococcus lucimarinus", "Galdieria sulphuraria",
+                "Marchantia polymorpha", "Physcomitrella patens", "Chara braunii", "Selaginella moellendorffii", "Chlamydomonas reinhardtii", 
+                 "Ostreococcus lucimarinus", "Galdieria sulphuraria", "Cyanidioschyzon merolae", "Chondrus crispus",
                 "Synechocystis sp. PCC 6803",
                 ]
 
