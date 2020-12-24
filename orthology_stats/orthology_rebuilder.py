@@ -12,7 +12,7 @@ url_base = 'https://plantreactomedev.gramene.org/ContentService'
 headers = {'accept': 'application/json'}
 
 # customizable species list
-species_list = [# Dicots
+'''species_list = [# Dicots
                 "Arabidopsis halleri", "Arabidopsis lyrata", "Arabidopsis thaliana", "Brassica napus",
                 "Brassica oleracea", "Brassica rapa", "Theobroma cacao", "Gossypium raimondii", "Corchorus capsularis",
                 "Citrus sinensis", "Manihot esculenta", "Populus trichocarpa", "Jatropha curcas", "Medicago truncatula",
@@ -40,10 +40,12 @@ species_list = [# Dicots
                 "Selaginella moellendorffii", "Physcomitrella patens", "Chlamydomonas reinhardtii", "Chondrus crispus",
                 "Cyanidioschyzon merolae", "Ostreococcus lucimarinus", "Galdieria sulphuraria",
                 "Synechocystis sp. PCC 6803",
-                ]
+                ]'''
 
-# example customization
-# species_list = ["Arabidopsis thaliana","speciesB","..."]
+# example customizations
+#species_list = ["Arabidopsis thaliana"] # test run 0 - AT only - JP 20201224
+#species_list = ["Arabidopsis thaliana","Musa acuminata","Triticum aestivum","Pinus taeda","Selaginella moellendorffii"] # test run 1 - multiclade - JP 20201224
+species_list = ["Selaginella moellendorffii","Oryza australiensis", "Oryza meyeriana var. granulata", "Oryza minuta", "Oryza officinalis"] # test run 2 - outlier - JP 20201224
 
 def recurs_get_paths(sub_dict, path_list, term_path_list):
     pathTypes = ['Pathway', 'TopLevelPathway']
