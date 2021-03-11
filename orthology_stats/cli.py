@@ -7,6 +7,7 @@ from gramene.data import Data
 import pandas as pd
 from species_list import species_list
 import aiohttp
+import logging
 
 version = '0.01'
 
@@ -16,20 +17,27 @@ output_directory = './'
 
 
 class Reactome:
-    def __init__(self, tax_id, top_level, api_endpoint, output_directory, file_prefix, show, debug):
+    def __init__(self, tax_id, top_level, api_endpoint, output_directory, log_file, log_level, file_prefix, show):
         self.tax_id = tax_id
         self.top_level = top_level
         self.api_endpoint = api_endpoint
         self.output_directory = output_directory
         self.file_prefix = file_prefix
         self.show = show
-        self.debug = debug
-        self.debug_message('Starting...')
         pd.set_option('display.max_rows', None)
-
-    def debug_message(self, message):
-        if self.debug:
-            print(message)
+        level = {
+            'DEBUG': logging.DEBUG,
+            'INFO': logging.INFO,
+            'WARNING': logging.WARNING,
+            'ERROR': logging.ERROR,
+            'CRITICAL': logging.CRITICAL,
+        }[log_level]
+        if log_file is not None:
+            logging.basicConfig(format='%(asctime)s %(message)s',
+                                filename=log_file, level=level)
+        else:
+            logging.basicConfig(format='%(asctime)s %(message)s',
+                                filename=log_file, level=level)
 
 
 @click.group(chain=True)
@@ -56,13 +64,26 @@ class Reactome:
     type=click.Path(exists=True, file_okay=False, writable=True),
     help='The destintation for output files.'
 )
+@click.option(
+    '--log-file',
+    envvar='REACTOME_LOG_FILE',
+    type=click.Path(file_okay=True, writable=True),
+    help='Log to this file.'
+)
+@click.option(
+    '--log-level',
+    envvar='REACTOME_LOG_LEVEL',
+    type=click.Choice(['DEBUG', 'INFO', 'WARNING', 'ERROR',
+                       'CRITICAL'], case_sensitive=False),
+    default='WARNING',
+    help='Log level.'
+)
 @click.option('--file-prefix', default='', help='Prepend this string to output files.')
 @click.option('--show/--no-show', default=True, help='Display the output or a summary of the output.')
-@click.option('--debug/--no-debug', envvar='REACTOME_DEBUG', default=False)
 @click.pass_context
-def cli(ctx, tax_id, top_level, api_endpoint, output_directory, file_prefix, show, debug):
+def cli(ctx, tax_id, top_level, api_endpoint, output_directory, log_file, log_level, file_prefix, show):
     ctx.obj = Reactome(tax_id, top_level, api_endpoint,
-                       output_directory, file_prefix, show, debug)
+                       output_directory, log_file, log_level, file_prefix, show)
 
 
 async def get_events(obj, data):
