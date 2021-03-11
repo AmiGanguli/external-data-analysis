@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: gramene
+Version: 0.0.1
+Summary: Tools for working with Gramene metabolic pathway data.
+Home-page: https://github.com/AmiGanguli/external-data-analysis
+Author: Ami Ganguli
+Author-email: ami.ganguli@gmail.com
+License: UNKNOWN
+Description: Gramene
+        =======
+        
+        Use this package to work with the Gramene web service.
+        
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
