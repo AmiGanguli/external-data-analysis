@@ -54,8 +54,9 @@ class Connection:
         retries = 0
         wait_time = min_wait
         response_json = None
-        while not success and retries:
+        while not success:
             try:
+                logging.debug(f'Starting POST request for {url}')
                 async with self.session.post(url, data=data) as response:
                     response_json = await response.json()
                 success = True
@@ -97,12 +98,16 @@ class Connection:
 
     async def getProductDataMultiple(self, product_ids):
         product_data = []
-        product_ids = list(product_ids)
+        product_ids = [str(id) for id in product_ids]
         for i in range(0, len(product_ids), 20):
+            request_data = ','.join(product_ids[i:i+20])
+            logging.debug(
+                f'Request  {len(product_ids)} products: {request_data}.')
             result = await self.post(
                 f'{self.service_endpoint}/data/query/ids',
-                ','.join(product_ids[i:i+20])
+                request_data,
             )
+            logging.debug(f'product data post returned {result}')
             for item in result:
                 product_data.append(item)
         return product_data
