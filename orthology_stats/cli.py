@@ -25,7 +25,7 @@ class Reactome:
         self.use_saved_orthologs = use_saved_orthologs
         self.file_prefix = file_prefix
         self.show = show
-        pd.set_option('display.max_rows', None)
+
         level = {
             'DEBUG': logging.DEBUG,
             'INFO': logging.INFO,
@@ -39,6 +39,8 @@ class Reactome:
         else:
             logging.basicConfig(format='%(asctime)s %(message)s',
                                 filename=log_file, level=level)
+
+        
 
 
 @click.group(chain=True)
@@ -89,6 +91,7 @@ class Reactome:
 @click.option('--show/--no-show', default=True, help='Display the output or a summary of the output.')
 @click.pass_context
 def cli(ctx, tax_id, top_level, api_endpoint, output_directory, use_saved_orthologs, log_file, log_level, file_prefix, show):
+    pd.set_option('display.max_rows', None)
     ctx.obj = Reactome(tax_id, top_level, api_endpoint,
                        output_directory, use_saved_orthologs, log_file, log_level, file_prefix, show)
 
