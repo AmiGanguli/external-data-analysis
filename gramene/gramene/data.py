@@ -10,9 +10,9 @@ class Data:
         self.events_hierarchy = {}
         self.species_list = None
         self.reaction_participants = {}
+        self.reaction_orthologs = {}
         self.reference_entities = None
         self.product_data = {}
-        self.product_data_in_flight = set()
         self.product_data_pending = set()
 
     async def eventsHierarchy(self, tax_id):
@@ -41,55 +41,129 @@ class Data:
         print(f'Return participants for {reaction_id}')
         return self.reaction_participants[reaction_id]
 
-    async def product_data_fetch_next_20(self):
-        if len(self.product_data_pending) == 0:
-            return
-        pending = list(self.product_data_pending)
-        ids_to_fetch = pending[0:20]
-        ts = time.time()
-        print(f'{ts} Batched fetch: {len(ids_to_fetch)}')
-        ids_to_fetch_set = set(ids_to_fetch)
-        self.product_data_pending -= ids_to_fetch_set
-        self.product_data_in_flight |= ids_to_fetch_set
-        records = await self.connection.getProductDataMultiple(ids_to_fetch_set)
-        print(f'{ts} Batched fetch: {len(ids_to_fetch)} took {time.time() - ts}')
-        self.product_data_in_flight -= ids_to_fetch_set
-        for record in records:
-            self.product_data[record['dbId']] = record
+    # Fetch a multiple of 20 ids.
+    #
 
-    # Attempts to batch 20 product data calls together.
-    #
-    # The intent is for many of these to be running (sort of) simultaneously.  While
-    # product_data_fetch_next_20 is blocked, other threads can be adding to
-    # product_data_pending. This increases the likelihood of sending "full" requests
-    # without adding any logic to coordinate the threads beyond the shared pending list.
-    #
-    # FIXME: We could get more parrallelism out of this by getting multiple blocks of
-    # 20 at the same time.  Not sure if it's worth it, but something to try.
-    #
+    async def product_data_fetch_block(self, priority_ids, fetch_incomplete_block=False):
+        # We want an ordered list with your priority_ids at the start.
+        self.product_data_pending -= priority_ids
+        pending_ids = list(priority_ids) + list(self.product_data_pending)
+        if len(pending_ids) == 0:
+            return
+        leave_for_later = len(pending_ids) % 20
+        fetch_now = len(pending_ids) - leave_for_later
+        if fetch_incomplete_block and fetch_now == 0:
+            fetch_now = leave_for_later
+            leave_for_later = 0
+
+        ids_to_fetch = set(pending_ids[0:fetch_now])
+        self.product_data_pending = set(pending_ids[fetch_now:])
+
+        if fetch_now == 0:
+            return
+
+        ts = time.time()
+        print(f'{ts} Batched fetch: {fetch_incomplete_block} {len(ids_to_fetch)}')
+        async for record in self.connection.getProductDataMultiple(ids_to_fetch):
+            self.product_data[record['dbId']] = record
+        print(
+            f'{ts} Batched fetch: {fetch_incomplete_block} {len(ids_to_fetch)} took {time.time() - ts}')
+
+   
     async def productData(self, ids):
         missing_ids = ids.copy()
-        done = False
-        while not done:
+        for iteration in ['fetch bulk', 'fetch rest', 'done']:
             found_ids = set()
-            required_ids = set()
-            requests_in_flight = False
             for id in missing_ids:
                 if id in self.product_data:
                     yield self.product_data[id]
                     found_ids.add(id)
-                elif id in self.product_data_in_flight:
-                    requests_in_flight = True
-                elif id not in self.product_data_pending:
-                    required_ids.add(id)
             missing_ids -= found_ids
-            self.product_data_pending |= required_ids
-            if len(missing_ids) > 0:
-                if requests_in_flight:
-                    await asyncio.sleep(0.5)
-                elif len(self.product_data_pending) > 0:
-                    print(
-                        f'fetching next 20 with {len(missing_ids)} missing ids and {len(self.product_data_pending)} pending requests')
-                    await self.product_data_fetch_next_20()
+            if len(missing_ids) == 0:
+                break
+            while self.connection.willBlock():
+                print("Waiting for free connection")
+                await asyncio.sleep(1)                
+            if iteration == 'fetch bulk':
+                print('fetch bulk')
+                await self.product_data_fetch_block(missing_ids)
+            elif iteration == 'fetch rest':
+                print('fetch rest')
+                await self.product_data_fetch_block(missing_ids, fetch_incomplete_block=True)
+            elif iteration == 'done':
+                print(
+                    'Error: somehow we reached the end of "done" while still missing ids {missing_ids}')
+                exit(1)
+
+    # Descend into reaction participants.
+    # Given a participant's data record, check if it's a defined set.
+    # if not, yield the data for the partipant.  If it is a defined
+    # set, recurse into its members.
+    #
+    async def expandDefinedSets(self, participant_records):
+        defined_sets = set()
+        for participant in participant_records:
+            schema = participant['schemaClass']
+            if schema == 'DefinedSet':
+                defined_sets.add(participant['dbId'])
             else:
-                done = True
+                yield participant
+        if len(defined_sets) == 0:
+            return
+        # We've got a list of defined sets.  We need to recurse into
+        # each one.
+        async for record in self.productData(defined_sets):
+            if 'hasMember' in record:
+                members = self.expandDefinedSets(record['hasMember'])
+                async for member in members:
+                    yield member
+            else:
+                print(
+                    f'Strange, defined set missing hasMember {participant["dbId"]}')
+
+    async def reactionOrthologs(self, parent, reaction):
+        if reaction.stId in self.reaction_orthologs:
+            return self.reaction_orthologs[reaction.stId]
+        participants = await self.participants(reaction.stId)
+        participants = self.expandDefinedSets(participants)
+        results = []
+        async for participant in participants:
+            participant_id = participant['dbId']
+            if participant['schemaClass'] == 'SimpleEntity':
+                continue
+            elif participant['schemaClass'] != 'EntityWithAccessionedSequence':
+                print(
+                    f"Don't know how to handle reaction participent of {participant['schemaClass']}")
+                continue
+            async for participant_data in self.productData(set([participant_id])):
+                if 'referenceEntity' not in participant_data:
+                    print(f'No referenceEntity for {participant_id}')
+                    continue
+                reference_entity = participant_data['referenceEntity']
+                if 'databaseName' not in reference_entity:
+                    print(f'No databasename for {participant_id}')
+                    continue
+                database_name = reference_entity['databaseName']
+                if database_name != 'UniProt':
+                    print(
+                        f'Unexpected databaseName for {participant_id} is {database_name}')
+                    continue
+                uniprot_id = reference_entity['identifier']
+                rap_id = reference_entity['geneName'][0]
+                species_genes = {}
+                if 'inferredTo' not in participant_data:
+                    print(f'No orthologs in {participant_id}')
+                else:
+                    orthologs = self.expandDefinedSets(participant_data['inferredTo'])
+                    async for ortholog in orthologs:
+                        if ortholog['schemaClass'] == 'EntityWithAccessionedSequence':
+                            species_name = ortholog['speciesName']
+                            gene_name = ortholog['name'][0]
+                            if species_name not in species_genes:
+                                species_genes[species_name] = set()
+                            species_genes[species_name].add(gene_name)
+                results.append(
+                    (parent, reaction, uniprot_id, rap_id, species_genes))
+        self.reaction_orthologs[reaction.stId] = results
+        return results
+

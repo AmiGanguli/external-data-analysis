@@ -6,10 +6,12 @@ import logging
 
 
 class Connection:
-    def __init__(self, session, service_endpoint):
+    def __init__(self, session, service_endpoint, max_connections=100):
         self.service_endpoint = service_endpoint
         self.failure_count = 0
         self.session = session
+        self.max_connections = max_connections
+        self.current_connections = 0
 
     # TODO: Need to simulate failures somehow to test this.
     async def get(self, url, max_retry=10, min_wait=3):
@@ -17,6 +19,7 @@ class Connection:
         retries = 0
         wait_time = min_wait
         response_json = None
+        self.current_connections += 1
         while not success:
             try:
                 logging.debug(f'Starting GET request for {url}')
@@ -47,6 +50,7 @@ class Connection:
                 retries += 1
                 wait_time += random.randint(1, wait_time)
         logging.debug(f'Completed GET request for {url}')
+        self.current_connections -= 1
         return response_json
 
     async def post(self, url, data, max_retry=10, min_wait=3):
@@ -54,6 +58,7 @@ class Connection:
         retries = 0
         wait_time = min_wait
         response_json = None
+        self.current_connections += 1
         while not success:
             try:
                 logging.debug(f'Starting POST request for {url}')
@@ -86,7 +91,11 @@ class Connection:
                 await asyncio.sleep(wait_time)
                 retries += 1
                 wait_time += random.randint(1, wait_time)
+        self.current_connections -= 1
         return response_json
+
+    def willBlock(self):
+        return self.current_connections >= self.max_connections
 
     async def getEventsHierarchy(self, tax_id):
         return await self.get(
@@ -109,8 +118,7 @@ class Connection:
             )
             logging.debug(f'product data post returned {result}')
             for item in result:
-                product_data.append(item)
-        return product_data
+                yield item
 
     async def getSpecies(self):
         return await self.get(f'{self.service_endpoint}/data/species/all')

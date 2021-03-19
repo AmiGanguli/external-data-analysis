@@ -17,11 +17,12 @@ output_directory = './'
 
 
 class Reactome:
-    def __init__(self, tax_id, top_level, api_endpoint, output_directory, log_file, log_level, file_prefix, show):
+    def __init__(self, tax_id, top_level, api_endpoint, output_directory, use_saved_orthologs, log_file, log_level, file_prefix, show):
         self.tax_id = tax_id
         self.top_level = top_level
         self.api_endpoint = api_endpoint
         self.output_directory = output_directory
+        self.use_saved_orthologs = use_saved_orthologs
         self.file_prefix = file_prefix
         self.show = show
         pd.set_option('display.max_rows', None)
@@ -65,6 +66,12 @@ class Reactome:
     help='The destintation for output files.'
 )
 @click.option(
+    '--use-saved-orthologs',
+    envvar='REACTOME_SAVED_ORTHOLOGS_FILE',
+    type=click.Path(exists=True, file_okay=True, dir_okay=False, readable=True),
+    help='Read orthologs from this file rather than fetching remotely.'
+)
+@click.option(
     '--log-file',
     envvar='REACTOME_LOG_FILE',
     type=click.Path(file_okay=True, writable=True),
@@ -81,9 +88,9 @@ class Reactome:
 @click.option('--file-prefix', default='', help='Prepend this string to output files.')
 @click.option('--show/--no-show', default=True, help='Display the output or a summary of the output.')
 @click.pass_context
-def cli(ctx, tax_id, top_level, api_endpoint, output_directory, log_file, log_level, file_prefix, show):
+def cli(ctx, tax_id, top_level, api_endpoint, output_directory, use_saved_orthologs, log_file, log_level, file_prefix, show):
     ctx.obj = Reactome(tax_id, top_level, api_endpoint,
-                       output_directory, log_file, log_level, file_prefix, show)
+                       output_directory, use_saved_orthologs, log_file, log_level, file_prefix, show)
 
 
 async def get_events(obj, data):
@@ -124,10 +131,19 @@ def eventtree(ctx):
         )
 
 
+async def species_(ctx):
+    species_df = None
+    async with aiohttp.ClientSession(headers=headers) as session:
+        connection = Connection(session, ctx.obj.api_endpoint)
+        data = Data(connection)
+        species_df = await data.species()
+    return species_df
+
+
 @cli.command()
 @click.pass_context
 def species(ctx):
-    species_df = asyncio.run(ctx.obj.data.species())
+    species_df = asyncio.run(species_(ctx))
     if species_df is None:
         print(f'No species found.')
         return
@@ -288,195 +304,28 @@ def list_proteins_with_species(ctx):
                 if key in genes:
                     print('       ', key, ': ', genes[key])
 
-
-# Descend into reaction participants.
-# Given a participant's data record, check if it's a defined set.
-# if not, yield the data for the partipant.  If it is a defined
-# set, recurse into its members.
-#
-
-async def expand_defined_sets(ctx, data, participant_records):
-    defined_sets = set()
-    for participant in participant_records:
-        schema = participant['schemaClass']
-        if schema == 'DefinedSet':
-            defined_sets.add(participant['dbId'])
-        else:
-            yield participant
-    if len(defined_sets) == 0:
-        return
-    # We've got a list of defined sets.  We need to recurse into
-    # each one.
-    async for record in data.productData(defined_sets):
-        if 'hasMember' in record:
-            members = expand_defined_sets(
-                ctx, data, record['hasMember'])
-            async for member in members:
-                yield member
-        else:
-            print(
-                f'Strange, defined set missing hasMember {participant["dbId"]}')
-
-    '''
-    for participant in participant_records:
-        schema = participant['schemaClass']
-        if schema == 'DefinedSet':
-            set_data = await connection.getProductData(participant['dbId'])
-            if 'hasMember' in set_data:
-                members = expand_defined_sets(
-                    ctx, connection, set_data['hasMember'])
-                async for member in members:
-                    yield member
-            else:
-                print(
-                    f'Strange, defined set missing hasMember {participant["dbId"]}')
-        else:
-            yield participant
-    '''
-
-
-@cli.command()
-@click.argument('id')
-@click.pass_context
-def reaction_participants_orthologs(ctx, id):
-    participants = asyncio.run(ctx.obj.data.participants(id))
-    result = []
-    for participant in expand_defined_sets(ctx, participants):
-        participant_id = participant['dbId']
-        if participant['schemaClass'] == 'SimpleEntity':
-            continue
-        elif participant['schemaClass'] != 'EntityWithAccessionedSequence':
-            print(
-                f"Don't know how to handle reaction participent of {participant['schemaClass']}")
-            continue
-        participant_data = asyncio.run(
-            ctx.obj.connection.getProductData(participant_id))
-        if 'referenceEntity' not in participant_data:
-            print(f'No referenceEntity for {participant_id}')
-            continue
-        reference_entity = participant_data['referenceEntity']
-        if 'databaseName' not in reference_entity:
-            print(f'No databasename for {participant_id}')
-            continue
-        database_name = reference_entity['databaseName']
-        if database_name != 'UniProt':
-            print(
-                f'Unexpected databaseName for {participant_id} is {database_name}')
-            continue
-        uniprot_id = reference_entity['identifier']
-        rap_id = reference_entity['geneName'][0]
-        species_genes = {}
-        if 'inferredTo' not in participant_data:
-            print(f'No orthologs in {participant_id}')
-        else:
-            for ortholog in expand_defined_sets(ctx, participant_data['inferredTo']):
-                if ortholog['schemaClass'] == 'EntityWithAccessionedSequence':
-                    species_name = ortholog['speciesName']
-                    gene_name = ortholog['name'][0]
-                    if species_name not in species_genes:
-                        species_genes[species_name] = set()
-                    species_genes[species_name].add(gene_name)
-        result.append((uniprot_id, rap_id, species_genes))
-    print(f'{"UniProt ID":20} {"RAP ID":20} {"Species":20}')
-    for row in result:
-        print(f'{row[0]:20} {row[1]:20}')
-        for species_name, genes in row[2].items():
-            print(' ' * 42 + species_name)
-            for gene in genes:
-                print(' ' * 50 + gene)
-
-# Fixme: refactor this to reuse code from above.  Right now it's cut-and-paste.
-#
-
-
-def reactions(ctx):
-    events = get_events(ctx.obj)
-    if events is None:
-        print(f'No events at {ctx.obj.top_level}.')
-        return
-    if ctx.obj.show:
-        print(f'{"Parent pathway":20} {"Reaction":20}')
-        print('-' * 20 + ' ' + '-'*20)
-    for parent, reaction in events.all_reactions():
-        if ctx.obj.show:
-            print(f'{parent.stId:20} {reaction.stId:20}')
-
-
-async def all_orthologs_one_reaction(ctx, data, parent, reaction):
-    print(f'gather orthologs for reaction {reaction.stId}')
-    participants = await data.participants(reaction.stId)
-    participants = expand_defined_sets(ctx, data, participants)
-    results = []
-    async for participant in participants:
-        participant_id = participant['dbId']
-        if participant['schemaClass'] == 'SimpleEntity':
-            continue
-        elif participant['schemaClass'] != 'EntityWithAccessionedSequence':
-            print(
-                f"Don't know how to handle reaction participent of {participant['schemaClass']}")
-            continue
-        async for participant_data in data.productData(set([participant_id])):
-            if 'referenceEntity' not in participant_data:
-                print(f'No referenceEntity for {participant_id}')
-                continue
-            reference_entity = participant_data['referenceEntity']
-            if 'databaseName' not in reference_entity:
-                print(f'No databasename for {participant_id}')
-                continue
-            database_name = reference_entity['databaseName']
-            if database_name != 'UniProt':
-                print(
-                    f'Unexpected databaseName for {participant_id} is {database_name}')
-                continue
-            uniprot_id = reference_entity['identifier']
-            rap_id = reference_entity['geneName'][0]
-            species_genes = {}
-            if 'inferredTo' not in participant_data:
-                print(f'No orthologs in {participant_id}')
-            else:
-                orthologs = expand_defined_sets(
-                    ctx, data, participant_data['inferredTo'])
-                async for ortholog in orthologs:
-                    if ortholog['schemaClass'] == 'EntityWithAccessionedSequence':
-                        species_name = ortholog['speciesName']
-                        gene_name = ortholog['name'][0]
-                        if species_name not in species_genes:
-                            species_genes[species_name] = set()
-                        species_genes[species_name].add(gene_name)
-            results.append(
-                (parent, reaction, uniprot_id, rap_id, species_genes))
-    return results
-
-
 async def all_orthologs_(ctx):
     events = None
     result = []
     connector = aiohttp.TCPConnector(limit_per_host=15)
     async with aiohttp.ClientSession(connector=connector, headers=headers) as session:
-        connection = Connection(session, ctx.obj.api_endpoint)
+        connection = Connection(session, ctx.obj.api_endpoint, 15)
         data = Data(connection)
         events = await get_events(ctx.obj, data)
 
         orthologs = []
         for parent, reaction in events.all_reactions():
-            orthologs.append(all_orthologs_one_reaction(
-                ctx, data, parent, reaction))
+            orthologs.append(data.reactionOrthologs(parent, reaction))
         orthologs_results = await asyncio.gather(*orthologs)
         for ortholog_result in orthologs_results:
             for parent, reaction, uniprot_id, rap_id, species_genes in ortholog_result:
                 result.append((parent.stId, reaction.stId,
                                uniprot_id, rap_id, species_genes))
-        '''
-        for parent, reaction in events.all_reactions():
-            async for uniprot_id, rap_id, species_genes in all_orthologs_one_reaction(ctx, data, reaction):
-                result.append(
-                    (parent.stId, reaction.stId, uniprot_id, rap_id, species_genes))
-        '''
     return result
 
 
-@ cli.command()
-@ click.pass_context
+@cli.command()
+@click.pass_context
 def all_orthologs(ctx):
     result = asyncio.run(all_orthologs_(ctx))
 
