@@ -93,42 +93,6 @@ def cli(ctx, tax_id, top_level, api_endpoint, output_directory, use_saved_orthol
                        output_directory, use_saved_orthologs, log_file, log_level, file_prefix, show)
 
 
-async def get_events(obj, data):
-    events = await data.eventsHierarchy(obj.tax_id)
-    if obj.top_level is not None:
-        events = events[obj.top_level]
-    return events
-
-headers = {'accept': 'application/json', 'content-type': 'text/plain'}
-
-
-async def eventtree_(ctx):
-    events = None
-    async with aiohttp.ClientSession(headers=headers) as session:
-        connection = Connection(session, ctx.obj.api_endpoint)
-        data = Data(connection)
-        events = await get_events(ctx.obj, data)
-    return events
-
-
-@cli.command()
-@click.pass_context
-def eventtree(ctx):
-    events = asyncio.run(eventtree_(ctx))
-    if events is None:
-        print(f'No events at {ctx.obj.top_level}.')
-        return
-    if ctx.obj.show:
-        for event, depth in events.walk():
-            print(f'{depth * "  "} {event}')
-    if ctx.obj.output_directory:
-        out = events.to_data_frame()
-        out.to_csv(
-            path_or_buf=os.path.join(
-                ctx.obj.output_directory, ctx.obj.file_prefix + 'event_hierarchy.csv'),
-            mode='w',
-            index_label='Row'
-        )
 
 
 async def species_(ctx):
@@ -304,30 +268,75 @@ def list_proteins_with_species(ctx):
                 if key in genes:
                     print('       ', key, ': ', genes[key])
 
-async def all_orthologs_(ctx):
+def run_with_connection(func):
+    async def inner(*args, **kwargs):
+        result = None
+        ctx = args[0]
+        connector = aiohttp.TCPConnector(limit_per_host=15)
+        async with aiohttp.ClientSession(connector=connector, headers=headers) as session:
+            connection = Connection(session, ctx.obj.api_endpoint, 15)
+            data = Data(connection)
+            kwargs['connection'] = connection
+            kwargs['data'] = data
+            result = await func(*args, **kwargs)
+        return result
+    def runner(*args, **kwargs):
+        return asyncio.run(inner(*args, **kwargs))
+    return runner
+
+async def get_events(obj, data):
+    events = await data.eventsHierarchy(obj.tax_id)
+    if obj.top_level is not None:
+        events = events[obj.top_level]
+    return events
+
+headers = {'accept': 'application/json', 'content-type': 'text/plain'}
+
+@run_with_connection
+async def eventtree_(ctx, connection, data):
+    return await get_events(ctx.obj, data)
+
+
+@cli.command()
+@click.pass_context
+def eventtree(ctx):
+    events = eventtree_(ctx)
+    if events is None:
+        print(f'No events at {ctx.obj.top_level}.')
+        return
+    if ctx.obj.show:
+        for event, depth in events.walk():
+            print(f'{depth * "  "} {event}')
+    if ctx.obj.output_directory:
+        out = events.to_data_frame()
+        out.to_csv(
+            path_or_buf=os.path.join(
+                ctx.obj.output_directory, ctx.obj.file_prefix + 'event_hierarchy.csv'),
+            mode='w',
+            index_label='Row'
+        )
+
+
+@run_with_connection
+async def allOrthologs_(ctx, connection, data):
     events = None
     result = []
-    connector = aiohttp.TCPConnector(limit_per_host=15)
-    async with aiohttp.ClientSession(connector=connector, headers=headers) as session:
-        connection = Connection(session, ctx.obj.api_endpoint, 15)
-        data = Data(connection)
-        events = await get_events(ctx.obj, data)
+    events = await get_events(ctx.obj, data)
 
-        orthologs = []
-        for parent, reaction in events.all_reactions():
-            orthologs.append(data.reactionOrthologs(parent, reaction))
-        orthologs_results = await asyncio.gather(*orthologs)
-        for ortholog_result in orthologs_results:
-            for parent, reaction, uniprot_id, rap_id, species_genes in ortholog_result:
-                result.append((parent.stId, reaction.stId,
-                               uniprot_id, rap_id, species_genes))
+    orthologs = []
+    for parent, reaction in events.all_reactions():
+        orthologs.append(data.reactionOrthologs(parent, reaction))
+    orthologs_results = await asyncio.gather(*orthologs)
+    for ortholog_result in orthologs_results:
+        for parent, reaction, uniprot_id, rap_id, species_genes in ortholog_result:
+            result.append((parent.stId, reaction.stId, uniprot_id, rap_id, species_genes))
     return result
 
 
 @cli.command()
 @click.pass_context
 def all_orthologs(ctx):
-    result = asyncio.run(all_orthologs_(ctx))
+    result = allOrthologs_(ctx)
 
     print(f'{"Pathway ID":20} {"Reaction ID":20} {"UniProt ID":20} {"RAP ID":20} {"Species":20}')
 
