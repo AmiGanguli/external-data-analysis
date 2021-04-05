@@ -5,12 +5,12 @@ from .schema import EventsHierarchy
 
 
 class Data:
-    def __init__(self, connection):
+    def __init__(self, connection, saved_orthologs):
         self.connection = connection
         self.events_hierarchy = {}
         self.species_list = None
         self.reaction_participants = {}
-        self.reaction_orthologs = {}
+        self.reaction_orthologs = saved_orthologs
         self.reference_entities = None
         self.product_data = {}
         self.product_data_pending = set()
@@ -38,6 +38,7 @@ class Data:
     async def participants(self, reaction_id):
         if reaction_id not in self.reaction_participants:
             self.reaction_participants[reaction_id] = await self.connection.getParticipantsPhysicalEntities(reaction_id)
+            #self.reaction_participants[reaction_id] = await self.connection.getParticipants(reaction_id)
         print(f'Return participants for {reaction_id}')
         return self.reaction_participants[reaction_id]
 

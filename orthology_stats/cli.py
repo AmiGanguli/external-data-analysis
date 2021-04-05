@@ -5,6 +5,7 @@ import asyncio
 from gramene.client import Connection
 from gramene.data import Data
 import pandas as pd
+import numpy as np
 from species_list import species_list
 import aiohttp
 import logging
@@ -17,12 +18,12 @@ output_directory = './'
 
 
 class Reactome:
-    def __init__(self, tax_id, top_level, api_endpoint, output_directory, use_saved_orthologs, log_file, log_level, file_prefix, show):
+    def __init__(self, tax_id, top_level, api_endpoint, output_directory, saved_orthologs, log_file, log_level, file_prefix, show):
         self.tax_id = tax_id
         self.top_level = top_level
         self.api_endpoint = api_endpoint
         self.output_directory = output_directory
-        self.use_saved_orthologs = use_saved_orthologs
+        self.saved_orthologs = saved_orthologs
         self.file_prefix = file_prefix
         self.show = show
 
@@ -91,11 +92,36 @@ class Reactome:
 @click.option('--show/--no-show', default=True, help='Display the output or a summary of the output.')
 @click.pass_context
 def cli(ctx, tax_id, top_level, api_endpoint, output_directory, use_saved_orthologs, log_file, log_level, file_prefix, show):
+
+    # Global options
     pd.set_option('display.max_rows', None)
+
+    saved_orthologs = {}
+    if use_saved_orthologs is not None:
+        saved_orthologs_df = pd.read_csv(use_saved_orthologs)
+        species_names = list(saved_orthologs_df.columns)
+        done = False
+        while not done:
+            if species_names[0] == 'RAP ID':
+                done = True
+            species_names = species_names[1:]
+        for row in saved_orthologs_df.to_dict(orient='records'):
+            parent = row['Pathway']
+            reaction = row['Reaction']
+            uniprot_id = row['Protein']
+            rap_id = row['RAP ID']
+            species_genes = {}
+            for species_name in species_names:
+                if pd.isna(row[species_name]):
+                    continue
+                species_genes[species_name] = row[species_name].split('|')
+            if reaction not in saved_orthologs_df:
+                saved_orthologs[reaction] = []
+            saved_orthologs[reaction].append((parent, reaction, uniprot_id, rap_id, species_genes))
+
+    # Create context object that will be passed to sub-commands
     ctx.obj = Reactome(tax_id, top_level, api_endpoint,
-                       output_directory, use_saved_orthologs, log_file, log_level, file_prefix, show)
-
-
+                       output_directory, saved_orthologs, log_file, log_level, file_prefix, show)
 
 
 async def species_(ctx):
@@ -124,11 +150,10 @@ def species(ctx):
             index_label='Row'
         )
 
-
 @cli.command()
 @click.pass_context
 def reactions(ctx):
-    events = get_events(ctx.obj)
+    events = eventtree_(ctx)
     if events is None:
         print(f'No events at {ctx.obj.top_level}.')
         return
@@ -278,7 +303,7 @@ def run_with_connection(func):
         connector = aiohttp.TCPConnector(limit_per_host=15)
         async with aiohttp.ClientSession(connector=connector, headers=headers) as session:
             connection = Connection(session, ctx.obj.api_endpoint, 15)
-            data = Data(connection)
+            data = Data(connection, ctx.obj.saved_orthologs)
             kwargs['connection'] = connection
             kwargs['data'] = data
             result = await func(*args, **kwargs)

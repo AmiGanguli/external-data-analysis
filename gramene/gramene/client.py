@@ -123,6 +123,10 @@ class Connection:
     async def getSpecies(self):
         return await self.get(f'{self.service_endpoint}/data/species/all')
 
+    async def getParticipants(self, id):
+        return await self.get(f'{self.service_endpoint}/data/participants/{id}')
+
+
     async def getParticipantsReferenceEntities(self, id):
         return await self.get(f'{self.service_endpoint}/data/participants/{id}/referenceEntities')
 
