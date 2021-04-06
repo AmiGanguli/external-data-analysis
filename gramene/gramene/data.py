@@ -83,13 +83,10 @@ class Data:
             if len(missing_ids) == 0:
                 break
             while self.connection.willBlock():
-                print("Waiting for free connection")
                 await asyncio.sleep(1)                
             if iteration == 'fetch bulk':
-                print('fetch bulk')
                 await self.product_data_fetch_block(missing_ids)
             elif iteration == 'fetch rest':
-                print('fetch rest')
                 await self.product_data_fetch_block(missing_ids, fetch_incomplete_block=True)
             elif iteration == 'done':
                 print(

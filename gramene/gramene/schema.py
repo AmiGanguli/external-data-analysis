@@ -73,6 +73,19 @@ class PathwayBase:
         for item in self.children.values():
             yield from item.walk(depth+1)
 
+    def statistics(self):
+        stats = {
+            'reactions': len(self.reactions) + len(self.black_box_events),
+            'pathways': 1,
+        }
+        reactions = 0
+        pathways = 0
+        for item in self.children.values():
+            child_stats = item.statistics()
+            stats['reactions'] += child_stats['reactions']
+            stats['pathways'] += child_stats['pathways']
+        return stats
+
     def to_data_frame(self):
         data = []
         for event, depth in self.walk():

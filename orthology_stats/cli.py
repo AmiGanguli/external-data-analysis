@@ -397,5 +397,41 @@ def all_orthologs(ctx):
         )
 
 
+@cli.command()
+@click.pass_context
+def db_statistics(ctx):
+    events = eventtree_(ctx)
+    if events is None:
+        print(f'No events at {ctx.obj.top_level}.')
+        return
+    orthologs = allOrthologs_(ctx)
+    genes_by_reaction = {}
+    for parent_id, reaction_id, uniprot_id, rap_id, species_genes in orthologs:
+        k = str(parent_id) + '-' + str(reaction_id)
+        if k not in genes_by_reaction:
+            genes_by_reaction[k] = set()
+        genes_by_reaction[k] |= {uniprot_id}
+    for name, tree in events.children.items():
+        genes = set()
+        for event, reaction in tree.all_reactions():
+            k = str(event.stId) + '-' + str(reaction.stId)
+            if k in genes_by_reaction:
+                genes |= genes_by_reaction[k]
+        print(name, tree.statistics(), len(genes))
+
+    '''
+    if ctx.obj.show:
+        for event, depth in events.walk():
+            print(f'{depth * "  "} {event}')
+    if ctx.obj.output_directory:
+        out = events.to_data_frame()
+        out.to_csv(
+            path_or_buf=os.path.join(
+                ctx.obj.output_directory, ctx.obj.file_prefix + 'event_hierarchy.csv'),
+            mode='w',
+            index_label='Row'
+        )
+    '''
+
 if __name__ == '__main__':
     cli()
