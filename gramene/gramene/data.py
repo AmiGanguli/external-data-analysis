@@ -9,6 +9,9 @@ class Data:
         self.connection = connection
         self.events_hierarchy = {}
         self.species_list = None
+
+        # FIXME: This is now used for leaf pathway participants as well.
+        # As the code is cleaned-up this should be made clearer.
         self.reaction_participants = {}
         self.reaction_orthologs = saved_orthologs
         self.reference_entities = None
@@ -101,23 +104,29 @@ class Data:
     async def expandDefinedSets(self, participant_records):
         defined_sets = set()
         for participant in participant_records:
-            schema = participant['schemaClass']
-            if schema == 'DefinedSet':
+            # For some reason some compontent members are integers.
+            # Need to investigate what's up with the API here.
+            if type(participant) is int:
+                continue
+            if participant['schemaClass'] in ['DefinedSet', 'Complex']:
                 defined_sets.add(participant['dbId'])
             else:
                 yield participant
         if len(defined_sets) == 0:
             return
-        # We've got a list of defined sets.  We need to recurse into
+        # We've got a list of defined sets and complexes.  We need to recurse into
         # each one.
         async for record in self.productData(defined_sets):
             if 'hasMember' in record:
                 members = self.expandDefinedSets(record['hasMember'])
-                async for member in members:
-                    yield member
+            elif 'hasComponent' in record:
+                members = self.expandDefinedSets(record['hasComponent'])
             else:
                 print(
-                    f'Strange, defined set missing hasMember {participant["dbId"]}')
+                    f'Strange, missing hasMember or hasComponent {participant["dbId"]}')
+                continue
+            async for member in members:
+                yield member
 
     async def reactionOrthologs(self, parent, reaction):
         if reaction.stId in self.reaction_orthologs:

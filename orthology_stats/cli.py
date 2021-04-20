@@ -333,8 +333,8 @@ def eventtree(ctx):
         print(f'No events at {ctx.obj.top_level}.')
         return
     if ctx.obj.show:
-        for event, depth in events.walk():
-            print(f'{depth * "  "} {event}')
+        for event, depth, tree in events.walk():
+            print(f'{tree}{event}')
     if ctx.obj.output_directory:
         out = events.to_data_frame()
         out.to_csv(
@@ -396,6 +396,85 @@ def all_orthologs(ctx):
             mode='w'
         )
 
+@run_with_connection
+async def pathway_participants_(ctx, event_id, connection, data):
+    result = {}
+    participants = await data.participants(event_id)
+    participants = data.expandDefinedSets(participants)
+    async for participant in participants:
+        #print(participant)
+        if participant['className'] not in result:
+            result[participant['className']] = set()
+        result[participant['className']].add(participant['stId'])
+    return result
+        
+@cli.command()
+@click.argument('id')
+@click.pass_context
+def pathway_participants(ctx, id):
+    classes = pathway_participants_(ctx, id)
+    for class_name, items in classes.items():
+        print(f'{class_name} {len(items)}')
+
+    print(classes)
+
+@cli.command()
+@click.pass_context
+def pathway_nodes_with_reactions(ctx):
+    events = eventtree_(ctx)
+    if events is None:
+        print(f'No events at {ctx.obj.top_level}.')
+        return
+
+    columns = {'Pathway': [], 'tree': [], 'Reaction count': [], 'Protein count': [], 'DNA Sequence count': [], 'RNA Sequence count': []}
+    trees = []
+    names = []
+    max_label = 0
+    for event, depth, tree in events.walk():
+        max_label = max(max_label, len(tree) + len(event.name))
+        stId = '/'
+        if event.name != 'TopLevel':
+            stId = event.stId
+            participants = pathway_participants_(ctx, stId)
+            if 'Protein' in participants:
+                columns['Protein count'].append(len(participants['Protein']))
+            else:
+                columns['Protein count'].append(0)
+            if 'DNA Sequence' in participants:
+                columns['DNA Sequence count'].append(len(participants['DNA Sequence']))
+            else:
+                columns['DNA Sequence count'].append(0)
+            if 'RNA Sequence' in participants:
+                columns['RNA Sequence count'].append(len(participants['RNA Sequence']))
+            else:
+                columns['RNA Sequence count'].append(0)
+        else:
+            # top level events don't have real event ids
+            
+            columns['Protein count'].append(0)
+            columns['DNA Sequence count'].append(0)
+            columns['RNA Sequence count'].append(0)
+            
+        columns['Pathway'].append(stId)
+        trees.append(tree)
+        names.append(event.name)
+        columns['Reaction count'].append(event.reaction_count_deep())
+
+    for i in range(0, len(trees)):
+        label = trees[i] + names[i]
+        columns['tree'].append(label + ' ' * (max_label - len(label)))        
+
+    df = pd.DataFrame.from_dict(data=columns)
+
+    if ctx.obj.output_directory:
+        df.to_csv(
+            path_or_buf=os.path.join(
+                ctx.obj.output_directory, ctx.obj.file_prefix + 'pathway_nodes_with_reactions.csv'),
+            mode='w'
+        )
+
+    if ctx.obj.show:
+        print(df)
 
 @cli.command()
 @click.pass_context

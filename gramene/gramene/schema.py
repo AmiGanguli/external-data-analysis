@@ -68,10 +68,17 @@ class PathwayBase:
     def keys(self):
         return self.children.keys()
 
-    def walk(self, depth=0):
-        yield self, depth
+    def walk(self, depth=0, prefix='', coming_siblings=0):
+        ascii_tree = '+-- '
+        children_prefix = prefix + '|   '
+        if coming_siblings == 0:
+            ascii_tree = '`-- '
+            children_prefix = prefix + '    '
+        yield self, depth, prefix + ascii_tree
+        num_children = len(self.children)
         for item in self.children.values():
-            yield from item.walk(depth+1)
+            num_children -= 1
+            yield from item.walk(depth+1, children_prefix, num_children)
 
     def statistics(self):
         stats = {
@@ -88,18 +95,18 @@ class PathwayBase:
 
     def to_data_frame(self):
         data = []
-        for event, depth in self.walk():
+        for event, depth, tree, in self.walk():
             if event.name == 'TopLevel':
                 continue
-            data.append((event.stId, depth, event.name,
+            data.append((event.stId, depth, tree, event.name,
                          event.species, event.diagram))
         return pd.DataFrame(
             data=data,
-            columns=['stId', 'depth', 'name', 'species', 'diagram']
+            columns=['stId', 'depth', 'tree', 'name', 'species', 'diagram']
         )
 
     def all_reactions(self):
-        for item, depth in self.walk():
+        for item, depth, tree in self.walk():
             for event in item.reactions:
                 yield item, event
             for event in item.black_box_events:
@@ -110,6 +117,20 @@ class PathwayBase:
         for parent, reaction in self.all_reactions():
             ids.add(reaction.stId)
         return ids
+
+    def reaction_count(self):
+        return len(self.reactions) + len(self.black_box_events)
+
+    def reaction_count_deep(self):
+        count = 0
+        for child in self.children.values():
+            count += child.reaction_count_deep()
+        return count + self.reaction_count()
+
+    def pathway_nodes_with_reactions(self):
+        for item, depth, tree in self.walk():
+            if item.reaction_count() > 0:
+                yield item
 
 
 class EventsHierarchy(PathwayBase):
