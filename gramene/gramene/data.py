@@ -42,7 +42,6 @@ class Data:
         if reaction_id not in self.reaction_participants:
             self.reaction_participants[reaction_id] = await self.connection.getParticipantsPhysicalEntities(reaction_id)
             #self.reaction_participants[reaction_id] = await self.connection.getParticipants(reaction_id)
-        print(f'Return participants for {reaction_id}')
         return self.reaction_participants[reaction_id]
 
     # Fetch a multiple of 20 ids.
@@ -67,11 +66,8 @@ class Data:
             return
 
         ts = time.time()
-        print(f'{ts} Batched fetch: {fetch_incomplete_block} {len(ids_to_fetch)}')
         async for record in self.connection.getProductDataMultiple(ids_to_fetch):
             self.product_data[record['dbId']] = record
-        print(
-            f'{ts} Batched fetch: {fetch_incomplete_block} {len(ids_to_fetch)} took {time.time() - ts}')
 
    
     async def productData(self, ids):
@@ -101,14 +97,18 @@ class Data:
     # if not, yield the data for the partipant.  If it is a defined
     # set, recurse into its members.
     #
-    async def expandDefinedSets(self, participant_records):
+    async def expandDefinedSets(self, participant_records, expand_entities=True):
         defined_sets = set()
+        if expand_entities:
+            participant_types = ['DefinedSet', 'Complex', 'EntityWithAccessionedSequence']
+        else:
+            participant_types = ['DefinedSet', 'Complex']
         for participant in participant_records:
-            # For some reason some compontent members are integers.
+            # For some reason some component members are integers.
             # Need to investigate what's up with the API here.
             if type(participant) is int:
                 continue
-            if participant['schemaClass'] in ['DefinedSet', 'Complex']:
+            if participant['schemaClass'] in participant_types:
                 defined_sets.add(participant['dbId'])
             else:
                 yield participant
@@ -122,8 +122,7 @@ class Data:
             elif 'hasComponent' in record:
                 members = self.expandDefinedSets(record['hasComponent'])
             else:
-                print(
-                    f'Strange, missing hasMember or hasComponent {participant["dbId"]}')
+                yield record
                 continue
             async for member in members:
                 yield member
@@ -151,16 +150,25 @@ class Data:
                     print(f'No databasename for {participant_id}')
                     continue
                 database_name = reference_entity['databaseName']
-                if database_name != 'UniProt':
-                    print(
-                        f'Unexpected databaseName for {participant_id} is {database_name}')
-                    continue
+                #if database_name != 'UniProt':
+                #    print(
+                #        f'Unexpected databaseName for {participant_id} is {database_name}')
+                #    continue
                 uniprot_id = reference_entity['identifier']
-                rap_id = reference_entity['geneName'][0]
-                species_genes = {}
-                if 'inferredTo' not in participant_data:
-                    print(f'No orthologs in {participant_id}')
+                protein_dbid = reference_entity['dbId']
+                if 'geneName' in reference_entity:
+                    for name in reference_entity['geneName']:
+                        if len(name) == 12:
+                            rap_id = name
+                            break
+                    else:
+                        rap_id = '|'.join(reference_entity['geneName'])
+                elif 'name' in reference_entity:
+                    rap_id = 'name: ' + reference_entity['name'][0]
                 else:
+                    rap_id = 'unknown'
+                species_genes = {}
+                if 'inferredTo' in participant_data:
                     orthologs = self.expandDefinedSets(participant_data['inferredTo'])
                     async for ortholog in orthologs:
                         if ortholog['schemaClass'] == 'EntityWithAccessionedSequence':
@@ -170,7 +178,7 @@ class Data:
                                 species_genes[species_name] = set()
                             species_genes[species_name].add(gene_name)
                 results.append(
-                    (parent, reaction, uniprot_id, rap_id, species_genes))
+                    (parent, reaction, uniprot_id, protein_dbid, rap_id, species_genes))
         self.reaction_orthologs[reaction.stId] = results
         return results
 

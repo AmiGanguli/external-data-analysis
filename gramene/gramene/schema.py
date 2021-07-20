@@ -68,17 +68,31 @@ class PathwayBase:
     def keys(self):
         return self.children.keys()
 
-    def walk(self, depth=0, prefix='', coming_siblings=0):
+    def walk(self, depth=0, prefix='', coming_siblings=0, full_path = None):
         ascii_tree = '+-- '
         children_prefix = prefix + '|   '
         if coming_siblings == 0:
             ascii_tree = '`-- '
             children_prefix = prefix + '    '
-        yield self, depth, prefix + ascii_tree
+        if full_path is not None:
+            this_path = full_path[:]
+            this_path.append(self)
+            yield self, depth, prefix + ascii_tree, children_prefix, this_path
+        else:
+            yield self, depth, prefix + ascii_tree, children_prefix
         num_children = len(self.children)
         for item in self.children.values():
             num_children -= 1
-            yield from item.walk(depth+1, children_prefix, num_children)
+            if full_path is not None:
+                yield from item.walk(depth+1, children_prefix, num_children, this_path)
+            else:
+                yield from item.walk(depth+1, children_prefix, num_children)
+
+    def max_depth(self):
+        result = 0
+        for parent, depth, tree, child_prefix in self.walk():
+            result = max(result, depth)
+        return result
 
     def statistics(self):
         stats = {
@@ -95,7 +109,7 @@ class PathwayBase:
 
     def to_data_frame(self):
         data = []
-        for event, depth, tree, in self.walk():
+        for event, depth, tree, children_prefix in self.walk():
             if event.name == 'TopLevel':
                 continue
             data.append((event.stId, depth, tree, event.name,
@@ -106,7 +120,7 @@ class PathwayBase:
         )
 
     def all_reactions(self):
-        for item, depth, tree in self.walk():
+        for item, depth, tree, children_prefix in self.walk():
             for event in item.reactions:
                 yield item, event
             for event in item.black_box_events:
@@ -128,7 +142,7 @@ class PathwayBase:
         return count + self.reaction_count()
 
     def pathway_nodes_with_reactions(self):
-        for item, depth, tree in self.walk():
+        for item, depth, tree, children_prefix in self.walk():
             if item.reaction_count() > 0:
                 yield item
 
@@ -137,6 +151,7 @@ class EventsHierarchy(PathwayBase):
     def __init__(self, data):
         super().__init__(data)
         self.name = 'TopLevel'
+        self.stId = 'top'
 
 
 class Pathway(PathwayBase):

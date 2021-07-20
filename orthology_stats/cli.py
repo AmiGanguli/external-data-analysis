@@ -285,7 +285,8 @@ def list_proteins_with_species(ctx):
         key = species_id + '-' + identifier
         if key not in genes:
             genes[key] = ()
-        genes[key] += (gene,)
+        genes[key] += (gene,)    
+
     if ctx.obj.show:
         print(f'{"Parent pathway":20} {"Reaction":20} {"UniProt ID":20}')
         print('-' * 20 + ' ' + '-'*20 + ' ' + '-'*20)
@@ -333,7 +334,7 @@ def eventtree(ctx):
         print(f'No events at {ctx.obj.top_level}.')
         return
     if ctx.obj.show:
-        for event, depth, tree in events.walk():
+        for event, depth, tree, child_prefix in events.walk():
             print(f'{tree}{event}')
     if ctx.obj.output_directory:
         out = events.to_data_frame()
@@ -348,51 +349,119 @@ def eventtree(ctx):
 @run_with_connection
 async def allOrthologs_(ctx, connection, data):
     events = None
-    result = []
+    #result = []
     events = await get_events(ctx.obj, data)
 
     orthologs = []
-    for parent, reaction in events.all_reactions():
-        orthologs.append(data.reactionOrthologs(parent, reaction))
+    for parent, depth, tree, children_prefix in events.walk():
+        for reaction in parent.reactions:
+            orthologs.append(data.reactionOrthologs(parent, reaction))
+        for reaction in parent.black_box_events:
+            orthologs.append(data.reactionOrthologs(parent, reaction))
     orthologs_results = await asyncio.gather(*orthologs)
+
+    ortholog_dict = {}
     for ortholog_result in orthologs_results:
-        for parent, reaction, uniprot_id, rap_id, species_genes in ortholog_result:
-            result.append((parent.stId, reaction.stId, uniprot_id, rap_id, species_genes))
-    return result
+        for parent, reaction, uniprot_id, protein_dbid, rap_id, species_genes in ortholog_result:
+            if parent.stId not in ortholog_dict:
+                ortholog_dict[parent.stId] = {}
+            if reaction.stId not in ortholog_dict[parent.stId]:
+                ortholog_dict[parent.stId][reaction.stId] = {}
+            ortholog_dict[parent.stId][reaction.stId][uniprot_id] = (
+                protein_dbid,
+                rap_id,
+                species_genes
+            )
+
+    return events, ortholog_dict
 
 
 @cli.command()
+@click.option('--count/--no-count', default=False)
+@click.option('--show-empty/--no-show-empty', default=True)
+@click.option('--tree/--no-tree', default=True)
 @click.pass_context
-def all_orthologs(ctx):
-    result = allOrthologs_(ctx)
+def all_orthologs(ctx, count, show_empty, tree):
+    events, ortholog_dict = allOrthologs_(ctx)
 
-    print(f'{"Pathway ID":20} {"Reaction ID":20} {"UniProt ID":20} {"RAP ID":20} {"Species":20}')
+    print('Saving result')
+    max_depth = events.max_depth()
+    pathway_titles = [f'Pathway {i}' for i in range(max_depth+1)]
 
-    df = pd.DataFrame(columns=['Pathway', 'Reaction',
-                               'Protein', 'RAP ID'] + species_list)
+    df = pd.DataFrame(columns=['Tree'] + pathway_titles + ['Reaction',
+            'Protein', 'Protein dbId', 'RAP ID', 'Orthologs Sum', 'Species Count'] + species_list)
 
-    for row in result:
-        print(f'{row[0]:20} {row[1]:20} {row[2]:20} {row[3]:20}')
-        new_row = {
-            'Pathway': row[0],
-            'Reaction': row[1],
-            'Protein': row[2],
-            'RAP ID': row[3],
-        }
-        for species_name, genes in row[4].items():
-            if species_name in species_list:
-                new_row[species_name] = '|'.join(genes)
-            print(' ' * 42 + species_name)
-            for gene in genes:
-                print(' ' * 50 + gene)
-        # FIXME: inefficient
-        df = df.append(new_row, ignore_index=True)
+    pathway_counts = {}
+    for parent, depth, tree, children_prefix, full_path in events.walk(full_path=[]):
+        pathway_row = {f'Pathway {i}':full_path[i].stId for i in range(len(full_path))}
+        pathway_row['Tree'] = tree + parent.name
+        df = df.append(pathway_row, ignore_index=True)
+        if parent.stId not in ortholog_dict:
+            continue
+        for reaction_id, products in ortholog_dict[parent.stId].items():
+            reaction_row = pathway_row.copy()
+            reaction_row['Tree'] = children_prefix + '   ' + reaction_id
+            reaction_row['Reaction'] = reaction_id
+            df = df.append(reaction_row, ignore_index=True);
+            for uniprot_id, orthologs in products.items():
+                protein_row = reaction_row.copy()
+                protein_row.update({
+                    'Tree': children_prefix + '       ' + uniprot_id,
+                    'Protein': uniprot_id,
+                    'Protein dbId': orthologs[0],
+                    'RAP ID': orthologs[1],
+                    'Orthologs Sum': 0,
+                    'Species Count': 0,
+                })
+                for species_name, genes in orthologs[2].items():
+                    if species_name not in species_list:
+                        continue
+                    gene_count = len(genes)
+                    protein_row['Species Count'] += 1
+                    protein_row['Orthologs Sum'] += gene_count
+                    if count:
+                        protein_row[species_name] = gene_count
+                    else:
+                        protein_row[species_name] = '|'.join(genes)
+                for path_segment in full_path:
+                    segment_id = path_segment.stId
+                    if not segment_id in pathway_counts:
+                        pathway_counts[segment_id] = {'species':0,'orthologs':0}
+                    pathway_counts[segment_id]['species'] += protein_row['Species Count']
+                    pathway_counts[segment_id]['orthologs'] += protein_row['Orthologs Sum']
+                    print('segment_id', segment_id)
+                if not show_empty and protein_row['Species Count'] == 0:
+                    continue
+                df = df.append(protein_row, ignore_index=True)
+
+    df.drop_duplicates(keep=False, inplace=True)
+    for index_label, row in df.iterrows():
+        #pathway_titles = [f'Pathway {i}' for i in range(max_depth+1)]
+        #pathway_row = {f'Pathway {i}':full_path[i].stId for i in range(len(full_path))}
+        #print(type(row['Protein']).__name__, row['Protein'])
+        if type(row['Reaction']) == str:
+            continue
+        #print('put in value for row', row)
+        for i in range(max_depth, -1, -1):
+            parent = row[f'Pathway {i}']
+            if type(parent) == str:
+                print('parent', parent)
+                if parent not in pathway_counts:
+                    print('missing parent from pathway counts', parent)
+                else:
+                    df.at[index_label, 'Species Count'] = pathway_counts[parent]['species']
+                    df.at[index_label, 'Orthologs Sum'] = pathway_counts[parent]['orthologs']
+                break
 
     if ctx.obj.output_directory:
-        df.sort_values(by=['Pathway', 'Reaction', 'Protein'], inplace=True)
+        if count:
+            file_suffix = 'orthologs-count.csv'
+        else:
+            file_suffix = 'orthologs.csv'
         df.to_csv(
             path_or_buf=os.path.join(
-                ctx.obj.output_directory, ctx.obj.file_prefix + 'orthologs.csv'),
+                ctx.obj.output_directory, ctx.obj.file_prefix + file_suffix),
+            index=False,
             mode='w'
         )
 
@@ -485,7 +554,7 @@ def db_statistics(ctx):
         return
     orthologs = allOrthologs_(ctx)
     genes_by_reaction = {}
-    for parent_id, reaction_id, uniprot_id, rap_id, species_genes in orthologs:
+    for parent_name, parent_id, reaction_id, uniprot_id, rap_id, species_genes in orthologs:
         k = str(parent_id) + '-' + str(reaction_id)
         if k not in genes_by_reaction:
             genes_by_reaction[k] = set()
@@ -497,20 +566,6 @@ def db_statistics(ctx):
             if k in genes_by_reaction:
                 genes |= genes_by_reaction[k]
         print(name, tree.statistics(), len(genes))
-
-    '''
-    if ctx.obj.show:
-        for event, depth in events.walk():
-            print(f'{depth * "  "} {event}')
-    if ctx.obj.output_directory:
-        out = events.to_data_frame()
-        out.to_csv(
-            path_or_buf=os.path.join(
-                ctx.obj.output_directory, ctx.obj.file_prefix + 'event_hierarchy.csv'),
-            mode='w',
-            index_label='Row'
-        )
-    '''
 
 if __name__ == '__main__':
     cli()

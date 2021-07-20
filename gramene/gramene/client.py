@@ -35,7 +35,7 @@ class Connection:
                     f"Connection error for {url}. Will re-try forever. Sleeping for 1 minute.",
                 )
                 await asyncio.sleep(60)
-            except aiohttp.ClientConnectionError as e:
+            except (aiohttp.ClientConnectionError,aiohttp.client_exceptions.ContentTypeError) as e:
                 # All other errors, we keep retrying for a long time.
                 #
                 if retries > max_retry:
@@ -75,7 +75,7 @@ class Connection:
                     file=sys.stderr,
                 )
                 await asyncio.sleep(60)
-            except aiohttp.ClientConnectionError as e:
+            except (aiohttp.ClientConnectionError,aiohttp.client_exceptions.ContentTypeError) as e:
                 # All other errors, we keep retrying for a long time.
                 #
                 if retries > max_retry:
