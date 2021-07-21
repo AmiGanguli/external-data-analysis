@@ -380,8 +380,9 @@ async def allOrthologs_(ctx, connection, data):
 @click.option('--count/--no-count', default=False)
 @click.option('--show-empty/--no-show-empty', default=True)
 @click.option('--tree/--no-tree', default=True)
+@click.option('--proteins/--no-proteins', default=True)
 @click.pass_context
-def all_orthologs(ctx, count, show_empty, tree):
+def all_orthologs(ctx, count, show_empty, tree, proteins):
     events, ortholog_dict = allOrthologs_(ctx)
 
     print('Saving result')
@@ -392,6 +393,7 @@ def all_orthologs(ctx, count, show_empty, tree):
             'Protein', 'Protein dbId', 'RAP ID', 'Orthologs Sum', 'Species Count'] + species_list)
 
     pathway_counts = {}
+    reaction_counts = {}
     for parent, depth, tree, children_prefix, full_path in events.walk(full_path=[]):
         pathway_row = {f'Pathway {i}':full_path[i].stId for i in range(len(full_path))}
         pathway_row['Tree'] = tree + parent.name
@@ -403,6 +405,8 @@ def all_orthologs(ctx, count, show_empty, tree):
             reaction_row['Tree'] = children_prefix + '   ' + reaction_id
             reaction_row['Reaction'] = reaction_id
             df = df.append(reaction_row, ignore_index=True);
+            if not reaction_id in reaction_counts:
+                reaction_counts[reaction_id] = {'species':0,'orthologs':0}
             for uniprot_id, orthologs in products.items():
                 protein_row = reaction_row.copy()
                 protein_row.update({
@@ -430,6 +434,8 @@ def all_orthologs(ctx, count, show_empty, tree):
                     pathway_counts[segment_id]['species'] += protein_row['Species Count']
                     pathway_counts[segment_id]['orthologs'] += protein_row['Orthologs Sum']
                     print('segment_id', segment_id)
+                reaction_counts[reaction_id]['species'] += protein_row['Species Count']
+                reaction_counts[reaction_id]['orthologs'] += protein_row['Orthologs Sum']
                 if not show_empty and protein_row['Species Count'] == 0:
                     continue
                 df = df.append(protein_row, ignore_index=True)
@@ -440,6 +446,10 @@ def all_orthologs(ctx, count, show_empty, tree):
         #pathway_row = {f'Pathway {i}':full_path[i].stId for i in range(len(full_path))}
         #print(type(row['Protein']).__name__, row['Protein'])
         if type(row['Reaction']) == str:
+            if type(row['Protein']) == str:
+                continue
+            df.at[index_label, 'Species Count'] = reaction_counts[row['Reaction']]['species']
+            df.at[index_label, 'Orthologs Sum'] = reaction_counts[row['Reaction']]['orthologs']
             continue
         #print('put in value for row', row)
         for i in range(max_depth, -1, -1):
@@ -455,12 +465,14 @@ def all_orthologs(ctx, count, show_empty, tree):
 
     if ctx.obj.output_directory:
         if count:
-            file_suffix = 'orthologs-count.csv'
+            file_suffix = 'orthologs-count'
         else:
-            file_suffix = 'orthologs.csv'
+            file_suffix = 'orthologs'
+        if not proteins:
+            df = df[df['Protein'].isna()]
         df.to_csv(
             path_or_buf=os.path.join(
-                ctx.obj.output_directory, ctx.obj.file_prefix + file_suffix),
+                ctx.obj.output_directory, ctx.obj.file_prefix + file_suffix + '.csv'),
             index=False,
             mode='w'
         )
